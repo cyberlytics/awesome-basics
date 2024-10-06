@@ -1048,26 +1048,17 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Content Management Systeme / Technische Dokumentation
   - Dt. Verband: [tekom](https://www.tekom.de/) Deutschland e.V.
   - (€:) Buch [Technische Dokumentation: Übersetzungsgerechte Texterstellung und Content-Management](https://www.amazon.de/dp/3834333484/) (2014) von Drewer & Ziegler
-- Game-Engines/3D: [**Unity** Education](https://unity.com/learn) | [**Unreal** Learning Library](https://dev.epicgames.com/community/learning?application=unreal_engine)
+- Gaming/Game-Engines/3D: [**Unity** Education](https://unity.com/learn) | [**Unreal** Learning Library](https://dev.epicgames.com/community/learning?application=unreal_engine)
+  - Communities: [Ludum Dare 48h Competitions](https://en.wikipedia.org/wiki/Ludum_Dare), [Demoscene](https://en.wikipedia.org/wiki/Demoscene), [64K intro](https://www.lofibucket.com/articles/64k_intro.html), [96k game competition](https://en.wikipedia.org/wiki/.kkrieger), [13KB Web Games](https://js13kgames.com/)
   - Game-Design: [Game Developer Conference **(GDC) talks**](https://www.youtube.com/c/Gdconf)
-
   - (Web-Games » GPU-Beschleunigung in Browsers: Artikel [How to fix/turn on your browser’s hardware acceleration](https://forums.forge-vtt.com/t/how-to-fix-turn-on-your-browsers-hardware-acceleration/11296))
-
   - Hintergrundinfos über den [**Game Engine Markt** aus Sicht Unity](https://techcrunch.com/2020/09/10/how-unity-built-a-gaming-engine-for-the-future/) (Stand 2020)
-
   - Hintergrundinfos über [**Konsolen-Entwicklung** am Bsp. Godot](https://godotengine.org/article/godot-consoles-all-you-need-know/) (Infos gelten auch für Unity oder Unreal, bspw. „It is a common misconception that you can download a game engine and start using it to develop for consoles without previously being approved by the console manufacturer.“)
-
   - Webartikel [A Comparison of Modern **Graphics APIs**](https://alain.xyz/blog/comparison-of-modern-graphics-apis) (2021) über DirectX (Win), OpenGL (Win/Lin/Mac zzgl. GLES), Vulkan (Win/Lin zzgl. MoltenVK), Metal (Mac/iOS), WebGPU
-
     - Cross-Platform Low-Level 3D Rendering? u.a. [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) oder [The-Forge](https://github.com/ConfettiFX/The-Forge)
-
   - 3D vs. KI/ML? [Awesome **3D Machine Learning**](https://github.com/timzhang642/3D-Machine-Learning)
-
   - Creative? [Awesome **Creative Coding**](https://github.com/terkelg/awesome-creative-coding), [Awesome Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology), [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
-
-  - Weiterführende Quellen: [Awesome **Graphics**](https://github.com/ericjang/awesome-graphics) (Einstieg), [Awesome **Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision) (u.a. mit Links auf weitere Awesome-Listen), [Awesome **Visualization Research**](https://github.com/mathisonian/awesome-visualization-research), [Awesome **Game Engine Development**](https://github.com/stevinz/awesome-game-engine-dev), [Awesome OpenGL](https://github.com/eug/awesome-opengl), [Awesome WebGL](https://github.com/sjfricke/awesome-webgl), [Awesome Canvas](https://github.com/raphamorim/awesome-canvas) (= HTML5
-
-    ), Awesome Game Development [Magic tools](https://github.com/ellisonleao/magictools), uvm.
+  - Weiterführende Quellen: [Awesome **Graphics**](https://github.com/ericjang/awesome-graphics) (Einstieg), [Awesome **Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision) (u.a. mit Links auf weitere Awesome-Listen), [Awesome **Visualization Research**](https://github.com/mathisonian/awesome-visualization-research), [Awesome **Game Engine Development**](https://github.com/stevinz/awesome-game-engine-dev), [Awesome OpenGL](https://github.com/eug/awesome-opengl), [Awesome WebGL](https://github.com/sjfricke/awesome-webgl), [Awesome Canvas](https://github.com/raphamorim/awesome-canvas) (= HTML5), Awesome Game Development [Magic tools](https://github.com/ellisonleao/magictools), uvm.
 
 ## U-Literatur
 
