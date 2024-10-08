@@ -127,7 +127,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - [**Misty** Robot](https://shop.mistyrobotics.com/)
   - [**Unitree Go** Hunderobot](https://shop.unitree.com/)
 - Datenschutz in der IT-Infrastruktur von Schulen und Behörden
-  - Hintergrund sind massive Defizite seitens [Microsoft zu Windows und Office](https://dr-dsgvo.de/the-sins-of-microsoft/), [Browser-Herstellern](https://www.datenschutzexperte.de/blog/datenschutz-im-unternehmen/browser-datenschutz-welcher-browser-schuetzt-ihre-daten/) und aller [BigTech-Unternehmen](https://techcrunch.com/2024/08/10/the-10-largest-gdpr-fines-on-big-tech/), was im Kontext Kinder/Schulen ins Problembewusstein treten sollte
+  - Hintergrund sind massive Defizite seitens [Microsoft zu Windows und Office](https://dr-dsgvo.de/the-sins-of-microsoft/), [Google](https://www.privacyreclaim.com/), [Browser-Herstellern](https://www.datenschutzexperte.de/blog/datenschutz-im-unternehmen/browser-datenschutz-welcher-browser-schuetzt-ihre-daten/) und aller [BigTech-Unternehmen](https://techcrunch.com/2024/08/10/the-10-largest-gdpr-fines-on-big-tech/), was im Kontext Kinder/Schulen ins Problembewusstein treten sollte
   - Betriebsystem-Empfehlung:
     - Für Beginner: Linux **[Zorin OS](https://zorin.com/os/)** mit kostenlosem Windows-like Standard Desktop Layout
       - Nennenswert: es gibt auch eine Variante [Zorin OS **Education**](https://zorin.com/os/education/) für Kinder/Schulen
@@ -135,17 +135,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Office-Empfehlung:
     - **[LibreOffice](https://www.libreoffice.org/)** \[**choco install libreoffice-fresh**\]
   - Browser-Empfehlung:
-    - **[Brave](https://brave.com/)**: Chromium-based FOSS browser \[**choco install brave**\], Fast by blocking trackers and intrusive ads, Security-centered and Privacy-by-Default
-  - Big Tech Alternativen:
-    - Google Search ↦ **[MetaGer](https://metager.org/)**
-    - YouTube ↦ **[Invidious](https://invidious.io/)**, [PeerTube](https://joinpeertube.org/), [Odysee](https://odysee.com/)
-    - Twitter ↦ **[Nitter](https://nitter.net/)**, [Mastodon](https://joinmastodon.org/), [Misskey](https://misskey-hub.net/)
-    - Reddit ↦ **[Teddit](https://teddit.net/)**, [Lemmy](https://github.com/LemmyNet/lemmy)
-    - Instagram ↦ [Pixelfed](https://pixelfed.org/)
-    - Facebook ↦ [Diaspora](https://diasporafoundation.org/), [Friendica](https://friendi.ca/)
-    - Spotify/Soundcloud ↦ **[last.fm](https://www.last.fm/)**, [Funkwhale](https://funkwhale.audio/)
-    - Disqus ↦ [Cusdis](https://cusdis.com/)
-    - Weiterführende Quelle: [Awesome Alternatives](https://github.com/LinuxCafeFederation/awesome-alternatives/)
+    - **[Brave](https://brave.com/)**: Chromium-based FOSS browser \[**choco install brave**\], fast by blocking trackers and intrusive ads, security-centered, and privacy-friendly
 
 ## Vor Eintritt in ein Bachelorstudium
 
