@@ -89,6 +89,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Drohnen: **[DJI](https://www.amazon.de/s?k=dji+drohne)** und andere
 - Schulen
   - Profilschule für Informatik und Zukunftstechnologien (PIZ): Liste aller [PIZ-Schulen](https://www.km.bayern.de/gestalten/digitalisierung/profilschulen-fuer-informatik-und-zukunftstechnologien/schulen)
+    - Disclaimer: Ich bin ein [PiZ-Fachbeirat](https://www.km.bayern.de/gestalten/digitalisierung/profilschulen-fuer-informatik-und-zukunftstechnologien/fachbeirat)
   - Bereits Frühförderung in der KiTa gewünscht? [Pixel Werkstatt Amberg](https://www.pixelwerkstatt.kita.bayern/)
   - [Schulleistungsuntersuchungen](https://de.m.wikipedia.org/wiki/Schulleistungsuntersuchung): dt. [Bildungsmonitor](https://www.insm.de/insm/themen/bildung/) sowie [PISA](https://www.oecd.org/berlin/themen/pisa-studie/) (zzgl. dt. [DESI](https://www.dipf.de/de/forschung/projektarchiv/deutsch-englisch-schuelerleistungen-international)), [PIAAC](https://www.gesis.org/piaac/piaac-home), [TIMSS](https://timss.bc.edu/timss-landing.html), [PIRLS/IGLU](https://www.kmk.org/themen/qualitaetssicherung-in-schulen/bildungsmonitoring/internationale-schulleistungsvergleiche/pirlsiglu.html) (zzgl. weitere: [Hattie](http://d-nb.info/1058566075), …)
 - Informatik-Software und -Quellen für Schüler
@@ -123,9 +124,6 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Seminaraufgaben/Deutsch: [fiete.ai](https://www.fiete.ai/) = AI-basiertes Feedback zu Textaufgaben vor Abgabe an den Lehrer sowie interaktive Arbeitsblätter
   - Unterrichtsmaterial zu Informatik/KI: [appcamps](https://appcamps.de/)
   - Weiterführende Referenzen: Kuratierte Übersichtsseite der [fobizz-Partner](https://tools.fobizz.com/partners)
-- Hochpreisige Roboter:
-  - [**Misty** Robot](https://shop.mistyrobotics.com/)
-  - [**Unitree Go** Hunderobot](https://shop.unitree.com/)
 - Datenschutz in der IT-Infrastruktur von Schulen und Behörden
   - Hintergrund sind massive Defizite seitens [Microsoft zu Windows und Office](https://dr-dsgvo.de/the-sins-of-microsoft/), [Google](https://www.privacyreclaim.com/), [Browser-Herstellern](https://www.datenschutzexperte.de/blog/datenschutz-im-unternehmen/browser-datenschutz-welcher-browser-schuetzt-ihre-daten/) und aller [BigTech-Unternehmen](https://techcrunch.com/2024/08/10/the-10-largest-gdpr-fines-on-big-tech/), was im Kontext Kinder/Schulen ins Problembewusstein treten sollte
   - Betriebsystem-Empfehlung:
@@ -136,6 +134,28 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - **[LibreOffice](https://www.libreoffice.org/)** \[**choco install libreoffice-fresh**\]
   - Browser-Empfehlung:
     - **[Brave](https://brave.com/)**: Chromium-based FOSS browser \[**choco install brave**\], fast by blocking trackers and intrusive ads, security-centered, and privacy-friendly
+- Hochpreisige Roboter:
+  - [**Misty** Robot](https://shop.mistyrobotics.com/)
+  - [**Unitree Go** Hunderobot](https://shop.unitree.com/)
+- Kürzelkunde:
+  - MINT-Fächer: Mathematik, Informatik, Naturwissenschaften, Technik
+    - ≙ STEM fields: science, technology, engineering, mathematics
+  - SAGE-Fächer: Soziale Arbeit, Gesundheit, Erziehung
+  - Medizin?
+    - Zählt traditionell nicht zu den MINT-Fächern
+    - Aber: STEMM fields = STEM and medicine
+    - Perspektiven: \[EN\] STEMM vs. SAGE \[DE\]?
+  - Psychologie?
+    - Zählt traditionell nicht zu den MINT-Fächern
+    - Trotz Verwendung statistischer Methoden im empirischen Bereich
+- MINT-Förderungen
+  - DE:
+    - Bund: [MINT-Aktionsplan](https://www.bmbf.de/bmbf/de/bildung/digitalisierung-und-mint-bildung/mint-bildung/mint-aktionsplan_node.html)
+    - [MINT-Community-Plattform](https://community.mint-vernetzt.de/)
+    - [MINT-Campus](https://mintcampus.org/)
+    - Liste [Vereine, Stiftungen und Projekte zur MINT-Förderung](https://www.bildungsserver.de/vereine-stiftungen-und-projekte-zur-mint-foerderung-12635-de.html)
+  - BY:
+    - [MINT-Angebote](https://www.km.bayern.de/lernen/inhalte/mint) des Kultusministeriums (Unterricht, Wettbewerbe, etc.)
 
 ## Vor Eintritt in ein Bachelorstudium
 
@@ -286,7 +306,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - **SSH**: [Linux](https://zah.uni-heidelberg.de/it-guide/ssh-tutorial-linux) | [Windows](https://www.makeuseof.com/tag/4-easy-ways-to-use-ssh-in-windows/) ⚠️
   - [How to Set up SSH Tunneling (Port Forwarding)](https://linuxize.com/post/how-to-setup-ssh-tunneling/)
 - Virtualisierung: [IBM **What is virtualization?**](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide) | [IBM **What are hypervisors?**](https://www.ibm.com/cloud/learn/hypervisors)
-  - VirtualBox: [virtualbox.org **First Steps**](https://www.virtualbox.org/manual/ch01.html)
+  - VirtualBox: [Download](https://www.virtualbox.org/wiki/Downloads) [**First Steps**](https://www.virtualbox.org/manual/ch01.html)
   - Image-Formate: [OVF](https://en.wikipedia.org/wiki/Open_Virtualization_Format) (bspw. via VirtualBox „Import…“) sowie [VDI, VMDK, VHD, HDD](https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/vdidetails.html)
   - Ready-to-Use Image Repos:
     - Windows: [legal **free current Windows** virtual machine images](https://developer.microsoft.com/de-de/windows/downloads/virtual-machines/) | [alte Abandonware-Versionen von Windows](http://virtualdiskimages.weebly.com/) ([FAQ](http://virtualdiskimages.weebly.com/faq.html))
@@ -788,6 +808,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - Einstieg: KDnuggets [ChatGPT: Everything You **Need to Know**](https://www.kdnuggets.com/2023/01/chatgpt-everything-need-know.html) | KDnuggets [ChatGPT as a **Python Programming Assistant**](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html)
     - Webartikel: **[GPT-3's family tree](https://www.truthm.com/gpt-3s-family-tree/)** | Paper **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** (2017) von Vasvani et al. (auch als das [**Transformer**-Paper von Google](https://arxiv.org/abs/1706.03762) bekannt)
     - Zulässigkeit von Generative AI als Werkzeug zur Erstellung wiss. Publikationen? vgl. **[ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship)**
+    - Weiterführende Referenz: [Awesome OpenAI](https://github.com/Jaykef/awesome-openAI)
   - Europäische Ebene: **[LEAM](https://leam.ai/)**
   - Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
   - Weiterführende Quellen: [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art)
@@ -1426,7 +1447,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Weiterführende Quellen: [Awesome Design Thinking](https://github.com/lorabv/awesome-agile/blob/master/Design-Thinking.md)
 - Corporate Interests vs. Users Interest
   - Google Search: [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/) (2024) von Edward Zitron
-  - Passkeys: [A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/) (2024) von William Brown (Autors von webauthn-rs)
+  - Passkeys: [A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/) (2024) von William Brown, dem Autor von webauthn-rs
 - Politische Erneuerung
   - [Koalitionstracker](https://fragdenstaat.de/koalitionstracker/) von FragDenStaat
   - [Regierungsmonitor](https://www.bundesregierung.de/breg-de/bundesregierung/regierungsmonitor) der Bundesregierung
@@ -1772,6 +1793,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Business [**Gartner** Top Strategic Technology Trends](https://www.gartner.com/en/information-technology/insights/top-technology-trends) (Gartner kostenlos per Google [Image Search](https://www.google.com/search?q=Gartner+Top+Strategic+Technology+Trends&tbm=isch)), [ToughtWorks **Technology Radar**](https://www.thoughtworks.com/radar), [**InfoQ** Trends Report](https://www.infoq.com/infoq-trends-report/)
   - Wissenschaft: [GI **Grand Challenges** der Informatik](https://gi.de/grand-challenges), [**Fraunhofer** Institute for Technological Trend Analysis (**INT**)](https://www.int.fraunhofer.de), [Forschungs- und Technologiepolitik **Bayern**](https://www.stmwi.bayern.de/wirtschaft/forschung-technologie/) (zzgl. [bayern-innovativ](https://www.bayern-innovativ.de/))
   - Pädagogik: [Trendscouting der PH Bern](https://ttim.phbern.ch/blog-2/)
+- Gesellschaft: [Cory Doctorow](https://mail.flarn.com/mailman/listinfo/plura-list/) (= plura-list)
 
 Podcasts:
 
