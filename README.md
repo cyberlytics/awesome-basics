@@ -155,7 +155,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - [MINT-Campus](https://mintcampus.org/)
     - Liste [Vereine, Stiftungen und Projekte zur MINT-Förderung](https://www.bildungsserver.de/vereine-stiftungen-und-projekte-zur-mint-foerderung-12635-de.html)
   - BY:
-    - [MINT-Angebote](https://www.km.bayern.de/lernen/inhalte/mint) des Kultusministeriums (Unterricht, Wettbewerbe, etc.)
+    - [Förderung im MINT-Bereich](https://www.km.bayern.de/lernen/inhalte/mint) des bay. Kultusministeriums (Unterricht, Wettbewerbe, etc.)
 
 ## Vor Eintritt in ein Bachelorstudium
 
@@ -614,6 +614,8 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 ### B.Sc.: Big Data and Cloud Computing for AI
 
+#### Big Data
+
 - Data Engineering: DataCamp Einstiegskurs **[Understanding Data Engineering](https://www.datacamp.com/courses/understanding-data-engineering)**
   - Online-Buch [The **Data Engineering Cookbook**](https://github.com/andkret/Cookbook)
   - Data Preparation / Data Cleansing / Data Harmonization:
@@ -658,6 +660,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Teile Des BSI-Grundschutz, daher: [**BSI IT-Grundschutz** Schulungen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/it-grundschutzschulung_node.html)
   - (€:) Buch [**Cloud Computing** nach der Datenschutz-Grundverordnung](https://www.amazon.de/dp/3960091133/) (2022) von Thorsten Hennrich
   - Weiterführende Quellen: vgl. Master-Abschnitt
+
+#### Cloud Computing
+
 - Cloud: **[Cloud Computing Tutorial](https://www.javatpoint.com/cloud-computing-tutorial)**
   - Docker: siehe oben bei Handwerkszeug ⚠️
   - Marktführer: [**AWS** Educate](https://www.awseducate.com) | [**Google** Tech Dev Guide: **Cloud Computing**](https://techdevguide.withgoogle.com/paths/cloud/) | [**Microsoft** Learn](https://docs.microsoft.com/de-de/learn/browse/)
@@ -777,6 +782,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - 99,999999% (“8 nines“): 315 milliseconds downtime per year
   - 99,9999999% (“9 nines“): 31,5 milliseconds downtime per year – Just for [some ATM switches running on Erlang](https://stackoverflow.com/questions/8426897/erlangs-99-9999999-nine-nines-reliability)…
   - 100% uptime is impossible
+
+#### AI
+
 - (AI ⊃) Machine Learning / Subsymbolische KI
   - Grundlegendes: Starke vs. schwache KI vs. (Technological) Singularity: [**Artificial General Intelligence** (AGI)](https://en.wikipedia.org/wiki/Artificial_general_intelligence) auf Wikipedia
   - Machine Learning
@@ -809,6 +817,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - Webartikel: **[GPT-3's family tree](https://www.truthm.com/gpt-3s-family-tree/)** | Paper **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** (2017) von Vasvani et al. (auch als das [**Transformer**-Paper von Google](https://arxiv.org/abs/1706.03762) bekannt)
     - Zulässigkeit von Generative AI als Werkzeug zur Erstellung wiss. Publikationen? vgl. **[ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship)**
     - Weiterführende Referenz: [Awesome OpenAI](https://github.com/Jaykef/awesome-openAI)
+  - Text-zu-X: [Tools auf meiner Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#generative-ki) (Text-zu-Bild, Text-zu-Video, Text-zu-Präsentation, Text-zu-Quiz, Text-zu-Sprache, Text-zu-Sound)
   - Europäische Ebene: **[LEAM](https://leam.ai/)**
   - Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
   - Weiterführende Quellen: [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art)
@@ -1812,7 +1821,6 @@ Podcasts:
 
 - [The Social Dilemma](https://www.thesocialdilemma.com/) (2020) ⚠️
 - [Alles ist Eins. Außer der 0](https://allesisteins.film/) (2021)
-
 Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 
 - Bösartige KIs:
@@ -1861,6 +1869,11 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
   - **[Professor van Dusen](https://www.hoerspielundfeature.de/van-dusen-krimis-100.html)** von Michael Koser ⭐
   - **[Jonas - Der letzte Detektiv](http://pirg.bplaced.net/pvd/dld/)** von Michael Koser ⭐ / [Jonas. Nur Jonas. Und Sam.](https://www.jonas-nur-jonas-und-sam.de/) von Kanzlei Dr. Bahr
 
+## Kultur
+
+- [Open Culture](https://www.openculture.com/)
+- [Alan Watts](https://www.openculture.com/2024/10/the-wisdom-of-alan-watts-in-4-mind-expanding-animations.html)
+
 ## KI im Alltag
 
 \[ Bei vielen Menschen findet die Benutzung von KI-im-Alltag nur unbewusst statt! \]
@@ -1880,6 +1893,12 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 - Assistiertes Fahren / teilautonomes Fahren
 - Social Media Hate-Filter
 - …
+
+## Öffentlichkeitsarbeit
+
+- KI-Spiele: siehe Abschnitt [Kinder und Jugendliche](#kinder-und-jugendliche)
+- Generative KI Werkzeuge: [Text-zu-Bild, Text-zu-Video, Text-zu-Präsentation, Text-zu-Quiz, Text-zu-Sprache, Text-zu-Sound](https://github.com/cyberlytics/awesome-thesis-tools#generative-ki)
+- Geoinformatik: [BayernAtlas](https://geoportal.bayern.de/geoportalbayern/)
 
 ## Job-Interview Training
 
