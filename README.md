@@ -173,6 +173,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - zzgl. [Editier-**Tastaturkürzel und Maus**-Kombinationen](https://www.ionos.de/digitalguide/online-marketing/verkaufen-im-internet/powerpoint-shortcuts/)
   - PowerPoint-Vorlagen
     - Einstieg in die [verschiedenen **Template**-Aspekte](https://www.brightcarbon.com/blog/how-to-create-powerpoint-templates/) in Powerpoint
+    - Migrationen: [Legacy Slides – Best Practices](https://www.brandwares.com/bestpractices/2018/11/legacy-slides-brandwares-best-practices/)
     - Farb-Paletten als [**Themes** in Powerpoint/Word/Excel](https://www.brightcarbon.com/blog/consistently-brand-powerpoint-excel-word/) (\*.thmx Dateien)
     - Der Vollständigkeit halber: [Chart Templates](https://www.brightcarbon.com/blog/consistently-brand-graphs-and-charts/)
   - Wegen PowerPoint-Add-Ins: siehe [Schwesterseite zu Werkzeugen](../tools/add-ins/index.html)
@@ -249,6 +250,8 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Wissenschaftliches Handwerkszeug:
   - **[How to read a paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf)** ⭐
   - [Berkeley **Understanding Science**](http://www.understandingscience.org/)
+  - Literaturrecherche: [Methoden](https://maelphes.github.io/syslitcom/methods.html)
+    - Systematische Literaturrecherche: [A compendium for systematic literature searching](https://maelphes.github.io/syslitcom/), [Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA)](https://www.prisma-statement.org), [TARCIS statement](https://www.bmj.com/content/385/bmj-2023-078384)
   - Lesetechniken: **[PQ4R](https://www.google.com/search?q=PQ4R)** (Preview, Questions, Read, Reflect, Recite, Review), bzw. deren Vorgänger **[SQ3R](https://www.teachsam.de/arb/arb_les_strat_2.htm)** (Survey, Question, Read, Recite und Review)
   - Schnelllesen: (€) Buch **[Speed Reading](https://www.amazon.de/dp/3868828710/)** (2017 | [Orig: 2006](https://books.google.de/books?id=HpvjGZ_Ff60C)) von Tony Buzan
     - Training-App: [Reading Trainer](https://readingtrainer.com/)
@@ -256,9 +259,11 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Wiss. Methoden: [Awesome **PhD**](https://github.com/macoj/phd) | [A three cycle view of **design science research**](https://community.mis.temple.edu/seminars/files/2009/10/Hevner-SJIS.pdf) (2007) von Alan R. Hevner
   - Citation Metrics: **[Impact Factor](https://en.wikipedia.org/wiki/Impact_factor)** | [Autorenmetriken (**h-Index, g-Index**, …)](http://www.harzing.com/pophelp/metrics.htm) | Paper [ISI Web of Science versus Google Scholar](http://www.int-res.com/articles/esep2008/8/e008p061.pdf)
   - (€:) Buch [**Studienarbeiten**: Ein Leitfaden … **am Beispiel Informatik**](https://www.amazon.de/dp/3728138118/) (2017) von Marcus Deiniger et al. ⭐
-  - (€:) Buch **[English for Writing Research Papers](https://www.amazon.de/dp/B008I37B80/)** (2011) von Adrian Wallwork
-  - Englische Titel: per [Chicago Manual of Style (**CMOS**)](https://en.wikipedia.org/wiki/Title_case) die Regeln für Groß-/Kleinschreibung in engl. Titeln ⚠️
-    - Werkzeug: **[Capitalize My Title](https://capitalizemytitle.com/style/Chicago/)** ⭐
+  - Englisch (verwende en_US für Informatik)
+    - (€:) Buch **[English for Writing Research Papers](https://www.amazon.de/dp/B008I37B80/)** (2011) von Adrian Wallwork
+    - Kindergartenfehler: [Saxon Genitive](https://www.wallstreetenglish.com/exercises/english-possessives-the-saxon-genitive)
+    - Englische Titel: per [Chicago Manual of Style (**CMOS**)](https://en.wikipedia.org/wiki/Title_case) die Regeln für Groß-/Kleinschreibung in engl. Titeln ⚠️
+      - Werkzeug: **[Capitalize My Title](https://capitalizemytitle.com/style/Chicago/)** ⭐
   - Anführungszeichen: [Wikipedia](https://de.wikipedia.org/wiki/Anf%C3%BChrungszeichen) sowie Webartikel von [onlineprinters](https://www.onlineprinters.de/magazin/anfuehrungszeichen/)
     - {DE: 99/66 + unten/oben} vs. {en-US: 66/99 oben/oben} vs. {en-UK: 6/9 oben/oben}
   - Zitier-Stiele: bspw. [IEEE **Citation Guidelines**](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf), [**APA** Basic Principles of Citation](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles)
@@ -345,6 +350,10 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 ### Bachelor Informatik/KI
 
+- Philosophie, Wissenschaftstheorie und Logik
+  - [Logische Fehlschlüsse](https://en.wikipedia.org/wiki/The_Demon-Haunted_World#Logical_fallacies) (engl. Logical Fallacies) [Wiki](https://de.wikipedia.org/wiki/Typen_von_Argumenten#Fehlschluss-_und_andere_problematische_Argumente)
+  - (€:) Buch **[Enzyklopädie Philosophie und Wissenschaftstheorie](https://www.amazon.de/dp/3476020126/)** (2004), genannt „Der Mittelstraß“ ⭐
+  - (€:) Buch [A New Introduction to Modal Logic](https://www.amazon.de/dp/0415126002/) (1996) von Hughes & Cresswell
 - Mathematik: **[OMB+](https://www.ombplus.de/)** (wie oben)
   - (€:) Buch [**Mathematik für Informatiker** (Band 1) - Diskrete Mathematik und Lineare Algebra](https://www.amazon.de/dp/3642379710/) (2013) und [(Band 2) - Analysis und Statistik](https://www.amazon.de/dp/3642542735/) (2014) von Teschl & Teschl
   - Statistik:
@@ -574,7 +583,10 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Vulnerability Root-Causes (aka Security-Sins): [The **CLASP** Application Security Process](https://cwe.mitre.org/documents/sources/TheCLASPApplicationSecurityProcess.pdf) (2005), Kapitel 5 | Buch [**24 Deadly Sins** of Software Security](https://www.amazon.de/dp/0071626751/) (2009) von Michael Howard
   - Security-orientiertes Testing: [Syllabus der **A4Q Security Essentials**](https://www.gasq.org/files/content/gasq/downloads/certification/A4Q%20Security%20Essentials/A4Q_Security_Essentials_Syllabus.pdf) Schulung/Zertifizierung
   - Private/Persönliche IT-Sicherheit: Infosammlung **[Security-in-a-Box](https://securityinabox.org/en/)** mit grundlegenden Hinweisen und Handlungsempfehlungen | **[Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist/blob/master/README.md)**
-  - Passwort-Listen: [**SecList**-Sammlung](https://github.com/danielmiessler/SecLists) | [**SkullSecurity**-Sammlung](https://wiki.skullsecurity.org/index.php/Passwords) | [**haveibeenowned**-Downloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) | [weitere…](https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/)
+  - Passwörter
+    - Passwort-Stärke: [Hivesystems Password Table](https://www.hivesystems.com/password)
+    - XKCD Comic: [Password Strength](https://xkcd.com/936/)
+    - Passwort-Listen: [**SecList**-Sammlung](https://github.com/danielmiessler/SecLists) | [**SkullSecurity**-Sammlung](https://wiki.skullsecurity.org/index.php/Passwords) | [**haveibeenowned**-Downloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) | [weitere…](https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/)
   - E-Mail-Verschlüsselung: [Einführung in die Funktionsweise von **OpenPGP/GnuPG**](https://www.hauke-laging.de/sicherheit/openpgp.html)
   - Cryptography: **[Crypto 101](https://www.crypto101.io/)**
   - SSH: [Linux](https://zah.uni-heidelberg.de/it-guide/ssh-tutorial-linux) | [Windows](https://www.makeuseof.com/tag/4-easy-ways-to-use-ssh-in-windows/) (→ [EdDSA/**Ed25519**](https://ed25519.cr.yp.to/))
@@ -785,7 +797,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 #### AI
 
-- (AI ⊃) Machine Learning / Subsymbolische KI
+- (AI:) Machine Learning / Subsymbolische KI
   - Grundlegendes: Starke vs. schwache KI vs. (Technological) Singularity: [**Artificial General Intelligence** (AGI)](https://en.wikipedia.org/wiki/Artificial_general_intelligence) auf Wikipedia
   - Machine Learning
     - Kurs **[Stanford ML](https://www.coursera.org/learn/machine-learning)**
@@ -820,8 +832,8 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Text-zu-X: [Tools auf meiner Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#generative-ki) (Text-zu-Bild, Text-zu-Video, Text-zu-Präsentation, Text-zu-Quiz, Text-zu-Sprache, Text-zu-Sound)
   - Europäische Ebene: **[LEAM](https://leam.ai/)**
   - Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
-  - Weiterführende Quellen: [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art)
-- Prompt Engineering:
+  - Weiterführende Quellen: [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art), [Awesome MVS](https://github.com/walsvid/Awesome-MVS)
+- Prompt Engineering: [Google Prompting Essentials](https://www.coursera.org/learn/google-prompting-essentials)
   - ChatBot:
     - Einstieg: [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain) | [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101) | roadmap.sh [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
     - Use Cases: [The 14 Best ChatGPT Prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-GitHub/) (2023) von J. Luansing
@@ -830,7 +842,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Text-zu-Bild: [The Ultimate **Stable Diffusion Prompt Guide**](https://prompthero.com/stable-diffusion-prompt-guide) von PromptHero | [Prompting **Adobe Firefly**](https://torybarber.com/prompting-adobe-firefly/) (2023) von Tory Barber
     - Webartikel [How to Use ChatGPT to Write Prompts & Prompt Templates for Adobe Firefly & Midjourney](https://www.downloadsource.net/how-to-use-chatgpt-to-write-prompts-prompt-templates-for-adobe-firefly-midjourney/n/22511/) (2023) von Jascha Luca | analog [Adobe Firefly prompt generator](https://flowgpt.com/prompt/UjVmU4bSLor1cpBxx5veq) Vorlage für GPT
   - Weiterführende Quellen: [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | reddit-Liste [Useful Prompt Engineering tools and resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) | lablab [AI Tutorials](https://lablab.ai/t)
-- (AI ⊃) Symbolische KI
+- (AI:) Symbolische KI
   - Umfassende Referenz: **[AI-Vorlesungsskript](https://kwarc.info/teaching/AI/notes.pdf)** von Prof. Michael Kohlhase (FAU)
 - Robotik
   - Umfassende Referenzen:
@@ -887,6 +899,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
         - [AMARL: An Attention-Based Multiagent Reinforcement Learning Approach to the Min-Max Multiple Traveling Salesmen Problem](https://doi.org/10.1109/TNNLS.2023.3236629)
         - [Learn to Solve the Min-max Multiple Traveling Salesmen Problem with Reinforcement Learning](https://doi.org/10.5555/3545946.3598725)
 - Data Science: Vorlesung **[Harvard CS109 Data Science](https://cs109.GitHub.io/2015/pages/videos.html)** ⭐ | DataCamp Einstiegskurs **[Understanding Data Science](https://www.datacamp.com/courses/understanding-data-science)** | [**WolframAlpha** University Free Interactive Courses](https://www.wolfram.com/wolfram-u/courses/catalog/?f_format%5B%5D=interactive-course&q=&f_button=filters)
+  - Statistische Fehlinterpretationen: Webinare [Understanding Data](https://www.youtube.com/@Understanding_Data), insb. Video [Aus Flops lernen](https://www.youtube.com/watch?v=iiJd6ibKSQ4)
   - KDnuggets [5 **Statistical Paradoxes** Data Scientists Should Know](https://www.kdnuggets.com/2023/02/5-statistical-paradoxes-data-scientists-know.html)
   - Aaron Wang's **[Data Science Cheatsheet 2.0](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf)**
   - Python: **[Python Data Science Handbook](https://jakevdp.GitHub.io/PythonDataScienceHandbook/)** | [**Scipy** Lecture Notes](https://scipy-lectures.org/)
@@ -1118,6 +1131,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - **[Death March](https://www.amazon.de/dp/013143635X/)** von Edward Yourdon (Yourdon's definition: "Quite simply, a death march project is one whose 'project parameters' exceed the norm by at least 50 percent.")
 - Personas: **[The Inmates are Running the Asylum](https://www.amazon.de/dp/0672316498/)** (1999) von Alan Cooper
 - Statistik: **[Risiko](https://www.amazon.de/dp/3570554422/)** (2013) von Gerd Gigerenzer
+- Wissenschaftskommunikation: **[The Demon-Haunted World: Science as a Candle in the Dark](www.amazon.de/dp/0345409469/)** (1995) von Carl Sagan ("science is not just a body of knowledge, but is a way of thinking").
 - From Amazon to AWS: **[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611)**
 
 ## Master-Level
@@ -1390,8 +1404,6 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 ### M.Sc.: Bonusliste
 
-- Philosophie und Wissenschaftstheorie
-  - (€:) Buch **[Enzyklopädie Philosophie und Wissenschaftstheorie](https://www.amazon.de/dp/3476020126/)** (2004), genannt „Der Mittelstraß“ ⭐
 - Wissensmanagement
   - (€:) Buch **[Die Organisation des Wissens](https://www.amazon.de/dp/3593396319/)** (2012) von Nonaka & Takeuchi inkl. **[SECI model](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions)**
 - Psychologie
