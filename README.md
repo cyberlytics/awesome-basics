@@ -550,6 +550,12 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - Express: freeCodeCamp [The Express + Node.js Handbook – Learn the **Express** JavaScript Framework for Beginners](https://www.freecodecamp.org/news/the-express-handbook/)
     - Server-side Rendering (SSR): [Get Started with **Next.js**](https://www.freecodecamp.org/news/nextjs-tutorial/) | [**NuxtJS** Tutorials](https://nuxtjs.org/tutorials/) | [**NestJS** Tutorial](https://dev.to/nandhakumar/nest-js-part-1-creating-your-first-api-5f2a)
       - [Node.js Design Patterns](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
+  - Nennenswerte Non-JS Web Frameworks:
+    - Java:
+      - Server-side Rendering: **[JHipster](https://start.jhipster.tech/)** ([TechStack-Docu](https://www.jhipster.tech/tech-stack/)) | [**Spring** Initializr](https://start.spring.io/)
+      - Client-side Rendering: [Vaadin](https://vaadin.com/)
+    - [Erlang](https://www.erlang.org/)/[OTP](https://github.com/erlang/otp) und [Elixir](https://elixir-lang.org/)
+      - Server-side Rendering: [Phoenix](https://phoenixframework.org/)
   - Serialization/Deserialization (SerDe)
     - JSON
       - Wie in Abschlussarbeiten darstellen? UML oder ERD als logische/konzeptionelle Sicht!
@@ -1346,6 +1352,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Etliche der Arbeiten von **[Rich Hickey](https://github.com/tallesl/Rich-Hickey-fanclub)**
   - Video zum **[Actor Model](https://www.youtube.com/watch?v=7erJ1DV_Tlo)** (2012) auf Channel9 mit Carl Hewitt persönlich ⭐
   - Unmeshi Joshi [Catalog of Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) (basierend auf seinem [Buch](http://www.amazon.de/dp/0138221987/))
+  - Video [Mind Your State for Your State of Mind](https://www.youtube.com/watch?v=V8TcEWdx2Q8) by Pat Helland ⭐
   - Weiterführende Listen: [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems) | [Distributed Systems Reading List](https://dancres.GitHub.io/Pages/)
 - GPU Computing
   - Weiterführende Listen: [Awesome GPU](https://github.com/look4regev/awesome-gpu) | [Awesome CUDA](https://github.com/Erkaman/Awesome-CUDA) | [Awesome WebGPU](https://github.com/mikbry/awesome-webgpu)
@@ -1359,6 +1366,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Weiterführende Quellen: [Awesome GDPR](https://github.com/bakke92/awesome-gdpr) | [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 - Big Data
   - [**Big Data** Disclaimer](https://motherduck.com/blog/big-data-is-dead/) (2023) von Jordan Tigani; Kernbotschaft: die meisten Unternehmen haben kein Big Data Problem (höchstens ein Smart Data oder Data Science Problem); Tigani hat mit den meisten Beobachtungen Recht (aber Obacht, er will damit auch DuckDB verkaufen)
+  - Skalierbarkeit: vgl. Abschnitt Verteilte Systeme, u. a. Video [Mind Your State for Your State of Mind](https://www.youtube.com/watch?v=V8TcEWdx2Q8) by Pat Helland ⭐
   - Datenarchitekturen für evolutionäre und agile Informationssysteme
     - Vorwissen: Data-Warehouse (s. oben) und Data Lake (s. oben)
     - **[Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)** (2019) von Zhamak Dehghani (bei Thoughtworks): ein [dezentraler und föderativer Ansatz](https://martinfowler.com/articles/data-mesh-principles.html)
@@ -1490,6 +1498,11 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Videos: **[qiskit](https://www.youtube.com/qiskit)**-YouTube-Channel (guter Einstieg ⭐)
   - Algorithmen: [**Shor**-Algorithmus](https://de.wikipedia.org/wiki/Shor-Algorithmus) (Faktorisierung; bricht RSA-Crypto), [**Grover**-Algorithmus](https://de.m.wikipedia.org/wiki/Grover-Algorithmus) (Suche in ungeordneten Daten) und [**weitere** Quantenalgorithmen](https://en.wikipedia.org/wiki/Quantum_algorithm)
   - Weiterführende Quellen: [Awesome **Quantum Computing**](https://github.com/desireevl/awesome-quantum-computing) | [Awesome **Quantum Machine Learning**](http://krishnakumarsekar.GitHub.io/awesome-quantum-machine-learning/)
+- Post-Quanten-Kryptographie (PQC)
+  - Einführung: [A (somewhat) gentle introduction to lattice-based post-quantum cryptography](https://www.cybersecurity.blog.aisec.fraunhofer.de/en/a-somewhat-gentle-introduction-to-lattice-based-post-quantum-cryptography/) des Fraunhofer AISEC
+  - NIST: [Post-Quantum Cryptography](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography)
+  - Vertiefung: [Cryptographic Suite for Algebraic Lattices (CRYSTALS)](https://pq-crystals.org): [Kyber](https://pq-crystals.org/kyber/index.shtml) für secure key encapsulation mechanism (KEM) zzgl. [Dilithium](https://pq-crystals.org/dilithium/index.shtml) als digital signature scheme
+  - Software: [Open Quantum Safe](https://openquantumsafe.org)
 
 ## Vor einer PhD-Phase
 
