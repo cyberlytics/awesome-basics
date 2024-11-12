@@ -91,7 +91,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Profilschule für Informatik und Zukunftstechnologien (PIZ): Liste aller [PIZ-Schulen](https://www.km.bayern.de/gestalten/digitalisierung/profilschulen-fuer-informatik-und-zukunftstechnologien/schulen)
     - Disclaimer: Ich bin ein [PiZ-Fachbeirat](https://www.km.bayern.de/gestalten/digitalisierung/profilschulen-fuer-informatik-und-zukunftstechnologien/fachbeirat)
   - Bereits Frühförderung in der KiTa gewünscht? [Pixel Werkstatt Amberg](https://www.pixelwerkstatt.kita.bayern/)
-  - [Schulleistungsuntersuchungen](https://de.m.wikipedia.org/wiki/Schulleistungsuntersuchung): dt. [Bildungsmonitor](https://www.insm.de/insm/themen/bildung/) sowie [PISA](https://www.oecd.org/berlin/themen/pisa-studie/) (zzgl. dt. [DESI](https://www.dipf.de/de/forschung/projektarchiv/deutsch-englisch-schuelerleistungen-international)), [PIAAC](https://www.gesis.org/piaac/piaac-home), [TIMSS](https://timss.bc.edu/timss-landing.html), [PIRLS/IGLU](https://www.kmk.org/themen/qualitaetssicherung-in-schulen/bildungsmonitoring/internationale-schulleistungsvergleiche/pirlsiglu.html) (zzgl. weitere: [Hattie](http://d-nb.info/1058566075), …)
+  - [Schulleistungsuntersuchungen](https://de.m.wikipedia.org/wiki/Schulleistungsuntersuchung)
+    - dt. [Bildungsmonitor](https://www.insm.de/insm/themen/bildung/) sowie [PISA](https://www.oecd.org/berlin/themen/pisa-studie/) (zzgl. dt. [DESI](https://www.dipf.de/de/forschung/projektarchiv/deutsch-englisch-schuelerleistungen-international)), [PIAAC](https://www.gesis.org/piaac/piaac-home), [TIMSS](https://timss.bc.edu/timss-landing.html), [PIRLS/IGLU](https://www.kmk.org/themen/qualitaetssicherung-in-schulen/bildungsmonitoring/internationale-schulleistungsvergleiche/pirlsiglu.html)) (zzgl. weitere: [Hattie](http://d-nb.info/1058566075), …)
+    - Digitalkompetenz: [ICILS](https://www.iea.nl/studies/iea/icils) (= International Computer and Information Literacy Study)
 - Informatik-Software und -Quellen für Schüler
   - Oben erwähnter **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabensammlung](https://bwinf.de/biber/archiv/))
   - Objekt-orientierte Programmierung
@@ -190,6 +192,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Artikel **[Was ist Informatik?](https://sb726cd41480af32d.jimcontent.com/download/version/1379804211/module/8062351485/name/fach-was-ist-informatik.pdf)** (2010) von Peter Rechenberg ⭐
 - [Berufe.TV zur **Informatik**](https://web.arbeitsagentur.de/berufetv/studienberufe/mathematik-naturwissenschaften/informatik)
 - **[Explain it Like I'm Five](https://dev.to/t/explainlikeimfive)** (ELI5) zu Themen der Informatik
+- MOOC-Kurs von Stanford [CS101](https://www.edx.org/learn/computer-science/stanford-university-computer-science-101)
 - freeCodeCamp [**What is Programming?** A Handbook for Beginners](https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/)
 - ggf. Bewerbung an einer (kostenlosen) [**42** School](https://42.us.org/) (in DE: [Berlin](https://42berlin.de/), [Heilbronn](https://www.42heilbronn.de), [Wolfsburg](https://42wolfsburg.de/)) zur Orientierung durch deren Auswahlverfahren, u.a. durch deren Piscine (fr. „Schwimmbad“) bzw. dessen Online-Variante das 42 Basecamp (Die internationale und gemeinnützige Bewegung bzw. [Schule namens 42](<https://de.wikipedia.org/wiki/42_(Schule)>) bietet ein gutes Programm für Programmierkenntnisse und reine Softwareentwicklung; mindestens auf Fachinformatik-Ausbildungsniveau, aber ohne staatlich anerkannten Abschluss)
 - **[MINTFIT](https://www.mintfit.hamburg/)** Hamburg bietet Online-Tests für Schüler:innen und Studieninteressierte zur Einschätzung der eigenen Kenntnisse und Fähigkeiten in MINT-Fächern
@@ -351,6 +354,10 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 ### Bachelor Informatik/KI
 
 - Philosophie, Wissenschaftstheorie und Logik
+  - MOOC-Kurse:
+    - Standford: [Language, Proof and Logic](https://www.edx.org/learn/logic/stanford-university-language-proof-and-logic) und [Semantics of First-Order Logic
+](https://www.edx.org/learn/logic/stanford-university-semantics-of-first-order-logic)
+    - MIT: [Logic I & II](https://www.google.com/search?q=MIT+OpenCourseWare+Logic+Philosophy)
   - [Logische Fehlschlüsse](https://en.wikipedia.org/wiki/The_Demon-Haunted_World#Logical_fallacies) (engl. Logical Fallacies) [Wiki](https://de.wikipedia.org/wiki/Typen_von_Argumenten#Fehlschluss-_und_andere_problematische_Argumente)
   - (€:) Buch **[Enzyklopädie Philosophie und Wissenschaftstheorie](https://www.amazon.de/dp/3476020126/)** (2004), genannt „Der Mittelstraß“ ⭐
   - (€:) Buch [A New Introduction to Modal Logic](https://www.amazon.de/dp/0415126002/) (1996) von Hughes & Cresswell
@@ -372,9 +379,12 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Technische Informatik / Rechnerarchitektur: Vorlesung [Carnegie Mellon **Computer Architecture Lectures**](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq) | Kurs [Princeton University **Computerarchitektur**](https://www.coursera.org/learn/comparch)
   - YouTuber: [Ben Eater](https://www.youtube.com/@beneater)
   - [Windows: system **power states**](https://learn.microsoft.com/en-us/windows/win32/power/system-power-states)
+- Compilerbau:
+  - MOOC-Kurse von Stanford: [Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers)
 - Algorithmen und Datenstrukturen (AuD): [**Google** Tech Dev Guide: **Data Structure & Algorithms**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) | **[HappyCoders](https://www.happycoders.eu/de/algorithmen/)** (am Bsp. Java) | **[freeCodeCamp](https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/)** (am Bsp. JS)
   - (€:) Buch **[Algorithmen](https://www.amazon.de/dp/3868941843/)** (2014) von Sedgewick & Wayne
   - (€:) Buch **[Introduction to Algorithms](http://www.amazon.de/dp/026204630X/)** (2022) von Thomas Cormen, et al., hierzu gibts einen eigenen [Wikipedia](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)-Eintrag
+  - MOOC-Kurse von Stanford: [Algorithms: Design and Analysis](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1)
   - Historisch
     - Die Mutter aller AuD-Bücher ist selbstverständlich das legendäre „**The Art of Computer Programming**" (ab 1968, in mehreren Bänden) von Donald E. Knuth (Algol 60, TeX, METAFONT; Turing Award 1974), vgl. [Wikipedia](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
     - Dicht gefolgt vom Buch „**Algorithmen und Datenstrukturen**“ (1975) von Nikolaus Wirth (Pascal, EBNF, Modula/-2, Oberon; Turing Award 1984), dessen spätere [Oberon-Variante](http://people.inf.ethz.ch/wirth/AD.pdf) von ihm kostenlos online gestellt wurde
@@ -393,7 +403,8 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - **Graphen**
     - Einstieg: Webartikel [The Top 10 Algorithms Every Programmer Should Know In Graph Data Structure](https://dev.to/rajkousik/the-top-10-algorithms-every-programmer-should-know-in-graph-data-structure-40a5)
     - Und natürlich werden Graphen im [Cormen](https://www.amazon.de/dp/026204630X/) und anderen Algorithmik-Büchern (s.o.) behandelt
-    - [GraphStream](https://graphstream-project.org): Java library for the modeling and analysis of dynamic graphs
+    - Werkzeugkiste (exemplarisch): [GraphStream](https://graphstream-project.org): Java library for the modeling and analysis of dynamic graphs
+    - A*-Algorithmus (heuristische Alternative zum Dijkstra-Algorithmus): Lesenswerte [Original-Publikation](https://ai.stanford.edu/~nilsson/OnlinePubs-Nils/PublishedPapers/astar.pdf) und eine spannende und anschauliche [Einbettung von A* in das Computerspiel **Factorio**](https://factorio.com/blog/post/fff-317)
 - Betriebssysteme
   - Buch (€) [Moderne Betriebssysteme](https://www.amazon.de/dp/386894270X/) (2016) von Tanenbaum
     - Oberflächlicher aber für OTH-Studierende kostenlos: „Grundkurs Betriebssysteme“ (2020) von P. Mandl im Springer Vieweg Verlag
@@ -414,7 +425,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - Kurs [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) des MIT
     - (Es gibt auch Processing für Python: [processing.py](https://py.processing.org/tutorials/gettingstarted/))
   - Mojo (Superset of Py): Motion AI [**Mojo** Docs](https://docs.modular.com/mojo/) | [Mojo Programming Manual](https://docs.modular.com/mojo/programming-manual.html) | [Modular Inference Engine](https://docs.modular.com/engine/)
-  - R: DataCamp **[Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)** | Interaktiver Kurs **[swirl](https://swirlstats.com/)** („Learn R, in R.“) | zzgl. im [Master-Abschnitt zu Data Science](#msc-big-data-and-cloud-computing-for-ai)
+  - R: DataCamp **[Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)** | Interaktiver Kurs **[swirl](https://swirlstats.com/)** („Learn R, in R.“) | MOOC von Standord [R Programming Fundamentals](https://www.edx.org/learn/r-programming/stanford-university-r-programming-fundamentals) | zzgl. im [Master-Abschnitt zu Data Science](#msc-big-data-and-cloud-computing-for-ai)
   - C++: **[Learn C++](https://www.learncpp.com/)**, (€:) Buch **[A Tour of C++](https://www.stroustrup.com/tour3.html)** von Bjarne Stroustup
   - Rust: [Learn **Rust**](https://www.rust-lang.org/learn)
   - Zig: [Getting Started](https://ziglang.org/learn/getting-started/) | [**Zig** learn](https://ziglearn.org/) | [ziglings](https://github.com/ratfactor/ziglings)
@@ -509,7 +520,8 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - TDD vs. Refactoring: Artikel **[The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)** (2013) von Uncle Bob
   - Web: [Getting Started with **Jest**](https://www.valentinog.com/blog/jest/) zzgl. [**Code Coverage in Jest**, the right way](https://www.valentinog.com/blog/jest-coverage/) | [**React** Unit Test Handbook + **Redux** Testing Toolkit](https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react-redux/) | [**Socket.IO** Testing Doku](https://socket.io/docs/v4/testing/)
   - E2E: [**Cypress** End to End Testing Tutorial: A Detailed Guide](https://www.lambdatest.com/blog/cypress-end-to-end-testing/)
-- Datenbanksysteme: [Online-Materialien von Prof. Dr. **Jens Dittrich** an der Universität Saarland](https://bigdata.uni-saarland.de/datenbankenlernen/) \[**[Videos](https://www.youtube.com/user/jensdit)**\] | Kurs **[Stanford RDBMS/SQL](https://www.edx.org/course/databases-5-sql)** | guru99 **[DBMS Tutorial](https://www.guru99.com/dbms-tutorial.html)**
+- Datenbanksysteme: [Online-Materialien von Prof. Dr. **Jens Dittrich** an der Universität Saarland](https://bigdata.uni-saarland.de/datenbankenlernen/) \[**[Videos](https://www.youtube.com/user/jensdit)**\] | guru99 **[DBMS Tutorial](https://www.guru99.com/dbms-tutorial.html)**
+  - MOOC-Kurse von Jennifer Widom: **[RDBMS/SQL](https://www.edx.org/course/databases-5-sql)**, [Advanced Topics in SQL](https://www.edx.org/learn/sql/stanford-university-databases-advanced-topics-in-sql), [OLAP and Recursion](https://www.edx.org/learn/databases/stanford-university-databases-olap-and-recursion), [Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory), [Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data)
   - SQL Aufgaben: **[SQL Murder Mystery](https://mystery.knightlab.com/)** | **[SQL Island](https://sql-island.informatik.uni-kl.de/)** | **[SQLBolt](https://sqlbolt.com/)** | **[Select Star SQL](https://selectstarsql.com/)** | **[SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises)**
   - SQL Tutorials: **[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)** | **[w³schools SQL Tutorial](https://www.w3schools.com/sql/)**
   - roadmap.sh [**SQL** Roadmap](https://roadmap.sh/sql)
@@ -811,6 +823,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Deep Learning
     - Buch [Dive into Deep Learning (**D2L**)](https://d2l.ai/)
     - Buch **[Deep Learning](https://www.deeplearningbook.org/)**
+    - Historie: [How a stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/) sowie [How computers got shockingly good at recognizing images](https://arstechnica.com/science/2018/12/how-computers-got-shockingly-good-at-recognizing-images/)
   - Reinforcement Learning
     - Vorlesung **[Reinforcement Learning](https://www.davidsilver.uk/teaching/)** (2015) und Video **[Deep Reinforcement Learning](https://videolectures.net/rldm2015_silver_reinforcement_learning/)** von David Silver
     - Buch [**Reinforcement Learing**: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) (2017; Prepress-Version) von Sutton & Barto
@@ -827,15 +840,18 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Weiterführende Quellen: siehe [Master-Abschnitt](#msc-big-data-and-cloud-computing-for-ai)
 - Generative AI [**Generative Adversarial Networks**: Build Your First Models](https://realpython.com/generative-adversarial-networks/) | [Tensorflow GAN](https://www.tensorflow.org/tutorials/generative/dcgan) | Google Course [GAN](https://developers.google.com/machine-learning/gan)
   - Für Non-Technical Persons:
+    - Webartikel [A jargon-free explanation of how AI large language models work](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
     - Podcast [State of Process Automation](https://www.stateofprocessautomation.com/) mit Folge [145 „**Generative KI im Mittelstand**“](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZWMwMDhjMC9wb2RjYXN0L3Jzcw/episode/M2M4ZDhmZDMtMThlNS00ODYwLWJhZmEtMDhjZmM0MWFiNjUy)
     - Zur Leistungsfähigkeit von LLMs: [A **GPT-4 Capability** Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris) ⭐
   - Webartikel [What are **Large Language Models** (LLMs)?](https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/)
-  - Chatbot (Text-zu-Text):
+  - Chatbot (Text-to-Text):
     - Einstieg: KDnuggets [ChatGPT: Everything You **Need to Know**](https://www.kdnuggets.com/2023/01/chatgpt-everything-need-know.html) | KDnuggets [ChatGPT as a **Python Programming Assistant**](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html)
     - Webartikel: **[GPT-3's family tree](https://www.truthm.com/gpt-3s-family-tree/)** | Paper **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** (2017) von Vasvani et al. (auch als das [**Transformer**-Paper von Google](https://arxiv.org/abs/1706.03762) bekannt)
     - Zulässigkeit von Generative AI als Werkzeug zur Erstellung wiss. Publikationen? vgl. **[ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship)**
+    - Text-to-Code: [Top Open Source (Free) Text to Code Generator models on the market](https://www.edenai.co/post/top-free-code-generation-tools-apis-and-open-source-models)
     - Weiterführende Referenz: [Awesome OpenAI](https://github.com/Jaykef/awesome-openAI)
-  - Text-zu-X: [Tools auf meiner Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#generative-ki) (Text-zu-Bild, Text-zu-Video, Text-zu-Präsentation, Text-zu-Quiz, Text-zu-Sprache, Text-zu-Sound)
+  - Image Generator: [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
+  - Tools für Text-to-X: [Tools auf meiner Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#generative-ki) (Text-zu-Bild, Text-zu-Video, Text-zu-Präsentation, Text-zu-Quiz, Text-zu-Sprache, Text-zu-Sound)
   - Europäische Ebene: **[LEAM](https://leam.ai/)**
   - Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
   - Weiterführende Quellen: [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art), [Awesome MVS](https://github.com/walsvid/Awesome-MVS)
@@ -847,7 +863,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - IT-Security: [ChatGPT4 – Potential Scenarios For Accelerated Cybercrime](https://blog.checkpoint.com/2023/03/15/check-point-research-conducts-initial-security-analysis-of-chatgpt4-highlighting-potential-scenarios-for-accelerated-cybercrime/)
   - Text-zu-Bild: [The Ultimate **Stable Diffusion Prompt Guide**](https://prompthero.com/stable-diffusion-prompt-guide) von PromptHero | [Prompting **Adobe Firefly**](https://torybarber.com/prompting-adobe-firefly/) (2023) von Tory Barber
     - Webartikel [How to Use ChatGPT to Write Prompts & Prompt Templates for Adobe Firefly & Midjourney](https://www.downloadsource.net/how-to-use-chatgpt-to-write-prompts-prompt-templates-for-adobe-firefly-midjourney/n/22511/) (2023) von Jascha Luca | analog [Adobe Firefly prompt generator](https://flowgpt.com/prompt/UjVmU4bSLor1cpBxx5veq) Vorlage für GPT
-  - Weiterführende Quellen: [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | reddit-Liste [Useful Prompt Engineering tools and resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) | lablab [AI Tutorials](https://lablab.ai/t)
+  - Weiterführende Quellen: [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | reddit-Liste [Useful Prompt Engineering tools and resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) | lablab [AI Tutorials](https://lablab.ai/t) | [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
 - (AI:) Symbolische KI
   - Umfassende Referenz: **[AI-Vorlesungsskript](https://kwarc.info/teaching/AI/notes.pdf)** von Prof. Michael Kohlhase (FAU)
 - Robotik
@@ -905,6 +921,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
         - [AMARL: An Attention-Based Multiagent Reinforcement Learning Approach to the Min-Max Multiple Traveling Salesmen Problem](https://doi.org/10.1109/TNNLS.2023.3236629)
         - [Learn to Solve the Min-max Multiple Traveling Salesmen Problem with Reinforcement Learning](https://doi.org/10.5555/3545946.3598725)
 - Data Science: Vorlesung **[Harvard CS109 Data Science](https://cs109.GitHub.io/2015/pages/videos.html)** ⭐ | DataCamp Einstiegskurs **[Understanding Data Science](https://www.datacamp.com/courses/understanding-data-science)** | [**WolframAlpha** University Free Interactive Courses](https://www.wolfram.com/wolfram-u/courses/catalog/?f_format%5B%5D=interactive-course&q=&f_button=filters)
+  - MOOC-Kurse von Stanford: [Statistical Learning with Python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) und [Statistical Learning with R](https://www.edx.org/learn/statistics/stanford-university-statistical-learning)
   - Statistische Fehlinterpretationen: Webinare [Understanding Data](https://www.youtube.com/@Understanding_Data), insb. Video [Aus Flops lernen](https://www.youtube.com/watch?v=iiJd6ibKSQ4)
   - KDnuggets [5 **Statistical Paradoxes** Data Scientists Should Know](https://www.kdnuggets.com/2023/02/5-statistical-paradoxes-data-scientists-know.html)
   - Aaron Wang's **[Data Science Cheatsheet 2.0](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf)**
@@ -1139,6 +1156,14 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Statistik: **[Risiko](https://www.amazon.de/dp/3570554422/)** (2013) von Gerd Gigerenzer
 - Wissenschaftskommunikation: **[The Demon-Haunted World: Science as a Candle in the Dark](www.amazon.de/dp/0345409469/)** (1995) von Carl Sagan ("science is not just a body of knowledge, but is a way of thinking").
 - From Amazon to AWS: **[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611)**
+
+Internet Ikonen:
+- [Cory Doctorow](https://craphound.com/shop/) ([Kostprobe](https://pluralistic.net/2023/07/24/rent-to-pwn/#kitt-is-a-demon)
+- [Fefe](https://blog.fefe.de/) ([Video-Kostprobe](https://www.youtube.com/watch?v=E0_Y53ci9cw))
+- Edward Snowden: [2010s global surveillance disclosures](https://en.wikipedia.org/wiki/2010s_global_surveillance_disclosures) ([Snowden Archive](https://github.com/iamcryptoki/snowden-archive))
+- Max Schrems: [Datenschutz-Aktivist](https://noyb.eu/) ([Video-Kostprobe](https://media.ccc.de/v/32c3-7513-safe_harbor))
+- David Kriesel: [SpiegelMining](https://www.dkriesel.com/blog/2016/1229_video_und_folien_meines_33c3-vortrags_spiegelmining) und [BahnMining](https://www.dkriesel.com/blog/2019/1229_video_und_folien_meines_36c3-vortrags_bahnmining)
+- [Nico Semsrott](https://nicosemsrott.eu/) ([Video-Kostprobe](https://www.youtube.com/watch?v=MRqWaRMFsPs))
 
 ## Master-Level
 
@@ -1495,7 +1520,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Quantencomputing:
   - Einstieg: IBM [**Fundamentals** of quantum algorithms](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms)
   - **[PlanQK](https://planqk.de/)**: europräisches Wissensportal zu Quantencomputing
-  - Videos: **[qiskit](https://www.youtube.com/qiskit)**-YouTube-Channel (guter Einstieg ⭐)
+  - Videos: **[qiskit](https://www.youtube.com/qiskit)**-YouTube-Channel (guter Einstieg ⭐) sowie MOOC-Kurse von Stanford: [Quantum Mechanics for Scientists and Engineers 1](https://www.edx.org/learn/quantum-physics-mechanics/stanford-university-quantum-mechanics-for-scientists-and-engineers-1) & [2](https://www.edx.org/learn/quantum-physics-mechanics/stanford-university-quantum-mechanics-for-scientists-and-engineers-2)
   - Algorithmen: [**Shor**-Algorithmus](https://de.wikipedia.org/wiki/Shor-Algorithmus) (Faktorisierung; bricht RSA-Crypto), [**Grover**-Algorithmus](https://de.m.wikipedia.org/wiki/Grover-Algorithmus) (Suche in ungeordneten Daten) und [**weitere** Quantenalgorithmen](https://en.wikipedia.org/wiki/Quantum_algorithm)
   - Weiterführende Quellen: [Awesome **Quantum Computing**](https://github.com/desireevl/awesome-quantum-computing) | [Awesome **Quantum Machine Learning**](http://krishnakumarsekar.GitHub.io/awesome-quantum-machine-learning/)
 - Post-Quanten-Kryptographie (PQC)
