@@ -87,6 +87,20 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Roboterspielzeug: von **[Kosmos](https://www.amazon.de/s?k=kosmos+roboter)** (wie oben: bspw. [Miika K.I.](https://www.kosmos.de/de/miika-k.i._1620899_4002051620899)), **[Adeept](https://www.amazon.de/s?k=Adeept)** (bspw. [Mars Rover](https://www.amazon.de/dp/B085C8DFT8)), **[Keyestudio](https://www.amazon.de/s?k=keyestudio)** (bspw. [Smart Car Robot](https://www.amazon.de/dp/B08276N3D9/)), **[Makeblock](https://www.amazon.de/s?k=makeblock)** (bspw. [mBot Ranger](https://www.amazon.de/dp/B07KG4JHBH)), **[Lego](https://www.amazon.de/s?k=lego+roboter+programmierbar)** (bspw. [Boost](https://www.amazon.de/dp/B072MK1PDV/); Hinweis: Lego hat Mindstorms leider seit 2022 [aufgegeben](https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/)), **[Clementoni](https://www.amazon.de/s?k=Clementoni+robot)** (~ Galileo), **[Freenove](https://www.amazon.de/s?k=freenove)** (bspw. [Big Hexapod](https://www.amazon.de/dp/B09CFRJSS5/)) sowie **[Hexabugs](https://kinderprogrammieren.de/spielsachen/hexbugs-im-vergleich/)**
     - Nennenswerte nicht-programmierbare Roboter als Anschauungsobjekte: Energize Lab (v.a. [Eilik](https://www.amazon.de/s?k=eilik))
   - Drohnen: **[DJI](https://www.amazon.de/s?k=dji+drohne)** und andere
+- Medienkompetenz
+  - Einstieg: Schweizer [Medienkompetenz-Broschüre](https://www.jugendundmedien.ch/fileadmin/PDFs/Broschueren/Jugend_und_Medien_Broschuere_Medienkompetenz_ZHAW_2024_DE.pdf) und Aspen Institute [Medienkompetenz Handbuch](https://www.aspeninstitute.de/wp-content/uploads/Aspen-Institute-Germany-Handbuch-Medienkompetenz-meistern-Tipps-von-SchuelerInnen-fuer-SchuelerInnen.pdf)
+  - Initiative [Gutes Aufwachsen mit Medien](https://www.gutes-aufwachsen-mit-medien.de/magazin)
+  - Webartikel [Desinformation & Nachrichtenkompetenz](https://www.jugendundmedien.ch/themen/desinformation-nachrichtenkompetenz) (Clickbait, Deepfakes/Deepnudes, Fake News, Filterblasen/Echokammern, Hoaxes, Trolle, ...) der Schweizer Plattform [Jugend und Medien](https://www.jugendundmedien.ch/)
+  - Relevante :
+    - [Betteridge's law of headlines](https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines): "Any headline which ends in a question mark can be answered by the word 'no'."
+    - [Cunningham's law](https://meta.m.wikimedia.org/wiki/Cunningham%27s_Law): "The best way to get the right answer on the Internet is not to ask a question, but to post the wrong answer."
+    - [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law): "Ninety percent of everything is crap."
+    - [Hanlon’s Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): "Never attribute to malice that which is adequately explained by stupidity."
+    - [Gibson's law](https://en.wikipedia.org/wiki/Gibson%27s_law): "For every PhD there is an equal and opposite PhD." (Original context: expert witnesses called by opposing parties in a trial)
+    - [Rules of the Internet](https://tvtropes.org/pmwiki/pmwiki.php/Main/RulesOfTheInternet) (with explanations)
+      - [Rule 34](https://en.wikipedia.org/wiki/Rule_34): "There is porn of it." (longer variant: "If it exists, or can be imagined, there is Internet porn of it.")
+  - Weiterführende Referenzen: [bildungsserver.de](https://www.bildungsserver.de/medienkompetenz-2924-de.html)
+    - Materialien: [Werkstattbuch Medienerziehung](https://www.bzga.de/fileadmin/user_upload/PDF/themenschwerpunkte/medienkompetenz/werkbuch_medienerziehung_kopiervorlagen--66f1fed9e09b25eb436a6eb49a29d158.pdf), [klicksafe](https://www.klicksafe.de/materialien)
 - Schulen
   - Profilschule für Informatik und Zukunftstechnologien (PIZ): Liste aller [PIZ-Schulen](https://www.km.bayern.de/gestalten/digitalisierung/profilschulen-fuer-informatik-und-zukunftstechnologien/schulen)
     - Disclaimer: Ich bin ein [PiZ-Fachbeirat](https://www.km.bayern.de/gestalten/digitalisierung/profilschulen-fuer-informatik-und-zukunftstechnologien/fachbeirat)
@@ -250,6 +264,11 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Exposé/Anbahnung:
   - Einführung: [**Exposé** gliedern](https://www.scribbr.de/aufbau-und-gliederung/expose-bachelorarbeit/)
   - Archivieren: **[Journal of Brief Ideas](https://beta.briefideas.org/)** (inkl. DOI per Zenodo)
+- Knigge: Die Abschlussarbeit ist meist der erste Kontakt zur korrekten Verwendung von Am
+  - Kurzübersicht des Lektorats Unger: [Akademische Grade: Abkürzungen und Verwendung in Anschrift und Anrede](https://www.unker.com/de/akademische-titel)
+  - Umfassender Leitfaden: [Ratgeber für Anschriften und Anreden](https://www.protokoll-inland.de/SharedDocs/downloads/Webs/PI/DE/Allgemeines/Anschriften.html) von dem Bundesministerium des Innern
+  - Hinweis: Diplom, Bachelor und Master sind keine akademischen Titel, nur akademische Grade.
+    - Empfehlung: Diplom, Bachelor und Master gehören eher nicht auf Visitenkarten oder in E-Mail-Signaturen (bzw. Anschrift oder schriftliche Anrede), selbst wenn Sie es de jure schreiben könnten; es gilt in Akademikerkreisen als lächerlich.
 - Wissenschaftliches Handwerkszeug:
   - **[How to read a paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf)** ⭐
   - [Berkeley **Understanding Science**](http://www.understandingscience.org/)
@@ -1869,7 +1888,7 @@ Podcasts:
 
 ## Filme und TV-Serien
 
-- [The Social Dilemma](https://www.thesocialdilemma.com/) (2020) ⚠️
+- [The Social Dilemma](https://www.thesocialdilemma.com/) (2020) ⚠️ zu Filterblasen und Echokammern
 - [Alles ist Eins. Außer der 0](https://allesisteins.film/) (2021)
 Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 
