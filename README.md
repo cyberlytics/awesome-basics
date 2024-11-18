@@ -88,19 +88,19 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - Nennenswerte nicht-programmierbare Roboter als Anschauungsobjekte: Energize Lab (v.a. [Eilik](https://www.amazon.de/s?k=eilik))
   - Drohnen: **[DJI](https://www.amazon.de/s?k=dji+drohne)** und andere
 - Medienkompetenz
-  - Einstieg: Schweizer [Medienkompetenz-Broschüre](https://www.jugendundmedien.ch/fileadmin/PDFs/Broschueren/Jugend_und_Medien_Broschuere_Medienkompetenz_ZHAW_2024_DE.pdf) und Aspen Institute [Medienkompetenz Handbuch](https://www.aspeninstitute.de/wp-content/uploads/Aspen-Institute-Germany-Handbuch-Medienkompetenz-meistern-Tipps-von-SchuelerInnen-fuer-SchuelerInnen.pdf)
+  - Einstieg: Schweizer [Medienkompetenz-Broschüre](https://www.jugendundmedien.ch/fileadmin/PDFs/Broschueren/Jugend_und_Medien_Broschuere_Medienkompetenz_ZHAW_2024_DE.pdf) und Aspen Institute [Medienkompetenz-Handbuch](https://www.aspeninstitute.de/wp-content/uploads/Aspen-Institute-Germany-Handbuch-Medienkompetenz-meistern-Tipps-von-SchuelerInnen-fuer-SchuelerInnen.pdf)
   - Initiative [Gutes Aufwachsen mit Medien](https://www.gutes-aufwachsen-mit-medien.de/magazin)
   - Webartikel [Desinformation & Nachrichtenkompetenz](https://www.jugendundmedien.ch/themen/desinformation-nachrichtenkompetenz) (Clickbait, Deepfakes/Deepnudes, Fake News, Filterblasen/Echokammern, Hoaxes, Trolle, ...) der Schweizer Plattform [Jugend und Medien](https://www.jugendundmedien.ch/)
-  - Relevante :
+  - Nennenswerte Gesetzmäßigkeiten:
     - [Betteridge's law of headlines](https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines): "Any headline which ends in a question mark can be answered by the word 'no'."
     - [Cunningham's law](https://meta.m.wikimedia.org/wiki/Cunningham%27s_Law): "The best way to get the right answer on the Internet is not to ask a question, but to post the wrong answer."
     - [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law): "Ninety percent of everything is crap."
     - [Hanlon’s Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): "Never attribute to malice that which is adequately explained by stupidity."
     - [Gibson's law](https://en.wikipedia.org/wiki/Gibson%27s_law): "For every PhD there is an equal and opposite PhD." (Original context: expert witnesses called by opposing parties in a trial)
-    - [Rules of the Internet](https://tvtropes.org/pmwiki/pmwiki.php/Main/RulesOfTheInternet) (with explanations)
+    - [Rules of the Internet](https://tvtropes.org/pmwiki/pmwiki.php/Main/RulesOfTheInternet)
       - [Rule 34](https://en.wikipedia.org/wiki/Rule_34): "There is porn of it." (longer variant: "If it exists, or can be imagined, there is Internet porn of it.")
-  - Weiterführende Referenzen: [bildungsserver.de](https://www.bildungsserver.de/medienkompetenz-2924-de.html)
-    - Materialien: [Werkstattbuch Medienerziehung](https://www.bzga.de/fileadmin/user_upload/PDF/themenschwerpunkte/medienkompetenz/werkbuch_medienerziehung_kopiervorlagen--66f1fed9e09b25eb436a6eb49a29d158.pdf), [klicksafe](https://www.klicksafe.de/materialien)
+  - Weiterführende Medienkompetenz-Referenzen: [bildungsserver.de](https://www.bildungsserver.de/medienkompetenz-2924-de.html)
+    - Lehrmaterialien: [Werkstattbuch Medienerziehung](https://www.bzga.de/fileadmin/user_upload/PDF/themenschwerpunkte/medienkompetenz/werkbuch_medienerziehung_kopiervorlagen--66f1fed9e09b25eb436a6eb49a29d158.pdf), [klicksafe](https://www.klicksafe.de/materialien)
 - Schulen
   - Profilschule für Informatik und Zukunftstechnologien (PIZ): Liste aller [PIZ-Schulen](https://www.km.bayern.de/gestalten/digitalisierung/profilschulen-fuer-informatik-und-zukunftstechnologien/schulen)
     - Disclaimer: Ich bin ein [PiZ-Fachbeirat](https://www.km.bayern.de/gestalten/digitalisierung/profilschulen-fuer-informatik-und-zukunftstechnologien/fachbeirat)
