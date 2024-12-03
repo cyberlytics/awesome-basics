@@ -146,6 +146,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - Für Beginner: Linux **[Zorin OS](https://zorin.com/os/)** mit kostenlosem Windows-like Standard Desktop Layout
       - Nennenswert: es gibt auch eine Variante [Zorin OS **Education**](https://zorin.com/os/education/) für Kinder/Schulen
     - Für Gamer: [Pop!_OS](https://pop.system76.com/)
+    - Run Windows software on Linux? [Bottles](https://usebottles.com/)
   - Office-Empfehlung:
     - **[LibreOffice](https://www.libreoffice.org/)** \[**choco install libreoffice-fresh**\]
   - Browser-Empfehlung:
@@ -278,7 +279,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Schnelllesen: (€) Buch **[Speed Reading](https://www.amazon.de/dp/3868828710/)** (2017 | [Orig: 2006](https://books.google.de/books?id=HpvjGZ_Ff60C)) von Tony Buzan
     - Training-App: [Reading Trainer](https://readingtrainer.com/)
   - Wiss. Schreiben: **[IMRaD](https://en.wikipedia.org/wiki/IMRAD)** | [Elsevier **Einführung in wiss. Schreiben**](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously) ⭐
-  - Wiss. Methoden: [Awesome **PhD**](https://github.com/macoj/phd) | [A three cycle view of **design science research**](https://community.mis.temple.edu/seminars/files/2009/10/Hevner-SJIS.pdf) (2007) von Alan R. Hevner
+  - Wiss. Methoden: [Awesome **PhD**](https://github.com/macoj/phd) | [A three cycle view of **design science research**](https://community.mis.temple.edu/seminars/files/2009/10/Hevner-SJIS.pdf) (2007) von Alan R. Hevner (Zur DSR auch: [Wikipedia](https://en.wikipedia.org/wiki/Design_science_(methodology)))
   - Citation Metrics: **[Impact Factor](https://en.wikipedia.org/wiki/Impact_factor)** | [Autorenmetriken (**h-Index, g-Index**, …)](http://www.harzing.com/pophelp/metrics.htm) | Paper [ISI Web of Science versus Google Scholar](http://www.int-res.com/articles/esep2008/8/e008p061.pdf)
   - (€:) Buch [**Studienarbeiten**: Ein Leitfaden … **am Beispiel Informatik**](https://www.amazon.de/dp/3728138118/) (2017) von Marcus Deiniger et al. ⭐
   - Englisch (verwende en_US für Informatik)
@@ -480,12 +481,12 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
       - C++: In Teilen kostenloses Buch [C++ Concurrency in Action](https://livebook.manning.com/book/c-plus-plus-concurrency-in-action/)
     - **[async/await](https://en.wikipedia.org/wiki/Async/await)** (u.a. am Beispiel von **[C#](https://blog.stephencleary.com/2012/02/async-and-await.html)** oder **[JS](https://www.freecodecamp.org/news/asynchronism-in-javascript/)**) ⊆ Asynchrone Programmierung ⊆ Nebenläufige Programmierung
   - Coding Style Guidelines: **[Are Coding standards necessary?](https://isocpp.org/wiki/faq/coding-standards#coding-stds-vs-design-approaches)**
-    - Java: [Coding Standards for **Java**](https://ambysoft.com/essays/javaCodingStandards.html) von Scott W. Ambler
+    - Java: [Sun Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) von 1999, [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) sowie [Coding Standards for **Java**](https://ambysoft.com/essays/javaCodingStandards.html) von Scott W. Ambler
     - JS: [**JavaScript** Style Guide](https://google.GitHub.io/styleguide/jsguide.html) von Google
     - C#: [**C#** Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines) von Microsoft sowie die [CoreFX C# Coding Guidelines](https://github.com/dotnet/runtime/blob/master/docs/coding-guidelines/coding-style.md)
     - Py: [PEP 8 – Style Guide for **Python** Code](https://peps.python.org/pep-0008/)
     - C++: Die Hinweise zu den [**C++** Coding Standards](https://isocpp.org/wiki/faq/coding-standards) der Standard C++ Foundation
-    - Alle anderen Programmiersprachen: [Liste von Scott W. Ambler](https://ambysoft.com/essays/codingGuidelines.html#WebSites), [Google Style Guides](https://google.GitHub.io/styleguide/), [Awesome List für alle Programmiersprachen](https://project-awesome.org/NARKOZ/guides)
+    - Alle anderen Programmiersprachen: [Google Style Guides](https://google.GitHub.io/styleguide/), [Awesome List für alle Programmiersprachen](https://project-awesome.org/NARKOZ/guides)
 - Computernetzwerke: [Mozilla Entwickler-Doku: **HTTP**](https://developer.mozilla.org/de/docs/Web/HTTP) zzgl. [**IT-Handbuch** für Fachinformatiker (2013) **Kap. 4**](https://openbook.rheinwerk-verlag.de/it_handbuch/04_001.html) und **[Kap. 14](https://openbook.rheinwerk-verlag.de/it_handbuch/14_001.html)**
   - freeCodeCamp **[HTTP Networking in JavaScript](https://www.freecodecamp.org/news/http-full-course/)**
   - (€:) Buch **[Computernetzwerke](https://www.amazon.de/dp/B00QV6QH3Q/)** (2012) von Tannenbaum & Wetherall
@@ -497,9 +498,13 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - [**Google** Tech Dev Guide: **Software Engineering** Principles](https://techdevguide.withgoogle.com/paths/principles/)
   - (€:) Buch **[Lehrbuch der Softwaretechnik](https://link.springer.com/book/10.1007/978-3-8274-2247-7)** (2009) ⭐ von **Helmut Balzert**
   - (€:) Buch **[UML@Classroom](https://www.amazon.de/dp/3898647765/)** (2012) von Martina Seidl et al. mit [weiteren Online-Unterlagen](http://www.uml.ac.at/de/lernen)
+  - [Modeling Style Guidelines: Strategies for Better Diagrams](https://agilemodeling.com/style.htm) für UML, u.a. [Use case diagram guidelines](https://agilemodeling.com/style/usecasediagram.htm), [Class diagram guidelines](https://agilemodeling.com/style/classdiagram.htm) und [Sequence diagram guidelines](https://agilemodeling.com/style/sequencediagram.htm)
   - Entwurfsprinzipien/Programmierprinzipien: ⚠️
-    - Uncle Bob: Artikel [**SOLID Principles** for Programming and Software Design](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/) | erweiterte Übersicht [Robert C. Martin's **Principle Collection**](http://principles-wiki.net/collections:robert_c._martin_s_principle_collection) | freeCodeCamp [SOLID-Einführung](https://www.freecodecamp.org/news/solid-design-principles-in-software-development/)
+    - Uncle Bob's **SOLID**: freeCodeCamp [**SOLID Principles** for Programming and Software Design](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/) | erweiterte Übersicht [Robert C. Martin's **Principle Collection**](http://principles-wiki.net/collections:robert_c._martin_s_principle_collection) | freeCodeCamp [SOLID-Einführung](https://www.freecodecamp.org/news/solid-design-principles-in-software-development/) | Los Techies [SOLID ebook](https://lostechies.com/wp-content/uploads/2011/03/pablos_solid_ebook.pdf)
     - Weitere Prinzipien: **[DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)** (↔ **[AHA](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)**), **[SoC](https://wiki.c2.com/?SeparationOfConcerns)**, **[LoD](https://www.infoworld.com/article/3136224/demystifying-the-law-of-demeter-principle.html)**, **[KISS](http://principles-wiki.net/principles:keep_it_simple_stupid)**, **[EIBTI](http://principles-wiki.net/principles:rule_of_explicitness)** sowie [viele **weitere**](http://principles-wiki.net/principles:start) | ähnliche [Programming Principles](https://github.com/webpro/programming-principles)-Liste
+  - Software Craftsmanship = Prinzipien (wie oben) plus Praktiken:
+    - Int'l: [Manifesto](https://manifesto.softwarecraftsmanship.org/) ([Further Reading](https://manifesto.softwarecraftsmanship.org/#/en/reading))
+    - v.a. in DE: **[Clean Code Developer](https://ccd-akademie.de/clean-code-developer-bildschirmhintergrund/)** ⭐ mit [Armbändern](https://shop.generic.de/)
   - OOA&D:
     - (€:) Buch [**Object-Oriented Analysis and Design** with Applications](https://www.amazon.de/dp/020189551X) (2007) von Grady Booch
     - [**OOD**-Prinzipien](http://principles-wiki.net/collections:ood_principle_language)
@@ -508,7 +513,8 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - Frontend-zentrisch: **[patterns.dev](https://www.patterns.dev/posts)** (bspw. [Progressive Hydration](https://www.patterns.dev/posts/progressive-hydration) und [Selective Hydration](https://www.patterns.dev/posts/react-selective-hydration)), auch als kostenloses [E-Book](https://www.patterns.dev/book) sowie deren [Community-Patterns](https://www.patterns.dev/resources)
   - „Gesetzte“ der Informatik:
     - [Übersichtsliste](https://github.com/dwmkerr/hacker-laws) (Amdahl's Law, Brooks' Law, Conway's Law, Hofstadter's Law, Hyrum's Law, Kernighan's Law, Moore's Law, Occam's Razor, Parkinson's Law, The Two Pizza Rule, Wheaton's Law, …)
-    - Conway's Law ist wichtig ⭐: Martin Fowler zu [Conway's Law](https://martinfowler.com/bliki/ConwaysLaw.html) i.Allg. (2022) sowie im Kontext von [MicroServices](https://martinfowler.com/articles/microservices.html) (2014) | Weiterer Hintergrundartikel zu [Conway's Law](https://www.alibabacloud.com/blog/conways-law-a-theoretical-basis-for-the-microservice-architecture_175894) (2017)
+    - **Conway's Law** ist wichtig ⭐: Martin Fowler zu [Conway's Law](https://martinfowler.com/bliki/ConwaysLaw.html) i.Allg. (2022) sowie im Kontext von [MicroServices](https://martinfowler.com/articles/microservices.html) (2014) | Weiterer Hintergrundartikel zu [Conway's Law](https://www.alibabacloud.com/blog/conways-law-a-theoretical-basis-for-the-microservice-architecture_175894) (2017)
+    - Scott W. Ambler’s **Rule of Standards**: "Industry standards are better than corporate standards, corporate standards are better than team standards, team standards are better than personal standards which are better than no standards at all."
   - Refactoring: (€) Buch [**Refactoring**: Improving the Design of Existing Code](https://www.amazon.de/dp/0134757599/) (2018) von Martin Fowler
   - Code Reviews: Webartikel [Unpacking the Truth of Peer Reviews in the Software Industry](https://leadshorizons.com/p/unpacking-the-truth-of-peer-reviews) | [How to Give Code Reviews Without Getting Burned](https://akoskm.substack.com/p/how-to-give-code-reviews-without)
   - Edutainment: Vortrag [Antipatterns und Missverständnisse in der Softwareentwicklung](https://www.youtube.com/watch?v=E0_Y53ci9cw) (2017) von Felix von Leitner, genannt fefe
@@ -635,6 +641,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Zero-Knowledge-Proof (ZKP): [Explain it Like I’m 5](https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff) / [How it Works, Use Cases & Applications](https://research.aimultiple.com/zero-knowledge-proofs/) / [Wikipedia](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
   - [Confidentiality, Integrity & Availability (**CIA Triad**)](https://www.splunk.com/en_us/blog/learn/cia-triad-confidentiality-integrity-availability.html)
   - Deutschland: [**BSI IT-Grundschutz** Schulungen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/it-grundschutzschulung_node.html)
+  - Rollenmodell: Three Lines of Defense (TLoD) Modell [PDF](https://www.theiia.org/globalassets/documents/resources/the-iias-three-lines-model-an-update-of-the-three-lines-of-defense-july-2020/three-lines-model-updated-english.pdf) (Herkunft: [Risikomanagement](https://www.risknet.de/en/knowledge/glossary/glossary-entry/three-lines-of-defense/))
   - Nennenswerte wahre Geschichten:
     - Whistleblower: [**Twitter**-Disclosure](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf) von [Peiter „Mudge“ Zatko](https://en.wikipedia.org/wiki/Peiter_Zatko), **[Global Surveillance Disclosures](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>)** von [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
     - Post-Mortems: [The Full Story of the Stunning **RSA Hack** Can Finally Be Told](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/) by WIRED
@@ -834,11 +841,15 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 #### AI
 
-- (AI:) Machine Learning / Subsymbolische KI
+- (AI:) Machine Learning / Subsymbolische Künstliche Intelligenz
   - Grundlegendes: Starke vs. schwache KI vs. (Technological) Singularity: [**Artificial General Intelligence** (AGI)](https://en.wikipedia.org/wiki/Artificial_general_intelligence) auf Wikipedia
   - Machine Learning
     - Kurs **[Stanford ML](https://www.coursera.org/learn/machine-learning)**
     - [**Google** Tech Dev Guide: **Machine Learning**](https://techdevguide.withgoogle.com/paths/machine-learning/)
+    - [10 Types of Machine learning Algorithms and Their Use Cases](https://www.marktechpost.com/2024/11/27/10-types-of-machine-learning-algorithms-and-their-use-cases/)
+    - [Top 15 Machine Learning Algorithms Every Data Scientist Should Know](https://www.geeksforgeeks.org/top-10-algorithms-every-machine-learning-engineer-should-know/)
+    - [A Beginner’s Guide to the Top 10 Machine Learning Algorithms](https://www.kdnuggets.com/a-beginner-guide-to-the-top-10-machine-learning-algorithms)
+    - Videokurs freeCodeCamp [Learn the Foundations of Machine Learning and Artificial Intelligence](https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/)
   - Deep Learning
     - Buch [Dive into Deep Learning (**D2L**)](https://d2l.ai/)
     - Buch **[Deep Learning](https://www.deeplearningbook.org/)**
@@ -862,7 +873,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - Webartikel [A jargon-free explanation of how AI large language models work](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
     - Podcast [State of Process Automation](https://www.stateofprocessautomation.com/) mit Folge [145 „**Generative KI im Mittelstand**“](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZWMwMDhjMC9wb2RjYXN0L3Jzcw/episode/M2M4ZDhmZDMtMThlNS00ODYwLWJhZmEtMDhjZmM0MWFiNjUy)
     - Zur Leistungsfähigkeit von LLMs: [A **GPT-4 Capability** Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris) ⭐
-  - Webartikel [What are **Large Language Models** (LLMs)?](https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/)
+  - Einstieg für Technical Persons:
+    - Webartikel [What are **Large Language Models** (LLMs)?](https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/)
+    - Videokurs freeCodeCamp [Learn Generative AI for Developers](https://www.freecodecamp.org/news/learn-generative-ai-for-developers/)
   - Chatbot (Text-to-Text):
     - Einstieg: KDnuggets [ChatGPT: Everything You **Need to Know**](https://www.kdnuggets.com/2023/01/chatgpt-everything-need-know.html) | KDnuggets [ChatGPT as a **Python Programming Assistant**](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html)
     - Webartikel: **[GPT-3's family tree](https://www.truthm.com/gpt-3s-family-tree/)** | Paper **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** (2017) von Vasvani et al. (auch als das [**Transformer**-Paper von Google](https://arxiv.org/abs/1706.03762) bekannt)
@@ -883,7 +896,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Text-zu-Bild: [The Ultimate **Stable Diffusion Prompt Guide**](https://prompthero.com/stable-diffusion-prompt-guide) von PromptHero | [Prompting **Adobe Firefly**](https://torybarber.com/prompting-adobe-firefly/) (2023) von Tory Barber
     - Webartikel [How to Use ChatGPT to Write Prompts & Prompt Templates for Adobe Firefly & Midjourney](https://www.downloadsource.net/how-to-use-chatgpt-to-write-prompts-prompt-templates-for-adobe-firefly-midjourney/n/22511/) (2023) von Jascha Luca | analog [Adobe Firefly prompt generator](https://flowgpt.com/prompt/UjVmU4bSLor1cpBxx5veq) Vorlage für GPT
   - Weiterführende Quellen: [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | reddit-Liste [Useful Prompt Engineering tools and resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) | lablab [AI Tutorials](https://lablab.ai/t) | [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
-- (AI:) Symbolische KI
+- (AI:) Symbolische Künstliche Intelligenz
   - Umfassende Referenz: **[AI-Vorlesungsskript](https://kwarc.info/teaching/AI/notes.pdf)** von Prof. Michael Kohlhase (FAU)
 - Robotik
   - Umfassende Referenzen:
@@ -1504,16 +1517,44 @@ Internet Ikonen:
   - (€:) Buch **[Holocrazy](https://www.amazon.de/dp/3800650878/)** (2016) von Brian J. Robertson
   - (€:) Bücher **[The Practice of Management](https://www.amazon.de/dp/0060878975/)** (1954) und **[The Effective Executive](https://www.amazon.de/dp/0062574345/)** (1967) von Peter Drucker
   - Nachhaltigkeit und Zukunftsfragen der Menschheit: **[Club of Rome](https://de.wikipedia.org/wiki/Club_of_Rome)** sowie deren [Studien](https://www.clubofrome.org/publications/)
+  - Video [New Work](https://www.youtube.com/watch?v=29IoGFD86QM) mit Prof. Frithjof Bergmann
+  - intrinsify-Leseliste
+    - [Eine kompakte Einführung in die Systemtheorie](https://intrinsify.de/systemtheorie-wieso-sie-fuer-moderne-unternehmensfuehrung-unverzichtbar-ist/)
+    - [Wie C-Level Funktionen Dein Führungsteam zerstören können](https://intrinsify.de/braucht-dein-unternehmen-auch-einen-chief-trust-officer/)
+    - [Glaubenssätze in traditionellen Unternehmen](https://intrinsify.de/wp-content/uploads/Glaubenssaetze.pdf)
+    - [Welches Spiel spielt Dich?](https://intrinsify.de/video/welches-spiel-spielt-dich/)
+    - [Wie lassen sich Organisationen wirksam irritieren?](https://intrinsify.de/organisationsentwicklung-wie-lassen-sich-organisationen-wirksam-irritieren/)
+    - [Beliebte Denkfehler und -fallen](https://intrinsify.de/diese-weihnachtsgeschichte-koennte-auch-in-wirtschaftsunternehmen-spielen/)
+    - [Wie diese Unternehmen die individuellen Zielvereinbarungen abgeschafft haben](https://intrinsify.de/wie-diese-unternehmen-die-individuellen-zielvereinbarungen-abgeschafft-haben/)
+    - [Welche Rolle spielt HR in der neuen Arbeitswelt?](https://intrinsify.de/welche-rolle-spielt-hr-in-der-neuen-arbeitswelt/)
+    - [5 Anzeichen, dass Eure Mitarbeiter doch noch motiviert sind](https://intrinsify.de/5-anzeichen-dass-eure-mitarbeiter-doch-noch-motiviert-sind/)
+    - [Die Ämterfalle: Wie Du Talente verheizt](https://intrinsify.de/die-aemterfalle-wie-du-talente-verheizt/)
+    - [Warum eine Führungskraft kein Coach sein kann](https://intrinsify.de/warum-eine-fuehrungskraft-kein-coach-sein-kann/)
+    - [Der Talent-Irrtum](https://intrinsify.de/der-talent-irrtum/)
+    - [Magische Emergenz](https://intrinsify.de/magische-emergenz/)
+    - [Work early, Hire late, Fire slow](https://intrinsify.de/work-early-hire-late-fire-slow/)
+    - [Wie ich mich in der Generation Y getäuscht habe](https://intrinsify.de/wie-ich-mich-in-der-generation-y-getaeuscht-habe/)
+    - [Mein perfekter Chef (den ich nie hatte)](https://intrinsify.de/mein-perfekter-chef-den-ich-nie-hatte/)
+    - [Immer gegen die Wand gelaufen](https://intrinsify.de/immer-gegen-die-wand-gelaufen-bis-ich/)
+    - [Meeting-Wahnsinn: Wieso die üblichen Tipps nichts bringen](https://intrinsify.de/meeting-wahnsinn-wieso-die-ueblichen-tipps-nichts-bringen/)
 - Strategische Planung / Unternehmenssteuerung
   - OKR (Intel, Google, …): (€) Buch [**Objectives & Key Results (OKR)**: Das agile Betriebssystem für moderne Organisationen](https://www.amazon.de/dp/B0874PCH3H) ⭐
     - Artikel [Die größten Fake News Rund um OKR](https://www.die-agilen.de/blog/die-groessten-fake-news-rund-um-okr)
   - Hoshin Kanri (Toyota, Siemens, …): [i-nexus **Hoshin Kanri** Guide](https://info.i-nexus.com/hoshin-kanri-ebook) (Management by Policy / Management by Planning)
   - (Vorläufer: **[Management by Objectives (MbO)](https://www.amazon.de/dp/0060878975/)** seit 1954 von Peter F. Drucker)
   - [**SWOT**-Analyse](https://www.wordstream.com/blog/ws/2017/12/20/swot-analysis)
+  - Nennenswerte Weisheiten: "A computer can never be held accountable. Therefore, a computer must never make management decisions." ([1979 internal presentation at IBM](https://werd.io/2024/a-computer-can-never-be-held-accountable))
 - Taktische Steuerung / KPIs
   - Webartikel [The **engineering KPIs** that actually matter](https://getdx.com/blog/engineering-kpis/)
 - Change-Management
   - Webartikel [10 Tipps zur wirksamen Transformation im Mittelstand](https://intrinsify.de/thema/transformation-im-mittelstand/) von Mark Poppenborg
+  - intrinsify-Leseliste
+    - [3 konkrete Ideen um mit einem unlösbaren Problem umzugehen](https://intrinsify.de/hilfe-ich-bin-der-new-work-beauftragte-was-nun/)
+    - [Der schädliche Zielreflex](https://intrinsify.de/der-schaedliche-zielreflex/)
+    - [Wieso wirksame Veränderung auf Appelle verzichtet](https://intrinsify.de/einfach-machen-ein-kindlicher-ratschlag/)
+    - [Verkündet Entscheidungen, keine Vorhaben](https://intrinsify.de/das-problem-mit-den-kick-off-veranstaltungen/)
+    - [Wie man ein Unternehmen erfolgreich verändert](https://intrinsify.de/change-management-new-work/)
+    - [Mit meinen Leuten geht das nicht](https://intrinsify.de/mit-meinen-leuten-geht-das-nicht/)
 - Innovationsmethoden
   - Design Thinking: Foliensatz **[Design Thinking Playbook](https://dschool.stanford.edu/s/DESIGN-THINKING-PLAYBOOK.pdf)** | Artikel [**Design thinking origin story** plus some of the people who made it all happen](https://szczpanks.medium.com/design-thinking-where-it-came-from-and-the-type-of-people-who-made-it-all-happen-dc3a05411e53) | Artikel [How to combine **Design Thinking and Agile in practice**](https://medium.com/startup-frontier/how-to-combine-design-thinking-and-agile-in-practice-36c9fc75c6e6)
   - Gurus: Prof. [David Kelley](https://www.ted.com/talks/david_kelley_human_centered_design) (MIT; Gründer von IDEO; Design Thinking)
@@ -1942,6 +1983,31 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 
 - [Open Culture](https://www.openculture.com/)
 - [Alan Watts](https://www.openculture.com/2024/10/the-wisdom-of-alan-watts-in-4-mind-expanding-animations.html)
+
+## State Actors
+
+- Einstieg
+  - Wikipedia: [Medienmanipulation](https://de.wikipedia.org/wiki/Medienmanipulation))
+  - Wikipedia: [Techniken der Propaganda und Manipulation](https://de.wikipedia.org/wiki/Techniken_der_Propaganda_und_Manipulation)
+- Int'l
+  - 1990: [Operation Sundevil and the Birth of the EFF](https://en.wikipedia.org/wiki/Operation_Sundevil) ([MIT transcript](https://www.mit.edu/hacker/part3.html))
+  - 2010: [Wikileaks](https://wikileaks.org/) / The case of [Julian Assange](https://www.amnesty.de/julian-assange-wikileaks-gruender-in-freiheit)
+  - 2011: [Revealed: US spy operation that manipulates social media](https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks)
+  - 2013: [Global Surveillance Disclosures](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>) von [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
+  - 2016: [Panama Papers](https://www.icij.org/investigations/panama-papers/)
+  - 2021: [Pandora Papers](https://www.icij.org/investigations/pandora-papers/)
+  - 2021: [Israeli Pegasus Project](https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus)
+  - 2023: [Latin America Narco Files](https://www.occrp.org/en/project/narcofiles-the-new-criminal-order)
+- EU:
+  - 2014: [Die Anstalt, ZDF, Folge 3 vom 29.04.2014](https://www.youtube.com/watch?v=VXjq9szanXA&t=2170) (Ukraine-Krise, Annexion der Krim)
+  - 2022: [Suisse Secrets](https://www.sueddeutsche.de/thema/Suisse_Secrets)
+  - 2023: [Cyprus Confidential](https://www.icij.org/investigations/cyprus-confidential/)
+- DE:
+  - 1989: [Karl Koch](https://www.spiegel.de/geschichte/karl-koch-alias-hagbard-celine-tod-eines-hackers-a-1268203.html)
+  - 1998: [Tron](https://de.wikipedia.org/wiki/Tron_(Hacker))
+  - 2013: [USA spähten Angela Merkels Handy mit Hilfe von Dänemark aus](https://www.focus.de/politik/neue-hintergruende-zum-nsa-skandal-vertrauensbruch-unter-verbuendeten-usa-spaehten-angela-merkels-handy-mit-hilfe-von-daenemark-aus_id_13346306.html)
+  - 2013: Dissertation [Meinungsmacht](https://www.amazon.de/dp/3869620706) von [Uwe Krüger](https://de.wikipedia.org/wiki/Uwe_Krüger): Der Einfluss von Eliten auf Leitmedien und Alpha-Journalisten
+
 
 ## KI im Alltag
 
