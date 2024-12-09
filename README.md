@@ -980,6 +980,15 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Weiterbildung: **[roadmap.sh](https://roadmap.sh/)** (free educational roadmaps for software engineers)
 - Berufliche Wegfindung / Persönliche Karriere
   - (€:) Buch [Durchstarten zum Traumjob](https://www.amazon.de/s?k=Durchstarten+zum+Traumjob) von Richard Nelson Bolles (engl. Original: **[What Color Is Your Parachute?](https://www.amazon.de/s?k=what+color+is+your+parachute)**)
+- Persönlichkeitsmodelle
+  - Keirsey Temperament Sorter
+    - [Wikipedia](https://de.wikipedia.org/wiki/Keirsey_Temperament_Sorter)
+    - [Original-Test](https://keirsey.com/) mit 70 dichotomen Fragen
+    - Kostenlose Varianten: [70-Fragen-Test](http://www.finest-jobs.com/Berufstest/Kostenloser-Test.html)
+  - Myers-Briggs-Typenindikator (MBTI)
+    - Beschreibung: [Wikipedia](https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator) sowie PDF [Der MBTI (Myers Briggs Typenindikator)](http://kosi.at/downloads/mbti.pdf) von Kalcher, Kos & Sponner
+    - Der kostenpflichtige [Original-Test](https://eu.themyersbriggs.com/de-DE/tools/MBTI/MBTI-personality-Types) besteht aus 144 bipolaren Fragen
+  - [Communication Preferences](https://www.rachelmacik.com/blog/2012/09/be-brief-be-bright-be-gone.html): [Insights® Discovery](http://www.insights.com/) (Yellow: Involve me.  Green: Show me you care.  Red: Be brief, be bright, be gone.  Blue: Give me details.)
 - Beziehungen, Ehe, Kinder
   - Webartikel [10 Qualities for Happier Marriages](https://www.yourtango.com/love/psychologist-reveals-men-who-choose-wives-with-these-qualities-happier-marriage)
 - Jobsuche
@@ -1014,6 +1023,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - „Mitarbeiter verlassen nicht ihre Firma, sondern ihren Chef.“ (vgl. [Gallup-Report](https://www.gallup.com/services/182216/state-american-manager-report.aspx))
     - „Anständig bis zum Schluss“ (vgl. [Frank Breckwoldt](https://www.amazon.de/dp/3869364777/))
     - „Der letzte Eindruck bleibt“ (vgl. [Recency Effekt](https://www.anti-bias.eu/biaseffekte/recency-effekt/); natürlich in Verbindung mit „Der erste Eindruck zählt“ = Primacy Effect) zusammen mit „Man sieht sich immer zweimal“
+  - Themenkomplex "Abfindungen" bei betriebsbedingten Kündigungen: [VW-Referenz in 2024](https://www.watson.de/leben/job-uni/222201372-streik-bei-vw-mitarbeiter-spricht-ueber-irre-abfindung)
 - Entrepreneurship
   - MIT-Kurs **[Becoming an Entrepreneur](https://www.edx.org/course/becoming-an-entrepreneur)** sowie ebenfalls [**Entrepreneurship 101**: Who is your customer?](https://www.edx.org/course/entrepreneurship-101-who-is-your-customer), [102: What Can You Do for Your Customer?](https://zdcs.link/73jZn?cd36=Standard&t=deals&m=content_body&e=offer&i=text-link&el=Entrepreneurship%20102%3A%20What%20Can%20You%20Do%20for%20Your%20Customer%3F%28opens%20in%20a%20new%20tab%29&cd62=article&cd63=074merJxzaZthFnADPppqgR&short_url=73jZn&u=https%3A%2F%2Fmashable.com%2Fuk%2Fdeals%2Ffree-online-courses-mit) und [103: Show Me The Money](https://zdcs.link/xmlMp?cd36=Standard&t=deals&m=content_body&e=offer&i=text-link&el=Entrepreneurship%20103%3A%20Show%20Me%20The%20Money%28opens%20in%20a%20new%20tab%29&cd62=article&cd63=074merJxzaZthFnADPppqgR&short_url=xmlMp&u=https%3A%2F%2Fmashable.com%2Fuk%2Fdeals%2Ffree-online-courses-mit)
   - [Zinsrechner/Finanzrechner](https://www.zinsen-berechnen.de/finanzrechner/top-rechner.php)
@@ -1654,7 +1664,7 @@ Internet Ikonen:
       - **WICHTIG**: Zusätzlich Uploads von Pre-Prints auf **arXiv** (d.h. zusätzlich zu der Veröffentlichung durch den Publisher einer Konferenz) sollten sowohl zu erfolgreichen Listings unter **DBLP** ⚠️ als auch unter Scopus führen (allerdings nicht unter der ursprünglichen Konferenz, sondern gelistet zugehörig zur CoRR = Computing Research Repository = arXiv-Subset)
     - **[BASE](https://www.base-search.net/Search/Advanced)**: [OAI Interface](https://www.base-search.net/about/en/faq_oai.php)
     - **[dissem.in](https://dissem.in/search/)**: [Data Sources](https://dissem.in/sources/) ([CrossRef.org](https://www.crossref.org/), [BASE](https://www.base-search.net/), [SHERPA/RoMEO](https://www.sherpa.ac.uk/romeo/), [Zotero](https://www.zotero.org/))
-  - Repositories: **[arXiv](https://arxiv.org)**, **[Zenodo](https://zenodo.org)**, [HAL](https://hal.science)
+  - Repositories: **[arXiv](https://arxiv.org)**, **[Zenodo](https://zenodo.org)**, [HAL](https://hal.science), [figshare](https://figshare.com/)
     - Hinweise: arxiv „encourages conference organizers [to use arXiv as a way to **distribute and archive conference papers**](https://info.arxiv.org/help/submit_index.html)“
       - Verwende das Feld [**Journal-ref** auch für Proceedings](https://info.arxiv.org/help/prep.html#journal)
     - arXiv Einstieg: [Submission Guidelines](https://info.arxiv.org/help/submit/index.html), Trevor Campbell [Checkliste](https://trevorcampbell.me/html/arxiv.html) ⭐, arXiv [License Information](https://info.arxiv.org/help/license/index.html), [Common Mistakes](https://info.arxiv.org/help/faq/mistakes.html) ⚠️, [Non-English Submissions](https://info.arxiv.org/help/faq/multilang.html)
@@ -1767,8 +1777,29 @@ Internet Ikonen:
 
 - Berufliche Wegfindung / Akademische Karriere
   - **[Der Postdoc-Ratgeber](https://www.academics.de/themen/postdoc)** von academics.de
-  - [Amazon: „Postdoc“](https://www.amazon.de/s?k=postdoc)
-  - lmgtfy: [Wege zur Professur](https://www.google.com/search?q=wege+zur+professur)
+    - [Amazon: „Postdoc“](https://www.amazon.de/s?k=postdoc)
+    - lmgtfy: [Wege zur Professur](https://www.google.com/search?q=wege+zur+professur)
+  - Ein paar grundlegende Aspekte (Sicht Bayern):
+    - Die Einheit LVS und SWS sind synonym und meinen an Hochschulen eine class hour von 45 Minuten.
+    - Lehrverpflichtung eines [Uni-Professors](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-3): 9 LVS pro Semester
+      - Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "Geht man von Universitätsprofessoren davon aus, eine Lehrverpflichtung von 8 LVS beanspruche etwa die Hälfte der regelmäßigen Arbeitszeit \[...\]"
+    - Lehrverpflichtung eines [FH-Professors](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-4): 18 LVS pro Semester (doppelt so hoch wie ein Uni-Prof)
+      - Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "so gilt bei einem Fachhochschulprofessor mit 18 SWS Lehrverpflichtung, dass er 20 bis 25 % für Forschungs- und sonstige Aufgaben erübrigen muss"
+    - Lehrverpflichtung eines akademischen Rats (A14; an Universitäten; als Beamte auf Lebenszeit): [das kommt darauf an](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-3)
+    - An der OTH-AW ist die [Leitlinie Globaldeputat](https://www.oth-aw.de/files/oth-aw/Formalia/Gesetze-Verordnungen/Satzungen/Leitlinie_Globallehrdeputat_gezeichnet_mit_Bekanntmachungsvermerk.pdf) der Nachfolger der LUFV, gemeinsam mit dem [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-4)
+      - (Nennenswert: Die langjährige [LUFV](https://www.hof.uni-halle.de/daten/lvv_gesetze/lvvo_by.pdf) ist seit Okt. 2024 ungültig, ersetzt durch das [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-G1_2) und hochschulindividuelle Leitlinien)
+    - Professoren haben formell keinen Urlaub, der Anspruch auf Urlaub gilt mit der vorlesungsfreien Zeit als abgegolten
+    - Aus der Leitlinie Globaldeputat an der OTH-AW: "Eine Lehrveranstaltungsstunde bildet dabei den Aufwand ab, den eine ordnungsgemäß vor- und nachbereitete 45-minütige Präsenzvorlesung regelmäßig erfordert. Eine Lehrveranstaltungsstunde entspricht bei Professuren drei Arbeitsstunden." (nicht 3h/w sondern total-cost, also auf Gesamtjahresebene)
+      - Jedes Semester hat ca. 15 Wochen: (2x18x15x3h)/a = 1620h/a
+      - Gegenrechnung: 46 w/a á 40h/w = 1840h/w; Auslastungsfaktor durch 18 LVS dann: 88% (= 1620/1840)
+    - Welchen Arbeitsaufwand 1 LVS/SWS rechtlich repräsentiert ist schwankend!
+      - Nach der Aussage von Max-Emanuel Geis würde 1 LVS während des Semesters regelmäßig 1,66 h/w entsprechen (75% von 40 h/w), unter der Annahme, dass dann die vorlesungsfreie Zeit für Urlaub, akademische Selbstverwaltung, Forschung, Transfer und Infrastruktur zur Verfügung stehen
+      - Nach der Aussage der Leitlinie Globaldeputat, unter der zu falsifizierenden Annahme die 3h fallen rein in der VL-Zeit an, wären 18 LVS = 18 x 3 h/w = 54 h/w, was aufzeigt, dass diese Arbeitsstunden offensichtlich auch in der VL-freien Zeit anfallen müssen, bspw. zur Pflege der Lehrveranstaltung
+      - Welchen nominellen Anteil die Lehre an Fachhochschulen hat, schwankt also mindesten zwischen 75 % und 88 %.
+      - Für akademische Selbstverwaltung, Forschung, Transfer und Infrastruktur bleiben nominell zw. 25 % (10 h/w) bis 12 % (4,8 h/w)
+      - Zwar eine [Studie für Österreich](https://www.gew.de/aktuelles/detailseite/zeitdruck-an-unis), aber dennoch nennenswert: "Heute liegt der Anteil akademischer Selbstverwaltung bei 16 %"
+      - Wer alle Puzzleteile im Kopf miteinander verbindet kann sich den nominell verbleibenden Anteil für Forschung, Transfer und Infrastruktur per Grundschulmathematik ausrechnen und kommt zum Ergebniss, dann an der FH die Forschung eher Freizeit sein könnte
+        - (selbstverständlich: Forschungsprofessuren an der FH gibt es mittlerweile und diese können die Lehrverpflichtung senken, sind aber nicht die Regel)
 - Berufungsverfahren
   - [**Handbuch** Studentische Mitwirkung in **Berufungskommissionen**](https://file.komapedia.org/Bkhandbuch_v2.pdf), v2, des Fachschaftsrat Mathematik an der TU Chemnitz
 - Stellenanzeigen
@@ -1983,6 +2014,7 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 
 - [Open Culture](https://www.openculture.com/)
 - [Alan Watts](https://www.openculture.com/2024/10/the-wisdom-of-alan-watts-in-4-mind-expanding-animations.html)
+- [Internationale Gerichte](https://www.lovefood.com/gallerylist/239469/die-leckersten-gerichte-aus-aller-welt-in-bildern)
 
 ## State Actors
 
