@@ -1782,11 +1782,11 @@ Internet Ikonen:
   - Ein paar grundlegende Aspekte (Sicht Bayern; Sicht Informatik/KI/MINT):
     - Altersgrenze für die Berufung in das Beamtenverhältnis:
       - Professoren: **52 Jahre** nach [Bayerisches Hochschulpersonalgesetz](http://www.gesetze-bayern.de/Content/Document/BayHSchPG/true) (danach noch als Angestellte möglich)
-      - Normale Beamten wie akademische Räte: 45 Jahre nach [Bayerisches Beamtengesetz](https://www.gesetze-bayern.de/Content/Document/BayBG-23)
+      - Normale Beamte wie akademische Räte: 45 Jahre nach [Bayerisches Beamtengesetz](https://www.gesetze-bayern.de/Content/Document/BayBG-23)
     - [Formelle Einstellungsvoraussetzungen](https://www.gesetze-bayern.de/Content/Document/BayHIG-57):
       - Immer (Uni und FH): Hochschulstudim, pädagogische Eignung, (hochwertige) **Promotion**
-      - Uni: und darüber hinaus "zusätzliche **wissenschaftliche Leistungen**" (Grobe Einordnung des Umfangs für Laien: **Habil** i.S.v. Publikationsumfang nach gängigen Habilitationsvereinbarungen bzw. Post-Doc-Phase; Ausnahmen bilden W1-Juniorprofessuren, etc. pp.)
-      - FH: darüber hinaus "mindestens **fünfjährige beruflichen Praxis**, die nach Abschluss des Hochschulstudiums erworben sein muss und von der mindestens **drei Jahre außerhalb des Hochschulbereichs** ausgeübt worden sein müssen"
+      - Uni: ... darüber hinaus "zusätzliche **wissenschaftliche Leistungen**" (Grobe Einordnung des Umfangs für Laien: **Habil** i.S.v. Publikationsumfang nach gängigen Habilitationsvereinbarungen bzw. Post-Doc-Phase; Ausnahmen bilden W1-Juniorprofessuren, etc. pp.)
+      - FH: ... darüber hinaus "mindestens **fünfjährige beruflichen Praxis**, die nach Abschluss des Hochschulstudiums erworben sein muss und von der mindestens **drei Jahre außerhalb des Hochschulbereichs** ausgeübt worden sein müssen"
     - Lehrverpflichtung
       - Terminologie: Die Lehrverpflichtungseinheit LVS und SWS sind synonym und meinen an Hochschulen eine class hour von 45 Minuten (unten nochmal eine formellere Referenz dazu)
       - Karrierepfade
@@ -1794,13 +1794,14 @@ Internet Ikonen:
           - Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "Geht man von Universitätsprofessoren davon aus, eine Lehrverpflichtung von 8 LVS beanspruche etwa die Hälfte der regelmäßigen Arbeitszeit \[...\]"
         - Lehrverpflichtung eines [**FH**-Professors](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-4): **18 LVS** pro Semester (doppelt so hoch wie ein Uni-Prof)
           - Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "so gilt bei einem Fachhochschulprofessor mit 18 SWS Lehrverpflichtung, dass er 20 bis 25 % für Forschungs- und sonstige Aufgaben erübrigen muss"
+          - Anders als Informatik/KI-Profs an der Uni halten Professoren an der FH auch selbst häufig die Übungsveranstaltungen (Übungen an Unis: häufig durch WissMAs und ggf. auch Lehr-HiWis übernommen)
         - Lehrverpflichtung eines akademischen Rats (A14; an Universitäten; als Beamte auf Lebenszeit): [das kommt darauf an](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-3)
         - Privathochschulprofessur? (Studiengänge/Hochschule akkreditiert, aber privater Trägerschaft)
           - FH-Niveau wie [IU](https://www.iu-careers.com/) oder [FOM](https://karriere.fom.de/): Mir nicht genau bekannt, mutmaßlich an 18 LVS orientiert
           - Uni-Niveau wie [Fernuni Hagen](https://jobs.fernuni-hagen.de/): Mir gänzlich unbekannt
         - \[Der Vollständigkeit halber:\] Forschungseinrichtungun wie [Fraunhofer-Institute](https://www.fraunhofer.de/en/jobs-and-career.html) oder [NIM](https://www.nim.org/jobs) in Nürnberg: Keine Lehre, reine Forschung.
       - An der OTH-AW ist die [Leitlinie Globaldeputat](https://www.oth-aw.de/files/oth-aw/Formalia/Gesetze-Verordnungen/Satzungen/Leitlinie_Globallehrdeputat_gezeichnet_mit_Bekanntmachungsvermerk.pdf) der Nachfolger der LUFV, gemeinsam mit dem [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-4)
-        - (Nennenswert: Die langjährige [LUFV](https://www.hof.uni-halle.de/daten/lvv_gesetze/lvvo_by.pdf) ist seit Okt. 2024 ungültig, ersetzt durch das [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-G1_2) und hochschulindividuelle Leitlinien)
+        - (Nennenswert: Die langjährige [LUFV](https://www.hof.uni-halle.de/daten/lvv_gesetze/lvvo_by.pdf) ist seit Okt. 2024 ungültig, eben ersetzt durch das [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-G1_2) und hochschulindividuelle Leitlinien)
       - Professoren haben formell keinen Urlaub, der Anspruch auf Urlaub gilt mit der vorlesungsfreien Zeit als abgegolten
       - Aus der Leitlinie Globaldeputat an der OTH-AW: "Eine Lehrveranstaltungsstunde bildet dabei den Aufwand ab, den eine ordnungsgemäß vor- und nachbereitete 45-minütige Präsenzvorlesung regelmäßig erfordert. Eine Lehrveranstaltungsstunde entspricht bei Professuren drei Arbeitsstunden." (nicht 3h/w sondern total-cost, also auf Gesamtjahresebene)
         - Jedes Semester hat ca. 15 Wochen: (2x18x15x3h)/a = 1620h/a
