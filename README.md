@@ -1779,27 +1779,46 @@ Internet Ikonen:
   - **[Der Postdoc-Ratgeber](https://www.academics.de/themen/postdoc)** von academics.de
     - [Amazon: „Postdoc“](https://www.amazon.de/s?k=postdoc)
     - lmgtfy: [Wege zur Professur](https://www.google.com/search?q=wege+zur+professur)
-  - Ein paar grundlegende Aspekte (Sicht Bayern):
-    - Die Einheit LVS und SWS sind synonym und meinen an Hochschulen eine class hour von 45 Minuten.
-    - Lehrverpflichtung eines [Uni-Professors](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-3): 9 LVS pro Semester
-      - Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "Geht man von Universitätsprofessoren davon aus, eine Lehrverpflichtung von 8 LVS beanspruche etwa die Hälfte der regelmäßigen Arbeitszeit \[...\]"
-    - Lehrverpflichtung eines [FH-Professors](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-4): 18 LVS pro Semester (doppelt so hoch wie ein Uni-Prof)
-      - Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "so gilt bei einem Fachhochschulprofessor mit 18 SWS Lehrverpflichtung, dass er 20 bis 25 % für Forschungs- und sonstige Aufgaben erübrigen muss"
-    - Lehrverpflichtung eines akademischen Rats (A14; an Universitäten; als Beamte auf Lebenszeit): [das kommt darauf an](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-3)
-    - An der OTH-AW ist die [Leitlinie Globaldeputat](https://www.oth-aw.de/files/oth-aw/Formalia/Gesetze-Verordnungen/Satzungen/Leitlinie_Globallehrdeputat_gezeichnet_mit_Bekanntmachungsvermerk.pdf) der Nachfolger der LUFV, gemeinsam mit dem [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-4)
-      - (Nennenswert: Die langjährige [LUFV](https://www.hof.uni-halle.de/daten/lvv_gesetze/lvvo_by.pdf) ist seit Okt. 2024 ungültig, ersetzt durch das [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-G1_2) und hochschulindividuelle Leitlinien)
-    - Professoren haben formell keinen Urlaub, der Anspruch auf Urlaub gilt mit der vorlesungsfreien Zeit als abgegolten
-    - Aus der Leitlinie Globaldeputat an der OTH-AW: "Eine Lehrveranstaltungsstunde bildet dabei den Aufwand ab, den eine ordnungsgemäß vor- und nachbereitete 45-minütige Präsenzvorlesung regelmäßig erfordert. Eine Lehrveranstaltungsstunde entspricht bei Professuren drei Arbeitsstunden." (nicht 3h/w sondern total-cost, also auf Gesamtjahresebene)
-      - Jedes Semester hat ca. 15 Wochen: (2x18x15x3h)/a = 1620h/a
-      - Gegenrechnung: 46 w/a á 40h/w = 1840h/w; Auslastungsfaktor durch 18 LVS dann: 88% (= 1620/1840)
-    - Welchen Arbeitsaufwand 1 LVS/SWS rechtlich repräsentiert ist schwankend!
-      - Nach der Aussage von Max-Emanuel Geis würde 1 LVS während des Semesters regelmäßig 1,66 h/w entsprechen (75% von 40 h/w), unter der Annahme, dass dann die vorlesungsfreie Zeit für Urlaub, akademische Selbstverwaltung, Forschung, Transfer und Infrastruktur zur Verfügung stehen
-      - Nach der Aussage der Leitlinie Globaldeputat, unter der zu falsifizierenden Annahme die 3h fallen rein in der VL-Zeit an, wären 18 LVS = 18 x 3 h/w = 54 h/w, was aufzeigt, dass diese Arbeitsstunden offensichtlich auch in der VL-freien Zeit anfallen müssen, bspw. zur Pflege der Lehrveranstaltung
-      - Welchen nominellen Anteil die Lehre an Fachhochschulen hat, schwankt also mindesten zwischen 75 % und 88 %.
-      - Für akademische Selbstverwaltung, Forschung, Transfer und Infrastruktur bleiben nominell zw. 25 % (10 h/w) bis 12 % (4,8 h/w)
-      - Zwar eine [Studie für Österreich](https://www.gew.de/aktuelles/detailseite/zeitdruck-an-unis), aber dennoch nennenswert: "Heute liegt der Anteil akademischer Selbstverwaltung bei 16 %"
-      - Wer alle Puzzleteile im Kopf miteinander verbindet kann sich den nominell verbleibenden Anteil für Forschung, Transfer und Infrastruktur per Grundschulmathematik ausrechnen und kommt zum Ergebniss, dann an der FH die Forschung eher Freizeit sein könnte
-        - (selbstverständlich: Forschungsprofessuren an der FH gibt es mittlerweile und diese können die Lehrverpflichtung senken, sind aber nicht die Regel)
+  - Ein paar grundlegende Aspekte (Sicht Bayern; Sicht Informatik/KI/MINT):
+    - Altersgrenze für die Berufung in das Beamtenverhältnis:
+      - Professoren: **52 Jahre** nach [Bayerisches Hochschulpersonalgesetz](http://www.gesetze-bayern.de/Content/Document/BayHSchPG/true) (danach noch als Angestellte möglich)
+      - Normale Beamten wie akademische Räte: 45 Jahre nach [Bayerisches Beamtengesetz](https://www.gesetze-bayern.de/Content/Document/BayBG-23)
+    - [Formelle Einstellungsvoraussetzungen](https://www.gesetze-bayern.de/Content/Document/BayHIG-57):
+      - Immer (Uni und FH): Hochschulstudim, pädagogische Eignung, (hochwertige) **Promotion**
+      - Uni: und darüber hinaus "zusätzliche **wissenschaftliche Leistungen**" (Grobe Einordnung des Umfangs für Laien: **Habil** i.S.v. Publikationsumfang nach gängigen Habilitationsvereinbarungen bzw. Post-Doc-Phase; Ausnahmen bilden W1-Juniorprofessuren, etc. pp.)
+      - FH: darüber hinaus "mindestens **fünfjährige beruflichen Praxis**, die nach Abschluss des Hochschulstudiums erworben sein muss und von der mindestens **drei Jahre außerhalb des Hochschulbereichs** ausgeübt worden sein müssen"
+    - Lehrverpflichtung
+      - Terminologie: Die Lehrverpflichtungseinheit LVS und SWS sind synonym und meinen an Hochschulen eine class hour von 45 Minuten (unten nochmal eine formellere Referenz dazu)
+      - Karrierepfade
+        - Lehrverpflichtung eines [**Uni**-Professors](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-3): **9 LVS** pro Semester
+          - Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "Geht man von Universitätsprofessoren davon aus, eine Lehrverpflichtung von 8 LVS beanspruche etwa die Hälfte der regelmäßigen Arbeitszeit \[...\]"
+        - Lehrverpflichtung eines [**FH**-Professors](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-4): **18 LVS** pro Semester (doppelt so hoch wie ein Uni-Prof)
+          - Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "so gilt bei einem Fachhochschulprofessor mit 18 SWS Lehrverpflichtung, dass er 20 bis 25 % für Forschungs- und sonstige Aufgaben erübrigen muss"
+        - Lehrverpflichtung eines akademischen Rats (A14; an Universitäten; als Beamte auf Lebenszeit): [das kommt darauf an](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-3)
+        - Privathochschulprofessur? (Studiengänge/Hochschule akkreditiert, aber privater Trägerschaft)
+          - FH-Niveau wie [IU](https://www.iu-careers.com/) oder [FOM](https://karriere.fom.de/): Mir nicht genau bekannt, mutmaßlich an 18 LVS orientiert
+          - Uni-Niveau wie [Fernuni Hagen](https://jobs.fernuni-hagen.de/): Mir gänzlich unbekannt
+        - \[Der Vollständigkeit halber:\] Forschungseinrichtungun wie [Fraunhofer-Institute](https://www.fraunhofer.de/en/jobs-and-career.html) oder [NIM](https://www.nim.org/jobs) in Nürnberg: Keine Lehre, reine Forschung.
+      - An der OTH-AW ist die [Leitlinie Globaldeputat](https://www.oth-aw.de/files/oth-aw/Formalia/Gesetze-Verordnungen/Satzungen/Leitlinie_Globallehrdeputat_gezeichnet_mit_Bekanntmachungsvermerk.pdf) der Nachfolger der LUFV, gemeinsam mit dem [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-4)
+        - (Nennenswert: Die langjährige [LUFV](https://www.hof.uni-halle.de/daten/lvv_gesetze/lvvo_by.pdf) ist seit Okt. 2024 ungültig, ersetzt durch das [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-G1_2) und hochschulindividuelle Leitlinien)
+      - Professoren haben formell keinen Urlaub, der Anspruch auf Urlaub gilt mit der vorlesungsfreien Zeit als abgegolten
+      - Aus der Leitlinie Globaldeputat an der OTH-AW: "Eine Lehrveranstaltungsstunde bildet dabei den Aufwand ab, den eine ordnungsgemäß vor- und nachbereitete 45-minütige Präsenzvorlesung regelmäßig erfordert. Eine Lehrveranstaltungsstunde entspricht bei Professuren drei Arbeitsstunden." (nicht 3h/w sondern total-cost, also auf Gesamtjahresebene)
+        - Jedes Semester hat ca. 15 Wochen: (2x18x15x3h)/a = 1620h/a
+        - Gegenrechnung: 46 w/a á 40h/w = 1840h/w; Auslastungsfaktor durch 18 LVS dann: 88% (= 1620/1840)
+      - Welchen Arbeitsaufwand 1 LVS/SWS rechtlich repräsentiert ist schwankend!
+        - Nach der Aussage von Max-Emanuel Geis würde 1 LVS während des Semesters regelmäßig 1,66 h/w entsprechen (75% von 40 h/w), unter der Annahme, dass dann die vorlesungsfreie Zeit für Urlaub, akademische Selbstverwaltung, Forschung, Transfer und Infrastruktur zur Verfügung stehen
+        - Nach der Aussage der Leitlinie Globaldeputat, unter der zu falsifizierenden Annahme die 3h fallen rein in der VL-Zeit an, wären 18 LVS = 18 x 3 h/w = 54 h/w, was aufzeigt, dass diese Arbeitsstunden offensichtlich auch in der VL-freien Zeit anfallen müssen, bspw. zur Pflege der Lehrveranstaltung
+        - Welchen nominellen Anteil die Lehre an Fachhochschulen hat, schwankt also mindesten zwischen 75 % (Min-Angabe von Max-Emanuel Geis) und 88 % (Implikation der Leitlinie Globaldeputat)
+        - Für akademische Selbstverwaltung, Forschung, Transfer und Infrastruktur bleiben nominell zw. 25 % (10 h/w) bis 12 % (4,8 h/w)
+        - Zwar eine [Studie für Österreich](https://www.gew.de/aktuelles/detailseite/zeitdruck-an-unis), aber dennoch nennenswert: "Heute liegt der Anteil akademischer Selbstverwaltung bei 16 %"
+        - Wer alle Puzzleteile im Kopf miteinander verbindet kann sich den nominell verbleibenden Anteil für Forschung, Transfer und Infrastruktur per Grundschulmathematik ausrechnen und kommt zum Ergebniss, dann an der FH die Forschung eher Freizeit sein könnte
+          - (selbstverständlich: Forschungsprofessuren an der FH gibt es mittlerweile und diese können die Lehrverpflichtung senken, sind aber nicht die Regel)
+    - Besoldung
+      - Uni: W2 und i.d.R. mit Leistungsbezügen (auch bei Erstberufung); außerdem Option auf W3-Professuren
+      - FH: [W2](https://oeffentlicher-dienst.info/beamte/by/) aber i.d.R. ohne Leistungsbezüge (auf jeden Fall eher nicht bei Erstberufung); epsilontisch wenige W3-Professuren an FHs
+      - Akademischer Rat: [A14](https://oeffentlicher-dienst.info/beamte/by/)
+      - Privathochschulprofessur: Keine Verbeamtung; Gehalt ist orientiert an W2-Besoldung, vgl. Kununu
+      - Forschungseinrichtungen (bspw. wie [Fraunhofer-Institute](https://www.fraunhofer.de/en/jobs-and-career.html) oder [NIM](https://www.nim.org/jobs) in Nürnberg): Angestelltenverhältnis, vgl. Kununu
 - Berufungsverfahren
   - [**Handbuch** Studentische Mitwirkung in **Berufungskommissionen**](https://file.komapedia.org/Bkhandbuch_v2.pdf), v2, des Fachschaftsrat Mathematik an der TU Chemnitz
 - Stellenanzeigen
