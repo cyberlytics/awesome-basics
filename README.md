@@ -1599,10 +1599,11 @@ Internet Ikonen:
     - Trainiere daher die [Art of Subtraction](https://www.google.com/search?q=art+of+subtraction)
   - Top-Themen, die **von Anfängern maßlos unterschätzt** werden ⚠️ 1. Zeit ([ISO 8602](https://en.wikipedia.org/wiki/ISO_8601); [Joda-Time Dokumentation](https://www.joda.org/joda-time/index.html); Video [Leap Seconds](https://www.youtube.com/watch?v=1E5GKh1OUoY); Timescales/[TAI-UT1](https://stjarnhimlen.se/comp/time.html)) 2. Internationalisierung (u.a. Character Encodings: [Unicode Lernmaterialien](https://github.com/jagracey/Awesome-Unicode); [UTF-8 Debugging](https://www.i18nqa.com/debug/utf8-debug.html), bspw. [Double Mis-Conversion](https://www.i18nqa.com/debug/bug-double-conversion.html))
   - Die **modernen Reiter der Apokalypse in der Aufbauorganisation** ⚠️ 1. Verantwortungsvakuum 2. Mangelverwaltung 3. Kopfmonopole 4. Rollenüberlastung
-  - **Neumannschen Gesetze**
-    1. „Alles ist immer dasselbe.“
+  - Die **Neumannschen Gesetze**:
+    - 1. Neumannsches Gesetz: „Alles ist immer dasselbe.“
       - Anmerkung: Es handelt sich um eine Abwandlung von Arthur Schopenhauers „Always to see the general in the particular is the very foundation of genius“. Allerdings eher als Verkehrung ins Gegenteil, wegen meiner Beobachtung: Wir bringen Nicht-Informatikern nach dem Abitur in einem langen Informatik-Studium die Abstraktion und Generalisierung bei. Danach setzt m.E. eine kollektive Hybris ein. Das 1. Neumann’sche Gesetz karikiert die Fähigkeit zur Generalisierung durch dessen Trivialisierung. Warum? Ich bin überzeugt, dass Informatiker im Berufsleben viel häufiger scheitern, weil wir Unterschiede nicht erkennen; und unser Stolz auf Generalisierung und Abstraktion macht uns blind. Abstraktion ist nicht das Weglassen unwichtiger Details, wie es viele Schüler in der Jugend häufig auf fehlgeleitete Weise erklärt bekommen. **Abstraktion ist die zweckgerichtete Schaffung einer verwendungsgleichen Repräsentation**. ⚠️ Weglassen ist vermeintlich leicht. Erschaffen ist sehr, sehr schwer.
-    2. „Nichts ist schlimmer als enttäuschte Erwartungen.“
+    - 2. Neumannsches Gesetz: „Nichts ist schlimmer als enttäuschte Erwartungen.“
+      - Anmerkung: Diese Weisheit hab ich offensichtlich nicht erfunden, aber ich habe über die Jahre ein enormes Anwendungspotential insbesondere in der Software-Entwicklung beobachtet, also empfehle ich stets diese Gesetzmäßigkeit in der Informatik niemals leitfertig zu mißachten.
   - Weiterführende Quellen: **[Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)** ([Einstieg](https://spaceninja.com/2015/12/08/falsehoods-programmers-believe/)), **[Awesome CTO](https://github.com/kuchin/awesome-cto)**
 - Mis-Quotations:
   - Famous [Misquotes from **History**](https://www.historyhit.com/famous-misquotes-from-history/)
