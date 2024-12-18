@@ -74,7 +74,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - FabLab (u.a. in [Nürnberg](https://fablab-nuernberg.de/) und [Erlangen](https://fablab.fau.de/))
 - IT-Notfallprinzip:
   - EN: "Did you try to turn it off and on again?"
-  - DE: "AEG" = "Aus. An. Geht."
+  - DE: "AEG" = "Aus. Ein. Geht."
 - KI-Spiele
   - [Montagsmaler](https://quickdraw.withgoogle.com/?locale=de) per Google QuickDraw
   - [Which Face is Real](http://whichfaceisreal.com/) (und als Vorbereitung: [this-person-does-not-exist](https://this-person-does-not-exist.com/de))
