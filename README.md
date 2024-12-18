@@ -64,7 +64,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Video [Harvard Professor Explains Algorithms in 5 Levels of Difficulty](https://www.youtube.com/watch?v=fkIvmfqX-t0) (Playlist: [5 Levels](https://youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N))
   - Arbeitsheft **[schulKI: Das Schulbuch](https://schulbuchki.s3-eu-central-1.ionoscloud.com/schulKI-2024-07-21-helle-edition.pdf)**
   - SchuBu [Digitale Grundbildung 3](https://www.schubu.org/t11-7) (sowie deren andere [digitalen Schulbücher](https://www.schubu.org/))
-  - Videos [Frag Fred](https://www.youtube.com/playlist?list=PLMu9JaQVxJoEWVdcNvsDnd1_dKmAkWDVA))
+  - Videos [Frag Fred](https://www.youtube.com/playlist?list=PLMu9JaQVxJoEWVdcNvsDnd1_dKmAkWDVA)
 - Ursprung in Deutschland
   - **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabensammlung](https://bwinf.de/biber/archiv/)) ⭐
   - [Calliope Mini](https://calliope.cc/) ([Anleitungen](https://calliopemini.info/), Microsoft [MakeCode](https://makecode.calliope.cc/))
@@ -72,6 +72,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Begegnungen / Creative Retreat
   - CoderDojo (u.a. in [Nürnberg](https://coderdojo-nbg.org/) und [Erlangen](http://www.coderdojo-erlangen.de/))
   - FabLab (u.a. in [Nürnberg](https://fablab-nuernberg.de/) und [Erlangen](https://fablab.fau.de/))
+- IT-Notfallprinzip:
+  - EN: "Did you try to turn it off and on again?"
+  - DE: "AEG" = "Aus. An. Geht."
 - KI-Spiele
   - [Montagsmaler](https://quickdraw.withgoogle.com/?locale=de) per Google QuickDraw
   - [Which Face is Real](http://whichfaceisreal.com/) (und als Vorbereitung: [this-person-does-not-exist](https://this-person-does-not-exist.com/de))
@@ -314,6 +317,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - OTH-intern: Moodle-Kurs **[LaTeX fürs Studium](https://moodle.oth-aw.de/course/view.php?id=18)** (Selbsteinschreibeschlüssel: "latex")
   - KOMA-Script: **[scrguide](https://komascript.de/~mkohm/scrguide.pdf)**
   - Common Anti-Patterns: enthalten in [An **essential guide** to LATEX2e usage](http://mirrors.ctan.org/info/l2tabu/english/l2tabuen.pdf) ⭐
+  - LaTeX-Humor: [Twelve LaTeX packages to get your paper accepted](https://andreas-zeller.info/2017/01/13/twelve-latex-packages-to-get-your-paper.html) von Andreas Zeller et al.
 - BibTeX: **[bibtex vs. biber and biblatex vs. natbib](https://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib)** ⭐ | **[bibtex.org](http://www.bibtex.org/)**
   - **[Tame the BeaST](http://tug.ctan.org/info/bibtex/tamethebeast/ttb_en.pdf)**
   - Common Anti-Patterns: **[How to not mess up your bibliographies with Bibtex](https://clauswilke.com/blog/2015/10/02/bibtex/)** (2015) von Claus Wilke ⭐
@@ -427,6 +431,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - [Py (#1)](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python), [Py(#2)](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
     - [C#](https://github.com/aalhour/C-Sharp-Algorithms)
     - [JavaScript](https://github.com/yangshun/lago), [TypeScript](https://github.com/Lugriz/typescript-algorithms)
+  - Aufgaben: [GfG 160](www.geeksforgeeks.org/courses/gfg-160-series) und 
   - **Graphen**
     - Einstieg: Webartikel [The Top 10 Algorithms Every Programmer Should Know In Graph Data Structure](https://dev.to/rajkousik/the-top-10-algorithms-every-programmer-should-know-in-graph-data-structure-40a5)
     - Und natürlich werden Graphen im [Cormen](https://www.amazon.de/dp/026204630X/) und anderen Algorithmik-Büchern (s.o.) behandelt
@@ -464,6 +469,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - Kata/Dojo-Kataloge: **[Kata-Log](https://kata-log.rocks)**, [Emily Baches Git Repo (Autorin von "The **Coding Dojo** Handbook")](https://github.com/emilybache/), [**Clean Code Developer** School - Coding Dojo](https://ccd-school.de/coding-dojo/), **[CodingDojo.org](https://codingdojo.org/kata/)**
     - Erkenntnisgewinn aus Katas: [Uncle Bob: The **Transformation Priority Premise**](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
     - Klassische Aufgabensammlungen: [Lösungen zum Buch **Programmieren trainieren**](https://protrain.GitHub.io/loesungen/loesungsvorschlaege-fuer-programmieraufgaben-auf-GitHub.html) (Java, Py)
+    - Algorithmen und Datenstrukturen: [GfG 160](https://www.geeksforgeeks.org/courses/gfg-160-series)
     - [Basic **Computer Games**](https://github.com/coding-horror/basic-computer-games)
     - Web-Frontend-Entwicklung: [**10 Projects** to skyrocket your coding skills](https://dev.to/bigsondev/10-projects-to-skyrocket-your-coding-skills-19hl)
   - (€:) Buch [**Structure and Interpretation of Computer Programs**: JavaScript Edition](https://www.amazon.de/dp/0262543230/) (SICP) von Abelson & Sussman, et al.
@@ -577,7 +583,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Cookies: [A practical, Complete Tutorial on **HTTP cookies**](https://www.valentinog.com/blog/cookies/) | [The Ultimate Guide to **Cookies**](https://html.com/resources/cookies-ultimate-guide/)
   - base64: freeCodeCamp [What is **base64 Encoding** and Why is it Necessary?](https://www.freecodecamp.org/news/what-is-base64-encoding/)
   - Aufgabenpool Frontend: [**10 Projects** to skyrocket your coding skills](https://dev.to/bigsondev/10-projects-to-skyrocket-your-coding-skills-19hl) | **[devdrills](https://www.devdrills.io/drills)** | Bosscoder [Master Frontend With These **Projects**](https://www.scribd.com/document/729190779/Master-Frontend-With-These-Projects)
-  - JavaScript (Client-side/Browser): Buch **[Eloquent JavaScript](https://eloquentjavascript.net/)** (2018) | **[The Modern JavaScript Tutorial](https://javascript.info/)** | **[JavaScript Summary](https://www.codeproject.com/Articles/1006192/JavaScript-Summary)**
+  - JavaScript (Client-side/Browser): Buch **[Eloquent JavaScript](https://eloquentjavascript.net/)** (2018) | **[The Modern JavaScript Tutorial](https://javascript.info/)** | **[JavaScript Summary](https://www.codeproject.com/Articles/1006192/JavaScript-Summary)** | dt. Buch [JavaScript und AJAX](https://openbook.rheinwerk-verlag.de/javascript_ajax/)
     - TypeScript: **[Getting Started with TypeScript](https://blog.teamtreehouse.com/getting-started-typescript)** | **[TypeScript Release-Notes](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html)**
     - Übersicht: freeCodeCamp [Front End JavaScript Development Handbook – **React, Angular, and Vue Compared**](https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/) | playfulprogramming.com [The Framework Field Guide - Fundamentals](https://playfulprogramming.com/collections/framework-field-guide-fundamentals)
       - Angular: **[A Better Way to Learn Angular](https://thinkster.io/tutorials/learn-angular-2)**
@@ -1611,7 +1617,7 @@ Internet Ikonen:
     - Erstes Neumannsches Gesetz: „Alles ist immer dasselbe.“ ⭐
       - Anmerkung: Es handelt sich um eine Abwandlung von Arthur Schopenhauers „Always to see the general in the particular is the very foundation of genius“. Allerdings eher als Verkehrung ins Gegenteil, wegen meiner Beobachtung: Wir bringen Nicht-Informatikern nach dem Abitur in einem langen Informatik-Studium die Abstraktion und Generalisierung bei. Danach setzt m.E. eine kollektive Hybris ein. Das 1. Neumann’sche Gesetz karikiert die Fähigkeit zur Generalisierung durch dessen Trivialisierung. Warum? Ich bin überzeugt, dass Informatiker im Berufsleben viel häufiger scheitern, weil wir Unterschiede nicht erkennen; und unser Stolz auf Generalisierung und Abstraktion macht uns blind. Abstraktion ist nicht das Weglassen unwichtiger Details, wie es viele Schüler in der Jugend häufig auf fehlgeleitete Weise erklärt bekommen. **Abstraktion ist die zweckgerichtete Schaffung einer verwendungsgleichen Repräsentation**. ⚠️ Weglassen ist vermeintlich leicht. Erschaffen ist sehr, sehr schwer.
     - Zweites Neumannsches Gesetz: „Nichts ist schlimmer als enttäuschte Erwartungen.“ ⭐
-      - Anmerkung: Diese Weisheit hab ich offensichtlich nicht erfunden, aber ich habe über die Jahre ein enormes Anwendungspotential insbesondere in der Software-Entwicklung beobachtet, also empfehle ich stets diese Gesetzmäßigkeit in der Informatik niemals leitfertig zu mißachten.
+      - Anmerkung: Diese Weisheit hab ich offensichtlich nicht erfunden, aber ich habe über die Jahre ein enormes Anwendungspotential insbesondere in der Software-Entwicklung beobachtet, also empfehle ich stets diese Gesetzmäßigkeit in der Informatik niemals leichtfertig zu mißachten.
   - Weiterführende Quellen: **[Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)** ([Einstieg](https://spaceninja.com/2015/12/08/falsehoods-programmers-believe/)), **[Awesome CTO](https://github.com/kuchin/awesome-cto)**
 - Mis-Quotations:
   - Famous [Misquotes from **History**](https://www.historyhit.com/famous-misquotes-from-history/)
@@ -1810,7 +1816,7 @@ Internet Ikonen:
     - Amazon Search: [„Postdoc“](https://www.amazon.de/s?k=postdoc)
   - Ein paar grundlegende Aspekte (Sicht Bayern; Sicht Informatik/KI/MINT):
     - Altersgrenze für die Berufung in das Beamtenverhältnis:
-      - Professoren: **52 Jahre** nach dem Bayerischen Hochschulpersonalgesetz (danach staatliche Professur noch als Angestellte:r möglich)
+      - Professoren: **52 Jahre** nach [Art. 60 Abs. 3 BayHIG](https://www.gesetze-bayern.de/Content/Document/BayHIG-60) (danach staatliche Professur noch als Angestellte:r möglich)
       - Normale Beamte wie akademische Räte: 45 Jahre nach [Bayerisches Beamtengesetz](https://www.gesetze-bayern.de/Content/Document/BayBG-23) (?)
     - [Formelle Einstellungsvoraussetzungen](https://www.gesetze-bayern.de/Content/Document/BayHIG-57):
       - Immer (Uni und FH): Hochschulstudim, pädagogische Eignung, (hochwertige) **Promotion**
