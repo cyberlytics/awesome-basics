@@ -19,42 +19,44 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 <!-- toc -->
 
-- [Awesome Informatik- und KI-Studium](#awesome-informatik--und-ki-studium)
-  - [Kinder und Jugendliche](#kinder-und-jugendliche)
-  - [Vor Eintritt in ein Bachelorstudium](#vor-eintritt-in-ein-bachelorstudium)
-  - [Vor Eintritt in ein Informatik- oder KI-Studium](#vor-eintritt-in-ein-informatik--oder-ki-studium)
-    - [Orientierung](#orientierung)
-    - [Schulischer Informatik- und KI-Stoff](#schulischer-informatik--und-ki-stoff)
-    - [Handwerkszeug](#handwerkszeug)
-  - [Vor einer wiss. Abschlussarbeit (Informatik/KI)](#vor-einer-wiss-abschlussarbeit-informatikki)
-    - [Handwerkszeug: Schreiben](#handwerkszeug-schreiben)
-    - [Handwerkszeug: Getting Sh\*t Done](#handwerkszeug-getting-sht-done)
-  - [Bachelor-Level](#bachelor-level)
-    - [Fundament](#fundament)
-    - [Bachelor Informatik/KI](#bachelor-informatikki)
-    - [B.Sc.: Big Data and Cloud Computing for AI](#bsc-big-data-and-cloud-computing-for-ai)
-    - [B.Sc.: Bonusliste](#bsc-bonusliste)
-  - [U-Literatur](#u-literatur)
-  - [Master-Level](#master-level)
-    - [Master Informatik/KI](#master-informatikki)
-    - [M.Sc.: Big Data and Cloud Computing for AI](#msc-big-data-and-cloud-computing-for-ai)
-    - [M.Sc.: Bonusliste](#msc-bonusliste)
-  - [Vor einer PhD-Phase](#vor-einer-phd-phase)
-  - [Forschungsdatenmanagement](#forschungsdatenmanagement)
-  - [Vor einer Post-Doc-Phase oder Professur](#vor-einer-post-doc-phase-oder-professur)
-    - [Bonusliste](#bonusliste)
-  - [Informatik-Nachrichten](#informatik-nachrichten)
-    - [Regionale Gruppen](#regionale-gruppen)
-  - [Filme und TV-Serien](#filme-und-tv-serien)
-  - [Humor](#humor)
-  - [KI im Alltag](#ki-im-alltag)
-  - [Job-Interview Training](#job-interview-training)
-  - [Appendix: Course Recommendations & Repos](#appendix-course-recommendations--repos)
-  - [Footer](#footer)
-    - [Future Work](#future-work)
-    - [Contribute](#contribute)
-    - [Backers](#backers)
-    - [License](#license)
+- [Kinder und Jugendliche](#kinder-und-jugendliche)
+- [Vor Eintritt in ein Bachelorstudium](#vor-eintritt-in-ein-bachelorstudium)
+- [Vor Eintritt in ein Informatik- oder KI-Studium](#vor-eintritt-in-ein-informatik--oder-ki-studium)
+  - [Orientierung](#orientierung)
+  - [Schulischer Informatik- und KI-Stoff](#schulischer-informatik--und-ki-stoff)
+  - [Handwerkszeug](#handwerkszeug)
+- [Vor einer wiss. Abschlussarbeit (Informatik/KI)](#vor-einer-wiss-abschlussarbeit-informatikki)
+  - [Handwerkszeug: Schreiben](#handwerkszeug-schreiben)
+  - [Handwerkszeug: Getting Sh\*t Done](#handwerkszeug-getting-sht-done)
+- [Bachelor-Level](#bachelor-level)
+  - [Fundament](#fundament)
+  - [Bachelor Informatik/KI](#bachelor-informatikki)
+  - [B.Sc.: Big Data and Cloud Computing for AI](#bsc-big-data-and-cloud-computing-for-ai)
+  - [B.Sc.: Bonusliste](#bsc-bonusliste)
+- [U-Literatur](#u-literatur)
+- [Master-Level](#master-level)
+  - [Master Informatik/KI](#master-informatikki)
+  - [M.Sc.: Big Data and Cloud Computing for AI](#msc-big-data-and-cloud-computing-for-ai)
+  - [M.Sc.: Bonusliste](#msc-bonusliste)
+- [Vor einer PhD-Phase](#vor-einer-phd-phase)
+- [Forschungsdatenmanagement](#forschungsdatenmanagement)
+- [Vor einer Post-Doc-Phase oder Professur](#vor-einer-post-doc-phase-oder-professur)
+  - [Bonusliste](#bonusliste)
+- [Informatik-Nachrichten](#informatik-nachrichten)
+  - [Regionale Gruppen](#regionale-gruppen)
+- [Filme und TV-Serien](#filme-und-tv-serien)
+- [Humor](#humor)
+- [Kultur](#kultur)
+- [State Actors](#state-actors)
+- [KI im Alltag](#ki-im-alltag)
+- [Öffentlichkeitsarbeit](#offentlichkeitsarbeit)
+- [Job-Interview Training](#job-interview-training)
+- [Appendix: Course Recommendations & Repos](#appendix-course-recommendations--repos)
+- [Footer](#footer)
+  - [Future Work](#future-work)
+  - [Contribute](#contribute)
+  - [Backers](#backers)
+  - [License](#license)
 
 <!-- tocstop -->
 
@@ -94,9 +96,11 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Einstieg: Schweizer [Medienkompetenz-Broschüre](https://www.jugendundmedien.ch/fileadmin/PDFs/Broschueren/Jugend_und_Medien_Broschuere_Medienkompetenz_ZHAW_2024_DE.pdf) und Aspen Institute [Medienkompetenz-Handbuch](https://www.aspeninstitute.de/wp-content/uploads/Aspen-Institute-Germany-Handbuch-Medienkompetenz-meistern-Tipps-von-SchuelerInnen-fuer-SchuelerInnen.pdf)
   - Initiative [Gutes Aufwachsen mit Medien](https://www.gutes-aufwachsen-mit-medien.de/magazin)
   - Webartikel [Desinformation & Nachrichtenkompetenz](https://www.jugendundmedien.ch/themen/desinformation-nachrichtenkompetenz) (Clickbait, Deepfakes/Deepnudes, Fake News, Filterblasen/Echokammern, Hoaxes, Trolle, ...) der Schweizer Plattform [Jugend und Medien](https://www.jugendundmedien.ch/)
-    - Kostenlose Werkzeuge der digitalen Selbstverteidigung:
-      - Freizügige Fotos/Videos löschen, für Minderjährige: [Take It Down](https://takeitdown.ncmec.org/de/) ([Teilnehmende Partner](https://takeitdown.ncmec.org/de/teilnehmende/))
-      - Freizügige Fotos/Videos löschen, für Volljährige: [StopNCII](https://stopncii.org/) ([Teilnehmende Partner](https://stopncii.org/partner/industriepartner/))
+    - Zu Deepnudes:
+      - Nennenswert: „Vom Schamgefühl her macht es keinen Unterschied, ob die Nacktbilder echt sind“
+      - Kostenlose Werkzeuge der digitalen Selbstverteidigung:
+        - Freizügige Fotos/Videos löschen, für Minderjährige: [Take It Down](https://takeitdown.ncmec.org/de/) ([Teilnehmende Partner](https://takeitdown.ncmec.org/de/teilnehmende/))
+        - Freizügige Fotos/Videos löschen, für Volljährige: [StopNCII](https://stopncii.org/) ([Teilnehmende Partner](https://stopncii.org/partner/industriepartner/))
   - Nennenswerte Medien-/Internet-Gesetzmäßigkeiten:
     - [Betteridge's law of headlines](https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines): "Any headline which ends in a question mark can be answered by the word 'no'."
     - [Cunningham's law](https://meta.m.wikimedia.org/wiki/Cunningham%27s_Law): "The best way to get the right answer on the Internet is not to ask a question, but to post the wrong answer."
@@ -132,7 +136,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - Video [Frag Fred: Wie funktioniert das Internet?](https://www.youtube.com/watch?v=e9FJPnFQWi8)
     - Kollaborative Lernumgebung WebNetSim: 1) [Leitfaden](https://webnetsim.de/LeitfadenWebNetSim.pdf) lesen, 2) [WebNetSim](https://webnetsim.de) aufrufen
     - PowerPoint [Energieverbrauch des Internets](https://www.lehrplanplus.bayern.de/sixcms/media.php/71/VV_GY_Inf_11_Energieverbrauch_des_Internets.pptx)
-  - AUD / Graphen
+  - Algo / Graphen
     - [Algo](https://info-am-gym.de/algo/): Lösung von Problemen mit Hilfe von Algorithmen
     - [Listen/Bäume/Graphen](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/Informatik_11/informatik-11-hr.pdf)
     - [GraphStream](https://graphstream-project.org): Java library for the modeling and analysis of dynamic graphs
@@ -410,9 +414,11 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Technische Informatik / Rechnerarchitektur: Vorlesung [Carnegie Mellon **Computer Architecture Lectures**](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq) | Kurs [Princeton University **Computerarchitektur**](https://www.coursera.org/learn/comparch)
   - YouTuber: [Ben Eater](https://www.youtube.com/@beneater)
   - [Windows: system **power states**](https://learn.microsoft.com/en-us/windows/win32/power/system-power-states)
+  - [Timing-Diagramme](https://plantuml.com/timing-diagram)
 - Compilerbau:
   - MOOC-Kurse von Stanford: [Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers)
-- Algorithmen und Datenstrukturen (AuD): [**Google** Tech Dev Guide: **Data Structure & Algorithms**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) | **[HappyCoders](https://www.happycoders.eu/de/algorithmen/)** (am Bsp. Java) | **[freeCodeCamp](https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/)** (am Bsp. JS)
+- Algorithmen und Datenstrukturen (AuD) / Data Structures and Algorithms (DSA)
+  - Empfohlen: [**Google** Tech Dev Guide: **Data Structure & Algorithms**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) | **[HappyCoders](https://www.happycoders.eu/de/algorithmen/)** (am Bsp. Java) | **[freeCodeCamp](https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/)** (am Bsp. JS)
   - (€:) Buch **[Algorithmen](https://www.amazon.de/dp/3868941843/)** (2014) von Sedgewick & Wayne
   - (€:) Buch **[Introduction to Algorithms](http://www.amazon.de/dp/026204630X/)** (2022) von Thomas Cormen, et al., hierzu gibts einen eigenen [Wikipedia](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)-Eintrag
   - MOOC-Kurse von Stanford: [Algorithms: Design and Analysis](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1)
@@ -431,7 +437,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - [Py (#1)](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python), [Py(#2)](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
     - [C#](https://github.com/aalhour/C-Sharp-Algorithms)
     - [JavaScript](https://github.com/yangshun/lago), [TypeScript](https://github.com/Lugriz/typescript-algorithms)
-  - Aufgaben: [GfG 160](www.geeksforgeeks.org/courses/gfg-160-series) und 
+  - Aufgaben:
+    - [GfG 160](www.geeksforgeeks.org/courses/gfg-160-series)
+    - [AlgoMaster](https://algomaster.io/practice/dsa-patterns)
   - **Graphen**
     - Einstieg: Webartikel [The Top 10 Algorithms Every Programmer Should Know In Graph Data Structure](https://dev.to/rajkousik/the-top-10-algorithms-every-programmer-should-know-in-graph-data-structure-40a5)
     - Und natürlich werden Graphen im [Cormen](https://www.amazon.de/dp/026204630X/) und anderen Algorithmik-Büchern (s.o.) behandelt
@@ -2069,6 +2077,7 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 
 ## Kultur
 
+- [nethack](https://www.nethack.org/), ausgestellt im [MoMA](https://www.moma.org/collection/works/199863), spielbar u.a. per [Pathos: Nethack Codex](https://pathos.azurewebsites.net/)
 - [Open Culture](https://www.openculture.com/)
 - [Alan Watts](https://www.openculture.com/2024/10/the-wisdom-of-alan-watts-in-4-mind-expanding-animations.html)
 - [Internationale Gerichte](https://www.lovefood.com/gallerylist/239469/die-leckersten-gerichte-aus-aller-welt-in-bildern)
