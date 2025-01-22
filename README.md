@@ -2022,21 +2022,23 @@ Internet Ikonen:
 
   - iPhone ist besser als ein Android (Stand 2025, u.a. wegen Sperrungen)
   - Chinesische Apps
-    - Anmerkung: Suche nach App mit lateinischen Buchstaben möglich, Apps selbst i.d.R. mit chinesischen Symbolen im Logo und ggf. auch in der Betitelung
-    - WeChat: wie WhatsApp, aber gesellschaftlich viel integrierter, bspw. auch zum Bezahlen auf der Straße, bspw. verknüpft mit AliPay
-    - AliPay: wie PayPal, aber gesellschaftlich viel integrierter
-    - Didi: Taxi App
-    - Gaode: wie Google Maps, aber in chinesischen Städten viel präziser
-    - Baidu: wie Google Search
-    - JD: wie Mediamarkt
-    - Taobao: wie Amazon
-    - 12306: wie die Bahn (wirklich gute App!)
-    - Dianping: wie TripAdvisor, um Restaurants zu finden und zu reservieren
-    - China Mobile: falls man von China Mobile die SIM-Karte hat
+    - (Anmerkung: Suche nach App mit lateinischen Buchstaben möglich, Apps selbst i.d.R. mit chinesischen Symbolen im Logo und ggf. auch in der Betitelung)
+    - **WeChat**: wie WhatsApp, aber gesellschaftlich viel integrierter, bspw. auch zum Bezahlen auf der Straße, bspw. verknüpft mit AliPay
+    - **AliPay**: wie PayPal, aber gesellschaftlich viel integrierter
+    - **Didi**: Taxi App
+    - **Gaode**: wie Google Maps, aber in chinesischen Städten viel präziser
+    - **Baidu**: wie Google Search
+    - **JD**: wie Mediamarkt
+    - **Taobao**: wie Amazon
+    - **12306**: wie die Bahn (wirklich gute App!)
+    - **Dianping**: wie TripAdvisor, um Restaurants zu finden und zu reservieren
+    - **China Mobile**: falls man von China Mobile die SIM-Karte hat
   - Internationale Apps:
-    - WISE: ggf. für internationalen Geldtransfer
-    - Trip.com: ggf. für Flugbuchungen (oder über Airlines direkt)
-  - Stromadapter: [Typ I (dreipolig)](https://www.amazon.de/s?k=stromadapter+china) (bspw. von Tessan oder Brennenstuhl, bzw. auch die sehr teuren schweiser SKROSS); auch als australisch/chinesisches Stecksystem bezeichnet
+    - **WISE**: ggf. für internationalen Geldtransfer
+    - **Trip.com**: ggf. für Flugbuchungen (oder über Airlines direkt)
+  - Stromadapter: [**Typ I** (dreipolig)](https://www.amazon.de/s?k=stromadapter+china)
+    - bspw. von Tessan oder Brennenstuhl, bzw. auch die sehr teuren schweizer SKROSS
+    - auch als australisch/chinesisches Stecksystem bezeichnet
 
 ## Informatik-Nachrichten
 
