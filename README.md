@@ -42,6 +42,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - [Forschungsdatenmanagement](#forschungsdatenmanagement)
 - [Vor einer Post-Doc-Phase oder Professur](#vor-einer-post-doc-phase-oder-professur)
   - [Bonusliste](#bonusliste)
+- [China-Aufenthalt](#china-aufenthalt)
 - [Informatik-Nachrichten](#informatik-nachrichten)
   - [Regionale Gruppen](#regionale-gruppen)
 - [Filme und TV-Serien](#filme-und-tv-serien)
@@ -63,7 +64,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 ## Kinder und Jugendliche
 
 - Grundverständnis ⭐
-  - Video [Harvard Professor Explains Algorithms in 5 Levels of Difficulty](https://www.youtube.com/watch?v=fkIvmfqX-t0) (Playlist: [5 Levels](https://youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N))
+  - Video [Harvard Professor Explains Algorithms in 5 Levels of Difficulty](https://www.youtube.com/watch?v=fkIvmfqX-t0) (Playlist: [5 Levels](https://youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N): [Machine Learing](https://www.youtube.com/watch?v=5q87K1WaoFI), [Hacking](https://www.youtube.com/watch?v=d9PqVcgT1kQ), [Blockchain](https://www.youtube.com/watch?v=hYip_Vuv8J0), [Virtual Reality](https://www.youtube.com/watch?v=akveRNY6Ulw))
   - Arbeitsheft **[schulKI: Das Schulbuch](https://schulbuchki.s3-eu-central-1.ionoscloud.com/schulKI-2024-07-21-helle-edition.pdf)**
   - SchuBu [Digitale Grundbildung 3](https://www.schubu.org/t11-7) (sowie deren andere [digitalen Schulbücher](https://www.schubu.org/))
   - Videos [Frag Fred](https://www.youtube.com/playlist?list=PLMu9JaQVxJoEWVdcNvsDnd1_dKmAkWDVA)
@@ -412,6 +413,10 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - Weiterführende Referenz: [Awesome RegEx](https://github.com/aloisdg/awesome-regex)
   - NP: Buch [Computers and Intractability: A Guide to the Theory of NP-Completeness](https://en.wikipedia.org/wiki/Computers_and_Intractability) (1979)
 - Technische Informatik / Rechnerarchitektur: Vorlesung [Carnegie Mellon **Computer Architecture Lectures**](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq) | Kurs [Princeton University **Computerarchitektur**](https://www.coursera.org/learn/comparch)
+  - Encodings:
+    - Unicode: Webartikel [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) von 2003
+    - Unicode in Java: Webartikel [Unicode - How to get the characters right?](https://balusc.omnifaces.org/2009/05/unicode-how-to-get-characters-right.html) von 2009
+    - base64: freeCodeCamp [What is **base64 Encoding** and Why is it Necessary?](https://www.freecodecamp.org/news/what-is-base64-encoding/)
   - YouTuber: [Ben Eater](https://www.youtube.com/@beneater)
   - [Windows: system **power states**](https://learn.microsoft.com/en-us/windows/win32/power/system-power-states)
   - [Timing-Diagramme](https://plantuml.com/timing-diagram)
@@ -426,6 +431,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - Die Mutter aller AuD-Bücher ist selbstverständlich das legendäre „**The Art of Computer Programming**" (ab 1968, in mehreren Bänden) von Donald E. Knuth (Algol 60, TeX, METAFONT; Turing Award 1974), vgl. [Wikipedia](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
     - Dicht gefolgt vom Buch „**Algorithmen und Datenstrukturen**“ (1975) von Nikolaus Wirth (Pascal, EBNF, Modula/-2, Oberon; Turing Award 1984), dessen spätere [Oberon-Variante](http://people.inf.ethz.ch/wirth/AD.pdf) von ihm kostenlos online gestellt wurde
     - Auch recht berühmt ist das Buch **[Walls and Mirros](https://www.amazon.de/dp/0201702207/)** (2011 | [Orig: 1986](https://en.wikipedia.org/wiki/Walls_and_Mirrors)), dabei steht „Walls“ für Abstract Data Types (ADT) und „Mirrors“ für Rekursion, vgl. [Wikipedia](https://en.wikipedia.org/wiki/Walls_and_Mirrors)
+  - O-Notation:
+    - Webartikel: datacamp [Big O: Intuition and Math](https://www.datacamp.com/tutorial/big-o-notation-time-complexity)
+    - Videos: Playliste [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) von Abdul Bari
   - Abstrakte Datentypen:
     - [B. Liskov. **The Power of Abstraction**. OOPSLA Keynote. 2013. (Hosted by InfoQ; with Video)](https://www.infoq.com/presentations/programming-abstraction-liskov/)
     - [John V. Guttag (Video): **Abstrakte Datentypen**](https://www.software-pioneers.com/videos/john-v-guttag)
@@ -440,6 +448,10 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Aufgaben:
     - [GfG 160](www.geeksforgeeks.org/courses/gfg-160-series)
     - [AlgoMaster](https://algomaster.io/practice/dsa-patterns)
+    - [Needcode 150](https://neetcode.io/practice?tab=neetcode150)
+    - Google Doc [Top Leetcode Questions of All Time](https://docs.google.com/spreadsheets/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP) ([Solutions](https://github.com/DestinationFAANG/Destination-FAANG-Java-Solution)) von [DestinationFAANG‬](https://www.youtube.com/watch?v=T0u5nwSA0w0&t=0s)
+    - Verwandte Lokik-Puzzles für Vorstellungsgespräche
+      - [Batteries and Flashlight Puzzle](https://www.youtube.com/watch?v=Zm1PUSfUMnE&)
   - **Graphen**
     - Einstieg: Webartikel [The Top 10 Algorithms Every Programmer Should Know In Graph Data Structure](https://dev.to/rajkousik/the-top-10-algorithms-every-programmer-should-know-in-graph-data-structure-40a5)
     - Und natürlich werden Graphen im [Cormen](https://www.amazon.de/dp/026204630X/) und anderen Algorithmik-Büchern (s.o.) behandelt
@@ -487,6 +499,10 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - freeCodeCamp [**How to Write Clean Code** – Tips and Best Practices](https://www.freecodecamp.org/news/how-to-write-clean-code/)
     - Video [How NASA writes **space-proof code**](https://www.youtube.com/watch?v=GWYhtksrmhE) (äquivalent zur Embedded-Entwicklung für die Automobilbranche)
     - Poster [clean-code-developer.de **Poster** – Prinzipien und Praktiken für mehr Softwarequalität](https://unclassified.software/files/topics/clean-code/CCD-Poster_A0_1mm.pdf) (2017)
+    - DISCLAIMER:
+      - Einige Aspekte aus Clean Code sind durchaus auch strittig (die maximale Größe für eine Methode wurde durch Uncle Bob bspw. eher niedrig angesetzt…) und 100% Clean Code gibt es in der industriellen Praxis
+      - Clean Coding muss auch noch durch Performance-aware Coding ergänzt werden muss, was auch Uncle Bob [in Interviews teilt](https://github.com/unclebob/cmuratori-discussion/blob/main/cleancodeqa.md)
+      - Dennoch: Das Buch Clean Code liefert viele grundlegende Prinzipien, die v.a. das Ziel haben technische Schulden zu vermeiden, und das ist für den Programmiereinstieg wichtig. Clean Code enthält viele begründete Vorgaben, ist aber kein Regelwerk, vielmehr ein Regel-, Werte- und Orientierungssystem, das die Qualität Ihrer Arbeit bestimmen kann.
     - Weiterführende Quelle: [Awesome Clean Code](https://github.com/kkisiele/awesome-clean-code) ([Py](https://github.com/zedr/clean-code-python), [Java](https://github.com/leonardolemie/clean-code-java), [JS](https://github.com/ryanmcdermott/clean-code-javascript)/[TS](https://github.com/labs42io/clean-code-typescript), [.NET/C#](https://github.com/thangchung/clean-code-dotnet), [PHP](https://github.com/piotrplenik/clean-code-php), [Ruby](https://github.com/uohzxela/clean-code-ruby), [Go](https://github.com/Pungyeon/clean-go-article), [Elixier](https://github.com/lucasvegi/Elixir-Code-Smells), [ABAP](https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md))
   - (€:) Buch **[Code Complete](https://www.amazon.de/dp/0735619670)** (2004) von Steve McConnell
   - Null-Pointer:
@@ -1245,6 +1261,16 @@ Internet Ikonen:
 
 - Technische Informatik für Fortgeschrittene
   - In-Memory Computing: Kurs [ETH Zürich **Processing in Memory**](https://safari.ethz.ch/projects_and_seminars/fall2021/doku.php?id=processing_in_memory)
+- Programmierung für Fortgeschrittene: High-Performance Code
+  - Grundlegend ⭐:
+    - [Performance-Aware Programming](https://www.computerenhance.com/p/table-of-contents) von Casey Muratori
+    - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) von Sergey Slotin et al.
+  - C++: E-Book [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf) sowie Werkzeug [godbolt](https://godbolt.org/)
+  - C#: (€) Buch [Writing High-Performance .NET Code](https://www.writinghighperf.net/) von Ben Watson
+    - Einstieg: Webartikel [Writing High-Performance C# and .NET Code](https://www.stevejgordon.co.uk/writing-high-performance-csharp-and-dotnet-code) von Steve Gordon
+  - Py: (€) Buch [High Performance Python](https://www.amazon.de/dp/1492055026)
+  - Rust: [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
+  - Werkzeugkasten: [Profiler](https://github.com/msaroufim/awesome-profiling)!
 - Software-Engineering (SWE) für Fortgeschrittene
   - iSAQB Certified Professional for Software Architecture (CPSA): [Liste von Lehrplänen für das Advanced Level](https://www.isaqb.org/de/downloads/)
   - System Design: **[Grokking the System Design Interview](https://designgurus.org/course/grokking-the-system-design-interview)** | [System Design Primer](https://github.com/donnemartin/system-design-primer) | [18 System Design Concepts Every Engineer Must Know Before the Interview](https://www.designgurus.io/blog/system-design-interview-fundamentals)
@@ -1578,13 +1604,15 @@ Internet Ikonen:
     - [Mein perfekter Chef (den ich nie hatte)](https://intrinsify.de/mein-perfekter-chef-den-ich-nie-hatte/)
     - [Immer gegen die Wand gelaufen](https://intrinsify.de/immer-gegen-die-wand-gelaufen-bis-ich/)
     - [Meeting-Wahnsinn: Wieso die üblichen Tipps nichts bringen](https://intrinsify.de/meeting-wahnsinn-wieso-die-ueblichen-tipps-nichts-bringen/)
-- Strategische Planung / Unternehmenssteuerung
+- Strategische Planung / Unternehmenssteuerung / Unternehmensstrategie
   - OKR (Intel, Google, …): (€) Buch [**Objectives & Key Results (OKR)**: Das agile Betriebssystem für moderne Organisationen](https://www.amazon.de/dp/B0874PCH3H) ⭐
     - Artikel [Die größten Fake News Rund um OKR](https://www.die-agilen.de/blog/die-groessten-fake-news-rund-um-okr)
   - Hoshin Kanri (Toyota, Siemens, …): [i-nexus **Hoshin Kanri** Guide](https://info.i-nexus.com/hoshin-kanri-ebook) (Management by Policy / Management by Planning)
   - (Vorläufer: **[Management by Objectives (MbO)](https://www.amazon.de/dp/0060878975/)** seit 1954 von Peter F. Drucker)
   - [**SWOT**-Analyse](https://www.wordstream.com/blog/ws/2017/12/20/swot-analysis)
-  - Nennenswerte Weisheiten: "A computer can never be held accountable. Therefore, a computer must never make management decisions." ([1979 internal presentation at IBM](https://werd.io/2024/a-computer-can-never-be-held-accountable))
+  - Nennenswerte Weisheiten:
+    - "You can't achieve the strategic until you've mastered the tactical."
+    - "A computer can never be held accountable. Therefore, a computer must never make management decisions." ([1979 internal presentation at IBM](https://werd.io/2024/a-computer-can-never-be-held-accountable))
 - Taktische Steuerung / KPIs
   - Webartikel [The **engineering KPIs** that actually matter](https://getdx.com/blog/engineering-kpis/)
 - Change-Management
@@ -1615,7 +1643,7 @@ Internet Ikonen:
         - Trainiere daher die [Art of Subtraction](https://www.google.com/search?q=art+of+subtraction)
   - Top-Themen, die **von Anfängern maßlos unterschätzt** werden:
     - ⚠️ 1. **Zeit** ([ISO 8602](https://en.wikipedia.org/wiki/ISO_8601); [Joda-Time Dokumentation](https://www.joda.org/joda-time/index.html); Video [Leap Seconds](https://www.youtube.com/watch?v=1E5GKh1OUoY); Timescales/[TAI-UT1](https://stjarnhimlen.se/comp/time.html))
-    - ⚠️ 2. **Internationalisierung** (u.a. Character Encodings: [Unicode Lernmaterialien](https://github.com/jagracey/Awesome-Unicode); [UTF-8 Debugging](https://www.i18nqa.com/debug/utf8-debug.html), bspw. [Double Mis-Conversion](https://www.i18nqa.com/debug/bug-double-conversion.html))
+    - ⚠️ 2. **Internationalisierung** (u.a. Character Encodings: [Unicode Lernmaterialien](https://github.com/jagracey/Awesome-Unicode) insbesondere [Unicode-Einstiegsartikel](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/); [UTF-8 Debugging](https://www.i18nqa.com/debug/utf8-debug.html), bspw. [Double Mis-Conversion](https://www.i18nqa.com/debug/bug-double-conversion.html))
   - Die **modernen Reiter der Apokalypse in der Aufbauorganisation**
     - ⚠️ 1. **Verantwortungsvakuum**
     - ⚠️ 2. **Mangelverwaltung**
@@ -1626,6 +1654,9 @@ Internet Ikonen:
       - Anmerkung: Es handelt sich um eine Abwandlung von Arthur Schopenhauers „Always to see the general in the particular is the very foundation of genius“. Allerdings eher als Verkehrung ins Gegenteil, wegen meiner Beobachtung: Wir bringen Nicht-Informatikern nach dem Abitur in einem langen Informatik-Studium die Abstraktion und Generalisierung bei. Danach setzt m.E. eine kollektive Hybris ein. Das 1. Neumann’sche Gesetz karikiert die Fähigkeit zur Generalisierung durch dessen Trivialisierung. Warum? Ich bin überzeugt, dass Informatiker im Berufsleben viel häufiger scheitern, weil wir Unterschiede nicht erkennen; und unser Stolz auf Generalisierung und Abstraktion macht uns blind. Abstraktion ist nicht das Weglassen unwichtiger Details, wie es viele Schüler in der Jugend häufig auf fehlgeleitete Weise erklärt bekommen. **Abstraktion ist die zweckgerichtete Schaffung einer verwendungsgleichen Repräsentation**. ⚠️ Weglassen ist vermeintlich leicht. Erschaffen ist sehr, sehr schwer.
     - Zweites Neumannsches Gesetz: „Nichts ist schlimmer als enttäuschte Erwartungen.“ ⭐
       - Anmerkung: Diese Weisheit hab ich offensichtlich nicht erfunden, aber ich habe über die Jahre ein enormes Anwendungspotential insbesondere in der Software-Entwicklung beobachtet, also empfehle ich stets diese Gesetzmäßigkeit in der Informatik niemals leichtfertig zu mißachten.
+  - Wichtige Performance-Weisheiten:
+    - „O-Notation eats Multi-Threading to breakfast“ aka „Gute Algorithmik schlägt viel Blech bei weitem“
+    - Implikation aus der Theory of Constraints: „If you optimize anything other than the bottleneck, you are rather optimizing at all“
   - Weiterführende Quellen: **[Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)** ([Einstieg](https://spaceninja.com/2015/12/08/falsehoods-programmers-believe/)), **[Awesome CTO](https://github.com/kuchin/awesome-cto)**
 - Mis-Quotations:
   - Famous [Misquotes from **History**](https://www.historyhit.com/famous-misquotes-from-history/)
@@ -1984,6 +2015,28 @@ Internet Ikonen:
       - DE: [Wie wohlhabend bin ich im Vergleich](https://www.iwkoeln.de/fileadmin/user_upload/HTML/2022/Einkommensrechner/index.html)
       - DE: Einkommensgrenzen nach Haushaltstyp als [Grenzen der Mittelschicht](https://www.arm-und-reich.de/verteilung/mittelschicht/) (zzgl. [Wahrnehmungsverzerrung in DE u. in USA](https://www.arm-und-reich.de/verteilung/wahrnehmung/))
   - Weiterführende Quellen: [Charta der Vielfalt – Links](https://www.charta-der-vielfalt.de/ueber-uns/mediathek/weiterfuehrende-links/), [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity)
+
+## China-Aufenthalt
+
+\[bspw. im Rahmen einer chinesischen Gastprofessur\]
+
+  - iPhone ist besser als ein Android (Stand 2025, u.a. wegen Sperrungen)
+  - Chinesische Apps
+    - Anmerkung: Suche nach App mit lateinischen Buchstaben möglich, Apps selbst i.d.R. mit chinesischen Symbolen im Logo und ggf. auch in der Betitelung
+    - WeChat: wie WhatsApp, aber gesellschaftlich viel integrierter, bspw. auch zum Bezahlen auf der Straße, bspw. verknüpft mit AliPay
+    - AliPay: wie PayPal, aber gesellschaftlich viel integrierter
+    - Didi: Taxi App
+    - Gaode: wie Google Maps, aber in chinesischen Städten viel präziser
+    - Baidu: wie Google Search
+    - JD: wie Mediamarkt
+    - Taobao: wie Amazon
+    - 12306: wie die Bahn (wirklich gute App!)
+    - Dianping: wie TripAdvisor, um Restaurants zu finden und zu reservieren
+    - China Mobile: falls man von China Mobile die SIM-Karte hat
+  - Internationale Apps:
+    - WISE: ggf. für internationalen Geldtransfer
+    - Trip.com: ggf. für Flugbuchungen (oder über Airlines direkt)
+  - Stromadapter: [Typ I (dreipolig)](https://www.amazon.de/s?k=stromadapter+china) (bspw. von Tessan oder Brennenstuhl, bzw. auch die sehr teuren schweiser SKROSS); auch als australisch/chinesisches Stecksystem bezeichnet
 
 ## Informatik-Nachrichten
 
