@@ -386,6 +386,13 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - (s.oben: Werkzeug-Basiswissen: [**MIT**'s The **Missing Semester** of Your CS Education](https://missing.csail.mit.edu/))
 - (s.oben: Lernen Sie **10-Finger-schreiben**)
 
+Werkzeuge:
+
+- Prompting: **[KI-Campus](https://ki-campus.org/overview/course)** inkl. [Chatbot-Sandbox](https://chat.ki-campus.org/) und [Prompt-Katalog](https://coda.io/@ki-campus/prompt-katalog)
+- **[fobizz-Tools](https://tools.fobizz.com/)**
+  - (Digitale Tafel mit Dateien und Audio-/Video-Aufnahmen teilen sowie Galerie der Unterrichtsmaterialien, fobizz Pinnwand mit Karten, Arbeitsblätter für den Unterrichtseinsatz, kollaborative Wortwolken, URL-Shortener, QR-Code-Generator, temp. Webseiten erstellen, Bildschirm-Aufnahme, Umfragen erstellen, kollaborativer Texteditor mit KI-Korrekturhilfe, KI-Chat mit fachspezifischen KI-Assistenten und historischen Menschen, KI-Promptlabor, KI-Bildgenerator, Transkription von Video/Audio/Bilder)
+- Mathe-Brückenkurse: **[OMB+](https://www.ombplus.de/)**  sowie **[rockettutor](https://www.rockettutor.de/)**
+
 ### Bachelor Informatik/KI
 
 - Philosophie, Wissenschaftstheorie und Logik
