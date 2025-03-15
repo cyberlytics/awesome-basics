@@ -315,7 +315,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Nach Abgabe Ihrer Abschlussarbeit dürfen Sie generative KI einsetzen, um sich die Abschlussarbeit zusammenzufassen zu lassen und so einen Erstentwurf für einen OTH-Forschungsbericht (ca. 2500 Wörter) oder einen Technischen Report (ca. 3000 bis 4500 Wörter) zu generieren, falls diese Beiträge nicht vorher schon erstellt wurden.
 - Lerntheorie: Sechsstufige **[Bloom’sche Taxonomie der Lernziele](https://www.bloomstaxonomy.net/)** im kognitiven Bereich
 - LaTeX-Software: siehe [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#latex--pdf) ⭐ (LaTeX-Editor, PDF-Viewer, Literaturverwaltung, …)
-- LaTeX: **[A simple guide to LaTeX – Step by Step](https://latex-tutorial.com/tutorials/)** | **[Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX)** | Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)**
+- LaTeX: **[A simple guide to LaTeX – Step by Step](https://latex-tutorial.com/tutorials/)** | **[Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX)** | Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)** | **[LearnLaTeX](https://www.learnlatex.org/)**
   - Korrekte Anführungszeichen ⚠️: lese **[Quotation Marks](https://latex.silmaril.ie/formattinginformation/quotes.html)** von Peter Flynn oder **[Formatting](https://www.andy-roberts.net/latex/formatting/)** von Andrew Roberts bzw. verwende **[csquotes](https://tex.stackexchange.com/tags/csquotes/info)** mit **\\enquote{..}** ⭐
   - Wichtige Einordnung: [The **TeX family tree**: LaTeX, **pdfTeX**, **XeTeX**, LuaTeX and ConTeXt](https://de.overleaf.com/learn/latex/Articles/The_TeX_family_tree%3A_LaTeX%2C_pdfTeX%2C_XeTeX%2C_LuaTeX_and_ConTeXt) ⭐
   - (Video-Kurs:) freeCodeCamp **[LaTeX – Full Tutorial for Beginners](https://www.youtube.com/watch?v=ydOTMQC7np0)** (2023) von Michelle Krummel
@@ -538,7 +538,7 @@ Werkzeuge:
   - MonkeyUser Comic zu [Architecture](https://www.monkeyuser.com/2018/architecture/)
   - **iSAQB** Certified Professional for Software Architecture (**CPSA**): Curriculum für das [Foundation Level](https://www.isaqb.org/download/curriculum-foundation-level/)
   - IEEE Software Engineering Body of Knowledge (**SWEBOK**): [v3](https://www.computer.org/education/bodies-of-knowledge/software-engineering/topics), ([v4](https://www.computer.org/volunteering/boards-and-committees/professional-educational-activities/software-engineering-committee/swebok-evolution)-in-spe)
-  - embarc-Artikel \*\*[Architektur ohne Firlefanz](https://www.informatik-aktuell.de/entwicklung/methoden/architektur-ohne-firlefanz-ihre-loesung-auf-einem-bierdeckel.html)\*\*⭐ sowie der Foliensatz **[Moderne Softwarearchitekturdokumentation](https://www.embarc.de/docs-as-code-etffm-2021/)**
+  - embarc-Artikel (Stefan Zörner) **[Architektur ohne Firlefanz](https://www.informatik-aktuell.de/entwicklung/methoden/architektur-ohne-firlefanz-ihre-loesung-auf-einem-bierdeckel.html)** ⭐ sowie der Foliensatz **[Moderne Softwarearchitekturdokumentation](https://www.embarc.de/docs-as-code-etffm-2021/)**
   - [**Google** Tech Dev Guide: **Software Engineering** Principles](https://techdevguide.withgoogle.com/paths/principles/)
   - (€:) Buch **[Lehrbuch der Softwaretechnik](https://link.springer.com/book/10.1007/978-3-8274-2247-7)** (2009) ⭐ von **Helmut Balzert**
   - (€:) Buch **[UML@Classroom](https://www.amazon.de/dp/3898647765/)** (2012) von Martina Seidl et al. mit [weiteren Online-Unterlagen](http://www.uml.ac.at/de/lernen)
@@ -663,6 +663,8 @@ Werkzeuge:
     - Blogartikel [**Progressive Enhancement** and the Future of Web Design](https://web.archive.org/web/20220426062904/http://www.hesketh.com/progressive_enhancement_and_the_future_of_web_design.html) (2003) von Steve Champeon, Vordenker
     - Blogartikel [**Progressive Web Apps**: Escaping Tabs Without Losing Our Soul](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) (2015) von Alex Russel \[Google\], coined the term PWA
     - Blogartikel [Getting started with **Progressive Web Apps**](https://developer.chrome.com/blog/getting-started-pwa/) (2015) von Addy Osmani \[Google\] inkl. PWA-Definition
+    - Technische Unterstützung: [PWABuilder](https://www.pwabuilder.com/)
+    - Spezialgebiet PWAs auf iOS: [Mastering Progressive Web App iOS Integration](https://mittl-medien.de/progressive-web-app-ios)
 - Mobile: [Stanford **Android App Development**](https://web.stanford.edu/class/cs193a/videos.shtml) | [Google](https://developer.android.com/guide) **[Android Developer Guides](https://developer.android.com/guide)** | [vogella](https://www.vogella.com/tutorials/android.html) **[Android Developer Tutorials](https://www.vogella.com/tutorials/android.html)**
   - Batterien: **[Battery University](https://batteryuniversity.com/articles)**
 - IT-Sicherheit/IT-Security: Buch [Holistic **Info-Sec for Web Developers**](https://holisticinfosecforwebdevelopers.com/) in drei Teilen: **[F0](https://f0.holisticinfosecforwebdevelopers.com/toc.html)**, **[F1](https://f1.holisticinfosecforwebdevelopers.com/toc.html)**, **[F2](https://f2.holisticinfosecforwebdevelopers.com/toc.html)** | Kurs **[Introduction to Cyber Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security)** von Great Learning | Stanford **[Web Security](https://web.stanford.edu/class/cs253/)**
@@ -2141,8 +2143,8 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 
 - [nethack](https://www.nethack.org/), ausgestellt im [MoMA](https://www.moma.org/collection/works/199863), spielbar u.a. per [Pathos: Nethack Codex](https://pathos.azurewebsites.net/)
 - [Open Culture](https://www.openculture.com/)
-- [Alan Watts](https://www.openculture.com/2024/10/the-wisdom-of-alan-watts-in-4-mind-expanding-animations.html)
 - [Internationale Gerichte](https://www.lovefood.com/gallerylist/239469/die-leckersten-gerichte-aus-aller-welt-in-bildern)
+- [Demokratieindex](https://de.wikipedia.org/wiki/Demokratieindex_(The_Economist))
 
 ## State Actors
 
