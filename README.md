@@ -75,6 +75,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Begegnungen / Creative Retreat
   - CoderDojo (u.a. in [Nürnberg](https://coderdojo-nbg.org/) und [Erlangen](http://www.coderdojo-erlangen.de/))
   - FabLab (u.a. in [Nürnberg](https://fablab-nuernberg.de/) und [Erlangen](https://fablab.fau.de/))
+  - KinderUni (u.a. in [Nürnberg](https://www.nuernberg.de/internet/kuf_kultur/kinderuni.html))
 - IT-Notfallprinzip:
   - EN: "Did you try to turn it off and on again?"
   - DE: "AEG" = "Aus. Ein. Geht."
@@ -87,6 +88,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - [Deep Nostalgia](https://www.myheritage.de/deep-nostalgia) von MyHeritage (Alte Photos animieren)
   - [DeepBeat](https://deepbeat.org/) (Rap-Texter)
   - Grenzen von KI: [A **GPT-4 Capability** Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
+  - Prompt Injection als LLM-Sicherheitsangriff: **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8)
 - Wichtige Lernplattformen
   - Software: **[Scratch](https://scratch.mit.edu/)** (MIT), [Code it!](https://code-it-studio.de/), [Code Combat](https://codecombat.com/)
   - Einplatinencomputer: **[Raspberry Pi](https://tutorials-raspberrypi.de/13-tolle-raspberry-pi-projekte-fuer-kinder-jugendliche/)** und **[Arduino](https://kinderprogrammieren.de/ratgeber/arduino-fuer-kinder-ratgeber-fuer-einstieg/)** ([Open Roberta Lab](https://lab.open-roberta.org/)) sowie oben bereits erwähnt das dt. **[Calliope Mini](https://calliope.cc/)** ([Anleitungen](https://calliopemini.info/), Microsoft [MakeCode](https://makecode.calliope.cc/))
@@ -165,6 +167,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Hochpreisige Roboter:
   - [**Misty** Robot](https://shop.mistyrobotics.com/)
   - [**Unitree Go** Hunderobot](https://shop.unitree.com/)
+  - [**Furhat** Robot](https://www.furhatrobotics.com/furhat-robot)
 - Kürzelkunde:
   - MINT-Fächer: Mathematik, Informatik, Naturwissenschaften, Technik
     - ≙ STEM fields: science, technology, engineering, mathematics
@@ -670,6 +673,10 @@ Werkzeuge:
 - IT-Sicherheit/IT-Security: Buch [Holistic **Info-Sec for Web Developers**](https://holisticinfosecforwebdevelopers.com/) in drei Teilen: **[F0](https://f0.holisticinfosecforwebdevelopers.com/toc.html)**, **[F1](https://f1.holisticinfosecforwebdevelopers.com/toc.html)**, **[F2](https://f2.holisticinfosecforwebdevelopers.com/toc.html)** | Kurs **[Introduction to Cyber Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security)** von Great Learning | Stanford **[Web Security](https://web.stanford.edu/class/cs253/)**
   - roadmap.sh [**Cyber Security Expert** Roadmap](https://roadmap.sh/cyber-security)
   - Vulnerability Root-Causes (aka Security-Sins): [The **CLASP** Application Security Process](https://cwe.mitre.org/documents/sources/TheCLASPApplicationSecurityProcess.pdf) (2005), Kapitel 5 | Buch [**24 Deadly Sins** of Software Security](https://www.amazon.de/dp/0071626751/) (2009) von Michael Howard
+  - Secure Coding Practices:
+    - OWASP: [Secure Coding Practices **Checklist**](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/), [OWASP **Cheat Sheet** Series](https://cheatsheetseries.owasp.org/Glossary.html), and [Secure **Coding Dojo**](https://securecodingdojo.owasp.org/public/index.html) (sources on [github](https://github.com/owasp/SecureCodingDojo))
+    - DOs and DONTs: Carnegie Mellon [SEI CERT **Coding Standards**](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) ([C](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard), [C++](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682), [Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java), [Perl](https://wiki.sei.cmu.edu/confluence/display/perl/SEI+CERT+Perl+Coding+Standard), [Android](https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard)) and Payatu ebook [The Dos and Don'ts of Secure Coding!](https://payatu.com/wp-content/uploads/2022/08/the-dos-and-donts-of-secure-coding.pdf)
+     - Online Course: codecamdemy [Secure Coding Practices in Java](https://www.codecademy.com/learn/secure-coding-practices-in-java)
   - Security-orientiertes Testing: [Syllabus der **A4Q Security Essentials**](https://www.gasq.org/files/content/gasq/downloads/certification/A4Q%20Security%20Essentials/A4Q_Security_Essentials_Syllabus.pdf) Schulung/Zertifizierung
   - Private/Persönliche IT-Sicherheit: Infosammlung **[Security-in-a-Box](https://securityinabox.org/en/)** mit grundlegenden Hinweisen und Handlungsempfehlungen | **[Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist/blob/master/README.md)**
   - Passwörter
@@ -688,11 +695,16 @@ Werkzeuge:
   - [Confidentiality, Integrity & Availability (**CIA Triad**)](https://www.splunk.com/en_us/blog/learn/cia-triad-confidentiality-integrity-availability.html)
   - Deutschland: [**BSI IT-Grundschutz** Schulungen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/it-grundschutzschulung_node.html)
   - Rollenmodell: Three Lines of Defense (TLoD) Modell [PDF](https://www.theiia.org/globalassets/documents/resources/the-iias-three-lines-model-an-update-of-the-three-lines-of-defense-july-2020/three-lines-model-updated-english.pdf) (Herkunft: [Risikomanagement](https://www.risknet.de/en/knowledge/glossary/glossary-entry/three-lines-of-defense/))
+  - LLM-Security: 
+    - Grundlagen: **[OWASP Top-10 for LLMs](https://genai.owasp.org/llm-top-10/)** und BSI-Handreichung [Sicherer, robuster und nachvollziehbarer Einsatz von KI](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Herausforderungen_und_Massnahmen_KI.pdf) ggf. zzgl. [BSI AIC4 Kriterienkatalog](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/AIC4/AI-Cloud-Service-Compliance-Criteria-Catalogue_AIC4.pdf)
+    - Prompt Injecton: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm01-prompt-injection/), [Lakera-Einführung](https://www.lakera.ai/blog/guide-to-prompt-injection) zzgl. berühmte **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8)
+    - Data Poisoning: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm042025-data-and-model-poisoning/)
   - Nennenswerte wahre Geschichten:
     - Whistleblower: [**Twitter**-Disclosure](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf) von [Peiter „Mudge“ Zatko](https://en.wikipedia.org/wiki/Peiter_Zatko), **[Global Surveillance Disclosures](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>)** von [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
     - Post-Mortems: [The Full Story of the Stunning **RSA Hack** Can Finally Be Told](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/) by WIRED
     - Dramen: **[Stuxnet](https://spectrum.ieee.org/the-real-story-of-stuxnet)**, [2024 **Sony**](https://www.vox.com/2015/1/20/18089084/sony-hack-north-korea)hack, **[SolarWinds](https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack)** hack, **[Terra/Luna](https://www.nytimes.com/2022/05/18/technology/terra-luna-cryptocurrency-do-kwon.html)** crash, **[Kaseya](https://en.wikipedia.org/wiki/Kaseya_VSA_ransomware_attack)** ransomware attack, **[log4j](https://en.wikipedia.org/wiki/Log4Shell)** Vulnerability log4shell, **[FTX](https://www.zeit.de/wirtschaft/geldanlage/2022-11/ftx-kryptowaehrungen-usa-senat-bitcoin)** Insolvenz, **[xz](https://www.heise.de/hintergrund/Die-xz-Hintertuer-das-verborgene-Oster-Drama-der-IT-9673038.html)**-Hintertür
     - Scams: [Web3 is Going Just Great](https://www.web3isgoinggreat.com) ([Leaderboard](https://www.web3isgoinggreat.com/charts/top))
+    - LLM: **[PoisonGPT](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)**
   - [**OWASP** Top Ten](https://owasp.org/www-project-top-ten/) ⚠️
   - [**HTML5 Security** Cheatssheet](https://html5sec.org/) (inkl. CSS)
   - Open Source Security: [The state of **open source security** report](https://snyk.io/reports/open-source-security/) von snyk | freeCodeCamp **[Open Source Software Security Handbook](https://www.freecodecamp.org/news/oss-security-best-practices/)**
@@ -914,7 +926,9 @@ Werkzeuge:
     - Anti-Kunst-Plagiarism: [GLAZE](https://arxiv.org/abs/2302.04222)
   - Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
   - Weiterführende Quellen: siehe [Master-Abschnitt](#msc-big-data-and-cloud-computing-for-ai)
-- Generative AI [**Generative Adversarial Networks**: Build Your First Models](https://realpython.com/generative-adversarial-networks/) | [Tensorflow GAN](https://www.tensorflow.org/tutorials/generative/dcgan) | Google Course [GAN](https://developers.google.com/machine-learning/gan)
+- Generative AI / LLMs:
+  - Einstieg GAN: [**Generative Adversarial Networks**: Build Your First Models](https://realpython.com/generative-adversarial-networks/) | [Tensorflow GAN](https://www.tensorflow.org/tutorials/generative/dcgan) | Google Course [GAN](https://developers.google.com/machine-learning/gan)
+  - Einstieg LLM: [What are Large Language Models](https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/)
   - Für Non-Technical Persons:
     - Webartikel [A jargon-free explanation of how AI large language models work](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
     - Podcast [State of Process Automation](https://www.stateofprocessautomation.com/) mit Folge [145 „**Generative KI im Mittelstand**“](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZWMwMDhjMC9wb2RjYXN0L3Jzcw/episode/M2M4ZDhmZDMtMThlNS00ODYwLWJhZmEtMDhjZmM0MWFiNjUy)
@@ -1613,6 +1627,7 @@ Internet Ikonen:
     - [Mein perfekter Chef (den ich nie hatte)](https://intrinsify.de/mein-perfekter-chef-den-ich-nie-hatte/)
     - [Immer gegen die Wand gelaufen](https://intrinsify.de/immer-gegen-die-wand-gelaufen-bis-ich/)
     - [Meeting-Wahnsinn: Wieso die üblichen Tipps nichts bringen](https://intrinsify.de/meeting-wahnsinn-wieso-die-ueblichen-tipps-nichts-bringen/)
+  - [Chris Croft](https://www.linkedin.com/learning/instructors/chris-croft)) auf LinkedIn Learning
 - Strategische Planung / Unternehmenssteuerung / Unternehmensstrategie
   - OKR (Intel, Google, …): (€) Buch [**Objectives & Key Results (OKR)**: Das agile Betriebssystem für moderne Organisationen](https://www.amazon.de/dp/B0874PCH3H) ⭐
     - Artikel [Die größten Fake News Rund um OKR](https://www.die-agilen.de/blog/die-groessten-fake-news-rund-um-okr)
@@ -1751,6 +1766,7 @@ Internet Ikonen:
     - Hinweise: arxiv „encourages conference organizers [to use arXiv as a way to **distribute and archive conference papers**](https://info.arxiv.org/help/submit_index.html)“
       - Verwende das Feld [**Journal-ref** auch für Proceedings](https://info.arxiv.org/help/prep.html#journal)
     - arXiv Einstieg: [Submission Guidelines](https://info.arxiv.org/help/submit/index.html), Trevor Campbell [Checkliste](https://trevorcampbell.me/html/arxiv.html) ⭐, arXiv [License Information](https://info.arxiv.org/help/license/index.html), [Common Mistakes](https://info.arxiv.org/help/faq/mistakes.html) ⚠️, [Non-English Submissions](https://info.arxiv.org/help/faq/multilang.html)
+      - **WICHTIG**: Die [arXiv TeXLive Version](https://info.arxiv.org/help/faq/texlive.html) ist meist nicht die neueste ⚠️. Best Practice: [Overleaf unterstützt auch ältere TeXLive-Versionen](https://www.overleaf.com/learn/latex/Overleaf_and_TeX_Live#How_often_is_TeX_Live_updated_on_Overleaf%3F), so dass mittels Overleaf bequem die technisch risikoärmste Vorbereitung für einen arXiv-Upload erfolgen kann, besser als mit der eigenen lokalen TeX-Installation. (Beispiel: biber-Versions-Konflikt zwecks .bbl-Datei)
   - Publishers:
     - Einstieg: [Scientists paid large publishers over $1 billion in four years to have their studies published with open access](https://english.elpais.com/science-tech/2023-11-21/scientists-paid-large-publishers-over-1-billion-in-four-years-to-have-their-studies-published-with-open-access.html) (2013)
     - Largest [**Academic** Publishers: Top-10](https://www.peeref.com/collections/top-10-largest-academic-publishers-in-2022) (2022), insbesondere: **Springer**, **Elsevier**, **De Gruyter**
@@ -2066,7 +2082,8 @@ Internet Ikonen:
 - Engineering Blogs: [Netflix](https://netflixtechblog.com/) TechBlog, [Uber](https://www.uber.com/blog/engineering/) Blog, [Cloudflare](https://blog.cloudflare.com/) Blog, Engineering at [Meta](https://engineering.fb.com/), [LinkedIn](https://engineering.linkedin.com/) Engineering, [Discord](https://discord.com/blog/) Blog, [AWS](https://aws.amazon.com/blogs/architecture/) Architecture, [Slack](https://slack.engineering/) Engineering, [Stripe](https://stripe.com/blog) Blog, [Airbnb](https://medium.com/airbnb-engineering) Tech Blog, [Pinterest](https://medium.com/@Pinterest_Engineering) Engineering, [Lyft](https://eng.lyft.com/) Engineering, [Canva](https://www.canva.dev/blog/engineering/) Engineering Blog, [DoorDash](https://doordash.engineering/) Engineering, uvm.
 - User Experience: [Jakob Nielsen](https://www.nngroup.com/topic/psychology-and-ux/), [IDEO](https://www.ideo.com/thinking)
 - Agile: **[Mike Cohn](https://www.mountaingoatsoftware.com/blog)**
-- Unternehmenskultur: **[intrinsify](https://intrinsify.de/)** von Lars Vollmer und Mark Poppenborg
+- Unternehmenskultur bzw. Management Training: **[intrinsify](https://intrinsify.de/)** von Lars Vollmer und Mark Poppenborg, **[Chris Croft](https://www.chriscroft.co.uk/)**
+- Venture Capitalists: **[Andreessen Horowitz](https://a16z.com/news-content/)**, …
 - Informatik-Trends:
   - Business [**Gartner** Top Strategic Technology Trends](https://www.gartner.com/en/information-technology/insights/top-technology-trends) (Gartner kostenlos per Google [Image Search](https://www.google.com/search?q=Gartner+Top+Strategic+Technology+Trends&tbm=isch)), [ToughtWorks **Technology Radar**](https://www.thoughtworks.com/radar), [**InfoQ** Trends Report](https://www.infoq.com/infoq-trends-report/)
   - Wissenschaft: [GI **Grand Challenges** der Informatik](https://gi.de/grand-challenges), [**Fraunhofer** Institute for Technological Trend Analysis (**INT**)](https://www.int.fraunhofer.de), [Forschungs- und Technologiepolitik **Bayern**](https://www.stmwi.bayern.de/wirtschaft/forschung-technologie/) (zzgl. [bayern-innovativ](https://www.bayern-innovativ.de/))
