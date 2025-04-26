@@ -97,7 +97,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - Nennenswerte nicht-programmierbare Roboter als Anschauungsobjekte: Energize Lab (v.a. [Eilik](https://www.amazon.de/s?k=eilik))
   - Drohnen: **[DJI](https://www.amazon.de/s?k=dji+drohne)** und andere
 - Medienkompetenz
-  - Einstieg: Schweizer [Medienkompetenz-Broschüre](https://www.jugendundmedien.ch/fileadmin/PDFs/Broschueren/Jugend_und_Medien_Broschuere_Medienkompetenz_ZHAW_2024_DE.pdf) und Aspen Institute [Medienkompetenz-Handbuch](https://www.aspeninstitute.de/wp-content/uploads/Aspen-Institute-Germany-Handbuch-Medienkompetenz-meistern-Tipps-von-SchuelerInnen-fuer-SchuelerInnen.pdf)
+  - Einstieg: Schweizer [Medienkompetenz-Broschüre](https://www.jugendundmedien.ch/angebote-beratung/bestellung-publikationen) und Aspen Institute [Medienkompetenz-Handbuch](https://www.aspeninstitute.de/wp-content/uploads/Aspen-Institute-Germany-Handbuch-Medienkompetenz-meistern-Tipps-von-SchuelerInnen-fuer-SchuelerInnen.pdf)
   - Initiative [Gutes Aufwachsen mit Medien](https://www.gutes-aufwachsen-mit-medien.de/magazin)
   - Webartikel [Desinformation & Nachrichtenkompetenz](https://www.jugendundmedien.ch/themen/desinformation-nachrichtenkompetenz) (Clickbait, Deepfakes/Deepnudes, Fake News, Filterblasen/Echokammern, Hoaxes, Trolle, ...) der Schweizer Plattform [Jugend und Medien](https://www.jugendundmedien.ch/)
     - Zu Deepnudes:
@@ -148,7 +148,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Künstliche Intelligenz in der Schule: code.org [**AI 101** for Teachers](https://code.org/ai/pl/101)
   - KI-Lerntutor: kostenpflichtige (€) **[schulKI](https://schulki.de/)** = DSGVO-konformer Zugriff auf LLMs/ChatGPT sowie Presets für diverse Unterrichtsfächer
   - Schweizer [mia4u](https://www.mia4u.ch/): Medien und Informatik im Unterricht
-  - [Prompt-Katalog](https://coda.io/@ki-campus/prompt-katalog) des KI-Campus, eigentlich mit Hochschulkontext, aber auch für die gymnasiale Oberstufe geeignet
+  - [Prompt-Katalog](https://coda.io/@kic/prompt-katalog) des KI-Campus, eigentlich mit Hochschulkontext, aber auch für die gymnasiale Oberstufe geeignet
   - **[fobizz-Tools](https://tools.fobizz.com/)** (Digitale Tafel mit Dateien und Audio-/Video-Aufnahmen teilen sowie Galerie der Unterrichtsmaterialien, fobizz Pinnwand mit Karten, Arbeitsblätter für den Unterrichtseinsatz, kollaborative Wortwolken, URL-Shortener, QR-Code-Generator, temp. Webseiten erstellen, Bildschirm-Aufnahme, Umfragen erstellen, kollaborativer Texteditor mit KI-Korrekturhilfe, KI-Chat mit fachspezifischen KI-Assistenten und historischen Menschen, KI-Promptlabor, KI-Bildgenerator, Transkription von Video/Audio/Bilder)
   - KI-Mathetutor: [rockettutor](https://www.rockettutor.de/)
   - Seminaraufgaben/Deutsch: [fiete.ai](https://www.fiete.ai/) = AI-basiertes Feedback zu Textaufgaben vor Abgabe an den Lehrer sowie interaktive Arbeitsblätter
@@ -451,7 +451,7 @@ Werkzeuge:
   - roadmap.sh [Computer Science Roadmap](https://roadmap.sh/computer-science)
   - Visualisierungen von AuD: [visualgo.net](https://visualgo.net/)
   - **Code-Referenzen** für Data Structures and Algorithms:
-    - Multi-Language: **[The Algorithms](https://the-algorithms.com/de)**
+    - Multi-Language: **[The Algorithms](https://the-algorithms.com)**
     - [Java (#1)](https://github.com/phishman3579/java-algorithms-implementation), [Java (#2)](https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java), [Java (#3)](https://algs4.cs.princeton.edu/code/)
     - [Py (#1)](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python), [Py(#2)](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
     - [C#](https://github.com/aalhour/C-Sharp-Algorithms)
@@ -478,7 +478,7 @@ Werkzeuge:
   - Lisp: Videokurs **[Common Lisp](https://www.classcentral.com/report/best-lisp-courses/#anchor-1)** von Neil Munro | [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl?tab=readme-ov-file#learning-and-tutorials)
   - Scheme: (€:) Buch **[Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)** (SICP) von Abelson & Sussman
   - Java: **[Think Java](https://greenteapress.com/wp/think-java/)** | **[Java-Notbuch](https://michaelkipp.de/notbuch/Java-Notbuch.pdf)** | [**Clean Code** Java](https://github.com/leonardolemie/clean-code-java)
-    - (Alternative: Java-Kompetenzen mittels [Processing](https://processing.org/de/) per **[Einführungskurs in das Programmieren mit Processing](https://michaelkipp.de/processing/)** vom Autor des Java-Notbuch)
+    - (Alternative: Java-Kompetenzen mittels [Processing](https://processing.org/) per **[Einführungskurs in das Programmieren mit Processing](https://michaelkipp.de/processing/)** vom Autor des Java-Notbuch)
     - Einsteigerempfehlungen: [String-Konkatenation](https://redfin.engineering/java-string-concatenation-which-way-is-best-8f590a7d22a8)
     - Fortführung: freeCodeCamp [Advanced Object-Oriented **Programming in Java**](https://www.freecodecamp.org/news/object-oriented-programming-in-java/)⭐
   - JS: Buch **[Eloquent JavaScript](https://eloquentjavascript.net/)** (2018) | **[The Modern JavaScript Tutorial](https://javascript.info/)** | [**Clean Code** JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) | [**Clean Code** TypeScript](https://github.com/labs42io/clean-code-typescript) | dev.to [**Objects** in JavaScript](https://dev.to/comfortdeola/a-beginners-guide-to-objects-in-javascript-59ac) + [**Spread**-Operator](https://dev.to/am20dipi/a-guide-to-spread-operator-3caj)
@@ -617,7 +617,7 @@ Werkzeuge:
   - CSS vertieft: **[CSS Grid](https://kulturbanause.de/blog/css-grid-layout-module/)** | **[Grid by Example](https://gridbyexample.com/learn/)**
   - Cookies: [A practical, Complete Tutorial on **HTTP cookies**](https://www.valentinog.com/blog/cookies/) | [The Ultimate Guide to **Cookies**](https://html.com/resources/cookies-ultimate-guide/)
   - base64: freeCodeCamp [What is **base64 Encoding** and Why is it Necessary?](https://www.freecodecamp.org/news/what-is-base64-encoding/)
-  - Aufgabenpool Frontend: [**10 Projects** to skyrocket your coding skills](https://dev.to/bigsondev/10-projects-to-skyrocket-your-coding-skills-19hl) | **[devdrills](https://www.devdrills.io/drills)** | Bosscoder [Master Frontend With These **Projects**](https://www.scribd.com/document/729190779/Master-Frontend-With-These-Projects)
+  - Aufgabenpool Frontend: [**10 Projects** to skyrocket your coding skills](https://dev.to/bigsondev/10-projects-to-skyrocket-your-coding-skills-19hl) | Bosscoder [Master Frontend With These **Projects**](https://www.scribd.com/document/729190779/Master-Frontend-With-These-Projects)
   - JavaScript (Client-side/Browser): Buch **[Eloquent JavaScript](https://eloquentjavascript.net/)** (2018) | **[The Modern JavaScript Tutorial](https://javascript.info/)** | **[JavaScript Summary](https://www.codeproject.com/Articles/1006192/JavaScript-Summary)** | dt. Buch [JavaScript und AJAX](https://openbook.rheinwerk-verlag.de/javascript_ajax/)
     - TypeScript: **[Getting Started with TypeScript](https://blog.teamtreehouse.com/getting-started-typescript)** | **[TypeScript Release-Notes](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html)**
     - Übersicht: freeCodeCamp [Front End JavaScript Development Handbook – **React, Angular, and Vue Compared**](https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/) | playfulprogramming.com [The Framework Field Guide - Fundamentals](https://playfulprogramming.com/collections/framework-field-guide-fundamentals)
@@ -681,11 +681,11 @@ Werkzeuge:
     - DOs and DONTs: Carnegie Mellon [SEI CERT **Coding Standards**](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) ([C](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard), [C++](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682), [Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java), [Perl](https://wiki.sei.cmu.edu/confluence/display/perl/SEI+CERT+Perl+Coding+Standard), [Android](https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard)) and Payatu ebook [The Dos and Don'ts of Secure Coding!](https://payatu.com/wp-content/uploads/2022/08/the-dos-and-donts-of-secure-coding.pdf)
     - Online Course: codecademy [Secure Coding Practices in Java](https://www.codecademy.com/learn/secure-coding-practices-in-java)
     - Security-orientiertes Testing: [Syllabus der **A4Q Security Essentials**](https://www.gasq.org/files/content/gasq/downloads/certification/A4Q%20Security%20Essentials/A4Q_Security_Essentials_Syllabus.pdf) Schulung/Zertifizierung
-  - Private/Persönliche IT-Sicherheit: Infosammlung **[Security-in-a-Box](https://securityinabox.org/en/)** mit grundlegenden Hinweisen und Handlungsempfehlungen | **[Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist/blob/master/README.md)**
+  - Private/Persönliche IT-Sicherheit: Infosammlung **[Security-in-a-Box](https://securityinabox.org/en/)** mit grundlegenden Hinweisen und Handlungsempfehlungen | **[Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)**
   - Passwörter
     - Passwort-Stärke: [Hivesystems Password Table](https://www.hivesystems.com/password)
     - XKCD Comic: [Password Strength](https://xkcd.com/936/)
-    - Passwort-Listen: [**SecList**-Sammlung](https://github.com/danielmiessler/SecLists) | [**SkullSecurity**-Sammlung](https://wiki.skullsecurity.org/index.php/Passwords) | [**haveibeenowned**-Downloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) | [weitere…](https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/)
+    - Passwort-Listen: [**SecList**-Sammlung](https://github.com/danielmiessler/SecLists) | [**SkullSecurity**-Sammlung](https://www.skullsecurity.org/wiki/Passwords) | [**haveibeenowned**-Downloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) | [weitere…](https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/)
   - E-Mail-Verschlüsselung: [Einführung in die Funktionsweise von **OpenPGP/GnuPG**](https://www.hauke-laging.de/sicherheit/openpgp.html)
   - Cryptography: **[Crypto 101](https://www.crypto101.io/)**
   - SSH: [Linux](https://zah.uni-heidelberg.de/it-guide/ssh-tutorial-linux) | [Windows](https://www.makeuseof.com/tag/4-easy-ways-to-use-ssh-in-windows/) (→ [EdDSA/**Ed25519**](https://ed25519.cr.yp.to/))
@@ -795,7 +795,7 @@ Werkzeuge:
     - Post-Mortems: **[Kubernetes Failure Stories](https://k8s.af/)**
   - [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code) (IaC):
     - TerraForm: [**TerraForm** Curriculum](https://learn.hashicorp.com/terraform) (von HashiCorp Learn) | freeCodeCamp [Terraform Certified Associate](https://www.freecodecamp.org/news/terraform-certified-associate-003-study-notes/) | [Awesome Terraform](https://github.com/cloud-architecture/awesome-terraform)
-    - (Weiterführende Quellen: s. unten B.Sc. » [Cloud Computing](#cloud-computing), Abschnitt DevOps)
+    - (Weiterführende Quellen: s. unten Abschnitt DevOps; ebenfalls hier in B.Sc. » Cloud Computing)
   - Backend-as-a-Service/BaaS: Google [Firebase](https://dev.to/mrcflorian/10-essential-firebase-tutorials-for-beginners-4i39) (geeignet für Einsteiger), AWS [Amplify](https://medium.com/@skumar.saurabh/building-server-less-web-application-using-aws-amplify-c25aaff3cf82) (für Einsteiger eher ungeeignet, dafür mehr Funktionalitäten und Features)
     - Unter Entwicklungs- und Wartungsverantwortung ist bei BaaS v.a. das Frontend, der Backend-Bereich obliegt dem Cloud Service Provider und der Entwickler kann i.d.R. nur die vorgefertigten Dienste nutzen und eigene Logik eher nur per Lambdas/Serverless-Functions ergänzen
   - Serverless/FaaS: [A crash course on (AWS and) **Serverless with Node.js**](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44) | Kurs [**Practical beginners course** to (AWS and) Serverless Applications](https://www.udemy.com/course/introduction-to-serverless-aws/)
@@ -1150,7 +1150,7 @@ Werkzeuge:
     - ISO, EU, DIN, NIST, …, BSI, …
       - Anmerkung: Die NIST ist das National Institute of Standards and Technology in den USA, vergleichbar mit dem Deutschen Institut für Normung (DIN)
     - IETF (RFC), IEEE, ITU, IEC, …
-    - W3C (HTML, DOM, XML, CSS, SVG, RDF, OWL, SPARQL, SOAP, WASM), OMG (UML, MOF, SysML, CORBA), OASIS (AMQP, MQTT, SAML, DocBook, DITA), …, JCP/JSR (JVM, JMX, JDBC, JPA), OSGi, OSI (), …
+    - W3C (HTML, DOM, XML, CSS, SVG, RDF, OWL, SPARQL, SOAP, WASM), OMG (UML, MOF, SysML, CORBA), OASIS (AMQP, MQTT, SAML, DocBook, DITA), …, JCP/JSR (JVM, JMX, JDBC, JPA), OSGi, OSI, …
     - Linux Foundation (OpenAPI Specification aka Swagger Specification, …)
   - Tool-Äquivalent: Foundations
     - FSF = Free Software Foundation (GNU Project, Emacs, bash, Octave, …), Linux Foundation (Kernel, Cloud Foundry, PyTorch, …), KDE e.V., GNOME Foundation, 
@@ -1338,7 +1338,7 @@ Internet Ikonen:
 - Testing für Fortgeschrittene
   - TDD: (€) Buch [**Test-Driven Development**: By Example](https://www.amazon.de/dp/0321146530/) von Kent Beck
   - Agiles Testen: [Syllabus der ISTQB **Agile Tester**](http://www.german-testing-board.info/wp-content/uploads/2016/07/Certified-Tester-Foundation-Level-Extension-Syllabus-Agile-Tester-%E2%80%93-Deutsch.pdf) Schulung/Zertifizierung
-  - Modell-basiertes Testen: [Syllabus der ISTQB Model-based Tester](http://http://) Schulung/Zertifizierung
+  - Modell-basiertes Testen: [Syllabus der ISTQB Model-based Tester](https://astqb.org/assets/documents/MBT-Syllabus-2015-GA.pdf) Schulung/Zertifizierung
   - ArchUnit: [Automatisierte Architekturprüfungen mit **ArchUnit** – Praxiswissen](https://blog.viadee.de/archunit-praxiswissen)
   - Load Testing: [guru99 **JMeter** Tutorial for Beginners](https://www.guru99.com/jmeter-tutorials.html)
   - Container: [Docker **TestContainers** in Java Tests](https://www.baeldung.com/docker-test-containers)
