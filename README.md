@@ -4,14 +4,15 @@
 [//]: # (Licence: CC BY 4.0)
 [//]: # (Kurztitel: Digitaler Ressourcen-Pool)
 [//]: # (Lemma: basics)
+[//]: # (lt_language: de-DE)
 
 # Awesome Informatik- und KI-Studium
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-Dies ist mein Digitaler Ressourcen-Pool für Informatik/KI. Entstanden an der [OTH Amberg-Weiden](https://www.oth-aw.de/cpn), welche für ein paar Einträge entsprechend den Kontext bildet.
+Dies ist mein digitaler Ressourcen-Pool für Informatik/KI. Entstanden an der [OTH Amberg-Weiden](https://www.oth-aw.de/cpn), welche für ein paar Einträge entsprechend den Kontext bildet.
 
-Die folgenden Listen enthalten **kostenlose** Online-**Materialien** sowie ausgewählte **Bücher**, letztere als kostenpflichtig/„(€)“ markiert aber auch per Bibliothek beziehbar. Die Lernmaterialien dienen dem **Selbststudium** und zum Ausgleich von **heterogenen Vorkenntnissen**. Die kostenlosen Lernmaterialien sind nicht immer Best-in-Class im Vergleich zu kostenpflichtigen Alternativen, dennoch bleiben kostenpflichtige Angebote hier meist Out-of-Scope. Im Zweifelsfall ist die Auswahl subjektiv gefärbt durch mein Lehrgebiet „Big Data und Cloud-Computing für KI“.
+Die folgenden Listen enthalten **kostenlose** Online-**Materialien** sowie ausgewählte **Bücher**, letztere als kostenpflichtig/„(€)“ markiert aber auch per Bibliothek beziehbar. Diese Lernmaterialien dienen dem **Selbststudium** und zum Ausgleich von **heterogenen Vorkenntnissen**. Die kostenlosen Lernmaterialien sind nicht immer Best-in-Class im Vergleich zu kostenpflichtigen Alternativen, dennoch bleiben kostenpflichtige Angebote hier meist Out-of-Scope. Im Zweifelsfall ist die Auswahl subjektiv gefärbt durch mein Lehrgebiet „Big Data und Cloud-Computing für KI“.
 
 Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeuge » Abschlussarbeiten](https://github.com/cyberlytics/awesome-thesis-tools), [Werkzeuge » Software-Engineering](https://github.com/cyberlytics/awesome-software-engineering-tools) und [Werkzeuge » BDCC/AI](https://github.com/cyberlytics/awesome-bdccai-tools).
 
@@ -64,7 +65,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 ## Kinder und Jugendliche
 
 - Grundverständnis ⭐
-  - Video [Harvard Professor Explains Algorithms in 5 Levels of Difficulty](https://www.youtube.com/watch?v=fkIvmfqX-t0) (Playlist: [5 Levels](https://youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N): [Machine Learing](https://www.youtube.com/watch?v=5q87K1WaoFI), [Hacking](https://www.youtube.com/watch?v=d9PqVcgT1kQ), [Blockchain](https://www.youtube.com/watch?v=hYip_Vuv8J0), [Virtual Reality](https://www.youtube.com/watch?v=akveRNY6Ulw))
+  - Video [Harvard Professor Explains Algorithms in 5 Levels of Difficulty](https://www.youtube.com/watch?v=fkIvmfqX-t0) (Playlist: [5 Levels](https://youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N): [Machine Learning](https://www.youtube.com/watch?v=5q87K1WaoFI), [Hacking](https://www.youtube.com/watch?v=d9PqVcgT1kQ), [Blockchain](https://www.youtube.com/watch?v=hYip_Vuv8J0), [Virtual Reality](https://www.youtube.com/watch?v=akveRNY6Ulw))
   - Arbeitsheft **[schulKI: Das Schulbuch](https://schulbuchki.s3-eu-central-1.ionoscloud.com/schulKI-2024-07-21-helle-edition.pdf)**
   - SchuBu [Digitale Grundbildung 3](https://www.schubu.org/t11-7) (sowie deren andere [digitalen Schulbücher](https://www.schubu.org/))
   - Videos [Frag Fred](https://www.youtube.com/playlist?list=PLMu9JaQVxJoEWVdcNvsDnd1_dKmAkWDVA)
@@ -85,7 +86,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - [Real or AI Quiz](https://britannicaeducation.com/blog/quiz-real-or-ai/) von Britannica
   - [ArtBot](https://learnml.eu/artbot.php) von [LearnML](https://learnml.eu/games.php) (ML-Grundmechanismen)
   - [Human or Not](https://humanornot.so/) (ein Live-Turingtest per Chatting)
-  - [Deep Nostalgia](https://www.myheritage.de/deep-nostalgia) von MyHeritage (Alte Photos animieren)
+  - [Deep Nostalgia](https://www.myheritage.de/deep-nostalgia) von MyHeritage (Alte Fotos animieren)
   - [DeepBeat](https://deepbeat.org/) (Rap-Texter)
   - Grenzen von KI: [A **GPT-4 Capability** Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
   - Prompt Injection als LLM-Sicherheitsangriff: **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8))
@@ -134,7 +135,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
     - Videos [Datenschutz leicht erklärt](https://www.datenschutz-leicht-erklaert.de)
     - Data Mining: [orange DataMining](https://orangedatamining.com)
   - Krytographie
-    - Video [Die Geschichte der Kryptographie](https://mundo.schule/details/SODIX-0001004402) von Stefan Müller
+    - Video [Die Geschichte der Kryptografie](https://mundo.schule/details/SODIX-0001004402) von Stefan Müller
   - Netzwerke
     - Video [Frag Fred: Wie funktioniert das Internet?](https://www.youtube.com/watch?v=e9FJPnFQWi8)
     - Kollaborative Lernumgebung WebNetSim: 1) [Leitfaden](https://webnetsim.de/LeitfadenWebNetSim.pdf) lesen, 2) [WebNetSim](https://webnetsim.de) aufrufen
@@ -203,11 +204,11 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - **[Tastaturkürzel](https://www.presentationload.de/blog/powerpoint-shortcuts/)** (mind. **F5** und **Shift-F5**⭐ sowie das **numerische Springen zu einer Foliennummer**)
   - zzgl. [Editier-**Tastaturkürzel und Maus**-Kombinationen](https://www.ionos.de/digitalguide/online-marketing/verkaufen-im-internet/powerpoint-shortcuts/)
   - PowerPoint-Vorlagen
-    - Einstieg in die [verschiedenen **Template**-Aspekte](https://www.brightcarbon.com/blog/how-to-create-powerpoint-templates/) in Powerpoint
+    - Einstieg in die [verschiedenen **Template**-Aspekte](https://www.brightcarbon.com/blog/how-to-create-powerpoint-templates/) in PowerPoint
     - Migrationen: [Legacy Slides – Best Practices](https://www.brandwares.com/bestpractices/2018/11/legacy-slides-brandwares-best-practices/)
-    - Farb-Paletten als [**Themes** in Powerpoint/Word/Excel](https://www.brightcarbon.com/blog/consistently-brand-powerpoint-excel-word/) (\*.thmx Dateien)
+    - Farb-Paletten als [**Themes** in PowerPoint/Word/Excel](https://www.brightcarbon.com/blog/consistently-brand-powerpoint-excel-word/) (\*.thmx Dateien)
     - Der Vollständigkeit halber: [Chart Templates](https://www.brightcarbon.com/blog/consistently-brand-graphs-and-charts/)
-  - Wegen PowerPoint-Add-Ins: siehe [Schwesterseite zu Werkzeugen](../tools/add-ins/index.html)
+  - Wegen PowerPoint-Add-Ins: siehe [Schwesterseite zu Werkzeugen](https://github.com/cyberlytics/awesome-thesis-tools#plug-ins--add-ins--extensions)
   - Wichtige Funktion für Textfelder zwecks deren Default-Sprache und -Schriftart: "[Als Standardtextfeld festlegen](https://www.pcs-campus.de/office/powerpoint/textfelder/)"
   - PowerPoint hat eine [eingebaute compress pictures Funktion](https://support.microsoft.com/de-de/office/verringern-der-dateigr%C3%B6%C3%9Fe-ihrer-powerpoint-pr%C3%A4sentationen-9548ffd4-d853-41e7-8e40-b606bca036b4) (Für Fortgeschrittene: Webartikel [Reduce **PPT file size**](https://neuxpower.com/blog/why-is-my-powerpoint-so-big-and-how-can-i-reduce-the-size-of-the-ppt)) ⚠️
 - Mathematik: [Brückenkurs](https://www.ombplus.de/) **[OMB+](https://www.ombplus.de/)** ⭐
@@ -273,8 +274,8 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 ### Handwerkszeug: Schreiben
 
-- (s.oben: Lernen Sie **10-Finger-schreiben**)
-- Meine [**Erste-Hilfe**-Hinweise](../thesis-prep/erste-hilfe/index.html) für Abschlussarbeiten
+- (s. oben: Lernen Sie **10-Finger-schreiben**)
+- Meine [**Erste-Hilfe**-Hinweise](https://www.oth-aw.de/neumann/thesis-prep/#erste-hilfe) für Abschlussarbeiten
 - Scribbr-Einführungen zu **[Bachelorarbeiten](https://www.scribbr.de/category/anfang-abschlussarbeit/)**, **[Masterarbeiten](https://www.scribbr.de/category/masterarbeit/)**, **[Dissertationen](https://www.scribbr.de/category/dissertation-doktorarbeit/)**
 - Exposé/Anbahnung:
   - Einführung: [**Exposé** gliedern](https://www.scribbr.de/aufbau-und-gliederung/expose-bachelorarbeit/)
@@ -334,7 +335,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Zitierbare Software? **[Zenodo](https://about.zenodo.org/)** oder [citation.**cff**-Dateien](https://citation-file-format.GitHub.io/)
 - Paper Submission? [International Conference on **Cloud Computing**, GRIDs, and Virtualization](https://www.iaria.org/conferences/CLOUDCOMPUTING.html)
   - Eine Research Community auch für studentische Publikationen; explizit beginnerfreundlich
-  - Es gibt ein LaTeX-Vorlage von mir: **[iaria.cls](https://ctan.org/pkg/iaria)** (vollständige IARIA [formating](https://www.overleaf.com/latex/templates/iaria/hxyjztwvpjkf) rules, allerdings nur pdflatex+biber, dafür inkl. IARIA citation style) und **[iaria-lite.cls](https://ctan.org/pkg/iaria-lite)** (mit den meisten der IARIA formatting rules, dafür beliebiges tex-Tooling, aber bei den citation formattings nur mit IEEE-style und ohne IARIA-style) sowie ein Overleaf-Template als [Minimal Working Example (MWE)](https://www.overleaf.com/project/6603e95f2a0ded628482ed78)
+  - Es gibt ein LaTeX-Vorlage von mir: **[iaria.cls](https://ctan.org/pkg/iaria)** (vollständige IARIA [formating](https://www.overleaf.com/latex/templates/iaria/hxyjztwvpjkf) rules, allerdings nur pdflatex+biber, dafür inkl. IARIA citation style) und **[iaria-lite.cls](https://ctan.org/pkg/iaria-lite)** (mit den meisten der IARIA formatting rules, dafür beliebiges tex-Tooling, aber beim citation formatting nur mit IEEE-style und ohne IARIA-style) sowie ein Overleaf-Template als [Minimal Working Example (MWE)](https://www.overleaf.com/project/6603e95f2a0ded628482ed78)
 
 ### Handwerkszeug: Getting Sh\*t Done
 
@@ -342,9 +343,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Betriebssystemadministration und Shell-Scripting
   - Windows: **[Windows Systemadministration](https://docs.microsoft.com/de-de/learn/paths/windows-server-deployment-configuration-administration/)** | [**PowerShell** Einführung](https://docs.microsoft.com/de-de/learn/modules/introduction-to-powershell/1-introduction) | [Windows Services Manager (**services.msc**)](https://www.thewindowsclub.com/open-windows-services)
     - Windows Subsystem for Linux (WSL): [Ubuntu](https://ubuntu.com/wsl) | [Distribution Overwiew](https://github.com/sirredbeard/Awesome-WSL#supported-distributions) | [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL)
-    - Powershell:
+    - PowerShell:
       - Terminologie: Legacy powershell.exe = bis PowerShell 5.1 | Modern **pwsh**.exe = ab PowerShell 6
-      - Powershell [Quotation Rules](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_quoting_rules), [About Parsing](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_parsing), [Special Characters](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_special_characters), [pwsh-Command is removing quotation marks](https://stackoverflow.com/questions/59036580/pwsh-command-is-removing-quotation-marks)
+      - PowerShell [Quotation Rules](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_quoting_rules), [About Parsing](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_parsing), [Special Characters](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_special_characters), [pwsh-Command is removing quotation marks](https://stackoverflow.com/questions/59036580/pwsh-command-is-removing-quotation-marks)
   - Linux: **[Linux Systemadministration](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/)** | [Linux **Command-Line**](https://www.freecodecamp.org/news/command-line-for-beginners/)
     - [zsh](https://grml.org/zsh/) | [powerlevel10k](https://github.com/romkatv/powerlevel10k)
     - [Getting Started with PowerShell in Linux](https://www.tecmint.com/install-powershell-in-linux/)
@@ -450,15 +451,15 @@ Werkzeuge:
   - roadmap.sh [Computer Science Roadmap](https://roadmap.sh/computer-science)
   - Visualisierungen von AuD: [visualgo.net](https://visualgo.net/)
   - **Code-Referenzen** für Data Structures and Algorithms:
-    - Multi-Language: **[The Algorithtms](https://the-algorithms.com/de)**
+    - Multi-Language: **[The Algorithms](https://the-algorithms.com/de)**
     - [Java (#1)](https://github.com/phishman3579/java-algorithms-implementation), [Java (#2)](https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java), [Java (#3)](https://algs4.cs.princeton.edu/code/)
     - [Py (#1)](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python), [Py(#2)](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
     - [C#](https://github.com/aalhour/C-Sharp-Algorithms)
     - [JavaScript](https://github.com/yangshun/lago), [TypeScript](https://github.com/Lugriz/typescript-algorithms)
   - Aufgaben:
-    - [GfG 160](www.geeksforgeeks.org/courses/gfg-160-series)
+    - [GfG 160](https://www.geeksforgeeks.org/courses/gfg-160-series)
     - [AlgoMaster](https://algomaster.io/practice/dsa-patterns)
-    - [Needcode 150](https://neetcode.io/practice?tab=neetcode150)
+    - [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)
     - Google Doc [Top Leetcode Questions of All Time](https://docs.google.com/spreadsheets/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP) ([Solutions](https://github.com/DestinationFAANG/Destination-FAANG-Java-Solution)) von [DestinationFAANG‬](https://www.youtube.com/watch?v=T0u5nwSA0w0&t=0s)
     - Verwandte Lokik-Puzzles für Vorstellungsgespräche
       - [Batteries and Flashlight Puzzle](https://www.youtube.com/watch?v=Zm1PUSfUMnE&)
@@ -487,7 +488,7 @@ Werkzeuge:
     - Kurs [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) des MIT
     - (Es gibt auch Processing für Python: [processing.py](https://py.processing.org/tutorials/gettingstarted/))
   - Mojo (Superset of Py): Motion AI [**Mojo** Docs](https://docs.modular.com/mojo/) | [Mojo Programming Manual](https://docs.modular.com/mojo/programming-manual.html) | [Modular Inference Engine](https://docs.modular.com/engine/)
-  - R: DataCamp **[Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)** | Interaktiver Kurs **[swirl](https://swirlstats.com/)** („Learn R, in R.“) | MOOC von Standord [R Programming Fundamentals](https://www.edx.org/learn/r-programming/stanford-university-r-programming-fundamentals) | zzgl. im [Master-Abschnitt zu Data Science](#msc-big-data-and-cloud-computing-for-ai)
+  - R: DataCamp **[Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)** | Interaktiver Kurs **[swirl](https://swirlstats.com/)** („Learn R, in R.“) | MOOC von Stanford [R Programming Fundamentals](https://www.edx.org/learn/r-programming/stanford-university-r-programming-fundamentals) | zzgl. im [Master-Abschnitt zu Data Science](#msc-big-data-and-cloud-computing-for-ai)
   - C++: **[Learn C++](https://www.learncpp.com/)**, (€:) Buch **[A Tour of C++](https://www.stroustrup.com/tour3.html)** von Bjarne Stroustup
   - Rust: [Learn **Rust**](https://www.rust-lang.org/learn)
   - Zig: [Getting Started](https://ziglang.org/learn/getting-started/) | [**Zig** learn](https://ziglearn.org/) | [ziglings](https://github.com/ratfactor/ziglings)
@@ -598,7 +599,7 @@ Werkzeuge:
   - SQL Tutorials: **[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)** | **[w³schools SQL Tutorial](https://www.w3schools.com/sql/)**
   - roadmap.sh [**SQL** Roadmap](https://roadmap.sh/sql)
   - Transaktionen:
-  - SQL Anti-Patterns: Werkzeug **[sqlcheck](https://github.com/jarulraj/sqlcheck)** | Stackoverflaw Thread [Most Common **SQL Anti-Patterns**](https://stackoverflow.com/questions/346659/what-are-the-most-common-sql-anti-patterns) | (€:) Buch [**SQL Antipatterns**: Avoiding the Pitfalls of Database Programming](https://www.amazon.de/dp/1934356557) (2010) von Bill Karvin
+  - SQL Anti-Patterns: Werkzeug **[sqlcheck](https://github.com/jarulraj/sqlcheck)** | Stackoverflow Thread [Most Common **SQL Anti-Patterns**](https://stackoverflow.com/questions/346659/what-are-the-most-common-sql-anti-patterns) | (€:) Buch [**SQL Antipatterns**: Avoiding the Pitfalls of Database Programming](https://www.amazon.de/dp/1934356557) (2010) von Bill Karvin
   - DB-Admin Tutorials: [MySQL](https://www.mysqltutorial.org/mysql-administration/) | [PostgreSQL](https://www.postgresqltutorial.com/) | (€:) [Oracle](https://www.udemy.com/courses/search/?q=oracle+database+administration) | [IBM](https://www.edx.org/course/relational-database-administration-dba) | [Microsoft SQL Server](https://www.udemy.com/course/microsoft-sql-server-an-introduction-2018-edition/)
     - roadmap.sh [**PostgreSQL DBA** Roadmap](https://roadmap.sh/postgresql-dba)
     - Als DB-Admin benötigen Sie Grundlagen der Systemadministration, vgl. Abschnitt [vor einer wiss. Abschlussarbeit](#vor-einer-wiss-abschlussarbeit-informatikki) » „Handwerkszeug: Getting S#\*t Done“: Betriebssystemadministration ([Linux](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/) | [Windows](https://docs.microsoft.com/de-de/learn/paths/windows-server-deployment-configuration-administration/)), Linux [Daemons](https://www.makeuseof.com/tag/control-linux-start-services-daemons/) (service/sysctl) bzw. Microsoft [Services](https://www.thewindowsclub.com/open-windows-services) (services.msc), Shell-Scripting ([shell](https://www.freecodecamp.org/news/command-line-for-beginners/) | [pwsh](https://docs.microsoft.com/de-de/learn/modules/introduction-to-powershell/1-introduction)), [SSH](https://linuxize.com/post/how-to-setup-ssh-tunneling/), [Virtualisierung](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide), [Docker](https://serversforhackers.com/c/getting-started-with-docker), [git](https://rogerdudler.GitHub.io/git-guide/)
@@ -688,7 +689,7 @@ Werkzeuge:
   - E-Mail-Verschlüsselung: [Einführung in die Funktionsweise von **OpenPGP/GnuPG**](https://www.hauke-laging.de/sicherheit/openpgp.html)
   - Cryptography: **[Crypto 101](https://www.crypto101.io/)**
   - SSH: [Linux](https://zah.uni-heidelberg.de/it-guide/ssh-tutorial-linux) | [Windows](https://www.makeuseof.com/tag/4-easy-ways-to-use-ssh-in-windows/) (→ [EdDSA/**Ed25519**](https://ed25519.cr.yp.to/))
-  - Cryptogr. Hashing: [Baeldung Deep Dive into **Hashing**](https://www.baeldung.com/cs/hashing) (→ **[BLAKE3](https://github.com/BLAKE3-team/BLAKE3-specs/blob/master/blake3.pdf)**)
+  - Cryptographisches Hashing: [Baeldung Deep Dive into **Hashing**](https://www.baeldung.com/cs/hashing) (→ **[BLAKE3](https://github.com/BLAKE3-team/BLAKE3-specs/blob/master/blake3.pdf)**)
   - Passwort-Hashing: [Empfehlungen von **Password4j**](https://github.com/Password4j/password4j/wiki/Recommended-settings) (→ **[Argon2id](https://cryptobook.nakov.com/mac-and-key-derivation/argon2)**)
   - Authentication-Options: [Consumer Authentication Strength Maturity Model (**CASMM**)](https://danielmiessler.com/blog/casmm-consumer-authentication-security-maturity-model/)
   - Windows Security: [**Microsoft** Resources](https://learn.microsoft.com/en-us/windows/security/), [**HardeningKitty** Sources](https://github.com/0x6d69636b/windows_hardening/#sources)
@@ -699,7 +700,7 @@ Werkzeuge:
   - Rollenmodell: Three Lines of Defense (TLoD) Modell [PDF](https://www.theiia.org/globalassets/documents/resources/the-iias-three-lines-model-an-update-of-the-three-lines-of-defense-july-2020/three-lines-model-updated-english.pdf) (Herkunft: [Risikomanagement](https://www.risknet.de/en/knowledge/glossary/glossary-entry/three-lines-of-defense/))
   - LLM-Security: 
     - Grundlagen: **[OWASP Top-10 for LLMs](https://genai.owasp.org/llm-top-10/)** und BSI-Handreichung [Sicherer, robuster und nachvollziehbarer Einsatz von KI](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Herausforderungen_und_Massnahmen_KI.pdf) ggf. zzgl. [BSI AIC4 Kriterienkatalog](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/AIC4/AI-Cloud-Service-Compliance-Criteria-Catalogue_AIC4.pdf)
-    - Prompt Injecton: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm01-prompt-injection/), [Lakera-Einführung](https://www.lakera.ai/blog/guide-to-prompt-injection) zzgl. berühmte **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8)
+    - Prompt Injection: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm01-prompt-injection/), [Lakera-Einführung](https://www.lakera.ai/blog/guide-to-prompt-injection) zzgl. berühmte **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8)
     - Data Poisoning: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm042025-data-and-model-poisoning/)
   - Nennenswerte wahre Geschichten:
     - Whistleblower: [**Twitter**-Disclosure](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf) von [Peiter „Mudge“ Zatko](https://en.wikipedia.org/wiki/Peiter_Zatko), **[Global Surveillance Disclosures](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>)** von [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
@@ -757,13 +758,15 @@ Werkzeuge:
   - zzgl. [Bachelor-Abschnitt: **Data Science**](#bsc-big-data-and-cloud-computing-for-ai) (unten)
   - zzgl. [Master-Abschnitt: **Data Science**](#msc-big-data-and-cloud-computing-for-ai) (unten)
 - Big Data
+  - Landscape: [Big Data Landscape](https://mattturck.com/bigdata2017/) (bis 2017) von Matt Turck sowie seine [MAD Landscapes](https://mattturck.com/category/big-data/) (= Machine Learning, AI & Data) 
+  - Hinführung: Manuelle Skalierungsmaßnahmen auf traditionellen RDBMS am Bsp. von [Postgres Scale](https://newsletter.systemdesign.one/p/postgres-scale)
   - Nennenswertes Vokabular: **[Data Lake](https://jamesdixon.wordpress.com/2010/10/14/pentaho-hadoop-and-data-lakes/)** („If you think of a datamart as a store of bottled water – cleansed and packaged and structured for easy consumption – the data lake is a large body of water in a more natural state. The contents of the data lake stream in from a source to fill the lake, and various users of the lake can come to examine, dive in, or take samples.“ – James Dixon, 2010, CTO at Pentaho)
     - Vorläufer (vgl. Content Modeling, JCR, Jackrabbit): „[**Data First, Structure Later.** Maybe.](https://aem.design/archives/davids-model)“ als Rule #1 in David Nueschelers Modell
   - Vorlesungen: Univ. of Columbia [**Big Data** Analytics & Advanced Big Data Analytics](https://www.ee.columbia.edu/~cylin/course/bigdata/index.html)
   - Marktführer: [**AWS Big Data** Technology Fundamentals](https://aws.amazon.com/de/training/course-descriptions/bigdata-fundamentals/) | [**Google** Cloud **Big Data** and Machine Learning Fundamentals](https://www.cloudskillsboost.google/course_templates/3) | [**Microsoft** Learn](https://docs.microsoft.com/de-de/learn/browse/)
   - Hadoop: **[Hadoop Illuminated](https://hadoopilluminated.com/index.html)** | [guru99 **Hadoop Tutorial**](https://www.guru99.com/bigdata-tutorials.html)
     - Vorsicht: Hadoop ist ein „active Archive“ und damit nicht notwendigerweise das beste Werkzeug
-  - NoSQL: [guru99 **NoSQL Tutorial**](https://www.guru99.com/nosql-tutorial.html) | [mongoDB **Introduction to Modern Databases**](https://www.mongodb.com/collateral/academia/imdb) | [javatpoint **Cassandra Tutorial**](https://www.javatpoint.com/cassandra-tutorial) | **[neo4j Developer Guides](https://neo4j.com/developer/get-started/)** | **[Redis University](https://university.redis.com/)**
+  - NoSQL: [guru99 **NoSQL Tutorial**](https://www.guru99.com/nosql-tutorial.html) | [MongoDB **Introduction to Modern Databases**](https://www.mongodb.com/collateral/academia/imdb) | [javatpoint **Cassandra Tutorial**](https://www.javatpoint.com/cassandra-tutorial) | **[neo4j Developer Guides](https://neo4j.com/developer/get-started/)** | **[Redis University](https://university.redis.com/)**
   - Weiterführende Themen: [tutorialspoint **Big Data Tutorials**](https://www.tutorialspoint.com/big_data_tutorials.htm)
 - Datenschutz
   - Die GDPR- und DSGVO-Prinzipien: [Art. 5 GDPR](https://gdpr-info.eu/art-5-gdpr/) \[EN\] / [Art. 5 DSGVO](https://dsgvo-gesetz.de/art-5-dsgvo/) \[DE\]
@@ -779,6 +782,7 @@ Werkzeuge:
 #### Cloud Computing
 
 - Cloud: **[Cloud Computing Tutorial](https://www.javatpoint.com/cloud-computing-tutorial)**
+  - Landscape: [Cloud Native Landscape](https://landscape.cncf.io) der CNCF
   - Docker: siehe oben bei Handwerkszeug ⚠️
   - Marktführer: [**AWS** Educate](https://www.awseducate.com) | [**Google** Tech Dev Guide: **Cloud Computing**](https://techdevguide.withgoogle.com/paths/cloud/) | [**Microsoft** Learn](https://docs.microsoft.com/de-de/learn/browse/)
   - MicroServices vs. Monolith/Modulith: **[Prime Video: From distributed microservices to a monolith application](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)** (und die Kosten des Distributed Systems Overhead)
@@ -791,7 +795,7 @@ Werkzeuge:
     - Post-Mortems: **[Kubernetes Failure Stories](https://k8s.af/)**
   - [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code) (IaC):
     - TerraForm: [**TerraForm** Curriculum](https://learn.hashicorp.com/terraform) (von HashiCorp Learn) | freeCodeCamp [Terraform Certified Associate](https://www.freecodecamp.org/news/terraform-certified-associate-003-study-notes/) | [Awesome Terraform](https://github.com/cloud-architecture/awesome-terraform)
-    - (Weiterführende Quellen: s. unten [Bonusliste](#bsc-bonusliste), Abschnitt DevOps)
+    - (Weiterführende Quellen: s. unten B.Sc. » [Cloud Computing](#cloud-computing), Abschnitt DevOps)
   - Backend-as-a-Service/BaaS: Google [Firebase](https://dev.to/mrcflorian/10-essential-firebase-tutorials-for-beginners-4i39) (geeignet für Einsteiger), AWS [Amplify](https://medium.com/@skumar.saurabh/building-server-less-web-application-using-aws-amplify-c25aaff3cf82) (für Einsteiger eher ungeeignet, dafür mehr Funktionalitäten und Features)
     - Unter Entwicklungs- und Wartungsverantwortung ist bei BaaS v.a. das Frontend, der Backend-Bereich obliegt dem Cloud Service Provider und der Entwickler kann i.d.R. nur die vorgefertigten Dienste nutzen und eigene Logik eher nur per Lambdas/Serverless-Functions ergänzen
   - Serverless/FaaS: [A crash course on (AWS and) **Serverless with Node.js**](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44) | Kurs [**Practical beginners course** to (AWS and) Serverless Applications](https://www.udemy.com/course/introduction-to-serverless-aws/)
@@ -838,7 +842,7 @@ Werkzeuge:
   - Basis von DevOps #2: **Build-Automatisierung** / **Dependency Management**
     - [Monorepos](https://en.wikipedia.org/wiki/Monorepo) vs. [Polyrepos/Multirepos](https://earthly.dev/blog/monorepo-vs-polyrepo/):
       - Pro Monorepo: [Monorepo: please do!](https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70) (2019) von Adam Jacob \[shared responsibility and visibility\]
-      - Pro Poly-/Multirepo: [Monorepos: please don't!](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b) (2019) von Matt Klein \[isolation, low coupling, scalability\]
+      - Pro Poly-/Multirepo: [Monorepos: please don't!](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b) (2019) von Matt Klein \[Isolation, Low Coupling, Scalability\]
     - Code-Review: Webartikel [How to protect **GitHub** projects from non-reviewed code and **force code review culture**](https://www.bornfight.com/blog/how-to-protect-GitHub-projects-from-non-reviewed-code-and-force-code-review-culture/) (2021)
     - Software Bill-of-Materials ([SBOM](https://fossa.com/complete-guide-software-composition-analysis#Best-License-for-Commercialization)): Einführung per [How **SBOM**s Strengthen the Software Supply Chain](https://www.fosslife.org/how-sboms-strengthen-software-supply-chain)
       - Werkzeuge: [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom)
@@ -854,7 +858,7 @@ Werkzeuge:
       - Impuls zur Inspiration: [Adding both Project and Package references](https://github.com/dotnet/project-system/issues/2836)
   - Basis von DevOps #3: **System Integration**
     - Webartikel **[Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)** (2006) von Martin Fowler ⚠️
-    - Cloud-native: Video **[CI/CD on Google Cloud](https://www.youtube.com/watch?v=orZEBSXbmFU)** von Google | Amzon [Set Up a CI/CD Pipeline on AWS](https://aws.amazon.com/getting-started/hands-on/set-up-ci-cd-pipeline/) | Microsoft [CI/CD-Baselinearchitektur mit Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/architectures/devops-pipelines-baseline-architecture)
+    - Cloud-native: Video **[CI/CD on Google Cloud](https://www.youtube.com/watch?v=orZEBSXbmFU)** von Google | Amazon [Set Up a CI/CD Pipeline on AWS](https://aws.amazon.com/getting-started/hands-on/set-up-ci-cd-pipeline/) | Microsoft [CI/CD-Baseline-Architektur mit Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/architectures/devops-pipelines-baseline-architecture)
     - **[Awesome CI/CD](https://github.com/cicdops/awesome-ciandcd)**
   - Basis von DevOps #4: **Software-Architektur** und **Software-Engineering**
     - vgl. eigene SWE-Abschnitte in den Listen zu B.Sc. und M.Sc.
@@ -873,14 +877,14 @@ Werkzeuge:
     - **[Awesome SRE](https://github.com/dastergon/awesome-sre)**
   - Nennenswertes:
     - **[Semantic Versioning](https://semver.org/)** (SemVer) ⚠️
-    - **[Conventional Comits](https://www.conventionalcommits.org)** ⚠️
+    - **[Conventional Commits](https://www.conventionalcommits.org)** ⚠️
     - Dynatrace **[A Beginner's Guide to DevOps](https://www.dynatrace.com/resources/ebooks/devops/)**
     - [**TerraForm** Curriculum](https://learn.hashicorp.com/terraform) (von HashiCorp Learn)
     - **[Awesome DevOps » Books](http://awesome-devops.xyz/#books)**
     - **[Awesome Monorepo](https://github.com/korfuri/awesome-monorepo)**
     - [**Release Pipelines** – Terminology und Basiskonzepte am Bsp. TFS/Azure](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/artifacts)
     - Die Liste [DevOps auf hackr.io](https://hackr.io/devops) (noch jung, noch ohne hyperbolische Voting-Selektion)
-  - Meine **[SWE](https://github.com/cyberlytics/awesome-software-engineering-tools)**-Liste (u.a. die dortigen Abschnitte [DevOps](https://github.com/cyberlytics/awesome-software-engineering-tools#devops) sowie [Modellierung & Architektur](https://github.com/cyberlytics/awesome-software-engineering-tools#modellierung--architektur), [Testing](https://github.com/cyberlytics/awesome-software-engineering-tools#testing) und weitere) sowie meine **[BDCC4Ai](https://github.com/cyberlytics/awesome-bdccai-tools)**-Liste (u.a. [Security](../tools-bdccai/security/index.html) und weitere)
+  - Meine **[SWE](https://github.com/cyberlytics/awesome-software-engineering-tools)**-Liste (u.a. die dortigen Abschnitte [DevOps](https://github.com/cyberlytics/awesome-software-engineering-tools#devops) sowie [Modellierung & Architektur](https://github.com/cyberlytics/awesome-software-engineering-tools#modellierung--architektur), [Testing](https://github.com/cyberlytics/awesome-software-engineering-tools#testing) und weitere) sowie meine **[BDCC4Ai](https://github.com/cyberlytics/awesome-bdccai-tools)**-Liste (u.a. [Security](https://github.com/cyberlytics/awesome-bdccai-tools#security) und weitere)
   - Erweiterte Stichwortliste: ⚠️
     - [Configuration Management](https://en.wikipedia.org/wiki/Configuration_management), [Dependency Management](https://missing.csail.mit.edu/2019/package-management/), [Dependency Hell](https://en.wikipedia.org/wiki/Dependency_hell) ([DLL \[Heck\]](https://en.wikipedia.org/wiki/DLL_Hell), [NuGet hell](https://www.google.com/search?q=nuget+hell), …), [Dependency Manager](https://devopedia.org/dependency-manager), [Build-Artifact Management](https://www.leanix.net/en/wiki/vsm/software-artifacts), [Release Management](https://en.wikipedia.org/wiki/Release_management), [Release Automation](https://en.wikipedia.org/wiki/Application-release_automation), [Software-Artifact Repository](https://en.wikipedia.org/wiki/Software_repository), [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration), [Infrastructure Automation / GitOps](https://about.gitlab.com/topics/gitops/), [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code), [Configuration as a Code](https://www.perforce.com/blog/vcs/configuration-as-code), [Virtualization](https://en.wikipedia.org/wiki/Hardware_virtualization), [Container](https://en.wikipedia.org/wiki/OS-level_virtualization) & [Containerization](https://aws.amazon.com/de/what-is/containerization/), [Consistent Environments](http://engineering-principles.onejl.uk/practices/Consistent_Environments.html), [Image Repositories](https://www.aquasec.com/cloud-native-academy/container-security/image-repository/), [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery), [Deployability](https://en.wikipedia.org/wiki/Deployment), [Modifiability](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010/57-maintainability), [Testability](https://en.wikipedia.org/wiki/Software_testability), [Monitorability/SLO-Überwachung](https://cloud.google.com/monitoring), [Maintainability](https://en.wikipedia.org/wiki/Software_maintenance), [Twelve Factor App Methodology](https://12factor.net/), [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering), [DevSecOps](https://www.aquasec.com/cloud-native-academy/devsecops/devsecops/)
   - Scholar-Disclaimer:
@@ -892,7 +896,7 @@ Werkzeuge:
   - **99,9% (“3 nines“): 8,76 hours downtime per year – [Not easy at all](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/s-99.9-scenario.html)**
   - 99,99% (“4 nines“): 52,56 minutes downtime per year
   - **99,999% (“[5 nines](https://www.blameless.com/blog/five-nines-availability)“): 5,26 minutes downtime per year – [Always-On Infrastructure](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/s-99.999-or-higher-scenario-with-a-recovery-time-under-1-minute.html) = Continuous Availability**
-  - 99,9999% (“6 nines“): 31,54 seconds downtime per year – Inhuman for SW! For HW/SW-Codesign or HW.
+  - 99,9999% (“6 nines“): 31,54 seconds downtime per year – Inhuman for SW! For HW/SW-CoDesign or HW.
   - 99,99999% (“7 nines“): 3,15 seconds downtime per year
   - 99,999999% (“8 nines“): 315 milliseconds downtime per year
   - 99,9999999% (“9 nines“): 31,5 milliseconds downtime per year – Just for [some ATM switches running on Erlang](https://stackoverflow.com/questions/8426897/erlangs-99-9999999-nine-nines-reliability)…
@@ -915,7 +919,7 @@ Werkzeuge:
     - Historie: [How a stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/) sowie [How computers got shockingly good at recognizing images](https://arstechnica.com/science/2018/12/how-computers-got-shockingly-good-at-recognizing-images/)
   - Reinforcement Learning
     - Vorlesung **[Reinforcement Learning](https://www.davidsilver.uk/teaching/)** (2015) und Video **[Deep Reinforcement Learning](https://videolectures.net/rldm2015_silver_reinforcement_learning/)** von David Silver
-    - Buch [**Reinforcement Learing**: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) (2017; Prepress-Version) von Sutton & Barto
+    - Buch [**Reinforcement Learning**: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) (2017; Prepress-Version) von Sutton & Barto
     - Videos [**Deep RL** Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
   - Videos [Making Friends with machine learning (**MFML**)](https://www.kdnuggets.com/2022/09/everything-youve-ever-wanted-to-know-about-machine-learning.html)
   - Einstieg: [Machine Learning Basics … **for Non-Technical Readers**](https://pages.dataiku.com/machine-learning-basics-illustrated-guidebook) ⚠️ | DataCamp **[Understanding Machine Learning](https://www.datacamp.com/courses/understanding-machine-learning)** | freeCodeCamp **[Machine Learning Handbook](https://www.freecodecamp.org/news/machine-learning-handbook/)**
@@ -951,6 +955,7 @@ Werkzeuge:
 - Prompt Engineering: [Google Prompting Essentials](https://www.coursera.org/learn/google-prompting-essentials)
   - ChatBot:
     - Einstieg: [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain) | [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101) | roadmap.sh [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
+    - Cheat Sheets: [20 ChatGPT Prompts](https://images.app.goo.gl/7LqXi96XaQABWpRY6), [All-in-one AI Cheat Sheet](https://images.app.goo.gl/uvfr5XsuUdHD2gRYA), [Prompt Engineering Mistakes](https://images.app.goo.gl/ANUTJHrRc6QzM1ak6)
     - Use Cases: [The 14 Best ChatGPT Prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-GitHub/) (2023) von J. Luansing
     - Data Science: KDnuggets [ChatGPT-**for-Data-Science**-Cheatsheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_for_Data_Science_Cheat_Sheet_KDnuggets.pdf), KDnuggets [ChatGPT-**Cheatsheet**](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
     - IT-Security: [ChatGPT4 – Potential Scenarios For Accelerated Cybercrime](https://blog.checkpoint.com/2023/03/15/check-point-research-conducts-initial-security-analysis-of-chatgpt4-highlighting-potential-scenarios-for-accelerated-cybercrime/)
@@ -1041,7 +1046,7 @@ Werkzeuge:
 - Weiterbildung: **[roadmap.sh](https://roadmap.sh/)** (free educational roadmaps for software engineers)
 - Berufliche Wegfindung / Persönliche Karriere
   - (€:) Buch [Durchstarten zum Traumjob](https://www.amazon.de/s?k=Durchstarten+zum+Traumjob) von Richard Nelson Bolles (engl. Original: **[What Color Is Your Parachute?](https://www.amazon.de/s?k=what+color+is+your+parachute)**)
-  - Vorbereitung auf die Stilblüten der Arbeitswelt: Buch [Die Humanisierung der Organisation: Wie man dem Menschen gerecht wird, indem man den Großteil seines Wesens ignoriert](www.amazon.de/dp/3800667576/) von Matthiesen, Muster & Laudenbach
+  - Vorbereitung auf die Stilblüten der Arbeitswelt: Buch [Die Humanisierung der Organisation: Wie man dem Menschen gerecht wird, indem man den Großteil seines Wesens ignoriert](https://www.amazon.de/dp/3800667576/) von Matthiesen, Muster & Laudenbach
 - Persönlichkeitsmodelle
   - Keirsey Temperament Sorter
     - [Wikipedia](https://de.wikipedia.org/wiki/Keirsey_Temperament_Sorter)
@@ -1127,8 +1132,8 @@ Werkzeuge:
   - Atlan [**Data Profiling**: Definition, Techniques, Process, and Examples](https://atlan.com/data-profiling-101/)
 - Data Governance / Metadata Management
   - Atlan [**Data Catalog** 101 — The Ultimate Starter Guide](https://atlan.com/what-is-a-data-catalog/)
-  - Werkzeuge? vgl. [Tools » Datenbankwerkzeuge](../tools-bdccai/datenbanksysteme/index.html)
-  - Forschungsdatenmanagement? [s. unten](vor-post-doc-professur/index.html) (Werkzeuge? vgl. [Dozenten-Werkzeuge](../tools-faculty/forschungsdatenmanagement/index.html))
+  - Werkzeuge? Vgl. [Tools » Datenbankwerkzeuge](https://github.com/cyberlytics/awesome-bdccai-tools#datenbanksysteme)
+  - Forschungsdatenmanagement? [s. unten](#vor-einer-post-doc-phase-oder-professur) (Werkzeuge? Vgl. [Dozenten-Werkzeuge](https://www.oth-aw.de/neumann/tools-faculty/#forschungsdatenmanagement))
 - Data Lineage
   - Atlan [**Data Lineage** 101](https://atlan.com/data-lineage-101/) [—](https://atlan.com/what-is-a-data-catalog/) [Importance, Use Cases and Its Role in Governance](https://atlan.com/data-lineage-101/)
 - IT-Recht/Lizenzen:
@@ -1261,12 +1266,12 @@ Werkzeuge:
 - Projektmanagement im Kontext der Software-Entwicklung:
   - **[The Deadline](https://www.amazon.de/dp/B006MN4RAS/)** von Tom DeMarco (unterhaltsame Vermittlung von Basiswissen Projektmanagement)
   - **[Peopleware](https://www.amazon.de/dp/0321934113/)** von DeMarco & Lister (über Arbeitsumfeldbedingungen und Unternehmenskultur)
-  - **[The Mythical Man-Month](https://www.amazon.de/dp/0201835959/)** von Frederick P. Brooks, Jr. (Brooks’sches Gesetz: “Adding manpower to a late software project makes it later.“)
-    - Artikel [The Mythical Man-Month: After 20 years](https://ieeexplore.ieee.org/document/6172609) (1995) von Frederick P. Brooks, Jr. ("I dismissed Parnas's concept \[of information hiding\] as a 'recipe for disaster' in Chapter 7. Parnas was right, and I was wrong.")
+  - **[The Mythical Man-Month](https://www.amazon.de/dp/0201835959/)** von Frederick P. Brooks, Jr. (Brookssche Gesetz: “Adding manpower to a late software project makes it later.“)
+    - Artikel [The Mythical Man-Month: After 20 years](https://ieeexplore.ieee.org/document/6172609) (1995) von Frederick P. Brooks, Jr. ("I dismissed Parnas' concept \[of information hiding\] as a 'recipe for disaster' in Chapter 7. Parnas was right, and I was wrong.")
   - **[Death March](https://www.amazon.de/dp/013143635X/)** von Edward Yourdon (Yourdon's definition: "Quite simply, a death march project is one whose 'project parameters' exceed the norm by at least 50 percent.")
 - Personas: **[The Inmates are Running the Asylum](https://www.amazon.de/dp/0672316498/)** (1999) von Alan Cooper
 - Statistik: **[Risiko](https://www.amazon.de/dp/3570554422/)** (2013) von Gerd Gigerenzer
-- Wissenschaftskommunikation: **[The Demon-Haunted World: Science as a Candle in the Dark](www.amazon.de/dp/0345409469/)** (1995) von Carl Sagan ("science is not just a body of knowledge, but is a way of thinking").
+- Wissenschaftskommunikation: **[The Demon-Haunted World: Science as a Candle in the Dark](https://www.amazon.de/dp/0345409469/)** (1995) von Carl Sagan ("science is not just a body of knowledge, but is a way of thinking").
 - From Amazon to AWS: **[Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611)**
 
 Internet Ikonen:
@@ -1600,7 +1605,7 @@ Internet Ikonen:
     - [Pecha Kucha](https://en.wikipedia.org/wiki/PechaKucha) / [Ignite Talks](<https://en.wikipedia.org/wiki/Ignite_(event)>)
 - Führungskonzept / Unternehmensführung
   - (€:) Buch **[Hochleistung und Menschlichkeit](https://www.amazon.de/dp/3869364777/)** (2013) ⭐ von Frank Breckwoldt (u.a. „Alles, was Sie als Führungskraft für die Motivation Ihrer Mitarbeiter tun können, ist: sie nicht zu demotivieren.“)
-  - (€:) Buch [**Die Humanisierung der Organisation**: Wie man dem Menschen gerecht wird, indem man den Großteil seines Wesens ignoriert](www.amazon.de/dp/3800667576/) (2022) ⭐ von Matthiesen, Muster & Laudenbach
+  - (€:) Buch [**Die Humanisierung der Organisation**: Wie man dem Menschen gerecht wird, indem man den Großteil seines Wesens ignoriert](https://www.amazon.de/dp/3800667576/) (2022) ⭐ von Matthiesen, Muster & Laudenbach
   - (€:) Buch [Einführung in die **Systemtheorie**](https://www.amazon.de/dp/3896708392/) (2020) von Niklas Luhmann / (€:) [Luhmann leicht gemacht: Eine Einführung in die **Systemtheorie**](https://www.amazon.de/dp/3825257738/) (2022) von Margot Berghaus
   - (€:) Buch **[Zurück an die Arbeit](https://www.amazon.de/dp/3709306124/)** (2016) ⭐ von Lars Vollmer
   - (€:) Buch **[Wir führen anders!](https://www.amazon.de/dp/3947886128/)** (2021) ⭐ von Mark Poppenborg
