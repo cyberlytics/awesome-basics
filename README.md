@@ -319,8 +319,8 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Nach Abgabe Ihrer Abschlussarbeit dürfen Sie generative KI einsetzen, um sich die Abschlussarbeit zusammenzufassen zu lassen und so einen Erstentwurf für einen OTH-Forschungsbericht (ca. 2500 Wörter) oder einen Technischen Report (ca. 3000 bis 4500 Wörter) zu generieren, falls diese Beiträge nicht vorher schon erstellt wurden.
 - Lerntheorie: Sechsstufige **[Bloomsche Taxonomie der Lernziele](https://www.bloomstaxonomy.net/)** im kognitiven Bereich
 - DISCLAIMER: **[typst](https://typst.app/) vs. LaTeX**? Mit typst gibt es eine moderne, überlegene Typesetting-Variante zu latex, die aber technisch völlig eigenständig ist. (siehe [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#latex--pdf))
-	- "This being said ..." jetzt zurück zum wohlbekannten LaTeX:
-- - LaTeX-Skills: **[A simple guide to LaTeX – Step by Step](https://latex-tutorial.com/tutorials/)** | **[Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX)** | Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)** | **[LearnLaTeX](https://www.learnlatex.org/)**
+  - "This being said ..." jetzt zurück zum wohlbekannten LaTeX:
+  - LaTeX-Skills: **[A simple guide to LaTeX – Step by Step](https://latex-tutorial.com/tutorials/)** | **[Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX)** | Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)** | **[LearnLaTeX](https://www.learnlatex.org/)**
   - LaTeX-Software: siehe [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#latex--pdf) ⭐ (LaTeX-Editor, PDF-Viewer, Literaturverwaltung, …)
   - Korrekte Anführungszeichen ⚠️: lese **[Quotation Marks](https://latex.silmaril.ie/formattinginformation/quotes.html)** von Peter Flynn oder **[Formatting](https://www.andy-roberts.net/latex/formatting/)** von Andrew Roberts bzw. verwende **[csquotes](https://tex.stackexchange.com/tags/csquotes/info)** mit **\\enquote{..}** ⭐
   - Wichtige Einordnung: [The **TeX family tree**: LaTeX, **pdfTeX**, **XeTeX**, LuaTeX and ConTeXt](https://de.overleaf.com/learn/latex/Articles/The_TeX_family_tree%3A_LaTeX%2C_pdfTeX%2C_XeTeX%2C_LuaTeX_and_ConTeXt) ⭐
@@ -899,10 +899,10 @@ Werkzeuge:
     - Auf Scholar finden Sie ggf. keine Paper, weil die wissenschaftlichen Publikationen zu vielen Aspekten so alt sind (z.B. 90er Jahre), dass sie nicht als PDF im Netz stehen. Aus wissenschaftlicher Sicht sind die Einzelthemen zu DevOps-im-weitesten-Sinn nicht so neu, wie sich die Community den Anschein gibt.
   - Weiterführende Quellen: [Best **DevOps** Blogs and **Resources for Learning**](https://devopscube.com/list-of-devops-blogs-and-resources/) | [Awesome DevOps **Learning**](https://github.com/Lets-DevOps/awesome-learning) | roadmap.sh [DevOps Roadmap](https://roadmap.sh/devops) | [Awesome **Terraform**](https://github.com/cloud-architecture/awesome-terraform)
   - **DevSecOps**:
-	  - Ich ordne das Thema eher der IT-Sicherheit unter, daher vgl. die IT-Security-Abschnitte in den Listen zu B.Sc. und M.Sc.
-	  - Weiterführende Quellen: [DevSecOps](https://www.aquasec.com/cloud-native-academy/devsecops/devsecops/)
-	  - Anmerkung: Der alternative Begriff "SecDevOps" ist die Security-first Variation von DevSecOps, ist aber weniger populär
-		  - (Außerdem gab es auch noch "DevOpsSec" als Buchtitel von O'Reily, ist aber begrifflich kaum populär)
+    - Ich ordne das Thema eher der IT-Sicherheit unter, daher vgl. die IT-Security-Abschnitte in den Listen zu B.Sc. und M.Sc.
+    - Weiterführende Quellen: [DevSecOps](https://www.aquasec.com/cloud-native-academy/devsecops/devsecops/)
+    - Anmerkung: Der alternative Begriff "SecDevOps" ist die Security-first Variation von DevSecOps, ist aber weniger populär
+      - (Außerdem gab es auch noch "DevOpsSec" als Buchtitel von O'Reily, ist aber begrifflich kaum populär)
 - **[Availability and Uptime](https://www.logicmonitor.com/blog/uptime-vs-availability)** Goals:
   - **99% (“2 nines“): 87,6 hours (~4 days) downtime per year – [Already requires careful considerations](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/s-99-scenario.html)**
   - 99,5%: 43,8 hours (~2 days) downtime per year – (AWS offers an instance-level SLA of 99,5% for EC2 instances)
@@ -1053,7 +1053,7 @@ Werkzeuge:
   - MOOC-Kurse des MITs: [Understanding the **World Through Data**](https://www.edx.org/course/understanding-the-world-through-data), [Introduction to Computational Thinking and **Data Science**](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4), [**Machine Learning** with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) und [Computational Thinking for **Modeling and Simulation**](https://www.edx.org/course/computational-thinking-for-modeling-and-simulation) sowie als Anwendungsgebiet per **[Supply Chain Analytics](https://www.edx.org/course/supply-chain-analytics)**
   - Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
   - **MLOps**:
-	  - Weiterführende Quellen: [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+    - Weiterführende Quellen: [Awesome MLOps](https://github.com/visenger/awesome-mlops)
   - (Es geht mit dem Thema ebenfalls weiter im [Master-Abschnitt](#msc-big-data-and-cloud-computing-for-ai))
 
 ### B.Sc.: Bonusliste
