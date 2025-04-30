@@ -317,9 +317,11 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - Für die Abschlussarbeit dürfen Sie keine generative KI verwenden, weil diese notengebend ist. Ich verbiete Ihnen das. Meine Policy.
   - Während der Arbeit dürfen Sie für die Erstellung einer ernsthaften Publikation trotzdem generative KI einsetzen, unter Beachtung der notwendigen Sorgfalt und den Policies von ACM, IEEE und Springer zum Einsatz generativer KIs.
   - Nach Abgabe Ihrer Abschlussarbeit dürfen Sie generative KI einsetzen, um sich die Abschlussarbeit zusammenzufassen zu lassen und so einen Erstentwurf für einen OTH-Forschungsbericht (ca. 2500 Wörter) oder einen Technischen Report (ca. 3000 bis 4500 Wörter) zu generieren, falls diese Beiträge nicht vorher schon erstellt wurden.
-- Lerntheorie: Sechsstufige **[Bloom’sche Taxonomie der Lernziele](https://www.bloomstaxonomy.net/)** im kognitiven Bereich
-- LaTeX-Software: siehe [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#latex--pdf) ⭐ (LaTeX-Editor, PDF-Viewer, Literaturverwaltung, …)
-- LaTeX: **[A simple guide to LaTeX – Step by Step](https://latex-tutorial.com/tutorials/)** | **[Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX)** | Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)** | **[LearnLaTeX](https://www.learnlatex.org/)**
+- Lerntheorie: Sechsstufige **[Bloomsche Taxonomie der Lernziele](https://www.bloomstaxonomy.net/)** im kognitiven Bereich
+- DISCLAIMER: **[typst](https://typst.app/) vs. LaTeX**? Mit typst gibt es eine moderne, überlegene Typesetting-Variante zu latex, die aber technisch völlig eigenständig ist. (siehe [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#latex--pdf))
+	- "This being said ..." jetzt zurück zum wohlbekannten LaTeX:
+- - LaTeX-Skills: **[A simple guide to LaTeX – Step by Step](https://latex-tutorial.com/tutorials/)** | **[Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX)** | Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)** | **[LearnLaTeX](https://www.learnlatex.org/)**
+  - LaTeX-Software: siehe [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#latex--pdf) ⭐ (LaTeX-Editor, PDF-Viewer, Literaturverwaltung, …)
   - Korrekte Anführungszeichen ⚠️: lese **[Quotation Marks](https://latex.silmaril.ie/formattinginformation/quotes.html)** von Peter Flynn oder **[Formatting](https://www.andy-roberts.net/latex/formatting/)** von Andrew Roberts bzw. verwende **[csquotes](https://tex.stackexchange.com/tags/csquotes/info)** mit **\\enquote{..}** ⭐
   - Wichtige Einordnung: [The **TeX family tree**: LaTeX, **pdfTeX**, **XeTeX**, LuaTeX and ConTeXt](https://de.overleaf.com/learn/latex/Articles/The_TeX_family_tree%3A_LaTeX%2C_pdfTeX%2C_XeTeX%2C_LuaTeX_and_ConTeXt) ⭐
   - (Video-Kurs:) freeCodeCamp **[LaTeX – Full Tutorial for Beginners](https://www.youtube.com/watch?v=ydOTMQC7np0)** (2023) von Michelle Krummel
@@ -671,7 +673,7 @@ Werkzeuge:
     - Spezialgebiet PWAs auf iOS: [Mastering Progressive Web App iOS Integration](https://mittl-medien.de/progressive-web-app-ios)
 - Mobile: [Stanford **Android App Development**](https://web.stanford.edu/class/cs193a/videos.shtml) | [Google](https://developer.android.com/guide) **[Android Developer Guides](https://developer.android.com/guide)** | [vogella](https://www.vogella.com/tutorials/android.html) **[Android Developer Tutorials](https://www.vogella.com/tutorials/android.html)**
   - Batterien: **[Battery University](https://batteryuniversity.com/articles)**
-- IT-Sicherheit/IT-Security:
+- IT-Sicherheit / IT-Security:
   - [**OWASP** Top Ten](https://owasp.org/www-project-top-ten/) ⚠️
   - Grundlagen: Buch [Holistic **Info-Sec for Web Developers**](https://holisticinfosecforwebdevelopers.com/) in drei Teilen: **[F0](https://f0.holisticinfosecforwebdevelopers.com/toc.html)**, **[F1](https://f1.holisticinfosecforwebdevelopers.com/toc.html)**, **[F2](https://f2.holisticinfosecforwebdevelopers.com/toc.html)** | Kurs **[Introduction to Cyber Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security)** von Great Learning | Stanford **[Web Security](https://web.stanford.edu/class/cs253/)**
     - roadmap.sh [**Cyber Security Expert** Roadmap](https://roadmap.sh/cyber-security)
@@ -783,6 +785,8 @@ Werkzeuge:
 
 - Cloud: **[Cloud Computing Tutorial](https://www.javatpoint.com/cloud-computing-tutorial)**
   - Landscape: [Cloud Native Landscape](https://landscape.cncf.io) der CNCF
+  - Cloud Marktfüher: [Amazon **AWS**](https://aws.amazon.com/free/), [Microsoft **Azure**](https://azure.microsoft.com/pricing/free-services/), [**Google** Cloud](https://cloud.google.com/free), [**Alibaba** Cloud](https://www.alibabacloud.com/free), [**IBM** Cloud](https://www.ibm.com/cloud/free), [**Tencent** Cloud](https://www.tencentcloud.com/campaign/freetier), [Oracle **OCI**](https://www.oracle.com/cloud/free/), Heroku (no free tier anymore \*sigh\*), **[DigitalOcean](https://www.digitalocean.com/pricing/app-platform)**, [**SAP** BTP](https://www.sap.com/products/technology-platform/trial.html)
+    - Vegleich AWS vs. Alibaba Services: [Alibaba Cloud Product Comparison for AWS Professionals](https://www.alibabacloud.com/blog/alibaba-cloud-product-comparison-for-aws-professionals_444958)
   - Docker: siehe oben bei Handwerkszeug ⚠️
   - Marktführer: [**AWS** Educate](https://www.awseducate.com) | [**Google** Tech Dev Guide: **Cloud Computing**](https://techdevguide.withgoogle.com/paths/cloud/) | [**Microsoft** Learn](https://docs.microsoft.com/de-de/learn/browse/)
   - MicroServices vs. Monolith/Modulith: **[Prime Video: From distributed microservices to a monolith application](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)** (und die Kosten des Distributed Systems Overhead)
@@ -809,19 +813,21 @@ Werkzeuge:
       - Fog: Bonomi et al. beschrieb Fog Computing in ACM SIGCOMM 2012 Publikation: [Fog computing and its role in the internet of things](https://doi.org/10.1145%2F2342509.2342513)
       - Edge: Karim Arabi beschrieb Edge Computing in einer [IEEE DAC 2014 Keynote](https://web.archive.org/web/20200730234708/http://www2.dac.com/events/videoarchive.aspx?confid=170&filter=keynote&id=170-103--0&#video) (relativ allgemein und nur in Gegenüberstellung zur Cloud)
       - Webartikel [What is **Edge Computing**: The Network Edge Explained](https://www.cloudwards.net/what-is-edge-computing/) (2018) von Eric Hamilton („The network edge depends on use case. It could be a cell tower, a smartphone, an IoT device or a self-driving car.“ Oder **[CDNs](https://people.cs.umass.edu/~ramesh/Site/PUBLICATIONS_files/DMPPSW02.pdf)** wie Akamai oder Cloudflare, etc. pp.)
-- DevOps \[Umbrella Term; DevOps-im-weitesten-Sinn\]
-  - Begriffsherkunft / Einstieg:
+
+#### DevOps / Production Systems
+
+  - Begriffsherkunft / Einstieg \[Umbrella Term; DevOps-im-weitesten-Sinn\]
     - Erfinder des Begriffs DevOps: **[Patrick Debois](https://www.infoq.com/interviews/debois-devops/)**
-    - Vortrag [**10+ Deploys per Day**: Dev and Ops Cooperation at Flickr](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr) (2009) von Allspaw & Hammond
+    - Vortrag ⭐ [**10+ Deploys per Day**: Dev and Ops Cooperation at Flickr](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr) (2009) von Allspaw & Hammond
     - Definition von **[Gartner](https://www.gartner.com/it-glossary/devops/)**
     - (€:) Buch **[The DevOps Handbook](https://www.amazon.de/dp/1950508404/)** von Gene Kim, Jes Humble, Patrick Debois, et al.
   - **DevOps** \[Hochgeschwindigkeit-IT; DevOps-im-engsten-Sinn\] ⚠️
     - **[The Twelve-Factor App](https://12factor.net/)** (Heroku)
-    - Kostenloses Buch **[Google Site Reliability Engineering](https://sre.google/)** (SRE): erste brauchbare Implementierung von DevOps (im engeren Sinn, also für Hochgeschwindigkeit-IT)
-      - Google DORA: [DevOps **Capabilities**](https://cloud.google.com/architecture/devops)
+    - Kostenloses Buch **[Google Site Reliability Engineering](https://sre.google/)** (**SRE**) ⭐: erste brauchbare Implementierung von DevOps (im engeren Sinn, also für Hochgeschwindigkeit-IT)
+      - Google **DORA** ⭐: [DevOps **Capabilities**](https://cloud.google.com/architecture/devops)
       - Video [**Modern DevOps**: Reliable and Blameless](https://www.youtube.com/watch?v=YXFjHmFD69w) von Google
       - **[Google DevOps](https://cloud.google.com/devops)** Einstieg-Seite
-    - GitOps: Buch [**GitOps** – Cloud-native Continuous Deployment](https://www.gitops.tech/) | **[GitOps Conversation Kit](https://gitops-community.GitHub.io/kit/)** (Weaveworks)
+    - **GitOps**: Buch [**GitOps** – Cloud-native Continuous Deployment](https://www.gitops.tech/) | **[GitOps Conversation Kit](https://gitops-community.GitHub.io/kit/)** (Weaveworks)
   - Basis von DevOps #1: System-Operator (**SysOps**) und System-Administrator (**SysAdmin**)
     - Grundlagen: vgl. Abschnitt [vor einer wiss. Abschlussarbeit](#vor-einer-wiss-abschlussarbeit-informatikki) » „Handwerkszeug: Getting S#\*t Done“: Betriebssystemadministration ([Linux](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/) | [Windows](https://docs.microsoft.com/de-de/learn/paths/windows-server-deployment-configuration-administration/)), Linux [Daemons](https://www.makeuseof.com/tag/control-linux-start-services-daemons/) (service/sysctl) bzw. Microsoft [Services](https://www.thewindowsclub.com/open-windows-services) (services.msc), Shell-Scripting ([shell](https://www.freecodecamp.org/news/command-line-for-beginners/) | [pwsh](https://docs.microsoft.com/de-de/learn/modules/introduction-to-powershell/1-introduction)), [SSH](https://linuxize.com/post/how-to-setup-ssh-tunneling/), [Virtualisierung](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide), [Docker](https://serversforhackers.com/c/getting-started-with-docker), [git](https://rogerdudler.GitHub.io/git-guide/)
     - Einstieg: Lehrpläne Ausbildungsberufe, insb. **Fachinformatiker/in - Systemintegration** sowie Fachinformatiker/in - **Digitale Vernetzung**
@@ -832,7 +838,7 @@ Werkzeuge:
     - Auffassungsmöglichkeit 1: SysOps (Traditional IT) als Antipode zu DevOps (Modern IT)
       - Rollenmodell „Klicki-Bunti-Admin für [**Windows Server** und Active Directory](https://www.qskills.de/qs/workshops/microsoft/ms115windowsserverundactivedirectory/)“
       - Böse Zungen unterstellen ggf. eine Hausmeistermentalität
-    - Auffassungsmöglichkeit 2: DevOps als moderner Bestandteil der SysOps-Tätigkeit
+    - Auffassungsmöglichkeit 2 ⭐: DevOps als moderner Bestandteil der SysOps-Tätigkeit
       - **Linux** wichtiger als Windows: Die Linux Foundation beansprucht in Ihrem [2017 Linux Kernel Report](https://www.linuxfoundation.org/blog/blog/2017-linux-kernel-report-highlights-developers-roles-accelerating-pace-change), dass **90 Prozent der öffentlichen Cloud-Computing-Dienste auf Linux laufen**, 82 Prozent der Smartphones, 62 Prozent der eingebetteten Systeme und 99 Prozent der Supercomputer.
       - Webartikel: [What are the **Best SysOps Tools**?](https://www.devopsschool.com/blog/what-are-the-best-sysops-tools/) von DevOpsSchool
       - Guru99 [**Ansible Tutorial** for Beginners: Playbook, Commands & Example](https://www.guru99.com/ansible-tutorial.html)
@@ -857,14 +863,16 @@ Werkzeuge:
       - NuGet: Microsoft [**Quickstart** to create a NuGet package](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-the-dotnet-cli) | Webartikel **[5 steps to better NuGet package](https://alex-klaus.com/better-nuget/)** von Alex Klaus | [Best Practices for **Versioning** NuGet **Packages** in the Enterprise](https://blog.inedo.com/nuget/package-versioning) (2021) by Eric Seng | **[NuGet in the Enterprise](https://blog.inedo.com/nuget/in-the-enterprise-2021)** (2021) by Eric Seng | [Prerelease Packages & **Repackaging**](https://docs.inedo.com/docs/proget-packages-repackaging) (2021) | [Managing the global packages, cache, and temp folders](https://learn.microsoft.com/en-us/nuget/consume-packages/managing-the-global-packages-and-cache-folders)
       - Impuls zur Inspiration: [Adding both Project and Package references](https://github.com/dotnet/project-system/issues/2836)
   - Basis von DevOps #3: **System Integration**
-    - Webartikel **[Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)** (2006) von Martin Fowler ⚠️
+    - Webartikel **[Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)** (2006) von Martin Fowler ⭐
     - Cloud-native: Video **[CI/CD on Google Cloud](https://www.youtube.com/watch?v=orZEBSXbmFU)** von Google | Amazon [Set Up a CI/CD Pipeline on AWS](https://aws.amazon.com/getting-started/hands-on/set-up-ci-cd-pipeline/) | Microsoft [CI/CD-Baseline-Architektur mit Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/architectures/devops-pipelines-baseline-architecture)
     - **[Awesome CI/CD](https://github.com/cicdops/awesome-ciandcd)**
   - Basis von DevOps #4: **Software-Architektur** und **Software-Engineering**
     - vgl. eigene SWE-Abschnitte in den Listen zu B.Sc. und M.Sc.
-  - Basis von DevOps #5: **Configuration Management** sowie **Release & Deployment Management**, klassisch per **Release Train**
+  - Basis von DevOps #5: **IT-Sicherheit**
+    - vgl. eigene IT-Security-Abschnitte in den Listen zu B.Sc. und M.Sc.
+  - Basis von DevOps #6: **Configuration Management** sowie **Release & Deployment Management**, klassisch per **Release Train**
     - (€:) Buch **[Release It!](https://www.amazon.de/dp/1680502395/)** (Original: 2007 | Aktualisiert: 2018) von Michael T. Nygard
-  - Basis von DevOps #6: Klassischer **Betrieb** / **IT Service Management** = ITSM / **Change Management** / **Incident Management**
+  - Basis von DevOps #7: Klassischer **Betrieb** / **IT Service Management** = ITSM / **Change Management** / **Incident Management**
     - Überlappt sich mit Punkt #1 (SysOps/SysAdmin), aber als Professionalisierung hier nochmal als Extrapunkt, damit schließt sich ein Kreis
     - Gartner [Magic Quadrant für ITSM](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/company-library/media/itsm-8-time-pr.png)
     - ITIL: [guru99 **What is ITIL?**](https://www.guru99.com/itil-framework-process.html) | **[ITIL Tutorial](https://www.knowledgehut.com/tutorials/itil4-tutorial)**
@@ -876,8 +884,8 @@ Werkzeuge:
       - **[Google SRE](https://cloud.google.com/sre)** Einstieg-Seite
     - **[Awesome SRE](https://github.com/dastergon/awesome-sre)**
   - Nennenswertes:
-    - **[Semantic Versioning](https://semver.org/)** (SemVer) ⚠️
-    - **[Conventional Commits](https://www.conventionalcommits.org)** ⚠️
+    - **[Semantic Versioning](https://semver.org/)** (SemVer) ⭐
+    - **[Conventional Commits](https://www.conventionalcommits.org)** ⭐
     - Dynatrace **[A Beginner's Guide to DevOps](https://www.dynatrace.com/resources/ebooks/devops/)**
     - [**TerraForm** Curriculum](https://learn.hashicorp.com/terraform) (von HashiCorp Learn)
     - **[Awesome DevOps » Books](http://awesome-devops.xyz/#books)**
@@ -885,11 +893,16 @@ Werkzeuge:
     - [**Release Pipelines** – Terminology und Basiskonzepte am Bsp. TFS/Azure](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/artifacts)
     - Die Liste [DevOps auf hackr.io](https://hackr.io/devops) (noch jung, noch ohne hyperbolische Voting-Selektion)
   - Meine **[SWE](https://github.com/cyberlytics/awesome-software-engineering-tools)**-Liste (u.a. die dortigen Abschnitte [DevOps](https://github.com/cyberlytics/awesome-software-engineering-tools#devops) sowie [Modellierung & Architektur](https://github.com/cyberlytics/awesome-software-engineering-tools#modellierung--architektur), [Testing](https://github.com/cyberlytics/awesome-software-engineering-tools#testing) und weitere) sowie meine **[BDCC4Ai](https://github.com/cyberlytics/awesome-bdccai-tools)**-Liste (u.a. [Security](https://github.com/cyberlytics/awesome-bdccai-tools#security) und weitere)
-  - Erweiterte Stichwortliste: ⚠️
-    - [Configuration Management](https://en.wikipedia.org/wiki/Configuration_management), [Dependency Management](https://missing.csail.mit.edu/2019/package-management/), [Dependency Hell](https://en.wikipedia.org/wiki/Dependency_hell) ([DLL \[Heck\]](https://en.wikipedia.org/wiki/DLL_Hell), [NuGet hell](https://www.google.com/search?q=nuget+hell), …), [Dependency Manager](https://devopedia.org/dependency-manager), [Build-Artifact Management](https://www.leanix.net/en/wiki/vsm/software-artifacts), [Release Management](https://en.wikipedia.org/wiki/Release_management), [Release Automation](https://en.wikipedia.org/wiki/Application-release_automation), [Software-Artifact Repository](https://en.wikipedia.org/wiki/Software_repository), [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration), [Infrastructure Automation / GitOps](https://about.gitlab.com/topics/gitops/), [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code), [Configuration as a Code](https://www.perforce.com/blog/vcs/configuration-as-code), [Virtualization](https://en.wikipedia.org/wiki/Hardware_virtualization), [Container](https://en.wikipedia.org/wiki/OS-level_virtualization) & [Containerization](https://aws.amazon.com/de/what-is/containerization/), [Consistent Environments](http://engineering-principles.onejl.uk/practices/Consistent_Environments.html), [Image Repositories](https://www.aquasec.com/cloud-native-academy/container-security/image-repository/), [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery), [Deployability](https://en.wikipedia.org/wiki/Deployment), [Modifiability](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010/57-maintainability), [Testability](https://en.wikipedia.org/wiki/Software_testability), [Monitorability/SLO-Überwachung](https://cloud.google.com/monitoring), [Maintainability](https://en.wikipedia.org/wiki/Software_maintenance), [Twelve Factor App Methodology](https://12factor.net/), [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering), [DevSecOps](https://www.aquasec.com/cloud-native-academy/devsecops/devsecops/)
-  - Scholar-Disclaimer:
+  - Erweiterte Stichwortliste: ⭐
+    - [Configuration Management](https://en.wikipedia.org/wiki/Configuration_management), [Dependency Management](https://missing.csail.mit.edu/2019/package-management/), [Dependency Hell](https://en.wikipedia.org/wiki/Dependency_hell) ([DLL \[Heck\]](https://en.wikipedia.org/wiki/DLL_Hell), [NuGet hell](https://www.google.com/search?q=nuget+hell), …), [Dependency Manager](https://devopedia.org/dependency-manager), [Build-Artifact Management](https://www.leanix.net/en/wiki/vsm/software-artifacts), [Release Management](https://en.wikipedia.org/wiki/Release_management), [Release Automation](https://en.wikipedia.org/wiki/Application-release_automation), [Software-Artifact Repository](https://en.wikipedia.org/wiki/Software_repository), [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration), [Infrastructure Automation / GitOps](https://about.gitlab.com/topics/gitops/), [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code), [Configuration as a Code](https://www.perforce.com/blog/vcs/configuration-as-code), [Virtualization](https://en.wikipedia.org/wiki/Hardware_virtualization), [Container](https://en.wikipedia.org/wiki/OS-level_virtualization) & [Containerization](https://aws.amazon.com/de/what-is/containerization/), [Consistent Environments](http://engineering-principles.onejl.uk/practices/Consistent_Environments.html), [Image Repositories](https://www.aquasec.com/cloud-native-academy/container-security/image-repository/), [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery), [Deployability](https://en.wikipedia.org/wiki/Deployment), [Modifiability](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010/57-maintainability), [Testability](https://en.wikipedia.org/wiki/Software_testability), [Monitorability/SLO-Überwachung](https://cloud.google.com/monitoring), [Maintainability](https://en.wikipedia.org/wiki/Software_maintenance), [Twelve Factor App Methodology](https://12factor.net/), [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+  - Scholar-Disclaimer: ⚠️
     - Auf Scholar finden Sie ggf. keine Paper, weil die wissenschaftlichen Publikationen zu vielen Aspekten so alt sind (z.B. 90er Jahre), dass sie nicht als PDF im Netz stehen. Aus wissenschaftlicher Sicht sind die Einzelthemen zu DevOps-im-weitesten-Sinn nicht so neu, wie sich die Community den Anschein gibt.
   - Weiterführende Quellen: [Best **DevOps** Blogs and **Resources for Learning**](https://devopscube.com/list-of-devops-blogs-and-resources/) | [Awesome DevOps **Learning**](https://github.com/Lets-DevOps/awesome-learning) | roadmap.sh [DevOps Roadmap](https://roadmap.sh/devops) | [Awesome **Terraform**](https://github.com/cloud-architecture/awesome-terraform)
+  - **DevSecOps**:
+	  - Ich ordne das Thema eher der IT-Sicherheit unter, daher vgl. die IT-Security-Abschnitte in den Listen zu B.Sc. und M.Sc.
+	  - Weiterführende Quellen: [DevSecOps](https://www.aquasec.com/cloud-native-academy/devsecops/devsecops/)
+	  - Anmerkung: Der alternative Begriff "SecDevOps" ist die Security-first Variation von DevSecOps, ist aber weniger populär
+		  - (Außerdem gab es auch noch "DevOpsSec" als Buchtitel von O'Reily, ist aber begrifflich kaum populär)
 - **[Availability and Uptime](https://www.logicmonitor.com/blog/uptime-vs-availability)** Goals:
   - **99% (“2 nines“): 87,6 hours (~4 days) downtime per year – [Already requires careful considerations](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/s-99-scenario.html)**
   - 99,5%: 43,8 hours (~2 days) downtime per year – (AWS offers an instance-level SLA of 99,5% for EC2 instances)
@@ -1039,7 +1052,9 @@ Werkzeuge:
     - Verwandt: Gartner Quadrant für **[Computerized Maintenance Management Systems](https://software-advice.imgix.net/managed/frontrunner/fr_cmms_v2.png)** (CMMS)
   - MOOC-Kurse des MITs: [Understanding the **World Through Data**](https://www.edx.org/course/understanding-the-world-through-data), [Introduction to Computational Thinking and **Data Science**](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4), [**Machine Learning** with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) und [Computational Thinking for **Modeling and Simulation**](https://www.edx.org/course/computational-thinking-for-modeling-and-simulation) sowie als Anwendungsgebiet per **[Supply Chain Analytics](https://www.edx.org/course/supply-chain-analytics)**
   - Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
-  - Weiterführende Quellen: siehe [Master-Abschnitt](#msc-big-data-and-cloud-computing-for-ai)
+  - **MLOps**:
+	  - Weiterführende Quellen: [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+  - (Es geht mit dem Thema ebenfalls weiter im [Master-Abschnitt](#msc-big-data-and-cloud-computing-for-ai))
 
 ### B.Sc.: Bonusliste
 
