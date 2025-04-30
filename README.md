@@ -713,10 +713,6 @@ Werkzeuge:
   - [**HTML5 Security** Cheatssheet](https://html5sec.org/) (inkl. CSS)
   - Open Source Security: [The state of **open source security** report](https://snyk.io/reports/open-source-security/) von snyk | freeCodeCamp **[Open Source Software Security Handbook](https://www.freecodecamp.org/news/oss-security-best-practices/)**
   - Docker Security: [**snyk** Warnhinweis](https://snyk.io/blog/top-ten-most-popular-docker-images-each-contain-at-least-30-vulnerabilities/) „Top ten most popular docker images each contain at least 30 vulnerabilities“
-  - Pen Testing: **[Hack the Box](https://www.hackthebox.com/)** (Hacking Playground) und **[VulnHub](https://www.vulnhub.com/)** (VMs als Übungsziel, insb. [Basic Pentesting](https://www.vulnhub.com/entry/basic-pentesting-1,216/), [Mr. Robot](https://www.vulnhub.com/entry/mr-robot-1,151/), [Quaoar](https://www.vulnhub.com/entry/hackfest2016-quaoar,180/), [The Necromancer](https://www.vulnhub.com/entry/the-necromancer-1,154/), [The Wall](https://www.vulnhub.com/entry/the-wall-1,130/))
-  - Hacking Resources: [**0xdf** hacks stuff](https://0xdf.gitlab.io/), **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**
-  - Vulnerability Search: [SOCRadar **Top-10**](https://socradar.io/top-10-search-engines-for-pentesters-and-bug-bounty-hunters/) (inkl. prominentem **[Shodan](https://www.shodan.io/)** ⚠️, **[grep.app](https://grep.app/)**, etc.), umfassende [Awesome Hacker **Search Engines**](https://github.com/edoardottt/awesome-hacker-search-engines) sowie Google Dorking via [**Google** Hacking Database](https://www.exploit-db.com/google-hacking-database)
-  - [Bekannte Bücher](https://news.ycombinator.com/item?id=37230995) aus dem [Film Hackers](https://www.youtube.com/watch?v=4U9MI0u2VIE): US DoD Crayola Books aka [Rainbow Series](https://irp.fas.org/nsa/rainbow.htm) ([The Orange Book](https://en.m.wikipedia.org/wiki/Trusted_Computer_System_Evaluation_Criteria), [The Red Book](https://irp.fas.org/nsa/rainbow/tg005.htm)), [Pink-Shirt Book](https://en.wikipedia.org/wiki/Peter_Norton), [The Devil Book](https://archive.org/details/designimplementa0000unse) (sowie das Dragon Book über Compilerbau, das aber nur mit Programmierfähigkeiten i. Allg. assoziiert ist)
 - Projektmanagement (Einstieg)
   - Agil: [IAPM **Agile Project Management** Guide 2.0](https://www.iapm-cert.net/documents/apmg-de/) ⚠️
     - Das **[Agile Manifesto](https://agilemanifesto.org/principles.html)** (vs. [Manifesto for **Half-Arsed** Agile Software Development](https://www.halfarsedagilemanifesto.org/) vs. **[Prog MoFo](http://progmofo.com/)**)
@@ -1381,6 +1377,18 @@ Internet Ikonen:
   - Requirements Tracibility
     - Einstieg: Wikipedia-Artikel zu [Requirements Tracibility](https://en.wikipedia.org/wiki/Requirements_traceability) sowie [List of Requirements Engineering Tools](https://en.wikipedia.org/wiki/List_of_requirements_engineering_tools)
     - Well-known: IBM DOORS / IBM DOORS Next
+- IT-Sicherheit / IT-Security für Fortgeschrittene
+  - Pentesting: [Hacker101](https://www.hacker101.com/start-here), [PortSwigger](https://portswigger.net/web-security/all-materials/detailed)
+    - Pentest-Übungen: **[Hack the Box](https://www.hackthebox.com/)** (Hacking Playground) und **[VulnHub](https://www.vulnhub.com/)** (VMs als Übungsziel, insb. [Basic Pentesting](https://www.vulnhub.com/entry/basic-pentesting-1,216/), [Mr. Robot](https://www.vulnhub.com/entry/mr-robot-1,151/), [Quaoar](https://www.vulnhub.com/entry/hackfest2016-quaoar,180/), [The Necromancer](https://www.vulnhub.com/entry/the-necromancer-1,154/), [The Wall](https://www.vulnhub.com/entry/the-wall-1,130/))
+  - Hacking Resources: [**0xdf** hacks stuff](https://0xdf.gitlab.io/), **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**
+  - Vulnerability Search: [SOCRadar **Top-10**](https://socradar.io/top-10-search-engines-for-pentesters-and-bug-bounty-hunters/) (inkl. prominentem **[Shodan](https://www.shodan.io/)** ⚠️, **[grep.app](https://grep.app/)**, etc.), umfassende [Awesome Hacker **Search Engines**](https://github.com/edoardottt/awesome-hacker-search-engines) sowie Google Dorking via [**Google** Hacking Database](https://www.exploit-db.com/google-hacking-database)
+  - [Bekannte Bücher](https://news.ycombinator.com/item?id=37230995) aus dem [Film Hackers](https://www.youtube.com/watch?v=4U9MI0u2VIE): US DoD Crayola Books aka [Rainbow Series](https://irp.fas.org/nsa/rainbow.htm) ([The Orange Book](https://en.m.wikipedia.org/wiki/Trusted_Computer_System_Evaluation_Criteria), [The Red Book](https://irp.fas.org/nsa/rainbow/tg005.htm)), [Pink-Shirt Book](https://en.wikipedia.org/wiki/Peter_Norton), [The Devil Book](https://archive.org/details/designimplementa0000unse) (sowie das Dragon Book über Compilerbau, das aber nur mit Programmierfähigkeiten i. Allg. assoziiert ist)
+  - Cloud Security: vgl. Master-Abschnitt "Cloud für Fortgeschrittene"
+    - Docker Security: vgl. Bachelor-Abschnitt "IT-Security"
+  - (Etliche weitere fortgeschrittene IT-Security Themen existieren, sind aber hier nicht weiter aufgeführt!)
+  - Weiterführende Quellen: [Awesome InfoSec](https://github.com/onlurking/awesome-infosec), [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
+    - Talks/Videos: [Awesome Sec Talks](https://github.com/PaulSec/awesome-sec-talks)
+    - Kommerzielle IT-Sec MOOCs: [Cybrary](https://www.cybrary.it/)
 - DevOps für Fortgeschrittene
   - **[TraceBoK](http://www.tracebok.org/)**: Software Tracibility Body of Knowledge
 - Datenbanksysteme für Fortgeschrittene
@@ -1549,7 +1557,7 @@ Internet Ikonen:
   - Exasol: [A Drill-Down Into Exasol](https://www.exasol.com/resource/a-drill-down-into-exasol-2/) (2016) von Exasol
   - SnowFlake: [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/10.1145/2882903.2903741) (2016) von Snowflake, [Design Principles of Snowflake](https://blog.det.life/i-spent-another-6-hours-understanding-the-design-principles-of-snowflake-heres-what-i-found-dea9fd74ae96) (2024) von Vu Trinh
   - DuckDB: [Embedded Analytics](https://vutr.substack.com/p/i-made-110-in-duckdb) (2024) von Vu Trinh
-- Cloud:
+- Cloud für Fortgeschrittene:
   - Docker für Fortgeschrittene: Webartikel [The efficient way to publish **multi-arch containers** from GitHub Actions](https://actuated.dev/blog/multi-arch-docker-GitHub-actions) (2023) von Alex Ellis
   - Kubernetes für Fortgeschrittene:
     - [Kubernetes **Learning Roadmap**](https://github.com/techiescamp/kubernetes-learning-path) ⭐
@@ -2099,7 +2107,7 @@ Internet Ikonen:
 - Big Data und Cloud-Computing für KI: [Datafloq](https://datafloq.com) | [Data Science Central](https://www.datasciencecentral.com) | [Machine Learning Mastery](https://machinelearningmastery.com/blog/) | [Distill](https://distill.pub) | [High Scalability](http://highscalability.com/) | … | **[Unstatistik des Monats](https://www.rwi-essen.de/presse/wissenschaftskommunikation/unstatistik)** ⚠️
 - DevOps: **[Admin Magazine](https://www.admin-magazine.com/News)**, **[IT-Administrator](https://www.admin-magazin.de/News)**, **[DevOps Cube](https://devopscube.com/)**, [**DevOps**.com](https://devops.com/), **[DZone DevOps](https://dzone.com/devops-tutorials-tools-news)**, …
 - KI: [**Metaculus** Forecasts/Predictions](https://www.metaculus.com/home/), [**MIT News**: AI](https://news.mit.edu/topic/artificial-intelligence2), [**WIRED**: AI](https://www.wired.com/tag/artificial-intelligence/), …, [**Denny**’s Blog](https://dennybritz.com/), **[arg min](https://www.argmin.net/)**, …
-- IT-Security/Cloud Security: [**The Daily Swig** – Data Breach News](https://portswigger.net/daily-swig/data-breach)
+- IT-Security/Cloud Security: [**The Daily Swig** – Data Breach News](https://portswigger.net/daily-swig/data-breach), [infosec writeups](https://infosecwriteups.com/), [Pentester Academy Blog](https://blog.pentesteracademy.com/)
 - Engineering Blogs: [Netflix](https://netflixtechblog.com/) TechBlog, [Uber](https://www.uber.com/blog/engineering/) Blog, [Cloudflare](https://blog.cloudflare.com/) Blog, Engineering at [Meta](https://engineering.fb.com/), [LinkedIn](https://engineering.linkedin.com/) Engineering, [Discord](https://discord.com/blog/) Blog, [AWS](https://aws.amazon.com/blogs/architecture/) Architecture, [Slack](https://slack.engineering/) Engineering, [Stripe](https://stripe.com/blog) Blog, [Airbnb](https://medium.com/airbnb-engineering) Tech Blog, [Pinterest](https://medium.com/@Pinterest_Engineering) Engineering, [Lyft](https://eng.lyft.com/) Engineering, [Canva](https://www.canva.dev/blog/engineering/) Engineering Blog, [DoorDash](https://doordash.engineering/) Engineering, uvm.
 - User Experience: [Jakob Nielsen](https://www.nngroup.com/topic/psychology-and-ux/), [IDEO](https://www.ideo.com/thinking)
 - Agile: **[Mike Cohn](https://www.mountaingoatsoftware.com/blog)**
