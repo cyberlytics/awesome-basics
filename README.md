@@ -418,16 +418,11 @@ Werkzeuge:
 	- Weitere Quellen: freeCodeCamp [120 Free Online Math Courses from the World’s Top Universities](https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/) | [**WolframAlpha** University Free Interactive Courses](https://www.wolfram.com/wolfram-u/courses/catalog/?f_format%5B%5D=interactive-course&q=&f_button=filters)
 		- Wolfram [**Mathematica** Webinare](https://www.additive-net.de/de/training/webinare/wolfram)
 - Logik:
-	- Grundlegende MOOC-Kurse:
-		- Stanford: [Language, Proof and Logic](https://www.edx.org/learn/logic/stanford-university-language-proof-and-logic)
-		- MIT: [Logic I & II](https://www.google.com/search?q=MIT+OpenCourseWare+Logic+Philosophy)
+	- Grundlegende MOOC-Kurse: Stanford [Language, Proof and Logic](https://www.edx.org/learn/logic/stanford-university-language-proof-and-logic) und MIT [Logic I & II](https://www.google.com/search?q=MIT+OpenCourseWare+Logic+Philosophy)
 	- [Logische Fehlschlüsse](https://en.wikipedia.org/wiki/The_Demon-Haunted_World#Logical_fallacies) (engl. Logical Fallacies) [Wiki](https://de.wikipedia.org/wiki/Typen_von_Argumenten#Fehlschluss-_und_andere_problematische_Argumente)
-	- Modallogik
-		- (€:) Buch [A New Introduction to Modal Logic](https://www.amazon.de/dp/0415126002/) (1996) von Hughes & Cresswell
-	- Prädikatenlogik erster Stufe/Ordnung:
-		- [Semantics of First-Order Logic](https://www.edx.org/learn/logic/stanford-university-semantics-of-first-order-logic)
-	- Logik höherer Stufe:
-		- [Introduction To Higher Order Categorical Logic](https://web.archive.org/web/20070705125337/http://www.andrew.cmu.edu/user/cebrown/notes/lambekscott.html)
+	- Modallogik: (€) Buch [A New Introduction to Modal Logic](https://www.amazon.de/dp/0415126002/) (1996) von Hughes & Cresswell
+	- Prädikatenlogik erster Stufe/Ordnung: [Semantics of First-Order Logic](https://www.edx.org/learn/logic/stanford-university-semantics-of-first-order-logic)
+	- Logik höherer Stufe: [Introduction To Higher Order Categorical Logic](https://web.archive.org/web/20070705125337/http://www.andrew.cmu.edu/user/cebrown/notes/lambekscott.html)
 - Logikprogrammierung und Maschinengestütztes Beweisen
 	- Logikprogrammierung: Prolog
 		- Kostenloses [SWI-Prolog](https://www.swi-prolog.org/)
@@ -443,7 +438,7 @@ Werkzeuge:
 		- Übersicht [SAT/SMT Logiken](https://smt-lib.org/logics.shtml)
 	- Automatische Theorembeweiser: derzeit [LEAN](https://github.com/leanprover/lean4) und früher bspw. auch [Z3](https://github.com/Z3Prover/z3) ([Tutorials](https://github.com/Z3Prover/z3/wiki#background))
 		- LEAN-Tutorials: Learning Games per [Lean Game Server](https://adam.math.hhu.de/)
-		- [LEAN-Entwicklerteam](https://lean-fro.org/team/) (u.a. [Leo de Moura](https://leodemoura.github.io/) bei AWS, der auch maßgeblich an Z3 bei Microsoft beteiligt war)
+		- [LEAN-Entwicklerteam](https://lean-fro.org/team/) (u.a. [Leo de Moura](https://leodemoura.github.io/) bei AWS, auch maßgeblich an Z3 bei Microsoft beteiligt)
 		- Nennenswerte LEAN-Anwender: [Terence Tao](https://www.google.com/search?q=terence+tao)
 		- LEAN-Components-off-the-Shelf: [LEAN Mathlib](https://leanprover-community.github.io/mathlib4_docs/Mathlib.html)
 		- LEAN-basierte Applikationen: [AWS Cedar](https://www.cedarpolicy.com/) und [SampCert](https://github.com/leanprover/SampCert)
@@ -463,7 +458,7 @@ Werkzeuge:
 		- base64: freeCodeCamp [What is **base64 Encoding** and Why is it Necessary?](https://www.freecodecamp.org/news/what-is-base64-encoding/)
 	- YouTuber: [Ben Eater](https://www.youtube.com/@beneater)
 	- [Windows: system **power states**](https://learn.microsoft.com/en-us/windows/win32/power/system-power-states)
-	- [Timing-Diagramme](https://plantuml.com/timing-diagram)
+	- Modellierung: [Timing-Diagramme](https://plantuml.com/timing-diagram)
 - Compilerbau:
 	- MOOC-Kurse von Stanford: [Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers)
 - Algorithmen und Datenstrukturen (AuD) / Data Structures and Algorithms (DSA)
