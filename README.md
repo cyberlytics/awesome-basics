@@ -4,7 +4,6 @@
 [//]: # (Licence: CC BY 4.0)
 [//]: # (Kurztitel: Digitaler Ressourcen-Pool)
 [//]: # (Lemma: basics)
-[//]: # (lt_language: de-DE)
 
 # Awesome Informatik- und KI-Studium
 
@@ -640,6 +639,21 @@ Werkzeuge:
 		- Postgres: Elefant als Logo, namens Slonik. Dieser steht für ein Elefantengedächtnis.
 		- MySQL|MariaDB|MaxDB: Der Hauptautor der orig. MySQL, Michael „Monty“ Widenius, hat drei leibliche Kinder: My, Max und Maria
 	- SQL Security (SQL-Injection): [OWASP **Juice Shop**](https://owasp.org/www-project-juice-shop/) | **[SQL-Insekten](https://www.sql-insekten.de)**
+- Informaton Retrieval (IR)
+	- Disclaimer: IR ist kein Datenbanksysteme-Teilgebiet, sonder eine eigenständige Schwesterdisziplin (eher NLP- und KI-nah, anstatt RDBMS-nah)
+	- IR-Funktionalitätenskizze: **Volltextsuche** (u.a. per **[invertierte Listen](https://en.wikipedia.org/wiki/Inverted_index)**), Web Search, Semantic Search, ..., **Unscharfe Suche** ([Stemming & Lemmatization](https://www.ibm.com/de-de/think/topics/stemming-lemmatization) und [phonetische Algorithmen](https://de.wikipedia.org/wiki/Phonetische_Suche) bspw. [Soundex](https://de.wikipedia.org/wiki/Soundex) oder [Kölner Phonetik](https://de.wikipedia.org/wiki/Kölner_Phonetik))
+	- Bücher:
+		- Kostenloses Buch **[Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)**
+		- (€:) Buch **[Information Retrieval: Implementing and Evaluating Search Engines](https://plg.uwaterloo.ca/~ir/ir/book/)** mit einigen kostenlosen Kapiteln
+	- Referenzsysteme:
+		- **[Lucene](https://lucene.apache.org/)** (Java-basiert, **[Lucene Query Syntax](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-query-string-query)**, [Tutorial](https://www.lucenetutorial.com/index.html))
+		- Auf Lucene aufbauend: **[ElasticSearch](https://www.elastic.co/elasticsearch)** als Kern des Elastic Stacks (früher: ELK-Stack) sowie konkorrurierend Apache [Solr](https://solr.apache.org/)
+		- [Google Search](https://www.google.com/advanced_search) (klassisches IR zzgl. **[PageRank](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)-Algorithmus)**), inkl. [weiteren Funktionen](https://zapier.com/blog/advanced-google-search-tricks/)
+	- Weiterführende Quellen: [Awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval), [Awesome Search](https://github.com/frutik/awesome-search), [Awesome Lucene](https://github.com/Anant/awesome-lucene),[Awesome Elasticsearch](https://github.com/dzharii/awesome-elasticsearch)
+	- Verwandte Disziplinen:
+		- [Content Management Systeme](https://de.wikipedia.org/wiki/Content-Management-System) (CMS), Web Content Management Systeme (WCMS), [Component Content Management Systeme](https://en.wikipedia.org/wiki/Component_content_management_system) (CCMS), [Document Management System](https://de.wikipedia.org/wiki/Dokumentenmanagement) (DMS), [Enterprise Content Management](https://de.wikipedia.org/wiki/Enterprise-Content-Management) (ECM), Desktop Search
+		- (€:) Buch [Technische Dokumentation: Übersetzungsgerechte Texterstellung und Content-Management](https://www.amazon.de/dp/3834333484/) (2014) von Drewer & Ziegler
+		- 
 - Web-Anwendungsentwicklung (WAE): **[The Odin Project](https://www.theodinproject.com/)** | **[Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)**
 	- roadmap.sh [**Full-Stack** Developer Roadmap](https://roadmap.sh/full-stack) + [**Frontend Developer** Roadmap](https://roadmap.sh/frontend) + [**Backend Developer** Roadmap](https://roadmap.sh/backend)
 	- HTML and CSS: [Interneting is hard](https://github.com/palomamorais-developer/interneting-is-hard) | Mozilla Entwickler-Doku: **[HTML](https://developer.mozilla.org/de/docs/Web/HTML)** & **[CSS](https://developer.mozilla.org/de/docs/Web/CSS)** | Kurs [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001) **[HTML&CSS Course](https://www.udacity.com/course/intro-to-html-and-css--ud001)**
@@ -1284,7 +1298,7 @@ Werkzeuge:
 	- Dropshipping: bspw. [Shopify Dropshipping](https://www.shopify.com/de/blog/dropshipping-store)
 	- Freemium: [The 7 Types of Freemium](https://sixteenventures.com/seven-types-of-freemium) (Obacht: „Freemium ist in Wahrheit eine Marketing-Taktik und kein Geschäftsmodell“ – [Lincoln Murphy](https://sixteenventures.com/))
 	- Blogposts/Newsletter/Podcasts: [Steady](https://steadyhq.com/de)
-- Content Management Systeme / Technische Dokumentation
+- Technische Dokumentation
 	- Dt. Verband: [tekom](https://www.tekom.de/) Deutschland e.V.
 	- (€:) Buch [Technische Dokumentation: Übersetzungsgerechte Texterstellung und Content-Management](https://www.amazon.de/dp/3834333484/) (2014) von Drewer & Ziegler
 - Gaming/Game-Engines/3D: [**Unity** Education](https://unity.com/learn) | [**Unreal** Learning Library](https://dev.epicgames.com/community/learning?application=unreal_engine)
