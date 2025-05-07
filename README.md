@@ -639,7 +639,7 @@ Werkzeuge:
 		- Postgres: Elefant als Logo, namens Slonik. Dieser steht für ein Elefantengedächtnis.
 		- MySQL|MariaDB|MaxDB: Der Hauptautor der orig. MySQL, Michael „Monty“ Widenius, hat drei leibliche Kinder: My, Max und Maria
 	- SQL Security (SQL-Injection): [OWASP **Juice Shop**](https://owasp.org/www-project-juice-shop/) | **[SQL-Insekten](https://www.sql-insekten.de)**
-- Informaton Retrieval (IR)
+- Information Retrieval (IR)
 	- Disclaimer: IR ist kein Datenbanksysteme-Teilgebiet, sonder eine eigenständige Schwesterdisziplin (eher NLP- und KI-nah, anstatt RDBMS-nah)
 	- IR-Funktionalitätenskizze: **Volltextsuche** (u.a. per **[invertierte Listen](https://en.wikipedia.org/wiki/Inverted_index)**), Web Search, Semantic Search, ..., **Unscharfe Suche** ([Stemming & Lemmatization](https://www.ibm.com/de-de/think/topics/stemming-lemmatization) und [phonetische Algorithmen](https://de.wikipedia.org/wiki/Phonetische_Suche) bspw. [Soundex](https://de.wikipedia.org/wiki/Soundex) oder [Kölner Phonetik](https://de.wikipedia.org/wiki/Kölner_Phonetik))
 	- Bücher:
@@ -653,7 +653,6 @@ Werkzeuge:
 	- Verwandte Disziplinen:
 		- [Content Management Systeme](https://de.wikipedia.org/wiki/Content-Management-System) (CMS), Web Content Management Systeme (WCMS), [Component Content Management Systeme](https://en.wikipedia.org/wiki/Component_content_management_system) (CCMS), [Document Management System](https://de.wikipedia.org/wiki/Dokumentenmanagement) (DMS), [Enterprise Content Management](https://de.wikipedia.org/wiki/Enterprise-Content-Management) (ECM), Desktop Search
 		- (€:) Buch [Technische Dokumentation: Übersetzungsgerechte Texterstellung und Content-Management](https://www.amazon.de/dp/3834333484/) (2014) von Drewer & Ziegler
-		- 
 - Web-Anwendungsentwicklung (WAE): **[The Odin Project](https://www.theodinproject.com/)** | **[Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)**
 	- roadmap.sh [**Full-Stack** Developer Roadmap](https://roadmap.sh/full-stack) + [**Frontend Developer** Roadmap](https://roadmap.sh/frontend) + [**Backend Developer** Roadmap](https://roadmap.sh/backend)
 	- HTML and CSS: [Interneting is hard](https://github.com/palomamorais-developer/interneting-is-hard) | Mozilla Entwickler-Doku: **[HTML](https://developer.mozilla.org/de/docs/Web/HTML)** & **[CSS](https://developer.mozilla.org/de/docs/Web/CSS)** | Kurs [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001) **[HTML&CSS Course](https://www.udacity.com/course/intro-to-html-and-css--ud001)**
