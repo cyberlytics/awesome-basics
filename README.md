@@ -23,29 +23,29 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - [Kinder und Jugendliche](#kinder-und-jugendliche)
 - [Vor Eintritt in ein Bachelorstudium](#vor-eintritt-in-ein-bachelorstudium)
 - [Vor Eintritt in ein Informatik- oder KI-Studium](#vor-eintritt-in-ein-informatik--oder-ki-studium)
-  - [Orientierung](#orientierung)
-  - [Schulischer Informatik- und KI-Stoff](#schulischer-informatik--und-ki-stoff)
-  - [Handwerkszeug](#handwerkszeug)
+	- [Orientierung](#orientierung)
+	- [Schulischer Informatik- und KI-Stoff](#schulischer-informatik--und-ki-stoff)
+	- [Handwerkszeug](#handwerkszeug)
 - [Vor einer wiss. Abschlussarbeit (Informatik/KI)](#vor-einer-wiss-abschlussarbeit-informatikki)
-  - [Handwerkszeug: Schreiben](#handwerkszeug-schreiben)
-  - [Handwerkszeug: Getting Sh\*t Done](#handwerkszeug-getting-sht-done)
+	- [Handwerkszeug: Schreiben](#handwerkszeug-schreiben)
+	- [Handwerkszeug: Getting Sh\*t Done](#handwerkszeug-getting-sht-done)
 - [Bachelor-Level](#bachelor-level)
-  - [Fundament](#fundament)
-  - [Bachelor Informatik/KI](#bachelor-informatikki)
-  - [B.Sc.: Big Data and Cloud Computing for AI](#bsc-big-data-and-cloud-computing-for-ai)
-  - [B.Sc.: Bonusliste](#bsc-bonusliste)
+	- [Fundament](#fundament)
+	- [Bachelor Informatik/KI](#bachelor-informatikki)
+	- [B.Sc.: Big Data and Cloud Computing for AI](#bsc-big-data-and-cloud-computing-for-ai)
+	- [B.Sc.: Bonusliste](#bsc-bonusliste)
 - [U-Literatur](#u-literatur)
 - [Master-Level](#master-level)
-  - [Master Informatik/KI](#master-informatikki)
-  - [M.Sc.: Big Data and Cloud Computing for AI](#msc-big-data-and-cloud-computing-for-ai)
-  - [M.Sc.: Bonusliste](#msc-bonusliste)
+	- [Master Informatik/KI](#master-informatikki)
+	- [M.Sc.: Big Data and Cloud Computing for AI](#msc-big-data-and-cloud-computing-for-ai)
+	- [M.Sc.: Bonusliste](#msc-bonusliste)
 - [Vor einer PhD-Phase](#vor-einer-phd-phase)
 - [Forschungsdatenmanagement](#forschungsdatenmanagement)
 - [Vor einer Post-Doc-Phase oder Professur](#vor-einer-post-doc-phase-oder-professur)
-  - [Bonusliste](#bonusliste)
+	- [Bonusliste](#bonusliste)
 - [China-Aufenthalt](#china-aufenthalt)
 - [Informatik-Nachrichten](#informatik-nachrichten)
-  - [Regionale Gruppen](#regionale-gruppen)
+	- [Regionale Gruppen](#regionale-gruppen)
 - [Filme und TV-Serien](#filme-und-tv-serien)
 - [Humor](#humor)
 - [Kultur](#kultur)
@@ -55,164 +55,164 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - [Job-Interview Training](#job-interview-training)
 - [Appendix: Course Recommendations & Repos](#appendix-course-recommendations--repos)
 - [Footer](#footer)
-  - [Future Work](#future-work)
-  - [Contribute](#contribute)
-  - [Backers](#backers)
-  - [License](#license)
+	- [Future Work](#future-work)
+	- [Contribute](#contribute)
+	- [Backers](#backers)
+	- [License](#license)
 
 <!-- tocstop -->
 
 ## Kinder und Jugendliche
 
 - Grundverständnis ⭐
-  - Video [Harvard Professor Explains Algorithms in 5 Levels of Difficulty](https://www.youtube.com/watch?v=fkIvmfqX-t0) (Playlist: [5 Levels](https://youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N): [Machine Learning](https://www.youtube.com/watch?v=5q87K1WaoFI), [Hacking](https://www.youtube.com/watch?v=d9PqVcgT1kQ), [Blockchain](https://www.youtube.com/watch?v=hYip_Vuv8J0), [Virtual Reality](https://www.youtube.com/watch?v=akveRNY6Ulw))
-  - Arbeitsheft **[schulKI: Das Schulbuch](https://schulbuchki.s3-eu-central-1.ionoscloud.com/schulKI-2024-07-21-helle-edition.pdf)**
-  - SchuBu [Digitale Grundbildung 3](https://www.schubu.org/t11-7) (sowie deren andere [digitalen Schulbücher](https://www.schubu.org/))
-  - Videos [Frag Fred](https://www.youtube.com/playlist?list=PLMu9JaQVxJoEWVdcNvsDnd1_dKmAkWDVA)
+	- Video [Harvard Professor Explains Algorithms in 5 Levels of Difficulty](https://www.youtube.com/watch?v=fkIvmfqX-t0) (Playlist: [5 Levels](https://youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N): [Machine Learning](https://www.youtube.com/watch?v=5q87K1WaoFI), [Hacking](https://www.youtube.com/watch?v=d9PqVcgT1kQ), [Blockchain](https://www.youtube.com/watch?v=hYip_Vuv8J0), [Virtual Reality](https://www.youtube.com/watch?v=akveRNY6Ulw))
+	- Arbeitsheft **[schulKI: Das Schulbuch](https://schulbuchki.s3-eu-central-1.ionoscloud.com/schulKI-2024-07-21-helle-edition.pdf)**
+	- SchuBu [Digitale Grundbildung 3](https://www.schubu.org/t11-7) (sowie deren andere [digitalen Schulbücher](https://www.schubu.org/))
+	- Videos [Frag Fred](https://www.youtube.com/playlist?list=PLMu9JaQVxJoEWVdcNvsDnd1_dKmAkWDVA)
 - Ursprung in Deutschland
-  - **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabensammlung](https://bwinf.de/biber/archiv/)) ⭐
-  - [Calliope Mini](https://calliope.cc/) ([Anleitungen](https://calliopemini.info/), Microsoft [MakeCode](https://makecode.calliope.cc/))
-  - Kosmos [Miika K.I.](https://www.kosmos.de/de/miika-k.i._1620899_4002051620899)
+	- **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabensammlung](https://bwinf.de/biber/archiv/)) ⭐
+	- [Calliope Mini](https://calliope.cc/) ([Anleitungen](https://calliopemini.info/), Microsoft [MakeCode](https://makecode.calliope.cc/))
+	- Kosmos [Miika K.I.](https://www.kosmos.de/de/miika-k.i._1620899_4002051620899)
 - Begegnungen / Creative Retreat
-  - CoderDojo (u.a. in [Nürnberg](https://coderdojo-nbg.org/) und [Erlangen](http://www.coderdojo-erlangen.de/))
-  - FabLab (u.a. in [Nürnberg](https://fablab-nuernberg.de/) und [Erlangen](https://fablab.fau.de/))
-  - KinderUni (u.a. in [Nürnberg](https://www.nuernberg.de/internet/kuf_kultur/kinderuni.html))
+	- CoderDojo (u.a. in [Nürnberg](https://coderdojo-nbg.org/) und [Erlangen](http://www.coderdojo-erlangen.de/))
+	- FabLab (u.a. in [Nürnberg](https://fablab-nuernberg.de/) und [Erlangen](https://fablab.fau.de/))
+	- KinderUni (u.a. in [Nürnberg](https://www.nuernberg.de/internet/kuf_kultur/kinderuni.html))
 - IT-Notfallprinzip:
-  - EN: "Did you try to turn it off and on again?"
-  - DE: "AEG" = "Aus. Ein. Geht."
+	- EN: "Did you try to turn it off and on again?"
+	- DE: "AEG" = "Aus. Ein. Geht."
 - KI-Spiele
-  - [Montagsmaler](https://quickdraw.withgoogle.com/?locale=de) per Google QuickDraw
-  - [Which Face is Real](http://whichfaceisreal.com/) (und als Vorbereitung: [this-person-does-not-exist](https://this-person-does-not-exist.com/de))
-  - [Real or AI Quiz](https://britannicaeducation.com/blog/quiz-real-or-ai/) von Britannica
-  - [ArtBot](https://learnml.eu/artbot.php) von [LearnML](https://learnml.eu/games.php) (ML-Grundmechanismen)
-  - [Human or Not](https://humanornot.so/) (ein Live-Turingtest per Chatting)
-  - [Deep Nostalgia](https://www.myheritage.de/deep-nostalgia) von MyHeritage (Alte Fotos animieren)
-  - [DeepBeat](https://deepbeat.org/) (Rap-Texter)
-  - Grenzen von KI: [A **GPT-4 Capability** Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
-  - Prompt Injection als LLM-Sicherheitsangriff: **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8))
+	- [Montagsmaler](https://quickdraw.withgoogle.com/?locale=de) per Google QuickDraw
+	- [Which Face is Real](http://whichfaceisreal.com/) (und als Vorbereitung: [this-person-does-not-exist](https://this-person-does-not-exist.com/de))
+	- [Real or AI Quiz](https://britannicaeducation.com/blog/quiz-real-or-ai/) von Britannica
+	- [ArtBot](https://learnml.eu/artbot.php) von [LearnML](https://learnml.eu/games.php) (ML-Grundmechanismen)
+	- [Human or Not](https://humanornot.so/) (ein Live-Turingtest per Chatting)
+	- [Deep Nostalgia](https://www.myheritage.de/deep-nostalgia) von MyHeritage (Alte Fotos animieren)
+	- [DeepBeat](https://deepbeat.org/) (Rap-Texter)
+	- Grenzen von KI: [A **GPT-4 Capability** Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
+	- Prompt Injection als LLM-Sicherheitsangriff: **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8))
 - Wichtige Lernplattformen
-  - Software: **[Scratch](https://scratch.mit.edu/)** (MIT), [Code it!](https://code-it-studio.de/), [Code Combat](https://codecombat.com/)
-  - Einplatinencomputer: **[Raspberry Pi](https://tutorials-raspberrypi.de/13-tolle-raspberry-pi-projekte-fuer-kinder-jugendliche/)** und **[Arduino](https://kinderprogrammieren.de/ratgeber/arduino-fuer-kinder-ratgeber-fuer-einstieg/)** ([Open Roberta Lab](https://lab.open-roberta.org/)) sowie oben bereits erwähnt das dt. **[Calliope Mini](https://calliope.cc/)** ([Anleitungen](https://calliopemini.info/), Microsoft [MakeCode](https://makecode.calliope.cc/))
-  - Roboterspielzeug: von **[Kosmos](https://www.amazon.de/s?k=kosmos+roboter)** (wie oben: bspw. [Miika K.I.](https://www.kosmos.de/de/miika-k.i._1620899_4002051620899)), **[Adeept](https://www.amazon.de/s?k=Adeept)** (bspw. [Mars Rover](https://www.amazon.de/dp/B085C8DFT8)), **[Keyestudio](https://www.amazon.de/s?k=keyestudio)** (bspw. [Smart Car Robot](https://www.amazon.de/dp/B08276N3D9/)), **[Makeblock](https://www.amazon.de/s?k=makeblock)** (bspw. [mBot Ranger](https://www.amazon.de/dp/B07KG4JHBH)), **[Lego](https://www.amazon.de/s?k=lego+roboter+programmierbar)** (bspw. [Boost](https://www.amazon.de/dp/B072MK1PDV/); Hinweis: Lego hat Mindstorms leider seit 2022 [aufgegeben](https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/)), **[Clementoni](https://www.amazon.de/s?k=Clementoni+robot)** (~ Galileo), **[Freenove](https://www.amazon.de/s?k=freenove)** (bspw. [Big Hexapod](https://www.amazon.de/dp/B09CFRJSS5/)) sowie **[Hexabugs](https://kinderprogrammieren.de/spielsachen/hexbugs-im-vergleich/)**
-    - Nennenswerte nicht-programmierbare Roboter als Anschauungsobjekte: Energize Lab (v.a. [Eilik](https://www.amazon.de/s?k=eilik))
-  - Drohnen: **[DJI](https://www.amazon.de/s?k=dji+drohne)** und andere
+	- Software: **[Scratch](https://scratch.mit.edu/)** (MIT), [Code it!](https://code-it-studio.de/), [Code Combat](https://codecombat.com/)
+	- Einplatinencomputer: **[Raspberry Pi](https://tutorials-raspberrypi.de/13-tolle-raspberry-pi-projekte-fuer-kinder-jugendliche/)** und **[Arduino](https://kinderprogrammieren.de/ratgeber/arduino-fuer-kinder-ratgeber-fuer-einstieg/)** ([Open Roberta Lab](https://lab.open-roberta.org/)) sowie oben bereits erwähnt das dt. **[Calliope Mini](https://calliope.cc/)** ([Anleitungen](https://calliopemini.info/), Microsoft [MakeCode](https://makecode.calliope.cc/))
+	- Roboterspielzeug: von **[Kosmos](https://www.amazon.de/s?k=kosmos+roboter)** (wie oben: bspw. [Miika K.I.](https://www.kosmos.de/de/miika-k.i._1620899_4002051620899)), **[Adeept](https://www.amazon.de/s?k=Adeept)** (bspw. [Mars Rover](https://www.amazon.de/dp/B085C8DFT8)), **[Keyestudio](https://www.amazon.de/s?k=keyestudio)** (bspw. [Smart Car Robot](https://www.amazon.de/dp/B08276N3D9/)), **[Makeblock](https://www.amazon.de/s?k=makeblock)** (bspw. [mBot Ranger](https://www.amazon.de/dp/B07KG4JHBH)), **[Lego](https://www.amazon.de/s?k=lego+roboter+programmierbar)** (bspw. [Boost](https://www.amazon.de/dp/B072MK1PDV/); Hinweis: Lego hat Mindstorms leider seit 2022 [aufgegeben](https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/)), **[Clementoni](https://www.amazon.de/s?k=Clementoni+robot)** (~ Galileo), **[Freenove](https://www.amazon.de/s?k=freenove)** (bspw. [Big Hexapod](https://www.amazon.de/dp/B09CFRJSS5/)) sowie **[Hexabugs](https://kinderprogrammieren.de/spielsachen/hexbugs-im-vergleich/)**
+		- Nennenswerte nicht-programmierbare Roboter als Anschauungsobjekte: Energize Lab (v.a. [Eilik](https://www.amazon.de/s?k=eilik))
+	- Drohnen: **[DJI](https://www.amazon.de/s?k=dji+drohne)** und andere
 - Medienkompetenz
-  - Einstieg: Schweizer [Medienkompetenz-Broschüre](https://www.jugendundmedien.ch/angebote-beratung/bestellung-publikationen) und Aspen Institute [Medienkompetenz-Handbuch](https://www.aspeninstitute.de/wp-content/uploads/Aspen-Institute-Germany-Handbuch-Medienkompetenz-meistern-Tipps-von-SchuelerInnen-fuer-SchuelerInnen.pdf)
-  - Initiative [Gutes Aufwachsen mit Medien](https://www.gutes-aufwachsen-mit-medien.de/magazin)
-  - Webartikel [Desinformation & Nachrichtenkompetenz](https://www.jugendundmedien.ch/themen/desinformation-nachrichtenkompetenz) (Clickbait, Deepfakes/Deepnudes, Fake News, Filterblasen/Echokammern, Hoaxes, Trolle, ...) der Schweizer Plattform [Jugend und Medien](https://www.jugendundmedien.ch/)
-    - Zu Deepnudes:
-      - Nennenswert: „Vom Schamgefühl her macht es keinen Unterschied, ob die Nacktbilder echt sind“
-      - Kostenlose Werkzeuge der digitalen Selbstverteidigung:
-        - Freizügige Fotos/Videos löschen, für Minderjährige: [Take It Down](https://takeitdown.ncmec.org/de/) ([Teilnehmende Partner](https://takeitdown.ncmec.org/de/teilnehmende/))
-        - Freizügige Fotos/Videos löschen, für Volljährige: [StopNCII](https://stopncii.org/) ([Teilnehmende Partner](https://stopncii.org/partner/industriepartner/))
-  - Nennenswerte Medien-/Internet-Gesetzmäßigkeiten:
-    - [Betteridge's law of headlines](https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines): "Any headline which ends in a question mark can be answered by the word 'no'."
-    - [Cunningham's law](https://meta.m.wikimedia.org/wiki/Cunningham%27s_Law): "The best way to get the right answer on the Internet is not to ask a question, but to post the wrong answer."
-    - [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law): "Ninety percent of everything is crap."
-    - [Hanlon’s Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): "Never attribute to malice that which is adequately explained by stupidity."
-    - [Gibson's law](https://en.wikipedia.org/wiki/Gibson%27s_law): "For every PhD there is an equal and opposite PhD." (Original context: expert witnesses called by opposing parties in a trial)
-    - [Rules of the Internet](https://tvtropes.org/pmwiki/pmwiki.php/Main/RulesOfTheInternet)
-      - [Rule 34](https://en.wikipedia.org/wiki/Rule_34): "There is porn of it." (longer variant: "If it exists, or can be imagined, there is Internet porn of it.")
-  - Weiterführende Medienkompetenz-Referenzen: [bildungsserver.de](https://www.bildungsserver.de/medienkompetenz-2924-de.html)
-    - Lehrmaterialien: [Werkstattbuch Medienerziehung](https://www.bzga.de/fileadmin/user_upload/PDF/themenschwerpunkte/medienkompetenz/werkbuch_medienerziehung_kopiervorlagen--66f1fed9e09b25eb436a6eb49a29d158.pdf), [klicksafe](https://www.klicksafe.de/materialien)
+	- Buch (€) [Allein mit dem Handy](https://www.amazon.de/dp/3453607015) von Daniel Wolff
+	- Einstieg: Schweizer [Medienkompetenz-Broschüre](https://www.jugendundmedien.ch/angebote-beratung/bestellung-publikationen) und Aspen Institute [Medienkompetenz-Handbuch](https://www.aspeninstitute.de/wp-content/uploads/Aspen-Institute-Germany-Handbuch-Medienkompetenz-meistern-Tipps-von-SchuelerInnen-fuer-SchuelerInnen.pdf)
+	- Initiative [Gutes Aufwachsen mit Medien](https://www.gutes-aufwachsen-mit-medien.de/magazin)
+	- Webartikel [Desinformation & Nachrichtenkompetenz](https://www.jugendundmedien.ch/themen/desinformation-nachrichtenkompetenz) (Clickbait, Deepfakes/Deepnudes, Fake News, Filterblasen/Echokammern, Hoaxes, Trolle, ...) der Schweizer Plattform [Jugend und Medien](https://www.jugendundmedien.ch/)
+	- Zu Deepnudes: Kostenlose Werkzeuge der digitalen Selbstverteidigung
+		- Freizügige Fotos/Videos löschen, für Minderjährige: [Take It Down](https://takeitdown.ncmec.org/de/) ([Teilnehmende Partner](https://takeitdown.ncmec.org/de/teilnehmende/))
+		- Freizügige Fotos/Videos löschen, für Volljährige: [StopNCII](https://stopncii.org/) ([Teilnehmende Partner](https://stopncii.org/partner/industriepartner/))
+		- Merksatz ⭐: „Vom Schamgefühl her macht es keinen Unterschied, ob die Nacktbilder echt sind“
+	- Medienkompetenz vs. Medien-/Internet-Gesetzmäßigkeiten:
+		- [Betteridge's law of headlines](https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines): "Any headline which ends in a question mark can be answered by the word 'no'."
+		- [Cunningham's law](https://meta.m.wikimedia.org/wiki/Cunningham%27s_Law): "The best way to get the right answer on the Internet is not to ask a question, but to post the wrong answer."
+		- [Sturgeon's law](https://en.wikipedia.org/wiki/Sturgeon%27s_law): "Ninety percent of everything is crap."
+		- [Hanlon’s Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): "Never attribute to malice that which is adequately explained by stupidity."
+		- [Gibson's law](https://en.wikipedia.org/wiki/Gibson%27s_law): "For every PhD there is an equal and opposite PhD." (Original context: expert witnesses called by opposing parties in a trial)
+		- [Rules of the Internet](https://tvtropes.org/pmwiki/pmwiki.php/Main/RulesOfTheInternet)
+			- [Rule 34](https://en.wikipedia.org/wiki/Rule_34): "There is porn of it." (longer variant: "If it exists, or can be imagined, there is Internet porn of it.")
+	- Weiterführende Medienkompetenz-Referenzen: [bildungsserver.de](https://www.bildungsserver.de/medienkompetenz-2924-de.html)
+		- Lehrmaterialien: [Werkstattbuch Medienerziehung](https://www.bzga.de/fileadmin/user_upload/PDF/themenschwerpunkte/medienkompetenz/werkbuch_medienerziehung_kopiervorlagen--66f1fed9e09b25eb436a6eb49a29d158.pdf), [klicksafe](https://www.klicksafe.de/materialien)
 - Schulen
-  - Profilschule für Informatik und Zukunftstechnologien (PIZ): Liste aller [PIZ-Schulen](https://www.km.bayern.de/gestalten/digitalisierung/profilschulen-fuer-informatik-und-zukunftstechnologien/schulen)
-    - Disclaimer: Ich bin ein [PiZ-Fachbeirat](https://www.km.bayern.de/gestalten/digitalisierung/profilschulen-fuer-informatik-und-zukunftstechnologien/fachbeirat)
-  - Bereits Frühförderung in der KiTa gewünscht? [Pixel Werkstatt Amberg](https://www.pixelwerkstatt.kita.bayern/)
-  - [Schulleistungsuntersuchungen](https://de.m.wikipedia.org/wiki/Schulleistungsuntersuchung)
-    - dt. [Bildungsmonitor](https://www.insm.de/insm/themen/bildung/) sowie [PISA](https://www.oecd.org/berlin/themen/pisa-studie/) (zzgl. dt. [DESI](https://www.dipf.de/de/forschung/projektarchiv/deutsch-englisch-schuelerleistungen-international)), [PIAAC](https://www.gesis.org/piaac/piaac-home), [TIMSS](https://timss.bc.edu/timss-landing.html), [PIRLS/IGLU](https://www.kmk.org/themen/qualitaetssicherung-in-schulen/bildungsmonitoring/internationale-schulleistungsvergleiche/pirlsiglu.html)) (zzgl. weitere: [Hattie](http://d-nb.info/1058566075), …)
-    - Digitalkompetenz: [ICILS](https://www.iea.nl/studies/iea/icils) (= International Computer and Information Literacy Study)
+	- Profilschule für Informatik und Zukunftstechnologien (PIZ): Liste aller [PIZ-Schulen](https://www.km.bayern.de/gestalten/digitalisierung/profilschulen-fuer-informatik-und-zukunftstechnologien/schulen)
+		- Disclaimer: Ich bin ein [PiZ-Fachbeirat](https://www.km.bayern.de/gestalten/digitalisierung/profilschulen-fuer-informatik-und-zukunftstechnologien/fachbeirat)
+	- Bereits Frühförderung in der KiTa gewünscht? [Pixel Werkstatt Amberg](https://www.pixelwerkstatt.kita.bayern/)
+	- [Schulleistungsuntersuchungen](https://de.m.wikipedia.org/wiki/Schulleistungsuntersuchung)
+		- dt. [Bildungsmonitor](https://www.insm.de/insm/themen/bildung/) sowie [PISA](https://www.oecd.org/berlin/themen/pisa-studie/) (zzgl. dt. [DESI](https://www.dipf.de/de/forschung/projektarchiv/deutsch-englisch-schuelerleistungen-international)), [PIAAC](https://www.gesis.org/piaac/piaac-home), [TIMSS](https://timss.bc.edu/timss-landing.html), [PIRLS/IGLU](https://www.kmk.org/themen/qualitaetssicherung-in-schulen/bildungsmonitoring/internationale-schulleistungsvergleiche/pirlsiglu.html)) (zzgl. weitere: [Hattie](http://d-nb.info/1058566075), …)
+		- Digitalkompetenz: [ICILS](https://www.iea.nl/studies/iea/icils) (= International Computer and Information Literacy Study)
 - Informatik-Software und -Quellen für Schüler
-  - Oben erwähnter **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabensammlung](https://bwinf.de/biber/archiv/))
-  - Objekt-orientierte Programmierung
-    - Buch [Karel the Robot](https://www.amazon.de/dp/0471597252/) ([Karel Homepage](https://www.cs.mtsu.edu/~untch/karel/index.html)) mit [Robot Karol](https://karol.arrrg.de/) als Online-Programmierumgebung
-    - [Java Karol](https://mebis.bycs.de/beitrag/java-karol): Karel Robot in Java programmieren
-    - [BlueJ](https://www.bluej.org) Java-Entwicklungsumgebung für Beginner \[**choco install bluej**\]
-    - [LearnJ](https://www.learnj.de/doku.php): interaktiver Java-Kurs für Schüler
-    - [SpaceJunk](https://www.info-am-gym.de/java/spacejunk.html): Multiplayer-Spiel in 99 Codezeilen
-  - Datenbanksysteme
-    - SQL: [SQL Trainer](https://info-am-gym.de/sqltrainer/), [InstaHub](https://instahub.org) ([Doku](https://wi-wissen.github.io/instahub-doc-de/#/))
-    - Videos [Datenschutz leicht erklärt](https://www.datenschutz-leicht-erklaert.de)
-    - Data Mining: [orange DataMining](https://orangedatamining.com)
-  - Krytographie
-    - Video [Die Geschichte der Kryptografie](https://mundo.schule/details/SODIX-0001004402) von Stefan Müller
-  - Netzwerke
-    - Video [Frag Fred: Wie funktioniert das Internet?](https://www.youtube.com/watch?v=e9FJPnFQWi8)
-    - Kollaborative Lernumgebung WebNetSim: 1) [Leitfaden](https://webnetsim.de/LeitfadenWebNetSim.pdf) lesen, 2) [WebNetSim](https://webnetsim.de) aufrufen
-    - PowerPoint [Energieverbrauch des Internets](https://www.lehrplanplus.bayern.de/sixcms/media.php/71/VV_GY_Inf_11_Energieverbrauch_des_Internets.pptx)
-  - Algo / Graphen
-    - [Algo](https://info-am-gym.de/algo/): Lösung von Problemen mit Hilfe von Algorithmen
-    - [Listen/Bäume/Graphen](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/Informatik_11/informatik-11-hr.pdf)
-    - [GraphStream](https://graphstream-project.org): Java library for the modeling and analysis of dynamic graphs
+	- Oben erwähnter **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabensammlung](https://bwinf.de/biber/archiv/))
+	- Objekt-orientierte Programmierung
+		- Buch [Karel the Robot](https://www.amazon.de/dp/0471597252/) ([Karel Homepage](https://www.cs.mtsu.edu/~untch/karel/index.html)) mit [Robot Karol](https://karol.arrrg.de/) als Online-Programmierumgebung
+		- [Java Karol](https://mebis.bycs.de/beitrag/java-karol): Karel Robot in Java programmieren
+		- [BlueJ](https://www.bluej.org) Java-Entwicklungsumgebung für Beginner \[**choco install bluej**\]
+		- [LearnJ](https://www.learnj.de/doku.php): interaktiver Java-Kurs für Schüler
+		- [SpaceJunk](https://www.info-am-gym.de/java/spacejunk.html): Multiplayer-Spiel in 99 Codezeilen
+	- Datenbanksysteme
+		- SQL: [SQL Trainer](https://info-am-gym.de/sqltrainer/), [InstaHub](https://instahub.org) ([Doku](https://wi-wissen.github.io/instahub-doc-de/#/))
+		- Videos [Datenschutz leicht erklärt](https://www.datenschutz-leicht-erklaert.de)
+		- Data Mining: [orange DataMining](https://orangedatamining.com)
+	- Krytographie
+		- Video [Die Geschichte der Kryptografie](https://mundo.schule/details/SODIX-0001004402) von Stefan Müller
+	- Netzwerke
+		- Video [Frag Fred: Wie funktioniert das Internet?](https://www.youtube.com/watch?v=e9FJPnFQWi8)
+		- Kollaborative Lernumgebung WebNetSim: 1) [Leitfaden](https://webnetsim.de/LeitfadenWebNetSim.pdf) lesen, 2) [WebNetSim](https://webnetsim.de) aufrufen
+		- PowerPoint [Energieverbrauch des Internets](https://www.lehrplanplus.bayern.de/sixcms/media.php/71/VV_GY_Inf_11_Energieverbrauch_des_Internets.pptx)
+	- Algo / Graphen
+		- [Algo](https://info-am-gym.de/algo/): Lösung von Problemen mit Hilfe von Algorithmen
+		- [Listen/Bäume/Graphen](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/Informatik_11/informatik-11-hr.pdf)
+		- [GraphStream](https://graphstream-project.org): Java library for the modeling and analysis of dynamic graphs
 - Informatik- und KI-Software für Lehrer/Schulen
-  - Künstliche Intelligenz in der Schule: code.org [**AI 101** for Teachers](https://code.org/ai/pl/101)
-  - KI-Lerntutor: kostenpflichtige (€) **[schulKI](https://schulki.de/)** = DSGVO-konformer Zugriff auf LLMs/ChatGPT sowie Presets für diverse Unterrichtsfächer
-  - Schweizer [mia4u](https://www.mia4u.ch/): Medien und Informatik im Unterricht
-  - [Prompt-Katalog](https://coda.io/@kic/prompt-katalog) des KI-Campus, eigentlich mit Hochschulkontext, aber auch für die gymnasiale Oberstufe geeignet
-  - **[fobizz-Tools](https://tools.fobizz.com/)** (Digitale Tafel mit Dateien und Audio-/Video-Aufnahmen teilen sowie Galerie der Unterrichtsmaterialien, fobizz Pinnwand mit Karten, Arbeitsblätter für den Unterrichtseinsatz, kollaborative Wortwolken, URL-Shortener, QR-Code-Generator, temp. Webseiten erstellen, Bildschirm-Aufnahme, Umfragen erstellen, kollaborativer Texteditor mit KI-Korrekturhilfe, KI-Chat mit fachspezifischen KI-Assistenten und historischen Menschen, KI-Promptlabor, KI-Bildgenerator, Transkription von Video/Audio/Bilder)
-  - KI-Mathetutor: [rockettutor](https://www.rockettutor.de/)
-  - Seminaraufgaben/Deutsch: [fiete.ai](https://www.fiete.ai/) = AI-basiertes Feedback zu Textaufgaben vor Abgabe an den Lehrer sowie interaktive Arbeitsblätter
-  - Unterrichtsmaterial zu Informatik/KI: [appcamps](https://appcamps.de/)
-  - Weiterführende Referenzen: Kuratierte Übersichtsseite der [fobizz-Partner](https://tools.fobizz.com/partners)
+	- Künstliche Intelligenz in der Schule: code.org [**AI 101** for Teachers](https://code.org/ai/pl/101)
+	- KI-Lerntutor: kostenpflichtige (€) **[schulKI](https://schulki.de/)** = DSGVO-konformer Zugriff auf LLMs/ChatGPT sowie Presets für diverse Unterrichtsfächer
+	- Schweizer [mia4u](https://www.mia4u.ch/): Medien und Informatik im Unterricht
+	- [Prompt-Katalog](https://coda.io/@kic/prompt-katalog) des KI-Campus, eigentlich mit Hochschulkontext, aber auch für die gymnasiale Oberstufe geeignet
+	- **[fobizz-Tools](https://tools.fobizz.com/)** (Digitale Tafel mit Dateien und Audio-/Video-Aufnahmen teilen sowie Galerie der Unterrichtsmaterialien, fobizz Pinnwand mit Karten, Arbeitsblätter für den Unterrichtseinsatz, kollaborative Wortwolken, URL-Shortener, QR-Code-Generator, temp. Webseiten erstellen, Bildschirm-Aufnahme, Umfragen erstellen, kollaborativer Texteditor mit KI-Korrekturhilfe, KI-Chat mit fachspezifischen KI-Assistenten und historischen Menschen, KI-Promptlabor, KI-Bildgenerator, Transkription von Video/Audio/Bilder)
+	- KI-Mathetutor: [rockettutor](https://www.rockettutor.de/)
+	- Seminaraufgaben/Deutsch: [fiete.ai](https://www.fiete.ai/) = AI-basiertes Feedback zu Textaufgaben vor Abgabe an den Lehrer sowie interaktive Arbeitsblätter
+	- Unterrichtsmaterial zu Informatik/KI: [appcamps](https://appcamps.de/)
+	- Weiterführende Referenzen: Kuratierte Übersichtsseite der [fobizz-Partner](https://tools.fobizz.com/partners)
 - Datenschutz in der IT-Infrastruktur von Schulen und Behörden
-  - Hintergrund sind massive Defizite seitens [Microsoft zu Windows und Office](https://dr-dsgvo.de/the-sins-of-microsoft/), [Google](https://www.privacyreclaim.com/), [Browser-Herstellern](https://www.datenschutzexperte.de/blog/datenschutz-im-unternehmen/browser-datenschutz-welcher-browser-schuetzt-ihre-daten/) und aller [BigTech-Unternehmen](https://techcrunch.com/2024/08/10/the-10-largest-gdpr-fines-on-big-tech/), was im Kontext Kinder/Schulen ins Problembewusstein treten sollte
-  - Betriebsystem-Empfehlung:
-    - Für Beginner: Linux **[Zorin OS](https://zorin.com/os/)** mit kostenlosem Windows-like Standard Desktop Layout
-      - Nennenswert: es gibt auch eine Variante [Zorin OS **Education**](https://zorin.com/os/education/) für Kinder/Schulen
-    - Für Gamer: [Pop!_OS](https://pop.system76.com/)
-    - Run Windows software on Linux? [Bottles](https://usebottles.com/)
-  - Office-Empfehlung:
-    - **[LibreOffice](https://www.libreoffice.org/)** \[**choco install libreoffice-fresh**\]
-  - Browser-Empfehlung:
-    - **[Brave](https://brave.com/)**: Chromium-based FOSS browser \[**choco install brave**\], fast by blocking trackers and intrusive ads, security-centered, and privacy-friendly
+	- Hintergrund sind massive Defizite seitens [Microsoft zu Windows und Office](https://dr-dsgvo.de/the-sins-of-microsoft/), [Google](https://www.privacyreclaim.com/), [Browser-Herstellern](https://www.datenschutzexperte.de/blog/datenschutz-im-unternehmen/browser-datenschutz-welcher-browser-schuetzt-ihre-daten/) und aller [BigTech-Unternehmen](https://techcrunch.com/2024/08/10/the-10-largest-gdpr-fines-on-big-tech/), was im Kontext Kinder/Schulen ins Problembewusstein treten sollte
+	- Betriebsystem-Empfehlung:
+		- Für Beginner: Linux **[Zorin OS](https://zorin.com/os/)** mit kostenlosem Windows-like Standard Desktop Layout
+			- Nennenswert: es gibt auch eine Variante [Zorin OS **Education**](https://zorin.com/os/education/) für Kinder/Schulen
+		- Für Gamer: [Pop!_OS](https://pop.system76.com/)
+		- Run Windows software on Linux? [Bottles](https://usebottles.com/)
+	- Office-Empfehlung:
+		- **[LibreOffice](https://www.libreoffice.org/)** \[**choco install libreoffice-fresh**\]
+	- Browser-Empfehlung:
+		- **[Brave](https://brave.com/)**: Chromium-based FOSS browser \[**choco install brave**\], fast by blocking trackers and intrusive ads, security-centered, and privacy-friendly
 - Hochpreisige Roboter:
-  - [**Misty** Robot](https://shop.mistyrobotics.com/)
-  - [**Unitree Go** Hunderobot](https://shop.unitree.com/)
-  - [**Furhat** Robot](https://www.furhatrobotics.com/furhat-robot)
+	- [**Misty** Robot](https://shop.mistyrobotics.com/)
+	- [**Unitree Go** Hunderobot](https://shop.unitree.com/)
+	- [**Furhat** Robot](https://www.furhatrobotics.com/furhat-robot)
 - Kürzelkunde:
-  - MINT-Fächer: Mathematik, Informatik, Naturwissenschaften, Technik
-    - ≙ STEM fields: science, technology, engineering, mathematics
-  - SAGE-Fächer: Soziale Arbeit, Gesundheit, Erziehung
-  - Medizin?
-    - Zählt traditionell nicht zu den MINT-Fächern
-    - Aber: STEMM fields = STEM and medicine
-    - Perspektiven: \[EN\] STEMM vs. SAGE \[DE\]?
-  - Psychologie?
-    - Zählt traditionell nicht zu den MINT-Fächern
-    - Trotz Verwendung statistischer Methoden im empirischen Bereich
+	- MINT-Fächer: Mathematik, Informatik, Naturwissenschaften, Technik
+		- ≙ STEM fields: science, technology, engineering, mathematics
+	- SAGE-Fächer: Soziale Arbeit, Gesundheit, Erziehung
+	- Medizin?
+		- Zählt traditionell nicht zu den MINT-Fächern
+		- Aber: STEMM fields = STEM and medicine
+		- Perspektiven: \[EN\] STEMM vs. SAGE \[DE\]?
+	- Psychologie?
+		- Zählt traditionell nicht zu den MINT-Fächern
+		- Trotz Verwendung statistischer Methoden im empirischen Bereich
 - MINT-Förderungen
-  - DE:
-    - Bund: [MINT-Aktionsplan](https://www.bmbf.de/bmbf/de/bildung/digitalisierung-und-mint-bildung/mint-bildung/mint-aktionsplan_node.html)
-    - [MINT-Community-Plattform](https://community.mint-vernetzt.de/)
-    - [MINT-Campus](https://mintcampus.org/)
-    - Liste [Vereine, Stiftungen und Projekte zur MINT-Förderung](https://www.bildungsserver.de/vereine-stiftungen-und-projekte-zur-mint-foerderung-12635-de.html)
-  - BY:
-    - [Förderung im MINT-Bereich](https://www.km.bayern.de/lernen/inhalte/mint) des bay. Kultusministeriums (Unterricht, Wettbewerbe, etc.)
+	- DE:
+		- Bund: [MINT-Aktionsplan](https://www.bmbf.de/bmbf/de/bildung/digitalisierung-und-mint-bildung/mint-bildung/mint-aktionsplan_node.html)
+		- [MINT-Community-Plattform](https://community.mint-vernetzt.de/)
+		- [MINT-Campus](https://mintcampus.org/)
+		- Liste [Vereine, Stiftungen und Projekte zur MINT-Förderung](https://www.bildungsserver.de/vereine-stiftungen-und-projekte-zur-mint-foerderung-12635-de.html)
+	- BY:
+		- [Förderung im MINT-Bereich](https://www.km.bayern.de/lernen/inhalte/mint) des bay. Kultusministeriums (Unterricht, Wettbewerbe, etc.)
 
 ## Vor Eintritt in ein Bachelorstudium
 
 \[ Für jeden und vor jedem Studiengang \]
 
 - Computer-Allgemeinwissen: [**Einführungsartikel** zu Windows, macOS und Linux](https://www.freecodecamp.org/news/an-introduction-to-operating-systems/)
-  - Windows-Allgemeinwissen: [**Windows** Basics](https://edu.gcfglobal.org/en/windowsbasics/) | [Windows **Explorer & Files**](https://edu.gcfglobal.org/en/windowsbasics/working-with-files/1/)
-  - Linux-Allgemeinwissen: [**Linux** Basics](https://www.makeuseof.com/tag/linux-beginners-guide/) | [Linux **Command-Line**](https://www.freecodecamp.org/news/command-line-for-beginners/)
-  - Computersicherheit-Allgemeinwissen: [**IT-Handbuch** für Fachinformatiker (2013) **Kap. 20**](https://openbook.rheinwerk-verlag.de/it_handbuch/20_001.html)
+	- Windows-Allgemeinwissen: [**Windows** Basics](https://edu.gcfglobal.org/en/windowsbasics/) | [Windows **Explorer & Files**](https://edu.gcfglobal.org/en/windowsbasics/working-with-files/1/)
+	- Linux-Allgemeinwissen: [**Linux** Basics](https://www.makeuseof.com/tag/linux-beginners-guide/) | [Linux **Command-Line**](https://www.freecodecamp.org/news/command-line-for-beginners/)
+	- Computersicherheit-Allgemeinwissen: [**IT-Handbuch** für Fachinformatiker (2013) **Kap. 20**](https://openbook.rheinwerk-verlag.de/it_handbuch/20_001.html)
 - Büroanwendungen: **[E-Mail](https://edu.gcfglobal.org/en/email101/)**, **[PDF](https://edu.gcfglobal.org/en/basic-computer-skills/what-is-a-pdf-file/1/)**, **[Zip](https://edu.gcfglobal.org/en/techsavvy/working-with-zip-files/1/)**, **[Word](https://edu.gcfglobal.org/en/word/)**, **[Excel](https://edu.gcfglobal.org/en/excel/)** (Weitere per **[LearnFree.org](https://edu.gcfglobal.org/en/topics/)**!)
-  - Weitere Excel-Lernmaterialien: [excel-easy.com](https://www.excel-easy.com/)
+	- Weitere Excel-Lernmaterialien: [excel-easy.com](https://www.excel-easy.com/)
 - Gute Präsentationen halten? Buch (€) [Präsentieren können: Das neue Handbuch für authentische Präsentationen](http://www.amazon.de/dp/3836292912/)
 - PowerPoint-Kenntnisse: **[PowerPoint](https://edu.gcfglobal.org/en/powerpoint/)** (insb. ändern der Kopf- und Fußzeile sowie Ansicht Folienmaster) ⭐
-  - **[Tastaturkürzel](https://www.presentationload.de/blog/powerpoint-shortcuts/)** (mind. **F5** und **Shift-F5**⭐ sowie das **numerische Springen zu einer Foliennummer**)
-  - zzgl. [Editier-**Tastaturkürzel und Maus**-Kombinationen](https://www.ionos.de/digitalguide/online-marketing/verkaufen-im-internet/powerpoint-shortcuts/)
-  - PowerPoint-Vorlagen
-    - Einstieg in die [verschiedenen **Template**-Aspekte](https://www.brightcarbon.com/blog/how-to-create-powerpoint-templates/) in PowerPoint
-    - Migrationen: [Legacy Slides – Best Practices](https://www.brandwares.com/bestpractices/2018/11/legacy-slides-brandwares-best-practices/)
-    - Farb-Paletten als [**Themes** in PowerPoint/Word/Excel](https://www.brightcarbon.com/blog/consistently-brand-powerpoint-excel-word/) (\*.thmx Dateien)
-    - Der Vollständigkeit halber: [Chart Templates](https://www.brightcarbon.com/blog/consistently-brand-graphs-and-charts/)
-  - Wegen PowerPoint-Add-Ins: siehe [Schwesterseite zu Werkzeugen](https://github.com/cyberlytics/awesome-thesis-tools#plug-ins--add-ins--extensions)
-  - Wichtige Funktion für Textfelder zwecks deren Default-Sprache und -Schriftart: "[Als Standardtextfeld festlegen](https://www.pcs-campus.de/office/powerpoint/textfelder/)"
-  - PowerPoint hat eine [eingebaute compress pictures Funktion](https://support.microsoft.com/de-de/office/verringern-der-dateigr%C3%B6%C3%9Fe-ihrer-powerpoint-pr%C3%A4sentationen-9548ffd4-d853-41e7-8e40-b606bca036b4) (Für Fortgeschrittene: Webartikel [Reduce **PPT file size**](https://neuxpower.com/blog/why-is-my-powerpoint-so-big-and-how-can-i-reduce-the-size-of-the-ppt)) ⚠️
+	- **[Tastaturkürzel](https://www.presentationload.de/blog/powerpoint-shortcuts/)** (mind. **F5** und **Shift-F5**⭐ sowie das **numerische Springen zu einer Foliennummer**)
+	- zzgl. [Editier-**Tastaturkürzel und Maus**-Kombinationen](https://www.ionos.de/digitalguide/online-marketing/verkaufen-im-internet/powerpoint-shortcuts/)
+	- PowerPoint-Vorlagen
+		- Einstieg in die [verschiedenen **Template**-Aspekte](https://www.brightcarbon.com/blog/how-to-create-powerpoint-templates/) in PowerPoint
+		- Migrationen: [Legacy Slides – Best Practices](https://www.brandwares.com/bestpractices/2018/11/legacy-slides-brandwares-best-practices/)
+		- Farb-Paletten als [**Themes** in PowerPoint/Word/Excel](https://www.brightcarbon.com/blog/consistently-brand-powerpoint-excel-word/) (\*.thmx Dateien)
+		- Der Vollständigkeit halber: [Chart Templates](https://www.brightcarbon.com/blog/consistently-brand-graphs-and-charts/)
+	- Wegen PowerPoint-Add-Ins: siehe [Schwesterseite zu Werkzeugen](https://github.com/cyberlytics/awesome-thesis-tools#plug-ins--add-ins--extensions)
+	- Wichtige Funktion für Textfelder zwecks deren Default-Sprache und -Schriftart: "[Als Standardtextfeld festlegen](https://www.pcs-campus.de/office/powerpoint/textfelder/)"
+	- PowerPoint hat eine [eingebaute compress pictures Funktion](https://support.microsoft.com/de-de/office/verringern-der-dateigr%C3%B6%C3%9Fe-ihrer-powerpoint-pr%C3%A4sentationen-9548ffd4-d853-41e7-8e40-b606bca036b4) (Für Fortgeschrittene: Webartikel [Reduce **PPT file size**](https://neuxpower.com/blog/why-is-my-powerpoint-so-big-and-how-can-i-reduce-the-size-of-the-ppt)) ⚠️
 - Mathematik: [Brückenkurs](https://www.ombplus.de/) **[OMB+](https://www.ombplus.de/)** ⭐
-  - (€:) Buch „[**Mathe-Basics zum Studienbeginn**: Survival-Kit Mathematik](https://www.amazon.de/dp/3658146478)“ (2016) von Albrecht Beutelspacher
+	- (€:) Buch „[**Mathe-Basics zum Studienbeginn**: Survival-Kit Mathematik](https://www.amazon.de/dp/3658146478)“ (2016) von Albrecht Beutelspacher
 - Orientierung: **[Berufe.TV](https://web.arbeitsagentur.de/berufetv/studienberufe)** von der Arbeitsagentur
 
 ## Vor Eintritt in ein Informatik- oder KI-Studium
@@ -227,44 +227,44 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - ggf. Bewerbung an einer (kostenlosen) [**42** School](https://42.us.org/) (in DE: [Berlin](https://42berlin.de/), [Heilbronn](https://www.42heilbronn.de), [Wolfsburg](https://42wolfsburg.de/)) zur Orientierung durch deren Auswahlverfahren, u.a. durch deren Piscine (fr. „Schwimmbad“) bzw. dessen Online-Variante das 42 Basecamp (Die internationale und gemeinnützige Bewegung bzw. [Schule namens 42](<https://de.wikipedia.org/wiki/42_(Schule)>) bietet ein gutes Programm für Programmierkenntnisse und reine Softwareentwicklung; mindestens auf Fachinformatik-Ausbildungsniveau, aber ohne staatlich anerkannten Abschluss)
 - **[MINTFIT](https://www.mintfit.hamburg/)** Hamburg bietet Online-Tests für Schüler:innen und Studieninteressierte zur Einschätzung der eigenen Kenntnisse und Fähigkeiten in MINT-Fächern
 - [Mindestanforderungskatalog **Mathematik**](http://www.mathematik-schule-hochschule.de/images/Aktuelles/pdf/MAKatalog_2_0.pdf) für MINT-Fächer der „cooperation schule:hochschule“ (cosh)
-  - \[OTH Amberg-Weiden:\] [Online-Self-Assessments **Mathematik**](https://moodle.oth-aw.de/enrol/index.php?id=2641) (für MINT-Fächer)
-  - Webartikel [**Importance of Math** in Computer Science](https://iponwire.com/importance-of-math-in-computer-science/) (2023) | freeCodeCamp [What every software engineer should know » **Math for Computer Science**](https://www.freecodecamp.org/news/what-every-software-engineer-should-know/#math-for-computer-science) (2023)
-  - vgl. auch Schulleistungsuntersuchungen (s.o.), insb. [TIMSS](https://timss.bc.edu/timss-landing.html) wg. dessen Fokus auf Mathematik sowie den dt. [Bildungsmonitor](https://www.insm.de/insm/themen/bildung/) mit seiner Kategorie zu [Hochschule/MINT](https://www.insm-bildungsmonitor.de/2022_best_i_hochschule-mint.html)
-  - Provokant aber nennenswert: Video [**Schulmathematik: Vergleich** Indien NRW](https://www.youtube.com/watch?v=GhmEYB3Kq-o) (2023) von Prof. Dr. Bernhard Krötz, Mathematikprofessor an der Uni Paderborn
+	- \[OTH Amberg-Weiden:\] [Online-Self-Assessments **Mathematik**](https://moodle.oth-aw.de/enrol/index.php?id=2641) (für MINT-Fächer)
+	- Webartikel [**Importance of Math** in Computer Science](https://iponwire.com/importance-of-math-in-computer-science/) (2023) | freeCodeCamp [What every software engineer should know » **Math for Computer Science**](https://www.freecodecamp.org/news/what-every-software-engineer-should-know/#math-for-computer-science) (2023)
+	- vgl. auch Schulleistungsuntersuchungen (s.o.), insb. [TIMSS](https://timss.bc.edu/timss-landing.html) wg. dessen Fokus auf Mathematik sowie den dt. [Bildungsmonitor](https://www.insm.de/insm/themen/bildung/) mit seiner Kategorie zu [Hochschule/MINT](https://www.insm-bildungsmonitor.de/2022_best_i_hochschule-mint.html)
+	- Provokant aber nennenswert: Video [**Schulmathematik: Vergleich** Indien NRW](https://www.youtube.com/watch?v=GhmEYB3Kq-o) (2023) von Prof. Dr. Bernhard Krötz, Mathematikprofessor an der Uni Paderborn
 - **[Empfehlungen der Gesellschaft für Informatik](https://gi.de/service/publikationen/empfehlungen)** (GI) für Informatik-Studium, -Ausbildung, -Fortbildung und -Weiterbildung
-  - GI-Empfehlungen: [für **Bachelor- und Masterprogramme** im Studienfach **Informatik** an Hochschulen](https://gi.de/fileadmin/GI/Hauptseite/Aktuelles/Meldungen/2016/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf) (2016) sowie dessen [Vorgänger von 2005](https://gi.de/fileadmin/GI/Hauptseite/Service/Publikationen/Empfehlungen/GI-Empfehlung_BaMa2005.pdf)
-    - Inkl. Abschnitt „Typisierung der Studiengänge“ mit der berühmten Unterscheidung in „Typ 2“ und „Typ 3“ für interdisziplinäre Informatik-Studiengänge ⭐
-  - GI-Empfehlungen: [für **Masterstudiengänge Data Science** – Auf Basis eines Bachelors in (Wirtschafts-)Informatik oder Mathematik](https://gi.de/fileadmin/GI/Hauptseite/Service/Publikationen/Empfehlungen/Empfehlungen_Masterstdiengaenge_DataScience_2021.pdf) (2021)
+	- GI-Empfehlungen: [für **Bachelor- und Masterprogramme** im Studienfach **Informatik** an Hochschulen](https://gi.de/fileadmin/GI/Hauptseite/Aktuelles/Meldungen/2016/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf) (2016) sowie dessen [Vorgänger von 2005](https://gi.de/fileadmin/GI/Hauptseite/Service/Publikationen/Empfehlungen/GI-Empfehlung_BaMa2005.pdf)
+		- Inkl. Abschnitt „Typisierung der Studiengänge“ mit der berühmten Unterscheidung in „Typ 2“ und „Typ 3“ für interdisziplinäre Informatik-Studiengänge ⭐
+	- GI-Empfehlungen: [für **Masterstudiengänge Data Science** – Auf Basis eines Bachelors in (Wirtschafts-)Informatik oder Mathematik](https://gi.de/fileadmin/GI/Hauptseite/Service/Publikationen/Empfehlungen/Empfehlungen_Masterstdiengaenge_DataScience_2021.pdf) (2021)
 
 ### Schulischer Informatik- und KI-Stoff
 
 - \[Vorab: ISB = Staatsinstitut für Schulqualität und Bildungsforschung München\]
 - [Übersicht der ISB zu MINT-Förderungen](https://www.isb.bayern.de/schularten/gymnasium/mint-foerderung/) an Schulen, u.a. [SINUS](http://www.sinus-an-grundschulen.de/), [MINT21](https://www.realschulebayern.de/realschule/realschule21/mint21/) und [DELTAplus](https://www.deltaplus.bayern.de/)
 - **Informatik** am Naturwissenschaftlich-technologischen Gymnasium (**NTG**):
-  - Fachlehrpläne für NTG ⭐
-    - Fachlehrplan [11. Jgst](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/11/informatik/ntg) der ISB für NTG ([Listen/Bäume](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/Informatik_11/informatik-11-hr.pdf), [Graphen](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/291292/fachlehrplaene/gymnasium/11/informatik/ntg), [Codierung](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/291289/fachlehrplaene/gymnasium/11/informatik/ntg), [Netzwerke](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/291293/fachlehrplaene/gymnasium/11/informatik/ntg), [KI](https://www.isb.bayern.de/schularten/gymnasium/faecher/informatik/handreichung-kuenstliche-intelligenz)), seit 2020/21 für 11. Jgst. in NTGs in Kraft getreten
-    - Fachlehrplan [10. Jgst.](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/10/informatik) der ISB für NTG ([DBS/SQL](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/218967/fachlehrplaene/gymnasium/10/informatik) 2/2, [OOP](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/218974/fachlehrplaene/gymnasium/10/informatik) 2/2)
-    - Fachlehrplan [9. Jgst.](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/9/informatik) der ISB für NTG ([Funktionen in Excel](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/217189/fachlehrplaene/gymnasium/9/informatik), [DBS/SQL](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/217220/fachlehrplaene/gymnasium/9/informatik) 1/2, [OOP](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/217193/fachlehrplaene/gymnasium/9/informatik) 1/2, [Datenschutz](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/217215/fachlehrplaene/gymnasium/9/informatik))
-  - Handreichungen für Lehrkräfte
-    - Informatik [11. Jgst](https://www.isb.bayern.de/schularten/gymnasium/faecher/informatik/handreichung-informatik-jgst-11/) \[[PDF](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/Informatik_11/informatik-11-hr.pdf)\] (inkl. KI-Abschnitt) der ISB von 2009 ⭐
-    - Informatik [12. Jgst](https://www.isb.bayern.de/schularten/gymnasium/faecher/informatik/handreichung-informatik-jgst-12/) \[[PDF](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/isb-handreichung-informatik-12.zip)\]
-    - KI: [Handreichung Lernbereich „**Künstliche Intelligenz**“ 11. Jgst](https://www.isb.bayern.de/schularten/gymnasium/faecher/informatik/handreichung-kuenstliche-intelligenz) \[[PDF](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/Kuenstliche_Intelligenz/isb_kuenstliche_intelligenz_in_jgst_11.pdf)\] der ISB von 2023 ⭐
+	- Fachlehrpläne für NTG ⭐
+		- Fachlehrplan [11. Jgst](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/11/informatik/ntg) der ISB für NTG ([Listen/Bäume](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/Informatik_11/informatik-11-hr.pdf), [Graphen](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/291292/fachlehrplaene/gymnasium/11/informatik/ntg), [Codierung](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/291289/fachlehrplaene/gymnasium/11/informatik/ntg), [Netzwerke](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/291293/fachlehrplaene/gymnasium/11/informatik/ntg), [KI](https://www.isb.bayern.de/schularten/gymnasium/faecher/informatik/handreichung-kuenstliche-intelligenz)), seit 2020/21 für 11. Jgst. in NTGs in Kraft getreten
+		- Fachlehrplan [10. Jgst.](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/10/informatik) der ISB für NTG ([DBS/SQL](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/218967/fachlehrplaene/gymnasium/10/informatik) 2/2, [OOP](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/218974/fachlehrplaene/gymnasium/10/informatik) 2/2)
+		- Fachlehrplan [9. Jgst.](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/9/informatik) der ISB für NTG ([Funktionen in Excel](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/217189/fachlehrplaene/gymnasium/9/informatik), [DBS/SQL](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/217220/fachlehrplaene/gymnasium/9/informatik) 1/2, [OOP](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/217193/fachlehrplaene/gymnasium/9/informatik) 1/2, [Datenschutz](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/217215/fachlehrplaene/gymnasium/9/informatik))
+	- Handreichungen für Lehrkräfte
+		- Informatik [11. Jgst](https://www.isb.bayern.de/schularten/gymnasium/faecher/informatik/handreichung-informatik-jgst-11/) \[[PDF](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/Informatik_11/informatik-11-hr.pdf)\] (inkl. KI-Abschnitt) der ISB von 2009 ⭐
+		- Informatik [12. Jgst](https://www.isb.bayern.de/schularten/gymnasium/faecher/informatik/handreichung-informatik-jgst-12/) \[[PDF](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/isb-handreichung-informatik-12.zip)\]
+		- KI: [Handreichung Lernbereich „**Künstliche Intelligenz**“ 11. Jgst](https://www.isb.bayern.de/schularten/gymnasium/faecher/informatik/handreichung-kuenstliche-intelligenz) \[[PDF](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/Kuenstliche_Intelligenz/isb_kuenstliche_intelligenz_in_jgst_11.pdf)\] der ISB von 2023 ⭐
 - Weitere **Informatik**-Lehrpläne:
-  - Fachlehrplan [spät beginnende Informatik 11](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/11/informatik/mug_swg_sg) für HG, SG, MuG und SWG ([Algorithmik](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/291243/fachlehrplaene/gymnasium/11/informatik/mug_swg_sg), [Codierung](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/291249/fachlehrplaene/gymnasium/11/informatik/mug_swg_sg), [Netzwerke](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/291251/fachlehrplaene/gymnasium/11/informatik/mug_swg_sg), [KI](https://www.isb.bayern.de/schularten/gymnasium/faecher/informatik/handreichung-kuenstliche-intelligenz)) der ISB ⭐
-  - GI-Empfehlungen: [Bildungsstandards **Informatik** für die **Sekundarstufe II**](https://informatikstandards.de/fileadmin/GI/Projekte/Informatikstandards/Dokumente/Bildungsstandards_SII.pdf) (Information, Daten, Algorithmen, Sprachen, Automaten, Informatiksysteme, Informatik und Gesellschaft) von 2016
+	- Fachlehrplan [spät beginnende Informatik 11](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/11/informatik/mug_swg_sg) für HG, SG, MuG und SWG ([Algorithmik](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/291243/fachlehrplaene/gymnasium/11/informatik/mug_swg_sg), [Codierung](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/291249/fachlehrplaene/gymnasium/11/informatik/mug_swg_sg), [Netzwerke](https://www.lehrplanplus.bayern.de/zusatzinformationen-kacheln/lernbereich/291251/fachlehrplaene/gymnasium/11/informatik/mug_swg_sg), [KI](https://www.isb.bayern.de/schularten/gymnasium/faecher/informatik/handreichung-kuenstliche-intelligenz)) der ISB ⭐
+	- GI-Empfehlungen: [Bildungsstandards **Informatik** für die **Sekundarstufe II**](https://informatikstandards.de/fileadmin/GI/Projekte/Informatikstandards/Dokumente/Bildungsstandards_SII.pdf) (Information, Daten, Algorithmen, Sprachen, Automaten, Informatiksysteme, Informatik und Gesellschaft) von 2016
 - Weitere Handreichungen für alle Jgst (6. bis 12.):
-  - [Handreichung Kompetenzorientierte Aufgaben für das Fach Informatik](https://www.isb.bayern.de/schularten/gymnasium/faecher/informatik/kompetenzorientierte-aufgaben/) \[[PDF](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/Kompetenzaufgaben/hr_kompetenzorientierte_aufgaben_informatik.pdf)\] der ISB von 2012
-  - **[Informatik-Biber](https://bwinf.de/biber/)** (ab 7. Jgst): bspw. [Aufgabensammlung](https://bwinf.de/biber/archiv/aufgabensammlung/) ⭐
-  - Arbeitsheft **[schulKI: Das Schulbuch](https://schulbuchki.s3-eu-central-1.ionoscloud.com/schulKI-2024-07-21-helle-edition.pdf)** ⭐
-  - SchuBu [Digitale Grundbildung 3](https://www.schubu.org/t11-7) (sowie deren andere [digitalen Schulbücher](https://www.schubu.org/))
-  - International/Englisch: code.org [**AI 101** for Teachers](https://code.org/ai/pl/101)
+	- [Handreichung Kompetenzorientierte Aufgaben für das Fach Informatik](https://www.isb.bayern.de/schularten/gymnasium/faecher/informatik/kompetenzorientierte-aufgaben/) \[[PDF](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/Kompetenzaufgaben/hr_kompetenzorientierte_aufgaben_informatik.pdf)\] der ISB von 2012
+	- **[Informatik-Biber](https://bwinf.de/biber/)** (ab 7. Jgst): bspw. [Aufgabensammlung](https://bwinf.de/biber/archiv/aufgabensammlung/) ⭐
+	- Arbeitsheft **[schulKI: Das Schulbuch](https://schulbuchki.s3-eu-central-1.ionoscloud.com/schulKI-2024-07-21-helle-edition.pdf)** ⭐
+	- SchuBu [Digitale Grundbildung 3](https://www.schubu.org/t11-7) (sowie deren andere [digitalen Schulbücher](https://www.schubu.org/))
+	- International/Englisch: code.org [**AI 101** for Teachers](https://code.org/ai/pl/101)
 
 ### Handwerkszeug
 
 - Werkzeug-Basiswissen: [**MIT**'s The **Missing Semester** of Your CS Education](https://missing.csail.mit.edu/) ⭐
 - Lernen Sie **10-Finger-schreiben** ⭐
-  - (am besten jetzt nicht mehr mit QWERTZ-/QUERTY-basiertem 10-Finger-System anfangen, sondern gleich [Dvorak](https://de.wikipedia.org/wiki/Dvorak-Tastaturbelegung) \[EN\] oder [Neo](<https://de.wikipedia.org/wiki/Neo_(Tastaturbelegung)>) \[DE\] lernen)
-  - Schauen Sie auf meine **[Tools](https://github.com/cyberlytics/awesome-thesis-tools#schreiben)**-Seite zwecks Typing Tutor Software
+	- (am besten jetzt nicht mehr mit QWERTZ-/QUERTY-basiertem 10-Finger-System anfangen, sondern gleich [Dvorak](https://de.wikipedia.org/wiki/Dvorak-Tastaturbelegung) \[EN\] oder [Neo](<https://de.wikipedia.org/wiki/Neo_(Tastaturbelegung)>) \[DE\] lernen)
+	- Schauen Sie auf meine **[Tools](https://github.com/cyberlytics/awesome-thesis-tools#schreiben)**-Seite zwecks Typing Tutor Software
 - \[OTH Amberg-Weiden:\] **[Fit-ins-Studium](https://www.oth-aw.de/studium/im-studium/infos-fuer-erstsemester/fit-ins-studium/)** (Zeitmanagement, Recherchieren, …)
 - \[OTH Amberg-Weiden:\] **Brückenkurs Mathematik** (Prä-WiSe) | **Brückenkurs Mathematik** (Prä-SoSe)
 
@@ -278,104 +278,104 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Meine [**Erste-Hilfe**-Hinweise](https://www.oth-aw.de/neumann/thesis-prep/#erste-hilfe) für Abschlussarbeiten
 - Scribbr-Einführungen zu **[Bachelorarbeiten](https://www.scribbr.de/category/anfang-abschlussarbeit/)**, **[Masterarbeiten](https://www.scribbr.de/category/masterarbeit/)**, **[Dissertationen](https://www.scribbr.de/category/dissertation-doktorarbeit/)**
 - Exposé/Anbahnung:
-  - Einführung: [**Exposé** gliedern](https://www.scribbr.de/aufbau-und-gliederung/expose-bachelorarbeit/)
-  - Archivieren: **[Journal of Brief Ideas](https://beta.briefideas.org/)** (inkl. DOI per Zenodo)
+	- Einführung: [**Exposé** gliedern](https://www.scribbr.de/aufbau-und-gliederung/expose-bachelorarbeit/)
+	- Archivieren: **[Journal of Brief Ideas](https://beta.briefideas.org/)** (inkl. DOI per Zenodo)
 - Knigge: Die Abschlussarbeit ist meist der erste Kontakt zur korrekten Verwendung von akademischen Graden
-  - Kurzübersicht des Lektorats Unger: [Akademische Grade: Abkürzungen und Verwendung in Anschrift und Anrede](https://www.unker.com/de/akademische-titel)
-  - Umfassender Leitfaden: [Ratgeber für Anschriften und Anreden](https://www.protokoll-inland.de/SharedDocs/downloads/Webs/PI/DE/Allgemeines/Anschriften.html) von dem Bundesministerium des Innern
-  - Hinweis: Diplom, Bachelor und Master sind keine akademischen Titel, nur akademische Grade.
-    - Empfehlung: Diplom, Bachelor und Master gehören eher nicht auf Visitenkarten oder in E-Mail-Signaturen (bzw. Anschrift oder schriftliche Anrede), selbst wenn Sie es de jure schreiben könnten; es gilt in Akademikerkreisen als lächerlich.
+	- Kurzübersicht des Lektorats Unger: [Akademische Grade: Abkürzungen und Verwendung in Anschrift und Anrede](https://www.unker.com/de/akademische-titel)
+	- Umfassender Leitfaden: [Ratgeber für Anschriften und Anreden](https://www.protokoll-inland.de/SharedDocs/downloads/Webs/PI/DE/Allgemeines/Anschriften.html) von dem Bundesministerium des Innern
+	- Hinweis: Diplom, Bachelor und Master sind keine akademischen Titel, nur akademische Grade.
+		- Empfehlung: Diplom, Bachelor und Master gehören eher nicht auf Visitenkarten oder in E-Mail-Signaturen (bzw. Anschrift oder schriftliche Anrede), selbst wenn Sie es de jure schreiben könnten; es gilt in Akademikerkreisen als lächerlich.
 - Wissenschaftliches Handwerkszeug:
-  - **[How to read a paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf)** ⭐
-  - [Berkeley **Understanding Science**](http://www.understandingscience.org/)
-  - Literaturrecherche: [Methoden](https://maelphes.github.io/syslitcom/methods.html)
-    - Systematische Literaturrecherche: [A compendium for systematic literature searching](https://maelphes.github.io/syslitcom/), [Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA)](https://www.prisma-statement.org), [TARCIS statement](https://www.bmj.com/content/385/bmj-2023-078384)
-  - Lesetechniken: **[PQ4R](https://www.google.com/search?q=PQ4R)** (Preview, Questions, Read, Reflect, Recite, Review), bzw. deren Vorgänger **[SQ3R](https://www.teachsam.de/arb/arb_les_strat_2.htm)** (Survey, Question, Read, Recite und Review)
-  - Schnelllesen: (€) Buch **[Speed Reading](https://www.amazon.de/dp/3868828710/)** (2017 | [Orig: 2006](https://books.google.de/books?id=HpvjGZ_Ff60C)) von Tony Buzan
-    - Training-App: [Reading Trainer](https://readingtrainer.com/)
-  - Wiss. Schreiben: **[IMRaD](https://en.wikipedia.org/wiki/IMRAD)** | [Elsevier **Einführung in wiss. Schreiben**](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously) ⭐
-  - Wiss. Methoden: [Awesome **PhD**](https://github.com/macoj/phd) | [A three cycle view of **design science research**](https://community.mis.temple.edu/seminars/files/2009/10/Hevner-SJIS.pdf) (2007) von Alan R. Hevner (Zur DSR auch: [Wikipedia](https://en.wikipedia.org/wiki/Design_science_(methodology)))
-  - Citation Metrics: **[Impact Factor](https://en.wikipedia.org/wiki/Impact_factor)** | [Autorenmetriken (**h-Index, g-Index**, …)](http://www.harzing.com/pophelp/metrics.htm) | Paper [ISI Web of Science versus Google Scholar](http://www.int-res.com/articles/esep2008/8/e008p061.pdf)
-  - (€:) Buch [**Studienarbeiten**: Ein Leitfaden … **am Beispiel Informatik**](https://www.amazon.de/dp/3728138118/) (2017) von Marcus Deiniger et al. ⭐
-  - Englisch (verwende en_US für Informatik)
-    - (€:) Buch **[English for Writing Research Papers](https://www.amazon.de/dp/B008I37B80/)** (2011) von Adrian Wallwork
-    - Kindergartenfehler: [Saxon Genitive](https://www.wallstreetenglish.com/exercises/english-possessives-the-saxon-genitive)
-    - Englische Titel: per [Chicago Manual of Style (**CMOS**)](https://en.wikipedia.org/wiki/Title_case) die Regeln für Groß-/Kleinschreibung in engl. Titeln ⚠️
-      - Werkzeug: **[Capitalize My Title](https://capitalizemytitle.com/style/Chicago/)** ⭐
-  - Anführungszeichen: [Wikipedia](https://de.wikipedia.org/wiki/Anf%C3%BChrungszeichen) sowie Webartikel von [onlineprinters](https://www.onlineprinters.de/magazin/anfuehrungszeichen/)
-    - {DE: 99/66 + unten/oben} vs. {en-US: 66/99 oben/oben} vs. {en-UK: 6/9 oben/oben}
-  - Zitier-Stiele: bspw. [IEEE **Citation Guidelines**](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf), [**APA** Basic Principles of Citation](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles)
-  - Weiterführende Quellen: **[Awesome PhD](https://github.com/macoj/phd)**
+	- **[How to read a paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf)** ⭐
+	- [Berkeley **Understanding Science**](http://www.understandingscience.org/)
+	- Literaturrecherche: [Methoden](https://maelphes.github.io/syslitcom/methods.html)
+		- Systematische Literaturrecherche: [A compendium for systematic literature searching](https://maelphes.github.io/syslitcom/), [Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA)](https://www.prisma-statement.org), [TARCIS statement](https://www.bmj.com/content/385/bmj-2023-078384)
+	- Lesetechniken: **[PQ4R](https://www.google.com/search?q=PQ4R)** (Preview, Questions, Read, Reflect, Recite, Review), bzw. deren Vorgänger **[SQ3R](https://www.teachsam.de/arb/arb_les_strat_2.htm)** (Survey, Question, Read, Recite und Review)
+	- Schnelllesen: (€) Buch **[Speed Reading](https://www.amazon.de/dp/3868828710/)** (2017 | [Orig: 2006](https://books.google.de/books?id=HpvjGZ_Ff60C)) von Tony Buzan
+		- Training-App: [Reading Trainer](https://readingtrainer.com/)
+	- Wiss. Schreiben: **[IMRaD](https://en.wikipedia.org/wiki/IMRAD)** | [Elsevier **Einführung in wiss. Schreiben**](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously) ⭐
+	- Wiss. Methoden: [Awesome **PhD**](https://github.com/macoj/phd) | [A three cycle view of **design science research**](https://community.mis.temple.edu/seminars/files/2009/10/Hevner-SJIS.pdf) (2007) von Alan R. Hevner (Zur DSR auch: [Wikipedia](https://en.wikipedia.org/wiki/Design_science_(methodology)))
+	- Citation Metrics: **[Impact Factor](https://en.wikipedia.org/wiki/Impact_factor)** | [Autorenmetriken (**h-Index, g-Index**, …)](http://www.harzing.com/pophelp/metrics.htm) | Paper [ISI Web of Science versus Google Scholar](http://www.int-res.com/articles/esep2008/8/e008p061.pdf)
+	- (€:) Buch [**Studienarbeiten**: Ein Leitfaden … **am Beispiel Informatik**](https://www.amazon.de/dp/3728138118/) (2017) von Marcus Deiniger et al. ⭐
+	- Englisch (verwende en_US für Informatik)
+		- (€:) Buch **[English for Writing Research Papers](https://www.amazon.de/dp/B008I37B80/)** (2011) von Adrian Wallwork
+		- Kindergartenfehler: [Saxon Genitive](https://www.wallstreetenglish.com/exercises/english-possessives-the-saxon-genitive)
+		- Englische Titel: per [Chicago Manual of Style (**CMOS**)](https://en.wikipedia.org/wiki/Title_case) die Regeln für Groß-/Kleinschreibung in engl. Titeln ⚠️
+			- Werkzeug: **[Capitalize My Title](https://capitalizemytitle.com/style/Chicago/)** ⭐
+	- Anführungszeichen: [Wikipedia](https://de.wikipedia.org/wiki/Anf%C3%BChrungszeichen) sowie Webartikel von [onlineprinters](https://www.onlineprinters.de/magazin/anfuehrungszeichen/)
+		- {DE: 99/66 + unten/oben} vs. {en-US: 66/99 oben/oben} vs. {en-UK: 6/9 oben/oben}
+	- Zitier-Stiele: bspw. [IEEE **Citation Guidelines**](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf), [**APA** Basic Principles of Citation](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles)
+	- Weiterführende Quellen: **[Awesome PhD](https://github.com/macoj/phd)**
 - Korrekturzeichen: **[DIN 16 511](http://www.cleverprinting.de/images/korrekturzeichen_1.png)**
 - Geschlechtersensible Formulierungen: OTH **[Fair formuliert](https://www.oth-aw.de/files/oth-aw/Services/Schreibwerkstatt/Leitfaden_Fair_Formuliert.pdf)** | **[geschickt gendern](https://geschicktgendern.de/)** ⭐
 - Inklusive Formulierungen: ACM [Alternatives List for Charged Terminology in the Computing Profession](https://www.acm.org/diversity-inclusion/words-matter)
 - Kodex: [Leitlinien zur Sicherung **guter wissenschaftlicher Praxis**](https://www.dfg.de/download/pdf/foerderung/rechtliche_rahmenbedingungen/gute_wissenschaftliche_praxis/kodex_gwp.pdf) der DFG
-  - [IEEE Publishing Ethics](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/)
+	- [IEEE Publishing Ethics](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/)
 - Authorship Criteria: **[KU Leuven](https://research.kuleuven.be/en/integrity-ethics/integrity/practices/publication-and-authorship/authorship#section-1)**, [ACM](https://www.acm.org/publications/policies/new-acm-policy-on-authorship), [IEEE](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/ethical-requirements/#authorship), [Nature](https://www.nature.com/nature-portfolio/editorial-policies/authorship)
-  - Contributor Role Taxonomy: [CRediT](https://credit.niso.org/)
+	- Contributor Role Taxonomy: [CRediT](https://credit.niso.org/)
 - Generative KI in wissenschaftlichen Publikationen? vgl. **[ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship)**!
-  - Für die Abschlussarbeit dürfen Sie keine generative KI verwenden, weil diese notengebend ist. Ich verbiete Ihnen das. Meine Policy.
-  - Während der Arbeit dürfen Sie für die Erstellung einer ernsthaften Publikation trotzdem generative KI einsetzen, unter Beachtung der notwendigen Sorgfalt und den Policies von ACM, IEEE und Springer zum Einsatz generativer KIs.
-  - Nach Abgabe Ihrer Abschlussarbeit dürfen Sie generative KI einsetzen, um sich die Abschlussarbeit zusammenzufassen zu lassen und so einen Erstentwurf für einen OTH-Forschungsbericht (ca. 2500 Wörter) oder einen Technischen Report (ca. 3000 bis 4500 Wörter) zu generieren, falls diese Beiträge nicht vorher schon erstellt wurden.
+	- Für die Abschlussarbeit dürfen Sie keine generative KI verwenden, weil diese notengebend ist. Ich verbiete Ihnen das. Meine Policy.
+	- Während der Arbeit dürfen Sie für die Erstellung einer ernsthaften Publikation trotzdem generative KI einsetzen, unter Beachtung der notwendigen Sorgfalt und den Policies von ACM, IEEE und Springer zum Einsatz generativer KIs.
+	- Nach Abgabe Ihrer Abschlussarbeit dürfen Sie generative KI einsetzen, um sich die Abschlussarbeit zusammenzufassen zu lassen und so einen Erstentwurf für einen OTH-Forschungsbericht (ca. 2500 Wörter) oder einen Technischen Report (ca. 3000 bis 4500 Wörter) zu generieren, falls diese Beiträge nicht vorher schon erstellt wurden.
 - Lerntheorie: Sechsstufige **[Bloomsche Taxonomie der Lernziele](https://www.bloomstaxonomy.net/)** im kognitiven Bereich
 - DISCLAIMER: **[typst](https://typst.app/) vs. LaTeX**? Mit typst gibt es eine moderne, überlegene Typesetting-Variante zu latex, die aber technisch völlig eigenständig ist. (siehe [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#latex--pdf))
-  - "This being said ..." jetzt zurück zum wohlbekannten LaTeX:
-  - LaTeX-Skills: **[A simple guide to LaTeX – Step by Step](https://latex-tutorial.com/tutorials/)** | **[Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX)** | Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)** | **[LearnLaTeX](https://www.learnlatex.org/)**
-  - LaTeX-Software: siehe [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#latex--pdf) ⭐ (LaTeX-Editor, PDF-Viewer, Literaturverwaltung, …)
-  - Korrekte Anführungszeichen ⚠️: lese **[Quotation Marks](https://latex.silmaril.ie/formattinginformation/quotes.html)** von Peter Flynn oder **[Formatting](https://www.andy-roberts.net/latex/formatting/)** von Andrew Roberts bzw. verwende **[csquotes](https://tex.stackexchange.com/tags/csquotes/info)** mit **\\enquote{..}** ⭐
-  - Wichtige Einordnung: [The **TeX family tree**: LaTeX, **pdfTeX**, **XeTeX**, LuaTeX and ConTeXt](https://de.overleaf.com/learn/latex/Articles/The_TeX_family_tree%3A_LaTeX%2C_pdfTeX%2C_XeTeX%2C_LuaTeX_and_ConTeXt) ⭐
-  - (Video-Kurs:) freeCodeCamp **[LaTeX – Full Tutorial for Beginners](https://www.youtube.com/watch?v=ydOTMQC7np0)** (2023) von Michelle Krummel
-  - OTH-intern: Moodle-Kurs **[LaTeX fürs Studium](https://moodle.oth-aw.de/course/view.php?id=18)** (Selbsteinschreibeschlüssel: "latex")
-  - KOMA-Script: **[scrguide](https://komascript.de/~mkohm/scrguide.pdf)**
-  - Common Anti-Patterns: enthalten in [An **essential guide** to LATEX2e usage](http://mirrors.ctan.org/info/l2tabu/english/l2tabuen.pdf) ⭐
-  - LaTeX-Humor: [Twelve LaTeX packages to get your paper accepted](https://andreas-zeller.info/2017/01/13/twelve-latex-packages-to-get-your-paper.html) von Andreas Zeller et al.
+	- "This being said ..." jetzt zurück zum wohlbekannten LaTeX:
+	- LaTeX-Skills: **[A simple guide to LaTeX – Step by Step](https://latex-tutorial.com/tutorials/)** | **[Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX)** | Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)** | **[LearnLaTeX](https://www.learnlatex.org/)**
+	- LaTeX-Software: siehe [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#latex--pdf) ⭐ (LaTeX-Editor, PDF-Viewer, Literaturverwaltung, …)
+	- Korrekte Anführungszeichen ⚠️: lese **[Quotation Marks](https://latex.silmaril.ie/formattinginformation/quotes.html)** von Peter Flynn oder **[Formatting](https://www.andy-roberts.net/latex/formatting/)** von Andrew Roberts bzw. verwende **[csquotes](https://tex.stackexchange.com/tags/csquotes/info)** mit **\\enquote{..}** ⭐
+	- Wichtige Einordnung: [The **TeX family tree**: LaTeX, **pdfTeX**, **XeTeX**, LuaTeX and ConTeXt](https://de.overleaf.com/learn/latex/Articles/The_TeX_family_tree%3A_LaTeX%2C_pdfTeX%2C_XeTeX%2C_LuaTeX_and_ConTeXt) ⭐
+	- (Video-Kurs:) freeCodeCamp **[LaTeX – Full Tutorial for Beginners](https://www.youtube.com/watch?v=ydOTMQC7np0)** (2023) von Michelle Krummel
+	- OTH-intern: Moodle-Kurs **[LaTeX fürs Studium](https://moodle.oth-aw.de/course/view.php?id=18)** (Selbsteinschreibeschlüssel: "latex")
+	- KOMA-Script: **[scrguide](https://komascript.de/~mkohm/scrguide.pdf)**
+	- Common Anti-Patterns: enthalten in [An **essential guide** to LATEX2e usage](http://mirrors.ctan.org/info/l2tabu/english/l2tabuen.pdf) ⭐
+	- LaTeX-Humor: [Twelve LaTeX packages to get your paper accepted](https://andreas-zeller.info/2017/01/13/twelve-latex-packages-to-get-your-paper.html) von Andreas Zeller et al.
 - BibTeX: **[bibtex vs. biber and biblatex vs. natbib](https://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib)** ⭐ | **[bibtex.org](http://www.bibtex.org/)**
-  - **[Tame the BeaST](http://tug.ctan.org/info/bibtex/tamethebeast/ttb_en.pdf)**
-  - Common Anti-Patterns: **[How to not mess up your bibliographies with Bibtex](https://clauswilke.com/blog/2015/10/02/bibtex/)** (2015) von Claus Wilke ⭐
+	- **[Tame the BeaST](http://tug.ctan.org/info/bibtex/tamethebeast/ttb_en.pdf)**
+	- Common Anti-Patterns: **[How to not mess up your bibliographies with Bibtex](https://clauswilke.com/blog/2015/10/02/bibtex/)** (2015) von Claus Wilke ⭐
 - Word für Fortgeschrittene: [LearnFree.org **Word Tips**](https://edu.gcfglobal.org/en/word-tips/) | [Microsoft **Word for Windows training**](https://support.microsoft.com/en-us/office/word-for-windows-training-7bcd85e6-2c3d-4c3c-a2a5-5ed8847eae73)
 - Open Science
-  - Zitierbare Software? **[Zenodo](https://about.zenodo.org/)** oder [citation.**cff**-Dateien](https://citation-file-format.GitHub.io/)
+	- Zitierbare Software? **[Zenodo](https://about.zenodo.org/)** oder [citation.**cff**-Dateien](https://citation-file-format.GitHub.io/)
 - Paper Submission? [International Conference on **Cloud Computing**, GRIDs, and Virtualization](https://www.iaria.org/conferences/CLOUDCOMPUTING.html)
-  - Eine Research Community auch für studentische Publikationen; explizit beginnerfreundlich
-  - Es gibt ein LaTeX-Vorlage von mir: **[iaria.cls](https://ctan.org/pkg/iaria)** (vollständige IARIA [formating](https://www.overleaf.com/latex/templates/iaria/hxyjztwvpjkf) rules, allerdings nur pdflatex+biber, dafür inkl. IARIA citation style) und **[iaria-lite.cls](https://ctan.org/pkg/iaria-lite)** (mit den meisten der IARIA formatting rules, dafür beliebiges tex-Tooling, aber beim citation formatting nur mit IEEE-style und ohne IARIA-style) sowie ein Overleaf-Template als [Minimal Working Example (MWE)](https://www.overleaf.com/project/6603e95f2a0ded628482ed78)
+	- Eine Research Community auch für studentische Publikationen; explizit beginnerfreundlich
+	- Es gibt ein LaTeX-Vorlage von mir: **[iaria.cls](https://ctan.org/pkg/iaria)** (vollständige IARIA [formating](https://www.overleaf.com/latex/templates/iaria/hxyjztwvpjkf) rules, allerdings nur pdflatex+biber, dafür inkl. IARIA citation style) und **[iaria-lite.cls](https://ctan.org/pkg/iaria-lite)** (mit den meisten der IARIA formatting rules, dafür beliebiges tex-Tooling, aber beim citation formatting nur mit IEEE-style und ohne IARIA-style) sowie ein Overleaf-Template als [Minimal Working Example (MWE)](https://www.overleaf.com/project/6603e95f2a0ded628482ed78)
 
 ### Handwerkszeug: Getting Sh\*t Done
 
 - (s.oben: Werkzeug-**Basiswissen**: [**MIT**'s The **Missing Semester** of Your CS Education](https://missing.csail.mit.edu/))
 - Betriebssystemadministration und Shell-Scripting
-  - Windows: **[Windows Systemadministration](https://docs.microsoft.com/de-de/learn/paths/windows-server-deployment-configuration-administration/)** | [**PowerShell** Einführung](https://docs.microsoft.com/de-de/learn/modules/introduction-to-powershell/1-introduction) | [Windows Services Manager (**services.msc**)](https://www.thewindowsclub.com/open-windows-services)
-    - Windows Subsystem for Linux (WSL): [Ubuntu](https://ubuntu.com/wsl) | [Distribution Overwiew](https://github.com/sirredbeard/Awesome-WSL#supported-distributions) | [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL)
-    - PowerShell:
-      - Terminologie: Legacy powershell.exe = bis PowerShell 5.1 | Modern **pwsh**.exe = ab PowerShell 6
-      - PowerShell [Quotation Rules](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_quoting_rules), [About Parsing](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_parsing), [Special Characters](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_special_characters), [pwsh-Command is removing quotation marks](https://stackoverflow.com/questions/59036580/pwsh-command-is-removing-quotation-marks)
-  - Linux: **[Linux Systemadministration](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/)** | [Linux **Command-Line**](https://www.freecodecamp.org/news/command-line-for-beginners/)
-    - [zsh](https://grml.org/zsh/) | [powerlevel10k](https://github.com/romkatv/powerlevel10k)
-    - [Getting Started with PowerShell in Linux](https://www.tecmint.com/install-powershell-in-linux/)
-    - Webartikel [How I setup my terminal for max productivity](https://read.highgrowthengineer.com/p/how-i-setup-my-terminal-for-max-productivity)
+	- Windows: **[Windows Systemadministration](https://docs.microsoft.com/de-de/learn/paths/windows-server-deployment-configuration-administration/)** | [**PowerShell** Einführung](https://docs.microsoft.com/de-de/learn/modules/introduction-to-powershell/1-introduction) | [Windows Services Manager (**services.msc**)](https://www.thewindowsclub.com/open-windows-services)
+		- Windows Subsystem for Linux (WSL): [Ubuntu](https://ubuntu.com/wsl) | [Distribution Overwiew](https://github.com/sirredbeard/Awesome-WSL#supported-distributions) | [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL)
+		- PowerShell:
+			- Terminologie: Legacy powershell.exe = bis PowerShell 5.1 | Modern **pwsh**.exe = ab PowerShell 6
+			- PowerShell [Quotation Rules](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_quoting_rules), [About Parsing](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_parsing), [Special Characters](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_special_characters), [pwsh-Command is removing quotation marks](https://stackoverflow.com/questions/59036580/pwsh-command-is-removing-quotation-marks)
+	- Linux: **[Linux Systemadministration](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/)** | [Linux **Command-Line**](https://www.freecodecamp.org/news/command-line-for-beginners/)
+		- [zsh](https://grml.org/zsh/) | [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+		- [Getting Started with PowerShell in Linux](https://www.tecmint.com/install-powershell-in-linux/)
+		- Webartikel [How I setup my terminal for max productivity](https://read.highgrowthengineer.com/p/how-i-setup-my-terminal-for-max-productivity)
 - **SSH**: [Linux](https://zah.uni-heidelberg.de/it-guide/ssh-tutorial-linux) | [Windows](https://www.makeuseof.com/tag/4-easy-ways-to-use-ssh-in-windows/) ⚠️
-  - [How to Set up SSH Tunneling (Port Forwarding)](https://linuxize.com/post/how-to-setup-ssh-tunneling/)
+	- [How to Set up SSH Tunneling (Port Forwarding)](https://linuxize.com/post/how-to-setup-ssh-tunneling/)
 - Virtualisierung: [IBM **What is virtualization?**](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide) | [IBM **What are hypervisors?**](https://www.ibm.com/cloud/learn/hypervisors)
-  - VirtualBox: [Download](https://www.virtualbox.org/wiki/Downloads) [**First Steps**](https://www.virtualbox.org/manual/ch01.html)
-  - Image-Formate: [OVF](https://en.wikipedia.org/wiki/Open_Virtualization_Format) (bspw. via VirtualBox „Import…“) sowie [VDI, VMDK, VHD, HDD](https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/vdidetails.html)
-  - Ready-to-Use Image Repos:
-    - Windows: [legal **free current Windows** virtual machine images](https://developer.microsoft.com/de-de/windows/downloads/virtual-machines/) | [alte Abandonware-Versionen von Windows](http://virtualdiskimages.weebly.com/) ([FAQ](http://virtualdiskimages.weebly.com/faq.html))
-    - Linux: **[OSBoxes](https://www.osboxes.org/)** ([FAQ](https://www.osboxes.org/faqs/)) | **[Linux VM Images](https://www.linuxvmimages.com/)** ([HowTo](https://www.linuxvmimages.com/how-to-use/), [Passwords](https://www.linuxvmimages.com/how-to-use/vm-image-password/))
+	- VirtualBox: [Download](https://www.virtualbox.org/wiki/Downloads) [**First Steps**](https://www.virtualbox.org/manual/ch01.html)
+	- Image-Formate: [OVF](https://en.wikipedia.org/wiki/Open_Virtualization_Format) (bspw. via VirtualBox „Import…“) sowie [VDI, VMDK, VHD, HDD](https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/vdidetails.html)
+	- Ready-to-Use Image Repos:
+		- Windows: [legal **free current Windows** virtual machine images](https://developer.microsoft.com/de-de/windows/downloads/virtual-machines/) | [alte Abandonware-Versionen von Windows](http://virtualdiskimages.weebly.com/) ([FAQ](http://virtualdiskimages.weebly.com/faq.html))
+		- Linux: **[OSBoxes](https://www.osboxes.org/)** ([FAQ](https://www.osboxes.org/faqs/)) | **[Linux VM Images](https://www.linuxvmimages.com/)** ([HowTo](https://www.linuxvmimages.com/how-to-use/), [Passwords](https://www.linuxvmimages.com/how-to-use/vm-image-password/))
 - **Docker**: [**Docker Labs** Tutorials and Free Resources](https://dockerlabs.collabnix.com/) | **[Getting Started with Docker](https://serversforhackers.com/c/getting-started-with-docker)** ⚠️
-  - Windows: [Docker Desktop **WSL 2** backend](https://docs.docker.com/desktop/windows/wsl/)
-  - Schlanker und Sicherer: **[Building Docker Images The Proper Way](https://martinheinz.dev/blog/42)** ⚠️
-  - Minibuch Docker (aus einer Java-Perspektive): [Docker Containerization Cookbook](https://www.javacodegeeks.com/minibook/docker-containerization-cookbook) von Java Code Geeks
+	- Windows: [Docker Desktop **WSL 2** backend](https://docs.docker.com/desktop/windows/wsl/)
+	- Schlanker und Sicherer: **[Building Docker Images The Proper Way](https://martinheinz.dev/blog/42)** ⚠️
+	- Minibuch Docker (aus einer Java-Perspektive): [Docker Containerization Cookbook](https://www.javacodegeeks.com/minibook/docker-containerization-cookbook) von Java Code Geeks
 - **git**: [git - **the simple guide**](https://rogerdudler.GitHub.io/git-guide/) ⚠️
-  - Alternative Tutorials: **[About Git](https://docs.github.com/en/get-started/using-git/about-git)** | **[Learn Git](https://www.codecademy.com/learn/learn-git)** | **[Git it](https://github.com/jlord/git-it-electron)** | **[Oh My Git!](https://ohmygit.org/)** | **[Git Immersion](https://gitimmersion.com/)** | **[Learn Git Branching](https://learngitbranching.js.org/?locale=de_DE)** | [**Atlassian** Git Tutorial](https://www.atlassian.com/git/tutorials/what-is-git)
-  - Vortragsvideo **[Version Control (git)](https://missing.csail.mit.edu/2020/version-control/)** am MIT aus der bereits erwähnten Reihe [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-  - Kostenlose Bücher: **[Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)** | **[Pro Git](https://git-scm.com/book/en/v2)**
-  - (Anm.: Default-Branch „master“ wurde mittlerweile zu „main“!)
-  - Cheatsheet: bspw. **[Git Tricks](https://devhints.io/git-tricks)**
-  - Branching-Modell: bspw. **[gitflow](https://nvie.com/posts/a-successful-git-branching-model/)** oder **[Trunk-Based-Development](https://trunkbaseddevelopment.com/)**
-  - Best Practices: Webartikel [**Best practices** for using Git](https://deepsource.com/blog/git-best-practices/)
-  - Nennenswert: [Get up to speed with **partial clone** and shallow clone](https://GitHub.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/) (git clone --filter=blob:none «url»)
-  - Namensgenerator: **[namelix](https://namelix.com/)** (für Bachel-/Master-/PhD-Projekte, OSS-Projekte, etc.)
+	- Alternative Tutorials: **[About Git](https://docs.github.com/en/get-started/using-git/about-git)** | **[Learn Git](https://www.codecademy.com/learn/learn-git)** | **[Git it](https://github.com/jlord/git-it-electron)** | **[Oh My Git!](https://ohmygit.org/)** | **[Git Immersion](https://gitimmersion.com/)** | **[Learn Git Branching](https://learngitbranching.js.org/?locale=de_DE)** | [**Atlassian** Git Tutorial](https://www.atlassian.com/git/tutorials/what-is-git)
+	- Vortragsvideo **[Version Control (git)](https://missing.csail.mit.edu/2020/version-control/)** am MIT aus der bereits erwähnten Reihe [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+	- Kostenlose Bücher: **[Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)** | **[Pro Git](https://git-scm.com/book/en/v2)**
+	- (Anm.: Default-Branch „master“ wurde mittlerweile zu „main“!)
+	- Cheatsheet: bspw. **[Git Tricks](https://devhints.io/git-tricks)**
+	- Branching-Modell: bspw. **[gitflow](https://nvie.com/posts/a-successful-git-branching-model/)** oder **[Trunk-Based-Development](https://trunkbaseddevelopment.com/)**
+	- Best Practices: Webartikel [**Best practices** for using Git](https://deepsource.com/blog/git-best-practices/)
+	- Nennenswert: [Get up to speed with **partial clone** and shallow clone](https://GitHub.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/) (git clone --filter=blob:none «url»)
+	- Namensgenerator: **[namelix](https://namelix.com/)** (für Bachel-/Master-/PhD-Projekte, OSS-Projekte, etc.)
 - Markdown: [Basic Syntax](https://www.markdownguide.org/basic-syntax/) | [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
-  - GitHub GFM: freeCodeCamp [Learn GitHub-Flavored Markdown Syntax and Formatting](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/), u.a. [emoji](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-using-emoji), [Alerts](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-alerts) und [Collapsed Section](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-creating-a-collapsed-section)
+	- GitHub GFM: freeCodeCamp [Learn GitHub-Flavored Markdown Syntax and Formatting](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/), u.a. [emoji](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-using-emoji), [Alerts](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-alerts) und [Collapsed Section](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-creating-a-collapsed-section)
 - **Testing**: siehe unten ⚠️
 - **Debugging**: Vortragsvideo [**Debugging** and Profiling](https://missing.csail.mit.edu/2020/debugging-profiling/) am MIT aus der bereits erwähnten Reihe [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - Backups: Vortragsvideo **[Backups](https://missing.csail.mit.edu/2019/backups/)** am MIT aus der bereits erwähnten Reihe [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
@@ -396,873 +396,879 @@ Werkzeuge:
 
 - Prompting: **[KI-Campus](https://ki-campus.org/overview/course)** inkl. [Chatbot-Sandbox](https://chat.ki-campus.org/) und [Prompt-Katalog](https://coda.io/@ki-campus/prompt-katalog)
 - **[fobizz-Tools](https://tools.fobizz.com/)**
-  - (Digitale Tafel mit Dateien und Audio-/Video-Aufnahmen teilen sowie Galerie der Unterrichtsmaterialien, fobizz Pinnwand mit Karten, Arbeitsblätter für den Unterrichtseinsatz, kollaborative Wortwolken, URL-Shortener, QR-Code-Generator, temp. Webseiten erstellen, Bildschirm-Aufnahme, Umfragen erstellen, kollaborativer Texteditor mit KI-Korrekturhilfe, KI-Chat mit fachspezifischen KI-Assistenten und historischen Menschen, KI-Promptlabor, KI-Bildgenerator, Transkription von Video/Audio/Bilder)
-- Mathe-Brückenkurse: **[OMB+](https://www.ombplus.de/)**  sowie **[rockettutor](https://www.rockettutor.de/)**
+	- (Digitale Tafel mit Dateien und Audio-/Video-Aufnahmen teilen sowie Galerie der Unterrichtsmaterialien, fobizz Pinnwand mit Karten, Arbeitsblätter für den Unterrichtseinsatz, kollaborative Wortwolken, URL-Shortener, QR-Code-Generator, temp. Webseiten erstellen, Bildschirm-Aufnahme, Umfragen erstellen, kollaborativer Texteditor mit KI-Korrekturhilfe, KI-Chat mit fachspezifischen KI-Assistenten und historischen Menschen, KI-Promptlabor, KI-Bildgenerator, Transkription von Video/Audio/Bilder)
+- Mathe-Brückenkurse: **[OMB+](https://www.ombplus.de/)**	sowie **[rockettutor](https://www.rockettutor.de/)**
 
 ### Bachelor Informatik/KI
 
 - Philosophie, Wissenschaftstheorie und Logik
-  - MOOC-Kurse:
-    - Standford: [Language, Proof and Logic](https://www.edx.org/learn/logic/stanford-university-language-proof-and-logic) und [Semantics of First-Order Logic
+	- MOOC-Kurse:
+		- Standford: [Language, Proof and Logic](https://www.edx.org/learn/logic/stanford-university-language-proof-and-logic) und [Semantics of First-Order Logic
 ](https://www.edx.org/learn/logic/stanford-university-semantics-of-first-order-logic)
-    - MIT: [Logic I & II](https://www.google.com/search?q=MIT+OpenCourseWare+Logic+Philosophy)
-  - [Logische Fehlschlüsse](https://en.wikipedia.org/wiki/The_Demon-Haunted_World#Logical_fallacies) (engl. Logical Fallacies) [Wiki](https://de.wikipedia.org/wiki/Typen_von_Argumenten#Fehlschluss-_und_andere_problematische_Argumente)
-  - (€:) Buch **[Enzyklopädie Philosophie und Wissenschaftstheorie](https://www.amazon.de/dp/3476020126/)** (2004), genannt „Der Mittelstraß“ ⭐
-  - (€:) Buch [A New Introduction to Modal Logic](https://www.amazon.de/dp/0415126002/) (1996) von Hughes & Cresswell
+		- MIT: [Logic I & II](https://www.google.com/search?q=MIT+OpenCourseWare+Logic+Philosophy)
+	- [Logische Fehlschlüsse](https://en.wikipedia.org/wiki/The_Demon-Haunted_World#Logical_fallacies) (engl. Logical Fallacies) [Wiki](https://de.wikipedia.org/wiki/Typen_von_Argumenten#Fehlschluss-_und_andere_problematische_Argumente)
+	- (€:) Buch **[Enzyklopädie Philosophie und Wissenschaftstheorie](https://www.amazon.de/dp/3476020126/)** (2004), genannt „Der Mittelstraß“ ⭐
+	- (€:) Buch [A New Introduction to Modal Logic](https://www.amazon.de/dp/0415126002/) (1996) von Hughes & Cresswell
 - Mathematik: **[OMB+](https://www.ombplus.de/)** (wie oben)
-  - (€:) Buch [**Mathematik für Informatiker** (Band 1) - Diskrete Mathematik und Lineare Algebra](https://www.amazon.de/dp/3642379710/) (2013) und [(Band 2) - Analysis und Statistik](https://www.amazon.de/dp/3642542735/) (2014) von Teschl & Teschl
-  - Statistik:
-    - freeCodeCamp [Learn **Statistics** for Data Science, Machine Learning, and AI](https://www.freecodecamp.org/news/statistics-for-data-scientce-machine-learning-and-ai-handbook/)
-    - William Chen's **[Probability Cheatsheet 2.0](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)**
-  - Weitere Quellen: freeCodeCamp [120 Free Online Math Courses from the World’s Top Universities](https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/) | [**WolframAlpha** University Free Interactive Courses](https://www.wolfram.com/wolfram-u/courses/catalog/?f_format%5B%5D=interactive-course&q=&f_button=filters)
-    - Wolfram [**Mathematica** Webinare](https://www.additive-net.de/de/training/webinare/wolfram)
+	- (€:) Buch [**Mathematik für Informatiker** (Band 1) - Diskrete Mathematik und Lineare Algebra](https://www.amazon.de/dp/3642379710/) (2013) und [(Band 2) - Analysis und Statistik](https://www.amazon.de/dp/3642542735/) (2014) von Teschl & Teschl
+	- Statistik:
+		- freeCodeCamp [Learn **Statistics** for Data Science, Machine Learning, and AI](https://www.freecodecamp.org/news/statistics-for-data-scientce-machine-learning-and-ai-handbook/)
+		- William Chen's **[Probability Cheatsheet 2.0](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)**
+	- Weitere Quellen: freeCodeCamp [120 Free Online Math Courses from the World’s Top Universities](https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/) | [**WolframAlpha** University Free Interactive Courses](https://www.wolfram.com/wolfram-u/courses/catalog/?f_format%5B%5D=interactive-course&q=&f_button=filters)
+		- Wolfram [**Mathematica** Webinare](https://www.additive-net.de/de/training/webinare/wolfram)
 - Theoretische Informatik: **[FLACI](https://flaci.com/)**
-  - Reguläre Ausdrücke ⭐: [**RegEx**: Einführung in reguläre Ausdrücke](https://www.webmasterpro.de/coding/einfuehrung-in-regular-expressions/) | freeCodeCamp [The **Regular Expressions Book** – RegEx for JavaScript Developers](https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/)
-    - Minimaleinstieg: Video [Regex in 100 seconds](https://www.youtube.com/watch?v=sXQxhojSdZM)
-    - Vertiefung: [Non-Greedy Quantifiers](https://www.javascripttutorial.net/regular-expression-non-greedy/) (insbesondere \*? und +?)
-    - Automatische RegEx-Generatoren: Webartikel [Automatischer **Regex Generator** vs. Names Entity Recognition?](https://konfuzio.com/de/regex-generator/)
-    - BEWARE: Manche scheinbar einfache Patterns sind ein Minenfeld: bspw. für E-Mails vgl. [emailregex.com](https://emailregex.com/)
-    - RegEx Playgrounds: bspw. [**regex101**.com](https://regex101.com/)⭐
-    - Weiterführende Referenz: [Awesome RegEx](https://github.com/aloisdg/awesome-regex)
-  - NP: Buch [Computers and Intractability: A Guide to the Theory of NP-Completeness](https://en.wikipedia.org/wiki/Computers_and_Intractability) (1979)
+	- Reguläre Ausdrücke ⭐: [**RegEx**: Einführung in reguläre Ausdrücke](https://www.webmasterpro.de/coding/einfuehrung-in-regular-expressions/) | freeCodeCamp [The **Regular Expressions Book** – RegEx for JavaScript Developers](https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/)
+		- Minimaleinstieg: Video [Regex in 100 seconds](https://www.youtube.com/watch?v=sXQxhojSdZM)
+		- Vertiefung: [Non-Greedy Quantifiers](https://www.javascripttutorial.net/regular-expression-non-greedy/) (insbesondere \*? und +?)
+		- Automatische RegEx-Generatoren: Webartikel [Automatischer **Regex Generator** vs. Names Entity Recognition?](https://konfuzio.com/de/regex-generator/)
+		- BEWARE: Manche scheinbar einfache Patterns sind ein Minenfeld: bspw. für E-Mails vgl. [emailregex.com](https://emailregex.com/)
+		- RegEx Playgrounds: bspw. [**regex101**.com](https://regex101.com/)⭐
+		- Weiterführende Referenz: [Awesome RegEx](https://github.com/aloisdg/awesome-regex)
+	- NP: Buch [Computers and Intractability: A Guide to the Theory of NP-Completeness](https://en.wikipedia.org/wiki/Computers_and_Intractability) (1979)
 - Technische Informatik / Rechnerarchitektur: Vorlesung [Carnegie Mellon **Computer Architecture Lectures**](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq) | Kurs [Princeton University **Computerarchitektur**](https://www.coursera.org/learn/comparch)
-  - Encodings:
-    - Unicode: Webartikel [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) von 2003
-    - Unicode in Java: Webartikel [Unicode - How to get the characters right?](https://balusc.omnifaces.org/2009/05/unicode-how-to-get-characters-right.html) von 2009
-    - base64: freeCodeCamp [What is **base64 Encoding** and Why is it Necessary?](https://www.freecodecamp.org/news/what-is-base64-encoding/)
-  - YouTuber: [Ben Eater](https://www.youtube.com/@beneater)
-  - [Windows: system **power states**](https://learn.microsoft.com/en-us/windows/win32/power/system-power-states)
-  - [Timing-Diagramme](https://plantuml.com/timing-diagram)
+	- Encodings:
+		- Unicode: Webartikel [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) von 2003
+		- Unicode in Java: Webartikel [Unicode - How to get the characters right?](https://balusc.omnifaces.org/2009/05/unicode-how-to-get-characters-right.html) von 2009
+		- base64: freeCodeCamp [What is **base64 Encoding** and Why is it Necessary?](https://www.freecodecamp.org/news/what-is-base64-encoding/)
+	- YouTuber: [Ben Eater](https://www.youtube.com/@beneater)
+	- [Windows: system **power states**](https://learn.microsoft.com/en-us/windows/win32/power/system-power-states)
+	- [Timing-Diagramme](https://plantuml.com/timing-diagram)
 - Compilerbau:
-  - MOOC-Kurse von Stanford: [Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers)
+	- MOOC-Kurse von Stanford: [Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers)
 - Algorithmen und Datenstrukturen (AuD) / Data Structures and Algorithms (DSA)
-  - Empfohlen: [**Google** Tech Dev Guide: **Data Structure & Algorithms**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) | **[HappyCoders](https://www.happycoders.eu/de/algorithmen/)** (am Bsp. Java) | **[freeCodeCamp](https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/)** (am Bsp. JS)
-  - (€:) Buch **[Algorithmen](https://www.amazon.de/dp/3868941843/)** (2014) von Sedgewick & Wayne
-  - (€:) Buch **[Introduction to Algorithms](http://www.amazon.de/dp/026204630X/)** (2022) von Thomas Cormen, et al., hierzu gibts einen eigenen [Wikipedia](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)-Eintrag
-  - MOOC-Kurse von Stanford: [Algorithms: Design and Analysis](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1)
-  - Historisch
-    - Die Mutter aller AuD-Bücher ist selbstverständlich das legendäre „**The Art of Computer Programming**" (ab 1968, in mehreren Bänden) von Donald E. Knuth (Algol 60, TeX, METAFONT; Turing Award 1974), vgl. [Wikipedia](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
-    - Dicht gefolgt vom Buch „**Algorithmen und Datenstrukturen**“ (1975) von Nikolaus Wirth (Pascal, EBNF, Modula/-2, Oberon; Turing Award 1984), dessen spätere [Oberon-Variante](http://people.inf.ethz.ch/wirth/AD.pdf) von ihm kostenlos online gestellt wurde
-    - Auch recht berühmt ist das Buch **[Walls and Mirros](https://www.amazon.de/dp/0201702207/)** (2011 | [Orig: 1986](https://en.wikipedia.org/wiki/Walls_and_Mirrors)), dabei steht „Walls“ für Abstract Data Types (ADT) und „Mirrors“ für Rekursion, vgl. [Wikipedia](https://en.wikipedia.org/wiki/Walls_and_Mirrors)
-  - O-Notation:
-    - Webartikel: datacamp [Big O: Intuition and Math](https://www.datacamp.com/tutorial/big-o-notation-time-complexity)
-    - Videos: Playliste [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) von Abdul Bari
-  - Abstrakte Datentypen:
-    - [B. Liskov. **The Power of Abstraction**. OOPSLA Keynote. 2013. (Hosted by InfoQ; with Video)](https://www.infoq.com/presentations/programming-abstraction-liskov/)
-    - [John V. Guttag (Video): **Abstrakte Datentypen**](https://www.software-pioneers.com/videos/john-v-guttag)
-  - roadmap.sh [Computer Science Roadmap](https://roadmap.sh/computer-science)
-  - Visualisierungen von AuD: [visualgo.net](https://visualgo.net/)
-  - **Code-Referenzen** für Data Structures and Algorithms:
-    - Multi-Language: **[The Algorithms](https://the-algorithms.com)**
-    - [Java (#1)](https://github.com/phishman3579/java-algorithms-implementation), [Java (#2)](https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java), [Java (#3)](https://algs4.cs.princeton.edu/code/)
-    - [Py (#1)](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python), [Py(#2)](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
-    - [C#](https://github.com/aalhour/C-Sharp-Algorithms)
-    - [JavaScript](https://github.com/yangshun/lago), [TypeScript](https://github.com/Lugriz/typescript-algorithms)
-  - Aufgaben:
-    - [GfG 160](https://www.geeksforgeeks.org/courses/gfg-160-series)
-    - [AlgoMaster](https://algomaster.io/practice/dsa-patterns)
-    - [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)
-    - Google Doc [Top Leetcode Questions of All Time](https://docs.google.com/spreadsheets/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP) ([Solutions](https://github.com/DestinationFAANG/Destination-FAANG-Java-Solution)) von [DestinationFAANG‬](https://www.youtube.com/watch?v=T0u5nwSA0w0&t=0s)
-    - Verwandte Lokik-Puzzles für Vorstellungsgespräche
-      - [Batteries and Flashlight Puzzle](https://www.youtube.com/watch?v=Zm1PUSfUMnE&)
-  - **Graphen**
-    - Einstieg: Webartikel [The Top 10 Algorithms Every Programmer Should Know In Graph Data Structure](https://dev.to/rajkousik/the-top-10-algorithms-every-programmer-should-know-in-graph-data-structure-40a5)
-    - Und natürlich werden Graphen im [Cormen](https://www.amazon.de/dp/026204630X/) und anderen Algorithmik-Büchern (s.o.) behandelt
-    - Werkzeugkiste (exemplarisch): [GraphStream](https://graphstream-project.org): Java library for the modeling and analysis of dynamic graphs
-    - A*-Algorithmus (heuristische Alternative zum Dijkstra-Algorithmus): Lesenswerte [Original-Publikation](https://ai.stanford.edu/~nilsson/OnlinePubs-Nils/PublishedPapers/astar.pdf) und eine spannende und anschauliche [Einbettung von A* in das Computerspiel **Factorio**](https://factorio.com/blog/post/fff-317)
+	- Empfohlen: [**Google** Tech Dev Guide: **Data Structure & Algorithms**](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) | **[HappyCoders](https://www.happycoders.eu/de/algorithmen/)** (am Bsp. Java) | **[freeCodeCamp](https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/)** (am Bsp. JS)
+	- (€:) Buch **[Algorithmen](https://www.amazon.de/dp/3868941843/)** (2014) von Sedgewick & Wayne
+	- (€:) Buch **[Introduction to Algorithms](http://www.amazon.de/dp/026204630X/)** (2022) von Thomas Cormen, et al., hierzu gibts einen eigenen [Wikipedia](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)-Eintrag
+	- MOOC-Kurse von Stanford: [Algorithms: Design and Analysis](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1)
+	- Historisch
+		- Die Mutter aller AuD-Bücher ist selbstverständlich das legendäre „**The Art of Computer Programming**" (ab 1968, in mehreren Bänden) von Donald E. Knuth (Algol 60, TeX, METAFONT; Turing Award 1974), vgl. [Wikipedia](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming)
+		- Dicht gefolgt vom Buch „**Algorithmen und Datenstrukturen**“ (1975) von Nikolaus Wirth (Pascal, EBNF, Modula/-2, Oberon; Turing Award 1984), dessen spätere [Oberon-Variante](http://people.inf.ethz.ch/wirth/AD.pdf) von ihm kostenlos online gestellt wurde
+		- Auch recht berühmt ist das Buch **[Walls and Mirros](https://www.amazon.de/dp/0201702207/)** (2011 | [Orig: 1986](https://en.wikipedia.org/wiki/Walls_and_Mirrors)), dabei steht „Walls“ für Abstract Data Types (ADT) und „Mirrors“ für Rekursion, vgl. [Wikipedia](https://en.wikipedia.org/wiki/Walls_and_Mirrors)
+	- O-Notation:
+		- Webartikel: datacamp [Big O: Intuition and Math](https://www.datacamp.com/tutorial/big-o-notation-time-complexity)
+		- Videos: Playliste [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) von Abdul Bari
+	- Abstrakte Datentypen:
+		- [B. Liskov. **The Power of Abstraction**. OOPSLA Keynote. 2013. (Hosted by InfoQ; with Video)](https://www.infoq.com/presentations/programming-abstraction-liskov/)
+		- [John V. Guttag (Video): **Abstrakte Datentypen**](https://www.software-pioneers.com/videos/john-v-guttag)
+	- roadmap.sh [Computer Science Roadmap](https://roadmap.sh/computer-science)
+	- Visualisierungen von AuD: [visualgo.net](https://visualgo.net/)
+	- **Code-Referenzen** für Data Structures and Algorithms:
+		- Multi-Language: **[The Algorithms](https://the-algorithms.com)**
+		- [Java (#1)](https://github.com/phishman3579/java-algorithms-implementation), [Java (#2)](https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java), [Java (#3)](https://algs4.cs.princeton.edu/code/)
+		- [Py (#1)](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python), [Py(#2)](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
+		- [C#](https://github.com/aalhour/C-Sharp-Algorithms)
+		- [JavaScript](https://github.com/yangshun/lago), [TypeScript](https://github.com/Lugriz/typescript-algorithms)
+	- Aufgaben:
+		- [GfG 160](https://www.geeksforgeeks.org/courses/gfg-160-series)
+		- [AlgoMaster](https://algomaster.io/practice/dsa-patterns)
+		- [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)
+		- Google Doc [Top Leetcode Questions of All Time](https://docs.google.com/spreadsheets/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP) ([Solutions](https://github.com/DestinationFAANG/Destination-FAANG-Java-Solution)) von [DestinationFAANG‬](https://www.youtube.com/watch?v=T0u5nwSA0w0&t=0s)
+		- Verwandte Lokik-Puzzles für Vorstellungsgespräche
+			- [Batteries and Flashlight Puzzle](https://www.youtube.com/watch?v=Zm1PUSfUMnE&)
+	- **Graphen**
+		- Einstieg: Webartikel [The Top 10 Algorithms Every Programmer Should Know In Graph Data Structure](https://dev.to/rajkousik/the-top-10-algorithms-every-programmer-should-know-in-graph-data-structure-40a5)
+		- Und natürlich werden Graphen im [Cormen](https://www.amazon.de/dp/026204630X/) und anderen Algorithmik-Büchern (s.o.) behandelt
+		- Werkzeugkiste (exemplarisch): [GraphStream](https://graphstream-project.org): Java library for the modeling and analysis of dynamic graphs
+		- A*-Algorithmus (heuristische Alternative zum Dijkstra-Algorithmus): Lesenswerte [Original-Publikation](https://ai.stanford.edu/~nilsson/OnlinePubs-Nils/PublishedPapers/astar.pdf) und eine spannende und anschauliche [Einbettung von A* in das Computerspiel **Factorio**](https://factorio.com/blog/post/fff-317)
 - Betriebssysteme
-  - Buch (€) [Moderne Betriebssysteme](https://www.amazon.de/dp/386894270X/) (2016) von Tanenbaum
-    - Oberflächlicher aber für OTH-Studierende kostenlos: „Grundkurs Betriebssysteme“ (2020) von P. Mandl im Springer Vieweg Verlag
-    - ...
+	- Buch (€) [Moderne Betriebssysteme](https://www.amazon.de/dp/386894270X/) (2016) von Tanenbaum
+		- Oberflächlicher aber für OTH-Studierende kostenlos: „Grundkurs Betriebssysteme“ (2020) von P. Mandl im Springer Vieweg Verlag
+		- ...
 - Programmierung: [**w3schools** Tutorials](https://www.w3schools.com) | [**Google** Tech Dev Guide: **Foundations of Programming**](https://techdevguide.withgoogle.com/paths/foundational/)
-  - Nachbau von diversen Anwendungen: Awesome **[Build your own X](https://github.com/codecrafters-io/build-your-own-x)**
-  - Beware of the Blub paradox: „[\[programmers are\] satisfied with whatever language they happen to use, because it dictates the way they think about programs](https://www.paulgraham.com/avg.html)“
-  - Lisp: Videokurs **[Common Lisp](https://www.classcentral.com/report/best-lisp-courses/#anchor-1)** von Neil Munro | [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl?tab=readme-ov-file#learning-and-tutorials)
-  - Scheme: (€:) Buch **[Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)** (SICP) von Abelson & Sussman
-  - Java: **[Think Java](https://greenteapress.com/wp/think-java/)** | **[Java-Notbuch](https://michaelkipp.de/notbuch/Java-Notbuch.pdf)** | [**Clean Code** Java](https://github.com/leonardolemie/clean-code-java)
-    - (Alternative: Java-Kompetenzen mittels [Processing](https://processing.org/) per **[Einführungskurs in das Programmieren mit Processing](https://michaelkipp.de/processing/)** vom Autor des Java-Notbuch)
-    - Einsteigerempfehlungen: [String-Konkatenation](https://redfin.engineering/java-string-concatenation-which-way-is-best-8f590a7d22a8)
-    - Fortführung: freeCodeCamp [Advanced Object-Oriented **Programming in Java**](https://www.freecodecamp.org/news/object-oriented-programming-in-java/)⭐
-  - JS: Buch **[Eloquent JavaScript](https://eloquentjavascript.net/)** (2018) | **[The Modern JavaScript Tutorial](https://javascript.info/)** | [**Clean Code** JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) | [**Clean Code** TypeScript](https://github.com/labs42io/clean-code-typescript) | dev.to [**Objects** in JavaScript](https://dev.to/comfortdeola/a-beginners-guide-to-objects-in-javascript-59ac) + [**Spread**-Operator](https://dev.to/am20dipi/a-guide-to-spread-operator-3caj)
-    - JavaScript Promises: freeCodeCamp [How JavaScript Promises Work – Handbook for Beginners](https://www.freecodecamp.org/news/the-javascript-promises-handbook/)
-  - C#: **[C# Programming Yellow Book](https://www.robmiles.com/c-yellow-book/)** | [**Clean Code** .NET/C#](https://github.com/thangchung/clean-code-dotnet)
-  - Py: **[Google’s Python Class](https://developers.google.com/edu/python/)** | [**Clean Code** Python](https://github.com/zedr/clean-code-python) | freeCodeCamp **[Learn Python Programming](https://www.freecodecamp.org/news/learn-python-book/)** | **[Automate the Boring Stuff in Python](https://automatetheboringstuff.com/)** | DataCamp **[Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)**
-    - Kurs [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) des MIT
-    - (Es gibt auch Processing für Python: [processing.py](https://py.processing.org/tutorials/gettingstarted/))
-  - Mojo (Superset of Py): Motion AI [**Mojo** Docs](https://docs.modular.com/mojo/) | [Mojo Programming Manual](https://docs.modular.com/mojo/programming-manual.html) | [Modular Inference Engine](https://docs.modular.com/engine/)
-  - R: DataCamp **[Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)** | Interaktiver Kurs **[swirl](https://swirlstats.com/)** („Learn R, in R.“) | MOOC von Stanford [R Programming Fundamentals](https://www.edx.org/learn/r-programming/stanford-university-r-programming-fundamentals) | zzgl. im [Master-Abschnitt zu Data Science](#msc-big-data-and-cloud-computing-for-ai)
-  - C++: **[Learn C++](https://www.learncpp.com/)**, (€:) Buch **[A Tour of C++](https://www.stroustrup.com/tour3.html)** von Bjarne Stroustup
-  - Rust: [Learn **Rust**](https://www.rust-lang.org/learn)
-  - Zig: [Getting Started](https://ziglang.org/learn/getting-started/) | [**Zig** learn](https://ziglearn.org/) | [ziglings](https://github.com/ratfactor/ziglings)
-  - Alle anderen Programmiersprachen:
-    - Lernmaterialliste **[Become a Programmer, Zbgureshpxre](http://programming-motherfucker.com/become.html)** von Zed A. Shaw
-    - Helle Welt 2.0 = **[FizzBuzz](https://rosettacode.org/wiki/FizzBuzz)** in allen Sprachen
-    - [Basic **Computer Games**](https://github.com/coding-horror/basic-computer-games) in allen TIOBE Top-10 Sprachen
-  - Coding Dojos, Katas, Aufgabensammlungen:
-    - Kata/Dojo-Kataloge: **[Kata-Log](https://kata-log.rocks)**, [Emily Baches Git Repo (Autorin von "The **Coding Dojo** Handbook")](https://github.com/emilybache/), [**Clean Code Developer** School - Coding Dojo](https://ccd-school.de/coding-dojo/), **[CodingDojo.org](https://codingdojo.org/kata/)**
-    - Erkenntnisgewinn aus Katas: [Uncle Bob: The **Transformation Priority Premise**](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
-    - Klassische Aufgabensammlungen: [Lösungen zum Buch **Programmieren trainieren**](https://protrain.GitHub.io/loesungen/loesungsvorschlaege-fuer-programmieraufgaben-auf-GitHub.html) (Java, Py)
-    - Algorithmen und Datenstrukturen: [GfG 160](https://www.geeksforgeeks.org/courses/gfg-160-series)
-    - [Basic **Computer Games**](https://github.com/coding-horror/basic-computer-games)
-    - Web-Frontend-Entwicklung: [**10 Projects** to skyrocket your coding skills](https://dev.to/bigsondev/10-projects-to-skyrocket-your-coding-skills-19hl)
-  - (€:) Buch [**Structure and Interpretation of Computer Programs**: JavaScript Edition](https://www.amazon.de/dp/0262543230/) (SICP) von Abelson & Sussman, et al.
-  - (€:) Buch **[The Pragmatic Programmer](https://www.amazon.de/dp/0135957052/)** von Hunt & Thomas („broken windows theory“, „code katas“, „DRY“ (Don't Repeat Yourself), „rubberducking“)
-  - (€:) Buch **[Clean Code](https://www.amazon.de/dp/0132350882/)** (2008) ⭐ und **[The Clean Coder](https://www.amazon.de/dp/0137081073/)** (2011) von Robert C. Martin, genannt Uncle Bob
-    - Zeitloser Vortrag **[Clean Code – Von der Lehre in den Alltag](https://de.slideshare.net/iksgmbh/clean-codevortraggearconf)** (2012) von Vollmer & Oberrath
-    - freeCodeCamp [**How to Write Clean Code** – Tips and Best Practices](https://www.freecodecamp.org/news/how-to-write-clean-code/)
-    - Video [How NASA writes **space-proof code**](https://www.youtube.com/watch?v=GWYhtksrmhE) (äquivalent zur Embedded-Entwicklung für die Automobilbranche)
-    - Poster [clean-code-developer.de **Poster** – Prinzipien und Praktiken für mehr Softwarequalität](https://unclassified.software/files/topics/clean-code/CCD-Poster_A0_1mm.pdf) (2017)
-    - DISCLAIMER:
-      - Einige Aspekte aus Clean Code sind durchaus auch strittig (die maximale Größe für eine Methode wurde durch Uncle Bob bspw. eher niedrig angesetzt…) und 100% Clean Code gibt es in der industriellen Praxis
-      - Clean Coding muss auch noch durch Performance-aware Coding ergänzt werden muss, was auch Uncle Bob [in Interviews teilt](https://github.com/unclebob/cmuratori-discussion/blob/main/cleancodeqa.md)
-      - Dennoch: Das Buch Clean Code liefert viele grundlegende Prinzipien, die v.a. das Ziel haben technische Schulden zu vermeiden, und das ist für den Programmiereinstieg wichtig. Clean Code enthält viele begründete Vorgaben, ist aber kein Regelwerk, vielmehr ein Regel-, Werte- und Orientierungssystem, das die Qualität Ihrer Arbeit bestimmen kann.
-    - Weiterführende Quelle: [Awesome Clean Code](https://github.com/kkisiele/awesome-clean-code) ([Py](https://github.com/zedr/clean-code-python), [Java](https://github.com/leonardolemie/clean-code-java), [JS](https://github.com/ryanmcdermott/clean-code-javascript)/[TS](https://github.com/labs42io/clean-code-typescript), [.NET/C#](https://github.com/thangchung/clean-code-dotnet), [PHP](https://github.com/piotrplenik/clean-code-php), [Ruby](https://github.com/uohzxela/clean-code-ruby), [Go](https://github.com/Pungyeon/clean-go-article), [Elixier](https://github.com/lucasvegi/Elixir-Code-Smells), [ABAP](https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md))
-  - (€:) Buch **[Code Complete](https://www.amazon.de/dp/0735619670)** (2004) von Steve McConnell
-  - Null-Pointer:
-    - Video: **[Null References: The Billion Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)** (2009) von Toy Hoare
-    - [**0pointer**.net](https://0pointer.net)
-    - Null-Alternativen?
-      - **[Option Types](https://en.wikipedia.org/wiki/Option_type)** (bspw. [**Rust** error handling](https://doc.rust-lang.org/book/ch09-00-error-handling.html), [**Swift** do-try-catch](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling/) und [**Java** 8 Optional](https://dzone.com/articles/optional-in-java))
-      - **[Nullable Types](https://en.wikipedia.org/wiki/Nullable_type)** (bspw. [**C#** nullable value types](http://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types))
-  - Nebenläufige Programmierung Einstieg:
-    - OBACHT: Grundlegende Konzepte der nebenläufigen Programmierung werden insbesondere in Lehrbüchern zu **Betriebssysteme** (s. oben) behandelt!
-    - **[Threads](<https://en.wikipedia.org/wiki/Thread_(computing)>)** bzw. Multi-Threading (u.a. am Beispiel von **[Java](https://jenkov.com/tutorials/java-concurrency/index.html)**) ⊆ Parallele Programmierung ⊆ Nebenläufige Programmierung
-      - Java: Buch (€) [Parallele und verteilte Anwendungen in Java](https://www.amazon.de/dp/3446469192/) (2022) von Rainer Oechsele
-      - C++: In Teilen kostenloses Buch [C++ Concurrency in Action](https://livebook.manning.com/book/c-plus-plus-concurrency-in-action/)
-    - **[async/await](https://en.wikipedia.org/wiki/Async/await)** (u.a. am Beispiel von **[C#](https://blog.stephencleary.com/2012/02/async-and-await.html)** oder **[JS](https://www.freecodecamp.org/news/asynchronism-in-javascript/)**) ⊆ Asynchrone Programmierung ⊆ Nebenläufige Programmierung
-  - Coding Style Guidelines: **[Are Coding standards necessary?](https://isocpp.org/wiki/faq/coding-standards#coding-stds-vs-design-approaches)**
-    - Java: [Sun Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) von 1999, [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) sowie [Coding Standards for **Java**](https://ambysoft.com/essays/javaCodingStandards.html) von Scott W. Ambler
-    - JS: [**JavaScript** Style Guide](https://google.GitHub.io/styleguide/jsguide.html) von Google
-    - C#: [**C#** Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines) von Microsoft sowie die [CoreFX C# Coding Guidelines](https://github.com/dotnet/runtime/blob/master/docs/coding-guidelines/coding-style.md)
-    - Py: [PEP 8 – Style Guide for **Python** Code](https://peps.python.org/pep-0008/)
-    - C++: Die Hinweise zu den [**C++** Coding Standards](https://isocpp.org/wiki/faq/coding-standards) der Standard C++ Foundation
-    - Alle anderen Programmiersprachen: [Google Style Guides](https://google.GitHub.io/styleguide/), [Awesome List für alle Programmiersprachen](https://project-awesome.org/NARKOZ/guides)
+	- Nachbau von diversen Anwendungen: Awesome **[Build your own X](https://github.com/codecrafters-io/build-your-own-x)**
+	- Beware of the Blub paradox: „[\[programmers are\] satisfied with whatever language they happen to use, because it dictates the way they think about programs](https://www.paulgraham.com/avg.html)“
+	- Lisp: Videokurs **[Common Lisp](https://www.classcentral.com/report/best-lisp-courses/#anchor-1)** von Neil Munro | [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl?tab=readme-ov-file#learning-and-tutorials)
+	- Scheme: (€:) Buch **[Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)** (SICP) von Abelson & Sussman
+	- Java: **[Think Java](https://greenteapress.com/wp/think-java/)** | **[Java-Notbuch](https://michaelkipp.de/notbuch/Java-Notbuch.pdf)** | [**Clean Code** Java](https://github.com/leonardolemie/clean-code-java)
+		- (Alternative: Java-Kompetenzen mittels [Processing](https://processing.org/) per **[Einführungskurs in das Programmieren mit Processing](https://michaelkipp.de/processing/)** vom Autor des Java-Notbuch)
+		- Einsteigerempfehlungen: [String-Konkatenation](https://redfin.engineering/java-string-concatenation-which-way-is-best-8f590a7d22a8)
+		- Fortführung: freeCodeCamp [Advanced Object-Oriented **Programming in Java**](https://www.freecodecamp.org/news/object-oriented-programming-in-java/)⭐
+	- JS: Buch **[Eloquent JavaScript](https://eloquentjavascript.net/)** (2018) | **[The Modern JavaScript Tutorial](https://javascript.info/)** | [**Clean Code** JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) | [**Clean Code** TypeScript](https://github.com/labs42io/clean-code-typescript) | dev.to [**Objects** in JavaScript](https://dev.to/comfortdeola/a-beginners-guide-to-objects-in-javascript-59ac) + [**Spread**-Operator](https://dev.to/am20dipi/a-guide-to-spread-operator-3caj)
+		- JavaScript Promises: freeCodeCamp [How JavaScript Promises Work – Handbook for Beginners](https://www.freecodecamp.org/news/the-javascript-promises-handbook/)
+	- C#: **[C# Programming Yellow Book](https://www.robmiles.com/c-yellow-book/)** | [**Clean Code** .NET/C#](https://github.com/thangchung/clean-code-dotnet)
+	- Py: **[Google’s Python Class](https://developers.google.com/edu/python/)** | [**Clean Code** Python](https://github.com/zedr/clean-code-python) | freeCodeCamp **[Learn Python Programming](https://www.freecodecamp.org/news/learn-python-book/)** | **[Automate the Boring Stuff in Python](https://automatetheboringstuff.com/)** | DataCamp **[Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)**
+		- Kurs [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) des MIT
+		- (Es gibt auch Processing für Python: [processing.py](https://py.processing.org/tutorials/gettingstarted/))
+	- Mojo (Superset of Py): Motion AI [**Mojo** Docs](https://docs.modular.com/mojo/) | [Mojo Programming Manual](https://docs.modular.com/mojo/programming-manual.html) | [Modular Inference Engine](https://docs.modular.com/engine/)
+	- R: DataCamp **[Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)** | Interaktiver Kurs **[swirl](https://swirlstats.com/)** („Learn R, in R.“) | MOOC von Stanford [R Programming Fundamentals](https://www.edx.org/learn/r-programming/stanford-university-r-programming-fundamentals) | zzgl. im [Master-Abschnitt zu Data Science](#msc-big-data-and-cloud-computing-for-ai)
+	- C++: **[Learn C++](https://www.learncpp.com/)**, (€:) Buch **[A Tour of C++](https://www.stroustrup.com/tour3.html)** von Bjarne Stroustup
+	- Rust: [Learn **Rust**](https://www.rust-lang.org/learn)
+	- Zig: [Getting Started](https://ziglang.org/learn/getting-started/) | [**Zig** learn](https://ziglearn.org/) | [ziglings](https://github.com/ratfactor/ziglings)
+	- Alle anderen Programmiersprachen:
+		- Lernmaterialliste **[Become a Programmer, Zbgureshpxre](http://programming-motherfucker.com/become.html)** von Zed A. Shaw
+		- Helle Welt 2.0 = **[FizzBuzz](https://rosettacode.org/wiki/FizzBuzz)** in allen Sprachen
+		- [Basic **Computer Games**](https://github.com/coding-horror/basic-computer-games) in allen TIOBE Top-10 Sprachen
+	- Coding Dojos, Katas, Aufgabensammlungen:
+		- Kata/Dojo-Kataloge: **[Kata-Log](https://kata-log.rocks)**, [Emily Baches Git Repo (Autorin von "The **Coding Dojo** Handbook")](https://github.com/emilybache/), [**Clean Code Developer** School - Coding Dojo](https://ccd-school.de/coding-dojo/), **[CodingDojo.org](https://codingdojo.org/kata/)**
+		- Erkenntnisgewinn aus Katas: [Uncle Bob: The **Transformation Priority Premise**](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
+		- Klassische Aufgabensammlungen: [Lösungen zum Buch **Programmieren trainieren**](https://protrain.GitHub.io/loesungen/loesungsvorschlaege-fuer-programmieraufgaben-auf-GitHub.html) (Java, Py)
+		- Algorithmen und Datenstrukturen: [GfG 160](https://www.geeksforgeeks.org/courses/gfg-160-series)
+		- [Basic **Computer Games**](https://github.com/coding-horror/basic-computer-games)
+		- Web-Frontend-Entwicklung: [**10 Projects** to skyrocket your coding skills](https://dev.to/bigsondev/10-projects-to-skyrocket-your-coding-skills-19hl)
+	- (€:) Buch [**Structure and Interpretation of Computer Programs**: JavaScript Edition](https://www.amazon.de/dp/0262543230/) (SICP) von Abelson & Sussman, et al.
+	- (€:) Buch **[The Pragmatic Programmer](https://www.amazon.de/dp/0135957052/)** von Hunt & Thomas („broken windows theory“, „code katas“, „DRY“ (Don't Repeat Yourself), „rubberducking“)
+	- (€:) Buch **[Clean Code](https://www.amazon.de/dp/0132350882/)** (2008) ⭐ und **[The Clean Coder](https://www.amazon.de/dp/0137081073/)** (2011) von Robert C. Martin, genannt Uncle Bob
+		- Zeitloser Vortrag **[Clean Code – Von der Lehre in den Alltag](https://de.slideshare.net/iksgmbh/clean-codevortraggearconf)** (2012) von Vollmer & Oberrath
+		- freeCodeCamp [**How to Write Clean Code** – Tips and Best Practices](https://www.freecodecamp.org/news/how-to-write-clean-code/)
+		- Video [How NASA writes **space-proof code**](https://www.youtube.com/watch?v=GWYhtksrmhE) (äquivalent zur Embedded-Entwicklung für die Automobilbranche)
+		- Poster [clean-code-developer.de **Poster** – Prinzipien und Praktiken für mehr Softwarequalität](https://unclassified.software/files/topics/clean-code/CCD-Poster_A0_1mm.pdf) (2017)
+		- DISCLAIMER:
+			- Einige Aspekte aus Clean Code sind durchaus auch strittig (die maximale Größe für eine Methode wurde durch Uncle Bob bspw. eher niedrig angesetzt…) und 100% Clean Code gibt es in der industriellen Praxis
+			- Clean Coding muss auch noch durch Performance-aware Coding ergänzt werden muss, was auch Uncle Bob [in Interviews teilt](https://github.com/unclebob/cmuratori-discussion/blob/main/cleancodeqa.md)
+			- Dennoch: Das Buch Clean Code liefert viele grundlegende Prinzipien, die v.a. das Ziel haben technische Schulden zu vermeiden, und das ist für den Programmiereinstieg wichtig. Clean Code enthält viele begründete Vorgaben, ist aber kein Regelwerk, vielmehr ein Regel-, Werte- und Orientierungssystem, das die Qualität Ihrer Arbeit bestimmen kann.
+		- Weiterführende Quelle: [Awesome Clean Code](https://github.com/kkisiele/awesome-clean-code) ([Py](https://github.com/zedr/clean-code-python), [Java](https://github.com/leonardolemie/clean-code-java), [JS](https://github.com/ryanmcdermott/clean-code-javascript)/[TS](https://github.com/labs42io/clean-code-typescript), [.NET/C#](https://github.com/thangchung/clean-code-dotnet), [PHP](https://github.com/piotrplenik/clean-code-php), [Ruby](https://github.com/uohzxela/clean-code-ruby), [Go](https://github.com/Pungyeon/clean-go-article), [Elixier](https://github.com/lucasvegi/Elixir-Code-Smells), [ABAP](https://github.com/SAP/styleguides/blob/main/clean-abap/CleanABAP.md))
+	- (€:) Buch **[Code Complete](https://www.amazon.de/dp/0735619670)** (2004) von Steve McConnell
+	- Null-Pointer:
+		- Video: **[Null References: The Billion Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/)** (2009) von Toy Hoare
+		- [**0pointer**.net](https://0pointer.net)
+		- Null-Alternativen?
+			- **[Option Types](https://en.wikipedia.org/wiki/Option_type)** (bspw. [**Rust** error handling](https://doc.rust-lang.org/book/ch09-00-error-handling.html), [**Swift** do-try-catch](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling/) und [**Java** 8 Optional](https://dzone.com/articles/optional-in-java))
+			- **[Nullable Types](https://en.wikipedia.org/wiki/Nullable_type)** (bspw. [**C#** nullable value types](http://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types))
+	- Nebenläufige Programmierung Einstieg:
+		- OBACHT: Grundlegende Konzepte der nebenläufigen Programmierung werden insbesondere in Lehrbüchern zu **Betriebssysteme** (s. oben) behandelt!
+		- **[Threads](<https://en.wikipedia.org/wiki/Thread_(computing)>)** bzw. Multi-Threading (u.a. am Beispiel von **[Java](https://jenkov.com/tutorials/java-concurrency/index.html)**) ⊆ Parallele Programmierung ⊆ Nebenläufige Programmierung
+			- Java: Buch (€) [Parallele und verteilte Anwendungen in Java](https://www.amazon.de/dp/3446469192/) (2022) von Rainer Oechsele
+			- C++: In Teilen kostenloses Buch [C++ Concurrency in Action](https://livebook.manning.com/book/c-plus-plus-concurrency-in-action/)
+		- **[async/await](https://en.wikipedia.org/wiki/Async/await)** (u.a. am Beispiel von **[C#](https://blog.stephencleary.com/2012/02/async-and-await.html)** oder **[JS](https://www.freecodecamp.org/news/asynchronism-in-javascript/)**) ⊆ Asynchrone Programmierung ⊆ Nebenläufige Programmierung
+	- Coding Style Guidelines: **[Are Coding standards necessary?](https://isocpp.org/wiki/faq/coding-standards#coding-stds-vs-design-approaches)**
+		- Java: [Sun Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) von 1999, [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) sowie [Coding Standards for **Java**](https://ambysoft.com/essays/javaCodingStandards.html) von Scott W. Ambler
+		- JS: [**JavaScript** Style Guide](https://google.GitHub.io/styleguide/jsguide.html) von Google
+		- C#: [**C#** Naming Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines) von Microsoft sowie die [CoreFX C# Coding Guidelines](https://github.com/dotnet/runtime/blob/master/docs/coding-guidelines/coding-style.md)
+		- Py: [PEP 8 – Style Guide for **Python** Code](https://peps.python.org/pep-0008/)
+		- C++: Die Hinweise zu den [**C++** Coding Standards](https://isocpp.org/wiki/faq/coding-standards) der Standard C++ Foundation
+		- Alle anderen Programmiersprachen: [Google Style Guides](https://google.GitHub.io/styleguide/), [Awesome List für alle Programmiersprachen](https://project-awesome.org/NARKOZ/guides)
 - Computernetzwerke: [Mozilla Entwickler-Doku: **HTTP**](https://developer.mozilla.org/de/docs/Web/HTTP) zzgl. [**IT-Handbuch** für Fachinformatiker (2013) **Kap. 4**](https://openbook.rheinwerk-verlag.de/it_handbuch/04_001.html) und **[Kap. 14](https://openbook.rheinwerk-verlag.de/it_handbuch/14_001.html)**
-  - freeCodeCamp **[HTTP Networking in JavaScript](https://www.freecodecamp.org/news/http-full-course/)**
-  - (€:) Buch **[Computernetzwerke](https://www.amazon.de/dp/B00QV6QH3Q/)** (2012) von Tannenbaum & Wetherall
+	- freeCodeCamp **[HTTP Networking in JavaScript](https://www.freecodecamp.org/news/http-full-course/)**
+	- (€:) Buch **[Computernetzwerke](https://www.amazon.de/dp/B00QV6QH3Q/)** (2012) von Tannenbaum & Wetherall
 - Software Engineering (SWE) / Software-Technik (SWT): Einstieg
-  - MonkeyUser Comic zu [Architecture](https://www.monkeyuser.com/2018/architecture/)
-  - **iSAQB** Certified Professional for Software Architecture (**CPSA**): Curriculum für das [Foundation Level](https://www.isaqb.org/download/curriculum-foundation-level/)
-  - IEEE Software Engineering Body of Knowledge (**SWEBOK**): [v3](https://www.computer.org/education/bodies-of-knowledge/software-engineering/topics), ([v4](https://www.computer.org/volunteering/boards-and-committees/professional-educational-activities/software-engineering-committee/swebok-evolution)-in-spe)
-  - embarc-Artikel (Stefan Zörner) **[Architektur ohne Firlefanz](https://www.informatik-aktuell.de/entwicklung/methoden/architektur-ohne-firlefanz-ihre-loesung-auf-einem-bierdeckel.html)** ⭐ sowie der Foliensatz **[Moderne Softwarearchitekturdokumentation](https://www.embarc.de/docs-as-code-etffm-2021/)**
-  - [**Google** Tech Dev Guide: **Software Engineering** Principles](https://techdevguide.withgoogle.com/paths/principles/)
-  - (€:) Buch **[Lehrbuch der Softwaretechnik](https://link.springer.com/book/10.1007/978-3-8274-2247-7)** (2009) ⭐ von **Helmut Balzert**
-  - (€:) Buch **[UML@Classroom](https://www.amazon.de/dp/3898647765/)** (2012) von Martina Seidl et al. mit [weiteren Online-Unterlagen](http://www.uml.ac.at/de/lernen)
-  - [Modeling Style Guidelines: Strategies for Better Diagrams](https://agilemodeling.com/style.htm) für UML, u.a. [Use case diagram guidelines](https://agilemodeling.com/style/usecasediagram.htm), [Class diagram guidelines](https://agilemodeling.com/style/classdiagram.htm) und [Sequence diagram guidelines](https://agilemodeling.com/style/sequencediagram.htm)
-  - Entwurfsprinzipien/Programmierprinzipien: ⚠️
-    - Uncle Bob's **SOLID**: freeCodeCamp [**SOLID Principles** for Programming and Software Design](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/) | erweiterte Übersicht [Robert C. Martin's **Principle Collection**](http://principles-wiki.net/collections:robert_c._martin_s_principle_collection) | freeCodeCamp [SOLID-Einführung](https://www.freecodecamp.org/news/solid-design-principles-in-software-development/) | Los Techies [SOLID ebook](https://lostechies.com/wp-content/uploads/2011/03/pablos_solid_ebook.pdf)
-    - Weitere Prinzipien: **[DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)** (↔ **[AHA](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)**), **[SoC](https://wiki.c2.com/?SeparationOfConcerns)**, **[LoD](https://www.infoworld.com/article/3136224/demystifying-the-law-of-demeter-principle.html)**, **[KISS](http://principles-wiki.net/principles:keep_it_simple_stupid)**, **[EIBTI](http://principles-wiki.net/principles:rule_of_explicitness)** sowie [viele **weitere**](http://principles-wiki.net/principles:start) | ähnliche [Programming Principles](https://github.com/webpro/programming-principles)-Liste
-  - Software Craftsmanship = Prinzipien (wie oben) plus Praktiken:
-    - Int'l: [Manifesto](https://manifesto.softwarecraftsmanship.org/) ([Further Reading](https://manifesto.softwarecraftsmanship.org/#/en/reading))
-    - v.a. in DE: **[Clean Code Developer](https://ccd-akademie.de/clean-code-developer-bildschirmhintergrund/)** ⭐ mit [Armbändern](https://shop.generic.de/)
-  - OOA&D:
-    - (€:) Buch [**Object-Oriented Analysis and Design** with Applications](https://www.amazon.de/dp/020189551X) (2007) von Grady Booch
-    - [**OOD**-Prinzipien](http://principles-wiki.net/collections:ood_principle_language)
-  - Entwurfsmuster:
-    - Klassisch-Universell: [Refactoring Guru](https://refactoring.guru/design-patterns/catalog) **[Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)** | [SourceMaking](https://sourcemaking.com/antipatterns) **[Anti-Patterns](https://sourcemaking.com/antipatterns)** | Video **[Design Patterns](https://www.software-pioneers.com/videos/erich-gamma)** (2001) von Erich Gamma
-    - Frontend-zentrisch: **[patterns.dev](https://www.patterns.dev/posts)** (bspw. [Progressive Hydration](https://www.patterns.dev/posts/progressive-hydration) und [Selective Hydration](https://www.patterns.dev/posts/react-selective-hydration)), auch als kostenloses [E-Book](https://www.patterns.dev/book) sowie deren [Community-Patterns](https://www.patterns.dev/resources)
-  - „Gesetzte“ der Informatik:
-    - [Übersichtsliste](https://github.com/dwmkerr/hacker-laws) (Amdahl's Law, Brooks' Law, Conway's Law, Hofstadter's Law, Hyrum's Law, Kernighan's Law, Moore's Law, Occam's Razor, Parkinson's Law, The Two Pizza Rule, Wheaton's Law, …)
-    - **Conway's Law** ist wichtig ⭐: Martin Fowler zu [Conway's Law](https://martinfowler.com/bliki/ConwaysLaw.html) i.Allg. (2022) sowie im Kontext von [MicroServices](https://martinfowler.com/articles/microservices.html) (2014) | Weiterer Hintergrundartikel zu [Conway's Law](https://www.alibabacloud.com/blog/conways-law-a-theoretical-basis-for-the-microservice-architecture_175894) (2017)
-    - Scott W. Ambler’s **Rule of Standards**: "Industry standards are better than corporate standards, corporate standards are better than team standards, team standards are better than personal standards which are better than no standards at all."
-  - Refactoring: (€) Buch [**Refactoring**: Improving the Design of Existing Code](https://www.amazon.de/dp/0134757599/) (2018) von Martin Fowler
-  - Code Reviews: Webartikel [Unpacking the Truth of Peer Reviews in the Software Industry](https://leadshorizons.com/p/unpacking-the-truth-of-peer-reviews) | [How to Give Code Reviews Without Getting Burned](https://akoskm.substack.com/p/how-to-give-code-reviews-without)
-  - Edutainment: Vortrag [Antipatterns und Missverständnisse in der Softwareentwicklung](https://www.youtube.com/watch?v=E0_Y53ci9cw) (2017) von Felix von Leitner, genannt fefe
-  - Model-Driven: [Shlaer-Mellor](https://en.wikipedia.org/wiki/Shlaer%E2%80%93Mellor_method) (vs. the Three Amigos) | [Executable UML](https://en.wikipedia.org/wiki/Executable_UML) ([Tools](https://modeling-languages.com/list-of-executable-uml-tools/)) |… | [Awesome MDE](https://github.com/S2-group/awesome-mde)
-    - Term Variations: Model-Driven Software-Development (MDSD) / MD Architecture (MDA) / MD Design (MDD) / MD Engineering (MDE) / Round-Trip Engineering (RTE)
-    - Remark: Model-Driven can be really complex (Round-Trip Support) or relatively simple (Code Generation)
+	- MonkeyUser Comic zu [Architecture](https://www.monkeyuser.com/2018/architecture/)
+	- **iSAQB** Certified Professional for Software Architecture (**CPSA**): Curriculum für das [Foundation Level](https://www.isaqb.org/download/curriculum-foundation-level/)
+	- IEEE Software Engineering Body of Knowledge (**SWEBOK**): [v3](https://www.computer.org/education/bodies-of-knowledge/software-engineering/topics), ([v4](https://www.computer.org/volunteering/boards-and-committees/professional-educational-activities/software-engineering-committee/swebok-evolution)-in-spe)
+	- embarc-Artikel (Stefan Zörner) **[Architektur ohne Firlefanz](https://www.informatik-aktuell.de/entwicklung/methoden/architektur-ohne-firlefanz-ihre-loesung-auf-einem-bierdeckel.html)** ⭐ sowie der Foliensatz **[Moderne Softwarearchitekturdokumentation](https://www.embarc.de/docs-as-code-etffm-2021/)**
+	- [**Google** Tech Dev Guide: **Software Engineering** Principles](https://techdevguide.withgoogle.com/paths/principles/)
+	- (€:) Buch **[Lehrbuch der Softwaretechnik](https://link.springer.com/book/10.1007/978-3-8274-2247-7)** (2009) ⭐ von **Helmut Balzert**
+	- (€:) Buch **[UML@Classroom](https://www.amazon.de/dp/3898647765/)** (2012) von Martina Seidl et al. mit [weiteren Online-Unterlagen](http://www.uml.ac.at/de/lernen)
+	- [Modeling Style Guidelines: Strategies for Better Diagrams](https://agilemodeling.com/style.htm) für UML, u.a. [Use case diagram guidelines](https://agilemodeling.com/style/usecasediagram.htm), [Class diagram guidelines](https://agilemodeling.com/style/classdiagram.htm) und [Sequence diagram guidelines](https://agilemodeling.com/style/sequencediagram.htm)
+	- Entwurfsprinzipien/Programmierprinzipien: ⚠️
+		- Uncle Bob's **SOLID**: freeCodeCamp [**SOLID Principles** for Programming and Software Design](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/) | erweiterte Übersicht [Robert C. Martin's **Principle Collection**](http://principles-wiki.net/collections:robert_c._martin_s_principle_collection) | freeCodeCamp [SOLID-Einführung](https://www.freecodecamp.org/news/solid-design-principles-in-software-development/) | Los Techies [SOLID ebook](https://lostechies.com/wp-content/uploads/2011/03/pablos_solid_ebook.pdf)
+		- Weitere Prinzipien: **[DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)** (↔ **[AHA](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)**), **[SoC](https://wiki.c2.com/?SeparationOfConcerns)**, **[LoD](https://www.infoworld.com/article/3136224/demystifying-the-law-of-demeter-principle.html)**, **[KISS](http://principles-wiki.net/principles:keep_it_simple_stupid)**, **[EIBTI](http://principles-wiki.net/principles:rule_of_explicitness)** sowie [viele **weitere**](http://principles-wiki.net/principles:start) | ähnliche [Programming Principles](https://github.com/webpro/programming-principles)-Liste
+	- Software Craftsmanship = Prinzipien (wie oben) plus Praktiken:
+		- Int'l: [Manifesto](https://manifesto.softwarecraftsmanship.org/) ([Further Reading](https://manifesto.softwarecraftsmanship.org/#/en/reading))
+		- v.a. in DE: **[Clean Code Developer](https://ccd-akademie.de/clean-code-developer-bildschirmhintergrund/)** ⭐ mit [Armbändern](https://shop.generic.de/)
+	- OOA&D:
+		- (€:) Buch [**Object-Oriented Analysis and Design** with Applications](https://www.amazon.de/dp/020189551X) (2007) von Grady Booch
+		- [**OOD**-Prinzipien](http://principles-wiki.net/collections:ood_principle_language)
+	- Entwurfsmuster:
+		- Klassisch-Universell: [Refactoring Guru](https://refactoring.guru/design-patterns/catalog) **[Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)** | [SourceMaking](https://sourcemaking.com/antipatterns) **[Anti-Patterns](https://sourcemaking.com/antipatterns)** | Video **[Design Patterns](https://www.software-pioneers.com/videos/erich-gamma)** (2001) von Erich Gamma
+		- Frontend-zentrisch: **[patterns.dev](https://www.patterns.dev/posts)** (bspw. [Progressive Hydration](https://www.patterns.dev/posts/progressive-hydration) und [Selective Hydration](https://www.patterns.dev/posts/react-selective-hydration)), auch als kostenloses [E-Book](https://www.patterns.dev/book) sowie deren [Community-Patterns](https://www.patterns.dev/resources)
+	- „Gesetzte“ der Informatik:
+		- [Übersichtsliste](https://github.com/dwmkerr/hacker-laws) (Amdahl's Law, Brooks' Law, Conway's Law, Hofstadter's Law, Hyrum's Law, Kernighan's Law, Moore's Law, Occam's Razor, Parkinson's Law, The Two Pizza Rule, Wheaton's Law, …)
+		- **Conway's Law** ist wichtig ⭐: Martin Fowler zu [Conway's Law](https://martinfowler.com/bliki/ConwaysLaw.html) i.Allg. (2022) sowie im Kontext von [MicroServices](https://martinfowler.com/articles/microservices.html) (2014) | Weiterer Hintergrundartikel zu [Conway's Law](https://www.alibabacloud.com/blog/conways-law-a-theoretical-basis-for-the-microservice-architecture_175894) (2017)
+		- Scott W. Ambler’s **Rule of Standards**: "Industry standards are better than corporate standards, corporate standards are better than team standards, team standards are better than personal standards which are better than no standards at all."
+	- Refactoring: (€) Buch [**Refactoring**: Improving the Design of Existing Code](https://www.amazon.de/dp/0134757599/) (2018) von Martin Fowler
+	- Code Reviews: Webartikel [Unpacking the Truth of Peer Reviews in the Software Industry](https://leadshorizons.com/p/unpacking-the-truth-of-peer-reviews) | [How to Give Code Reviews Without Getting Burned](https://akoskm.substack.com/p/how-to-give-code-reviews-without)
+	- Edutainment: Vortrag [Antipatterns und Missverständnisse in der Softwareentwicklung](https://www.youtube.com/watch?v=E0_Y53ci9cw) (2017) von Felix von Leitner, genannt fefe
+	- Model-Driven: [Shlaer-Mellor](https://en.wikipedia.org/wiki/Shlaer%E2%80%93Mellor_method) (vs. the Three Amigos) | [Executable UML](https://en.wikipedia.org/wiki/Executable_UML) ([Tools](https://modeling-languages.com/list-of-executable-uml-tools/)) |… | [Awesome MDE](https://github.com/S2-group/awesome-mde)
+		- Term Variations: Model-Driven Software-Development (MDSD) / MD Architecture (MDA) / MD Design (MDD) / MD Engineering (MDE) / Round-Trip Engineering (RTE)
+		- Remark: Model-Driven can be really complex (Round-Trip Support) or relatively simple (Code Generation)
 - Anforderungsmanagement Einstieg
-  - Traditionell: [**CPRE** Foundation Level – Handbuch nach dem **IREB**-Standard](https://www.ireb.org/content/downloads/3-cpre-foundation-level-handbook/cpre_foundationlevel_handbook_de_v1.0.pdf)
-    - Broschüre [Requirements Engineering » Ein Überblick](https://docplayer.org/6915991-Requirements-engineering-ein-ueberblick.html) (3. Auflage, 2012) von Christine Rupp \[Es gab auch eine 4. Auflage, zusammen mit Klaus Pohl\]
-    - Broschüre [Requirements- Engineering » Die kleine RE-Fibel](https://www.sophist.de/fileadmin/user_upload/Bilder_zu_Seiten/Publikationen/Wissen_for_free/RE-Broschuere_3-Auflage_mit_Lesezeichen.pdf) (2016) von Christine Rupp und die SOPHISTen
-  - Agil: Video **[Agile Product Ownership in a nutshell](https://www.youtube.com/watch?v=ZUwo8tKoYnQ)** | Artikel **[5 Common User Story Mistakes](https://www.romanpichler.com/blog/5-common-user-story-mistakes/)**
-    - Broschüre [Agiles Requirements-Engineering](https://www.sophist.de/fileadmin/user_upload/Bilder_zu_Seiten/Publikationen/Wissen_for_free/Agil-Broschuere_Int/Agiles_Requirements-Engineering_1-Auflage.pdf) (2021) von die SOPHISTen
-    - Broschüre [Requirements Engineering für die agile Softwareentwicklung](https://www.assets.dpunkt.de/openbooks/Bergsmann_Openbook.pdf) (2020) von Bergsmann sowie sein Artikel [Definition of Ready für agile Requirements](https://www.sigs-datacom.de/uploads/tx_dmjournals/bergsmann_OTS__Requirement_15.pdf)
-    - Webartikel über die [**3Cs** von User Stories](https://premieragile.com/3cs-of-user-story/): Cards, Conversation Confirmation
-  - Personas: vgl. Abschnitt [Bachelor-level Bonusliste](#bsc-bonusliste)
-  - Non-Functional Requirements / Qualitätsanforderungen: **[\*-ilities](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)**-Liste
-  - Kritik/Zeitenwandel:
-    - Agile-Origin: a tool for the team to self-organize! Agile-Today: a tool for management to impose micromanagement?!
-    - „Waterfall done good is better than agile done poorly.“
-    - Video [It’s time to move on from Agile Software Development (It's not working)](https://www.youtube.com/watch?v=gSVBWvoNJ-s)
+	- Traditionell: [**CPRE** Foundation Level – Handbuch nach dem **IREB**-Standard](https://www.ireb.org/content/downloads/3-cpre-foundation-level-handbook/cpre_foundationlevel_handbook_de_v1.0.pdf)
+		- Broschüre [Requirements Engineering » Ein Überblick](https://docplayer.org/6915991-Requirements-engineering-ein-ueberblick.html) (3. Auflage, 2012) von Christine Rupp \[Es gab auch eine 4. Auflage, zusammen mit Klaus Pohl\]
+		- Broschüre [Requirements- Engineering » Die kleine RE-Fibel](https://www.sophist.de/fileadmin/user_upload/Bilder_zu_Seiten/Publikationen/Wissen_for_free/RE-Broschuere_3-Auflage_mit_Lesezeichen.pdf) (2016) von Christine Rupp und die SOPHISTen
+	- Agil: Video **[Agile Product Ownership in a nutshell](https://www.youtube.com/watch?v=ZUwo8tKoYnQ)** | Artikel **[5 Common User Story Mistakes](https://www.romanpichler.com/blog/5-common-user-story-mistakes/)**
+		- Broschüre [Agiles Requirements-Engineering](https://www.sophist.de/fileadmin/user_upload/Bilder_zu_Seiten/Publikationen/Wissen_for_free/Agil-Broschuere_Int/Agiles_Requirements-Engineering_1-Auflage.pdf) (2021) von die SOPHISTen
+		- Broschüre [Requirements Engineering für die agile Softwareentwicklung](https://www.assets.dpunkt.de/openbooks/Bergsmann_Openbook.pdf) (2020) von Bergsmann sowie sein Artikel [Definition of Ready für agile Requirements](https://www.sigs-datacom.de/uploads/tx_dmjournals/bergsmann_OTS__Requirement_15.pdf)
+		- Webartikel über die [**3Cs** von User Stories](https://premieragile.com/3cs-of-user-story/): Cards, Conversation Confirmation
+	- Personas: vgl. Abschnitt [Bachelor-level Bonusliste](#bsc-bonusliste)
+	- Non-Functional Requirements / Qualitätsanforderungen: **[\*-ilities](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)**-Liste
+	- Kritik/Zeitenwandel:
+		- Agile-Origin: a tool for the team to self-organize! Agile-Today: a tool for management to impose micromanagement?!
+		- „Waterfall done good is better than agile done poorly.“
+		- Video [It’s time to move on from Agile Software Development (It's not working)](https://www.youtube.com/watch?v=gSVBWvoNJ-s)
 - Testing: [guru99](https://www.guru99.com/software-testing.html) **[Software Testing Tutorial](https://www.guru99.com/software-testing.html)** | **[Software Quality Wiki](https://github.com/ligurio/software-quality-wiki/wiki)**
-  - ISTQB [Certified Tester **Foundation Level**](https://www.german-testing-board.info/wp-content/uploads/2018/09/Lehrplan-Certified-Tester_Foundation-Level_Version2018.pdf)(2018)
-  - roadmap.sh [**QA Engineer** Roadmap](https://roadmap.sh/qa)
-  - GTB Certified Tester Advanced Levels: **[Testautomatisierungsentwickler](https://www.german-testing-board.info/wp-content/uploads/2019/09/CTAL-TAE-_DE_Syllabus_V2019-2-1.pdf)** (2019) sowie **[Technical Test Analyst](https://www.german-testing-board.info/wp-content/uploads/2022/01/GTB-CTAL-TTA_Lehrplan_v2019_DE.pdf)** (2019)
-  - (€:) Buch **[Basiswissen Softwaretests](https://www.amazon.de/dp/3864905834/)** (2019) von Spillner & Linz
-  - Test-Organization-Pattern: **[Arrange/Act/Assert](https://java-design-patterns.com/patterns/arrange-act-assert/)** ⚠️ (AAA-Tests), **[Given-When-Then](https://martinfowler.com/bliki/GivenWhenThen.html)**
-  - TDD: [guru99 **What is Test Driven Development (TDD)?**](https://www.guru99.com/test-driven-development.html) | Kurs [eduonix](https://www.eduonix.com/beginners-guide-to-test-driven-development) **[Beginners Guide to Test Driven Development](https://www.eduonix.com/beginners-guide-to-test-driven-development)**
-    - TDD vs. Refactoring: Artikel **[The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)** (2013) von Uncle Bob
-  - Web: [Getting Started with **Jest**](https://www.valentinog.com/blog/jest/) zzgl. [**Code Coverage in Jest**, the right way](https://www.valentinog.com/blog/jest-coverage/) | [**React** Unit Test Handbook + **Redux** Testing Toolkit](https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react-redux/) | [**Socket.IO** Testing Doku](https://socket.io/docs/v4/testing/)
-  - E2E: [**Cypress** End to End Testing Tutorial: A Detailed Guide](https://www.lambdatest.com/blog/cypress-end-to-end-testing/)
+	- ISTQB [Certified Tester **Foundation Level**](https://www.german-testing-board.info/wp-content/uploads/2018/09/Lehrplan-Certified-Tester_Foundation-Level_Version2018.pdf)(2018)
+	- roadmap.sh [**QA Engineer** Roadmap](https://roadmap.sh/qa)
+	- GTB Certified Tester Advanced Levels: **[Testautomatisierungsentwickler](https://www.german-testing-board.info/wp-content/uploads/2019/09/CTAL-TAE-_DE_Syllabus_V2019-2-1.pdf)** (2019) sowie **[Technical Test Analyst](https://www.german-testing-board.info/wp-content/uploads/2022/01/GTB-CTAL-TTA_Lehrplan_v2019_DE.pdf)** (2019)
+	- (€:) Buch **[Basiswissen Softwaretests](https://www.amazon.de/dp/3864905834/)** (2019) von Spillner & Linz
+	- Test-Organization-Pattern: **[Arrange/Act/Assert](https://java-design-patterns.com/patterns/arrange-act-assert/)** ⚠️ (AAA-Tests), **[Given-When-Then](https://martinfowler.com/bliki/GivenWhenThen.html)**
+	- TDD: [guru99 **What is Test Driven Development (TDD)?**](https://www.guru99.com/test-driven-development.html) | Kurs [eduonix](https://www.eduonix.com/beginners-guide-to-test-driven-development) **[Beginners Guide to Test Driven Development](https://www.eduonix.com/beginners-guide-to-test-driven-development)**
+		- TDD vs. Refactoring: Artikel **[The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)** (2013) von Uncle Bob
+	- Web: [Getting Started with **Jest**](https://www.valentinog.com/blog/jest/) zzgl. [**Code Coverage in Jest**, the right way](https://www.valentinog.com/blog/jest-coverage/) | [**React** Unit Test Handbook + **Redux** Testing Toolkit](https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react-redux/) | [**Socket.IO** Testing Doku](https://socket.io/docs/v4/testing/)
+	- E2E: [**Cypress** End to End Testing Tutorial: A Detailed Guide](https://www.lambdatest.com/blog/cypress-end-to-end-testing/)
 - Datenbanksysteme: [Online-Materialien von Prof. Dr. **Jens Dittrich** an der Universität Saarland](https://bigdata.uni-saarland.de/datenbankenlernen/) \[**[Videos](https://www.youtube.com/user/jensdit)**\] | guru99 **[DBMS Tutorial](https://www.guru99.com/dbms-tutorial.html)**
-  - MOOC-Kurse von Jennifer Widom: **[RDBMS/SQL](https://www.edx.org/course/databases-5-sql)**, [Advanced Topics in SQL](https://www.edx.org/learn/sql/stanford-university-databases-advanced-topics-in-sql), [OLAP and Recursion](https://www.edx.org/learn/databases/stanford-university-databases-olap-and-recursion), [Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory), [Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data)
-  - SQL Aufgaben: **[SQL Murder Mystery](https://mystery.knightlab.com/)** | **[SQL Island](https://sql-island.informatik.uni-kl.de/)** | **[SQLBolt](https://sqlbolt.com/)** | **[Select Star SQL](https://selectstarsql.com/)** | **[SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises)**
-  - SQL Tutorials: **[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)** | **[w³schools SQL Tutorial](https://www.w3schools.com/sql/)**
-  - roadmap.sh [**SQL** Roadmap](https://roadmap.sh/sql)
-  - Transaktionen:
-  - SQL Anti-Patterns: Werkzeug **[sqlcheck](https://github.com/jarulraj/sqlcheck)** | Stackoverflow Thread [Most Common **SQL Anti-Patterns**](https://stackoverflow.com/questions/346659/what-are-the-most-common-sql-anti-patterns) | (€:) Buch [**SQL Antipatterns**: Avoiding the Pitfalls of Database Programming](https://www.amazon.de/dp/1934356557) (2010) von Bill Karvin
-  - DB-Admin Tutorials: [MySQL](https://www.mysqltutorial.org/mysql-administration/) | [PostgreSQL](https://www.postgresqltutorial.com/) | (€:) [Oracle](https://www.udemy.com/courses/search/?q=oracle+database+administration) | [IBM](https://www.edx.org/course/relational-database-administration-dba) | [Microsoft SQL Server](https://www.udemy.com/course/microsoft-sql-server-an-introduction-2018-edition/)
-    - roadmap.sh [**PostgreSQL DBA** Roadmap](https://roadmap.sh/postgresql-dba)
-    - Als DB-Admin benötigen Sie Grundlagen der Systemadministration, vgl. Abschnitt [vor einer wiss. Abschlussarbeit](#vor-einer-wiss-abschlussarbeit-informatikki) » „Handwerkszeug: Getting S#\*t Done“: Betriebssystemadministration ([Linux](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/) | [Windows](https://docs.microsoft.com/de-de/learn/paths/windows-server-deployment-configuration-administration/)), Linux [Daemons](https://www.makeuseof.com/tag/control-linux-start-services-daemons/) (service/sysctl) bzw. Microsoft [Services](https://www.thewindowsclub.com/open-windows-services) (services.msc), Shell-Scripting ([shell](https://www.freecodecamp.org/news/command-line-for-beginners/) | [pwsh](https://docs.microsoft.com/de-de/learn/modules/introduction-to-powershell/1-introduction)), [SSH](https://linuxize.com/post/how-to-setup-ssh-tunneling/), [Virtualisierung](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide), [Docker](https://serversforhackers.com/c/getting-started-with-docker), [git](https://rogerdudler.GitHub.io/git-guide/)
-  - (€:) Buch **[Datenbanksysteme: Eine Einführung](https://www.amazon.de/dp/3110443759/)** (2015) von Kemper & Eickler sowie das zugehörige **[Übungsbuch Datenbanksysteme](https://www.amazon.de/dp/3486708236/)** (2011) von Kemper & Wimmer
-  - **[ANSI/SPARC-Architektur](https://wikis.gm.fh-koeln.de/Datenbanken/ANSI-3-Ebenenmodell)** von 1975 (Konzeptionelle Ebene: Anwendungsneutralität und Datenunabhängigkeit)
-  - SQL Standard Spezifikation: [Liste der **SQL-Specs**](https://modern-sql.com/standard)
-  - Transaktionen: freeCodeCamp [**ACID** Databases – Atomicity, Consistency, Isolation & Durability Explained](https://www.freecodecamp.org/news/acid-databases-explained/) | InfoQ [A Quick Primer on **Isolation Levels** and Dirty Reads](https://www.infoq.com/articles/Isolation-Levels/) | guru99 [**Transaction Management** in DBMS](https://www.guru99.com/dbms-transaction-management.html)
-  - Symbolkunde Datenbanksysteme:
-    - Postgres: Elefant als Logo, namens Slonik. Dieser steht für ein Elefantengedächtnis.
-    - MySQL|MariaDB|MaxDB: Der Hauptautor der orig. MySQL, Michael „Monty“ Widenius, hat drei leibliche Kinder: My, Max und Maria
-  - SQL Security (SQL-Injection): [OWASP **Juice Shop**](https://owasp.org/www-project-juice-shop/) | **[SQL-Insekten](https://www.sql-insekten.de)**
+	- MOOC-Kurse von Jennifer Widom: **[RDBMS/SQL](https://www.edx.org/course/databases-5-sql)**, [Advanced Topics in SQL](https://www.edx.org/learn/sql/stanford-university-databases-advanced-topics-in-sql), [OLAP and Recursion](https://www.edx.org/learn/databases/stanford-university-databases-olap-and-recursion), [Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory), [Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data)
+	- SQL Aufgaben: **[SQL Murder Mystery](https://mystery.knightlab.com/)** | **[SQL Island](https://sql-island.informatik.uni-kl.de/)** | **[SQLBolt](https://sqlbolt.com/)** | **[Select Star SQL](https://selectstarsql.com/)** | **[SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises)**
+	- SQL Tutorials: **[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)** | **[w³schools SQL Tutorial](https://www.w3schools.com/sql/)**
+	- roadmap.sh [**SQL** Roadmap](https://roadmap.sh/sql)
+	- Transaktionen:
+	- SQL Anti-Patterns: Werkzeug **[sqlcheck](https://github.com/jarulraj/sqlcheck)** | Stackoverflow Thread [Most Common **SQL Anti-Patterns**](https://stackoverflow.com/questions/346659/what-are-the-most-common-sql-anti-patterns) | (€:) Buch [**SQL Antipatterns**: Avoiding the Pitfalls of Database Programming](https://www.amazon.de/dp/1934356557) (2010) von Bill Karvin
+	- DB-Admin Tutorials: [MySQL](https://www.mysqltutorial.org/mysql-administration/) | [PostgreSQL](https://www.postgresqltutorial.com/) | (€:) [Oracle](https://www.udemy.com/courses/search/?q=oracle+database+administration) | [IBM](https://www.edx.org/course/relational-database-administration-dba) | [Microsoft SQL Server](https://www.udemy.com/course/microsoft-sql-server-an-introduction-2018-edition/)
+		- roadmap.sh [**PostgreSQL DBA** Roadmap](https://roadmap.sh/postgresql-dba)
+		- Als DB-Admin benötigen Sie Grundlagen der Systemadministration, vgl. Abschnitt [vor einer wiss. Abschlussarbeit](#vor-einer-wiss-abschlussarbeit-informatikki) » „Handwerkszeug: Getting S#\*t Done“: Betriebssystemadministration ([Linux](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/) | [Windows](https://docs.microsoft.com/de-de/learn/paths/windows-server-deployment-configuration-administration/)), Linux [Daemons](https://www.makeuseof.com/tag/control-linux-start-services-daemons/) (service/sysctl) bzw. Microsoft [Services](https://www.thewindowsclub.com/open-windows-services) (services.msc), Shell-Scripting ([shell](https://www.freecodecamp.org/news/command-line-for-beginners/) | [pwsh](https://docs.microsoft.com/de-de/learn/modules/introduction-to-powershell/1-introduction)), [SSH](https://linuxize.com/post/how-to-setup-ssh-tunneling/), [Virtualisierung](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide), [Docker](https://serversforhackers.com/c/getting-started-with-docker), [git](https://rogerdudler.GitHub.io/git-guide/)
+	- (€:) Buch **[Datenbanksysteme: Eine Einführung](https://www.amazon.de/dp/3110443759/)** (2015) von Kemper & Eickler sowie das zugehörige **[Übungsbuch Datenbanksysteme](https://www.amazon.de/dp/3486708236/)** (2011) von Kemper & Wimmer
+	- **[ANSI/SPARC-Architektur](https://wikis.gm.fh-koeln.de/Datenbanken/ANSI-3-Ebenenmodell)** von 1975 (Konzeptionelle Ebene: Anwendungsneutralität und Datenunabhängigkeit)
+	- SQL Standard Spezifikation: [Liste der **SQL-Specs**](https://modern-sql.com/standard)
+	- Transaktionen: freeCodeCamp [**ACID** Databases – Atomicity, Consistency, Isolation & Durability Explained](https://www.freecodecamp.org/news/acid-databases-explained/) | InfoQ [A Quick Primer on **Isolation Levels** and Dirty Reads](https://www.infoq.com/articles/Isolation-Levels/) | guru99 [**Transaction Management** in DBMS](https://www.guru99.com/dbms-transaction-management.html)
+	- Symbolkunde Datenbanksysteme:
+		- Postgres: Elefant als Logo, namens Slonik. Dieser steht für ein Elefantengedächtnis.
+		- MySQL|MariaDB|MaxDB: Der Hauptautor der orig. MySQL, Michael „Monty“ Widenius, hat drei leibliche Kinder: My, Max und Maria
+	- SQL Security (SQL-Injection): [OWASP **Juice Shop**](https://owasp.org/www-project-juice-shop/) | **[SQL-Insekten](https://www.sql-insekten.de)**
 - Web-Anwendungsentwicklung (WAE): **[The Odin Project](https://www.theodinproject.com/)** | **[Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)**
-  - roadmap.sh [**Full-Stack** Developer Roadmap](https://roadmap.sh/full-stack) + [**Frontend Developer** Roadmap](https://roadmap.sh/frontend) + [**Backend Developer** Roadmap](https://roadmap.sh/backend)
-  - HTML and CSS: [Interneting is hard](https://github.com/palomamorais-developer/interneting-is-hard) | Mozilla Entwickler-Doku: **[HTML](https://developer.mozilla.org/de/docs/Web/HTML)** & **[CSS](https://developer.mozilla.org/de/docs/Web/CSS)** | Kurs [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001) **[HTML&CSS Course](https://www.udacity.com/course/intro-to-html-and-css--ud001)**
-  - CSS vertieft: **[CSS Grid](https://kulturbanause.de/blog/css-grid-layout-module/)** | **[Grid by Example](https://gridbyexample.com/learn/)**
-  - Cookies: [A practical, Complete Tutorial on **HTTP cookies**](https://www.valentinog.com/blog/cookies/) | [The Ultimate Guide to **Cookies**](https://html.com/resources/cookies-ultimate-guide/)
-  - base64: freeCodeCamp [What is **base64 Encoding** and Why is it Necessary?](https://www.freecodecamp.org/news/what-is-base64-encoding/)
-  - Aufgabenpool Frontend: [**10 Projects** to skyrocket your coding skills](https://dev.to/bigsondev/10-projects-to-skyrocket-your-coding-skills-19hl) | Bosscoder [Master Frontend With These **Projects**](https://www.scribd.com/document/729190779/Master-Frontend-With-These-Projects)
-  - JavaScript (Client-side/Browser): Buch **[Eloquent JavaScript](https://eloquentjavascript.net/)** (2018) | **[The Modern JavaScript Tutorial](https://javascript.info/)** | **[JavaScript Summary](https://www.codeproject.com/Articles/1006192/JavaScript-Summary)** | dt. Buch [JavaScript und AJAX](https://openbook.rheinwerk-verlag.de/javascript_ajax/)
-    - TypeScript: **[Getting Started with TypeScript](https://blog.teamtreehouse.com/getting-started-typescript)** | **[TypeScript Release-Notes](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html)**
-    - Übersicht: freeCodeCamp [Front End JavaScript Development Handbook – **React, Angular, and Vue Compared**](https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/) | playfulprogramming.com [The Framework Field Guide - Fundamentals](https://playfulprogramming.com/collections/framework-field-guide-fundamentals)
-      - Angular: **[A Better Way to Learn Angular](https://thinkster.io/tutorials/learn-angular-2)**
-        - [Clean Code Angular](https://github.com/lubkoKuzenko/angular-clean-code), [Angular Component Patterns](https://itnext.io/angular-effective-component-patterns-f5f7f08e2072)
-      - React: **[Intro to React](https://reactjs.org/tutorial/tutorial.html)** | **[React Book](https://survivejs.com/react/introduction/)** von SurviveJS | **[Tao of React](https://alexkondov.com/tao-of-react/)**
-        - Towards SSR bzw. Next.js: [Rendering vs. **Hydration**](https://collectivemind.dev/blog/difference-between-hydration-and-rendering-in-react)
-        - [Advanced React Patterns](https://github.com/kentcdodds/advanced-react-patterns/), [TypeScript/React Component Patterns](https://fettblog.eu/typescript-react-component-patterns/)
-      - Vue: **[Vue.js Tutorials](https://vuejs.org/tutorial/)** | [Mozilla Entwickler-Doku:](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started) **[Vue Getting Started](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)**
-        - [Vue.js Design Patterns](https://learn-vuejs.GitHub.io/vue-patterns/patterns/)
-      - Functional Reactive Programming (FRP): [RxJs **Reactive** Patterns](https://github.com/bitaemi/rxjs-reactive-patterns)
-      - Open Web Components: [**Web Component** Patterns](https://open-wc.org/guides/developing-components/code-examples/)
-    - Svelte: **[svelte.dev Tutorial](https://svelte.dev/tutorial/)** | [Mozilla Entwickler-Doku: **Svelte Getting Started**](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started)
-  - JavaScript (Server-side/Application Server): Buch **[Learning Node.js](https://riptutorial.com/ebook/node-js)** (2017)
-    - Express: freeCodeCamp [The Express + Node.js Handbook – Learn the **Express** JavaScript Framework for Beginners](https://www.freecodecamp.org/news/the-express-handbook/)
-    - Server-side Rendering (SSR): [Get Started with **Next.js**](https://www.freecodecamp.org/news/nextjs-tutorial/) | [**NuxtJS** Tutorials](https://nuxtjs.org/tutorials/) | [**NestJS** Tutorial](https://dev.to/nandhakumar/nest-js-part-1-creating-your-first-api-5f2a)
-      - [Node.js Design Patterns](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
-  - Nennenswerte Non-JS Web Frameworks:
-    - Java:
-      - Server-side Rendering: **[JHipster](https://start.jhipster.tech/)** ([TechStack-Docu](https://www.jhipster.tech/tech-stack/)) | [**Spring** Initializr](https://start.spring.io/)
-      - Client-side Rendering: [Vaadin](https://vaadin.com/)
-    - [Erlang](https://www.erlang.org/)/[OTP](https://github.com/erlang/otp) und [Elixir](https://elixir-lang.org/)
-      - Server-side Rendering: [Phoenix](https://phoenixframework.org/)
-  - Serialization/Deserialization (SerDe)
-    - JSON
-      - Wie in Abschlussarbeiten darstellen? UML oder ERD als logische/konzeptionelle Sicht!
-        - JSON ist letztlich nur eine physisches Persistenz- bzw. Serialisierungsformat für OOP-Objekte (genauer: JavaScript-Objekte)
-        - vgl. [**Tools-Seite** mit Abschnitt Modellierung & Architektur](https://github.com/cyberlytics/awesome-software-engineering-tools#modellierung--architektur) mit Punkt JSON-Modellierung.
-      - JSON-Baum vs. Datenbank-Relation?
-        - Naive Methode: 1 Table in 1NF (cf. [Pandas json_normalize](https://pandas.pydata.org/docs/reference/api/pandas.json_normalize.html), py-Paket [flatten_json](https://github.com/amirziai/flatten))
-        - Sophisticated Method: Paper [Automatic Generation of Normalized Relational Schemas from Nested Key-Value Data](https://dl.acm.org/doi/10.1145/2882903.2882924) | Werkzeug [xml2relational](https://github.com/jsugarelli/xml2relational)
-        - Tools (manuelle Normalisierung/Selektion): bspw. [Snowflake FLATTEN](https://www.mssqltips.com/sqlservertip/6919/flatten-semi-structured-data-snowflake/) ([docu](https://docs.snowflake.com/en/sql-reference/functions/flatten)), [SQLizer](https://sqlizer.io/help/json-and-xml/), …
-      - JSON-Alternativen?
-        - Webartikel [JSON is incredibly slow: Here’s What’s Faster](https://medium.com/data-science-community-srm/json-is-incredibly-slow-heres-what-s-faster-ca35d5aaf9e8) (protobuf, MessagePack, BSON, Avro)
-    - [protobuf](https://developers.google.com/protocol-buffers/docs/reference/overview) (insb. SerDe für [gRPC](https://grpc.io/docs/guides/))
-      - Webartikel [LinkedIn Integrates Protocol Buffers With Rest.li for Improved Microservices Performance](https://www.linkedin.com/blog/engineering/infrastructure/linkedin-integrates-protocol-buffers-with-rest-li-for-improved-m)
-  - REST APIs: FreeCodeCamp [The **REST API Handbook**](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api)
-    - [List of (free) **Public APIs**](https://github.com/public-apis/public-apis)
-  - Authentication: [**How Do You Authenticate, Mate?** – A definitive guide to authentication for software](https://betterprogramming.pub/how-do-you-authenticate-mate-f2b70904cc3a) [developers](https://betterprogramming.pub/how-do-you-authenticate-mate-f2b70904cc3a)
-    - Webartikel [Should I Use **JWT**s For Authentication Tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
-    - Exemplarisches Tutorial für normale (nicht-Bearer-Token) basierte Session-Mechanismen: [Mastering Session Authentication](https://itnext.io/mastering-session-authentication-aa29096f6e22) am Bsp. MERN
-    - Exemplarisches Tutorial für JWT-basierte Sessions: [How to implement **JWT authentication** with the **MERN** stack](https://medium.com/@aaqil.ruzzan/how-to-implement-jwt-authentication-with-the-mern-stack-4948d4423c64)
-  - Security-Einstieg für Webanwendungsentwicklung
-    - Kostenloses E-Book [Securing](http://cdn.oreillystatic.com/pdf/securing-node-applications.pdf) [Node](http://cdn.oreillystatic.com/pdf/securing-node-applications.pdf)[](http://cdn.oreillystatic.com/pdf/securing-node-applications.pdf)[Applications](http://cdn.oreillystatic.com/pdf/securing-node-applications.pdf) (Protecting Against OWASP Top 10 Risks)
-    - zzgl. Standard-Doku: [**Node.js** Security Best Practices](https://nodejs.org/en/learn/getting-started/security-best-practices), [**MongoDB** Security Checklist](https://docs.mongodb.com/manual/administration/security-checklist/)
-  - Progressive Web Apps (PWA):
-    - Blogartikel [**Progressive Enhancement** and the Future of Web Design](https://web.archive.org/web/20220426062904/http://www.hesketh.com/progressive_enhancement_and_the_future_of_web_design.html) (2003) von Steve Champeon, Vordenker
-    - Blogartikel [**Progressive Web Apps**: Escaping Tabs Without Losing Our Soul](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) (2015) von Alex Russel \[Google\], coined the term PWA
-    - Blogartikel [Getting started with **Progressive Web Apps**](https://developer.chrome.com/blog/getting-started-pwa/) (2015) von Addy Osmani \[Google\] inkl. PWA-Definition
-    - Technische Unterstützung: [PWABuilder](https://www.pwabuilder.com/)
-    - Spezialgebiet PWAs auf iOS: [Mastering Progressive Web App iOS Integration](https://mittl-medien.de/progressive-web-app-ios)
+	- roadmap.sh [**Full-Stack** Developer Roadmap](https://roadmap.sh/full-stack) + [**Frontend Developer** Roadmap](https://roadmap.sh/frontend) + [**Backend Developer** Roadmap](https://roadmap.sh/backend)
+	- HTML and CSS: [Interneting is hard](https://github.com/palomamorais-developer/interneting-is-hard) | Mozilla Entwickler-Doku: **[HTML](https://developer.mozilla.org/de/docs/Web/HTML)** & **[CSS](https://developer.mozilla.org/de/docs/Web/CSS)** | Kurs [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001) **[HTML&CSS Course](https://www.udacity.com/course/intro-to-html-and-css--ud001)**
+	- CSS vertieft: **[CSS Grid](https://kulturbanause.de/blog/css-grid-layout-module/)** | **[Grid by Example](https://gridbyexample.com/learn/)**
+	- Cookies: [A practical, Complete Tutorial on **HTTP cookies**](https://www.valentinog.com/blog/cookies/) | [The Ultimate Guide to **Cookies**](https://html.com/resources/cookies-ultimate-guide/)
+	- base64: freeCodeCamp [What is **base64 Encoding** and Why is it Necessary?](https://www.freecodecamp.org/news/what-is-base64-encoding/)
+	- Aufgabenpool Frontend: [**10 Projects** to skyrocket your coding skills](https://dev.to/bigsondev/10-projects-to-skyrocket-your-coding-skills-19hl) | Bosscoder [Master Frontend With These **Projects**](https://www.scribd.com/document/729190779/Master-Frontend-With-These-Projects)
+	- JavaScript (Client-side/Browser): Buch **[Eloquent JavaScript](https://eloquentjavascript.net/)** (2018) | **[The Modern JavaScript Tutorial](https://javascript.info/)** | **[JavaScript Summary](https://www.codeproject.com/Articles/1006192/JavaScript-Summary)** | dt. Buch [JavaScript und AJAX](https://openbook.rheinwerk-verlag.de/javascript_ajax/)
+		- TypeScript: **[Getting Started with TypeScript](https://blog.teamtreehouse.com/getting-started-typescript)** | **[TypeScript Release-Notes](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html)**
+		- Übersicht: freeCodeCamp [Front End JavaScript Development Handbook – **React, Angular, and Vue Compared**](https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/) | playfulprogramming.com [The Framework Field Guide - Fundamentals](https://playfulprogramming.com/collections/framework-field-guide-fundamentals)
+			- Angular: **[A Better Way to Learn Angular](https://thinkster.io/tutorials/learn-angular-2)**
+				- [Clean Code Angular](https://github.com/lubkoKuzenko/angular-clean-code), [Angular Component Patterns](https://itnext.io/angular-effective-component-patterns-f5f7f08e2072)
+			- React: **[Intro to React](https://reactjs.org/tutorial/tutorial.html)** | **[React Book](https://survivejs.com/react/introduction/)** von SurviveJS | **[Tao of React](https://alexkondov.com/tao-of-react/)**
+				- Towards SSR bzw. Next.js: [Rendering vs. **Hydration**](https://collectivemind.dev/blog/difference-between-hydration-and-rendering-in-react)
+				- [Advanced React Patterns](https://github.com/kentcdodds/advanced-react-patterns/), [TypeScript/React Component Patterns](https://fettblog.eu/typescript-react-component-patterns/)
+			- Vue: **[Vue.js Tutorials](https://vuejs.org/tutorial/)** | [Mozilla Entwickler-Doku:](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started) **[Vue Getting Started](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)**
+				- [Vue.js Design Patterns](https://learn-vuejs.GitHub.io/vue-patterns/patterns/)
+			- Functional Reactive Programming (FRP): [RxJs **Reactive** Patterns](https://github.com/bitaemi/rxjs-reactive-patterns)
+			- Open Web Components: [**Web Component** Patterns](https://open-wc.org/guides/developing-components/code-examples/)
+		- Svelte: **[svelte.dev Tutorial](https://svelte.dev/tutorial/)** | [Mozilla Entwickler-Doku: **Svelte Getting Started**](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started)
+	- JavaScript (Server-side/Application Server): Buch **[Learning Node.js](https://riptutorial.com/ebook/node-js)** (2017)
+		- Express: freeCodeCamp [The Express + Node.js Handbook – Learn the **Express** JavaScript Framework for Beginners](https://www.freecodecamp.org/news/the-express-handbook/)
+		- Server-side Rendering (SSR): [Get Started with **Next.js**](https://www.freecodecamp.org/news/nextjs-tutorial/) | [**NuxtJS** Tutorials](https://nuxtjs.org/tutorials/) | [**NestJS** Tutorial](https://dev.to/nandhakumar/nest-js-part-1-creating-your-first-api-5f2a)
+			- [Node.js Design Patterns](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
+	- Nennenswerte Non-JS Web Frameworks:
+		- Java:
+			- Server-side Rendering: **[JHipster](https://start.jhipster.tech/)** ([TechStack-Docu](https://www.jhipster.tech/tech-stack/)) | [**Spring** Initializr](https://start.spring.io/)
+			- Client-side Rendering: [Vaadin](https://vaadin.com/)
+		- [Erlang](https://www.erlang.org/)/[OTP](https://github.com/erlang/otp) und [Elixir](https://elixir-lang.org/)
+			- Server-side Rendering: [Phoenix](https://phoenixframework.org/)
+	- Serialization/Deserialization (SerDe)
+		- JSON
+			- Wie in Abschlussarbeiten darstellen? UML oder ERD als logische/konzeptionelle Sicht!
+				- JSON ist letztlich nur eine physisches Persistenz- bzw. Serialisierungsformat für OOP-Objekte (genauer: JavaScript-Objekte)
+				- vgl. [**Tools-Seite** mit Abschnitt Modellierung & Architektur](https://github.com/cyberlytics/awesome-software-engineering-tools#modellierung--architektur) mit Punkt JSON-Modellierung.
+			- JSON-Baum vs. Datenbank-Relation?
+				- Naive Methode: 1 Table in 1NF (cf. [Pandas json_normalize](https://pandas.pydata.org/docs/reference/api/pandas.json_normalize.html), py-Paket [flatten_json](https://github.com/amirziai/flatten))
+				- Sophisticated Method: Paper [Automatic Generation of Normalized Relational Schemas from Nested Key-Value Data](https://dl.acm.org/doi/10.1145/2882903.2882924) | Werkzeug [xml2relational](https://github.com/jsugarelli/xml2relational)
+				- Tools (manuelle Normalisierung/Selektion): bspw. [Snowflake FLATTEN](https://www.mssqltips.com/sqlservertip/6919/flatten-semi-structured-data-snowflake/) ([docu](https://docs.snowflake.com/en/sql-reference/functions/flatten)), [SQLizer](https://sqlizer.io/help/json-and-xml/), …
+			- JSON-Alternativen?
+				- Webartikel [JSON is incredibly slow: Here’s What’s Faster](https://medium.com/data-science-community-srm/json-is-incredibly-slow-heres-what-s-faster-ca35d5aaf9e8) (protobuf, MessagePack, BSON, Avro)
+		- [protobuf](https://developers.google.com/protocol-buffers/docs/reference/overview) (insb. SerDe für [gRPC](https://grpc.io/docs/guides/))
+			- Webartikel [LinkedIn Integrates Protocol Buffers With Rest.li for Improved Microservices Performance](https://www.linkedin.com/blog/engineering/infrastructure/linkedin-integrates-protocol-buffers-with-rest-li-for-improved-m)
+	- REST APIs: FreeCodeCamp [The **REST API Handbook**](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api)
+		- [List of (free) **Public APIs**](https://github.com/public-apis/public-apis)
+	- Authentication: [**How Do You Authenticate, Mate?** – A definitive guide to authentication for software](https://betterprogramming.pub/how-do-you-authenticate-mate-f2b70904cc3a) [developers](https://betterprogramming.pub/how-do-you-authenticate-mate-f2b70904cc3a)
+		- Webartikel [Should I Use **JWT**s For Authentication Tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
+		- Exemplarisches Tutorial für normale (nicht-Bearer-Token) basierte Session-Mechanismen: [Mastering Session Authentication](https://itnext.io/mastering-session-authentication-aa29096f6e22) am Bsp. MERN
+		- Exemplarisches Tutorial für JWT-basierte Sessions: [How to implement **JWT authentication** with the **MERN** stack](https://medium.com/@aaqil.ruzzan/how-to-implement-jwt-authentication-with-the-mern-stack-4948d4423c64)
+	- Security-Einstieg für Webanwendungsentwicklung
+		- Kostenloses E-Book [Securing](http://cdn.oreillystatic.com/pdf/securing-node-applications.pdf) [Node](http://cdn.oreillystatic.com/pdf/securing-node-applications.pdf)[](http://cdn.oreillystatic.com/pdf/securing-node-applications.pdf)[Applications](http://cdn.oreillystatic.com/pdf/securing-node-applications.pdf) (Protecting Against OWASP Top 10 Risks)
+		- zzgl. Standard-Doku: [**Node.js** Security Best Practices](https://nodejs.org/en/learn/getting-started/security-best-practices), [**MongoDB** Security Checklist](https://docs.mongodb.com/manual/administration/security-checklist/)
+	- Progressive Web Apps (PWA):
+		- Blogartikel [**Progressive Enhancement** and the Future of Web Design](https://web.archive.org/web/20220426062904/http://www.hesketh.com/progressive_enhancement_and_the_future_of_web_design.html) (2003) von Steve Champeon, Vordenker
+		- Blogartikel [**Progressive Web Apps**: Escaping Tabs Without Losing Our Soul](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) (2015) von Alex Russel \[Google\], coined the term PWA
+		- Blogartikel [Getting started with **Progressive Web Apps**](https://developer.chrome.com/blog/getting-started-pwa/) (2015) von Addy Osmani \[Google\] inkl. PWA-Definition
+		- Technische Unterstützung: [PWABuilder](https://www.pwabuilder.com/)
+		- Spezialgebiet PWAs auf iOS: [Mastering Progressive Web App iOS Integration](https://mittl-medien.de/progressive-web-app-ios)
 - Mobile: [Stanford **Android App Development**](https://web.stanford.edu/class/cs193a/videos.shtml) | [Google](https://developer.android.com/guide) **[Android Developer Guides](https://developer.android.com/guide)** | [vogella](https://www.vogella.com/tutorials/android.html) **[Android Developer Tutorials](https://www.vogella.com/tutorials/android.html)**
-  - Batterien: **[Battery University](https://batteryuniversity.com/articles)**
+	- Batterien: **[Battery University](https://batteryuniversity.com/articles)**
 - IT-Sicherheit / IT-Security:
-  - [**OWASP** Top Ten](https://owasp.org/www-project-top-ten/) ⚠️
-  - Grundlagen: Buch [Holistic **Info-Sec for Web Developers**](https://holisticinfosecforwebdevelopers.com/) in drei Teilen: **[F0](https://f0.holisticinfosecforwebdevelopers.com/toc.html)**, **[F1](https://f1.holisticinfosecforwebdevelopers.com/toc.html)**, **[F2](https://f2.holisticinfosecforwebdevelopers.com/toc.html)** | Kurs **[Introduction to Cyber Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security)** von Great Learning | Stanford **[Web Security](https://web.stanford.edu/class/cs253/)**
-    - roadmap.sh [**Cyber Security Expert** Roadmap](https://roadmap.sh/cyber-security)
-    - Vulnerability Root-Causes (aka Security-Sins): [The **CLASP** Application Security Process](https://cwe.mitre.org/documents/sources/TheCLASPApplicationSecurityProcess.pdf) (2005), Kapitel 5 | Buch [**24 Deadly Sins** of Software Security](https://www.amazon.de/dp/0071626751/) (2009) von Michael Howard
-  - Secure Coding **Practices**:
-    - OWASP: [Secure Coding Practices **Checklist**](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/), [OWASP **Cheat Sheet** Series](https://cheatsheetseries.owasp.org/Glossary.html), and [Secure **Coding Dojo**](https://securecodingdojo.owasp.org/public/index.html) (sources on [github](https://github.com/owasp/SecureCodingDojo))
-    - DOs and DONTs: Carnegie Mellon [SEI CERT **Coding Standards**](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) ([C](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard), [C++](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682), [Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java), [Perl](https://wiki.sei.cmu.edu/confluence/display/perl/SEI+CERT+Perl+Coding+Standard), [Android](https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard)) and Payatu ebook [The Dos and Don'ts of Secure Coding!](https://payatu.com/wp-content/uploads/2022/08/the-dos-and-donts-of-secure-coding.pdf)
-    - Online Course: codecademy [Secure Coding Practices in Java](https://www.codecademy.com/learn/secure-coding-practices-in-java)
-    - Security-orientiertes Testing: [Syllabus der **A4Q Security Essentials**](https://www.gasq.org/files/content/gasq/downloads/certification/A4Q%20Security%20Essentials/A4Q_Security_Essentials_Syllabus.pdf) Schulung/Zertifizierung
-  - Private/Persönliche IT-Sicherheit: Infosammlung **[Security-in-a-Box](https://securityinabox.org/en/)** mit grundlegenden Hinweisen und Handlungsempfehlungen | **[Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)**
-  - Passwörter
-    - Passwort-Stärke: [Hivesystems Password Table](https://www.hivesystems.com/password)
-    - XKCD Comic: [Password Strength](https://xkcd.com/936/)
-    - Passwort-Listen: [**SecList**-Sammlung](https://github.com/danielmiessler/SecLists) | [**SkullSecurity**-Sammlung](https://www.skullsecurity.org/wiki/Passwords) | [**haveibeenowned**-Downloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) | [weitere…](https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/)
-  - E-Mail-Verschlüsselung: [Einführung in die Funktionsweise von **OpenPGP/GnuPG**](https://www.hauke-laging.de/sicherheit/openpgp.html)
-  - Cryptography: **[Crypto 101](https://www.crypto101.io/)**
-  - SSH: [Linux](https://zah.uni-heidelberg.de/it-guide/ssh-tutorial-linux) | [Windows](https://www.makeuseof.com/tag/4-easy-ways-to-use-ssh-in-windows/) (→ [EdDSA/**Ed25519**](https://ed25519.cr.yp.to/))
-  - Cryptographisches Hashing: [Baeldung Deep Dive into **Hashing**](https://www.baeldung.com/cs/hashing) (→ **[BLAKE3](https://github.com/BLAKE3-team/BLAKE3-specs/blob/master/blake3.pdf)**)
-  - Passwort-Hashing: [Empfehlungen von **Password4j**](https://github.com/Password4j/password4j/wiki/Recommended-settings) (→ **[Argon2id](https://cryptobook.nakov.com/mac-and-key-derivation/argon2)**)
-  - Authentication-Options: [Consumer Authentication Strength Maturity Model (**CASMM**)](https://danielmiessler.com/blog/casmm-consumer-authentication-security-maturity-model/)
-  - Windows Security: [**Microsoft** Resources](https://learn.microsoft.com/en-us/windows/security/), [**HardeningKitty** Sources](https://github.com/0x6d69636b/windows_hardening/#sources)
-  - PKI: **[SSL-Zertifikatsketten](https://www.thesslstore.com/blog/root-certificates-intermediate/)** ⚠️
-  - Zero-Knowledge-Proof (ZKP): [Explain it Like I’m 5](https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff) / [How it Works, Use Cases & Applications](https://research.aimultiple.com/zero-knowledge-proofs/) / [Wikipedia](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
-  - [Confidentiality, Integrity & Availability (**CIA Triad**)](https://www.splunk.com/en_us/blog/learn/cia-triad-confidentiality-integrity-availability.html)
-  - Deutschland: [**BSI IT-Grundschutz** Schulungen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/it-grundschutzschulung_node.html)
-  - Rollenmodell: Three Lines of Defense (TLoD) Modell [PDF](https://www.theiia.org/globalassets/documents/resources/the-iias-three-lines-model-an-update-of-the-three-lines-of-defense-july-2020/three-lines-model-updated-english.pdf) (Herkunft: [Risikomanagement](https://www.risknet.de/en/knowledge/glossary/glossary-entry/three-lines-of-defense/))
-  - LLM-Security: 
-    - Grundlagen: **[OWASP Top-10 for LLMs](https://genai.owasp.org/llm-top-10/)** und BSI-Handreichung [Sicherer, robuster und nachvollziehbarer Einsatz von KI](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Herausforderungen_und_Massnahmen_KI.pdf) ggf. zzgl. [BSI AIC4 Kriterienkatalog](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/AIC4/AI-Cloud-Service-Compliance-Criteria-Catalogue_AIC4.pdf)
-    - Prompt Injection: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm01-prompt-injection/), [Lakera-Einführung](https://www.lakera.ai/blog/guide-to-prompt-injection) zzgl. berühmte **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8)
-    - Data Poisoning: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm042025-data-and-model-poisoning/)
-  - Nennenswerte wahre Geschichten:
-    - Whistleblower: [**Twitter**-Disclosure](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf) von [Peiter „Mudge“ Zatko](https://en.wikipedia.org/wiki/Peiter_Zatko), **[Global Surveillance Disclosures](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>)** von [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
-    - Post-Mortems: [The Full Story of the Stunning **RSA Hack** Can Finally Be Told](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/) by WIRED
-    - Dramen: **[Stuxnet](https://spectrum.ieee.org/the-real-story-of-stuxnet)**, [2024 **Sony**](https://www.vox.com/2015/1/20/18089084/sony-hack-north-korea)hack, **[SolarWinds](https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack)** hack, **[Terra/Luna](https://www.nytimes.com/2022/05/18/technology/terra-luna-cryptocurrency-do-kwon.html)** crash, **[Kaseya](https://en.wikipedia.org/wiki/Kaseya_VSA_ransomware_attack)** ransomware attack, **[log4j](https://en.wikipedia.org/wiki/Log4Shell)** Vulnerability log4shell, **[FTX](https://www.zeit.de/wirtschaft/geldanlage/2022-11/ftx-kryptowaehrungen-usa-senat-bitcoin)** Insolvenz, **[xz](https://www.heise.de/hintergrund/Die-xz-Hintertuer-das-verborgene-Oster-Drama-der-IT-9673038.html)**-Hintertür
-    - Scams: [Web3 is Going Just Great](https://www.web3isgoinggreat.com) ([Leaderboard](https://www.web3isgoinggreat.com/charts/top))
-    - LLM: **[PoisonGPT](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)**
-  - [**HTML5 Security** Cheatssheet](https://html5sec.org/) (inkl. CSS)
-  - Open Source Security: [The state of **open source security** report](https://snyk.io/reports/open-source-security/) von snyk | freeCodeCamp **[Open Source Software Security Handbook](https://www.freecodecamp.org/news/oss-security-best-practices/)**
-  - Docker Security: [**snyk** Warnhinweis](https://snyk.io/blog/top-ten-most-popular-docker-images-each-contain-at-least-30-vulnerabilities/) „Top ten most popular docker images each contain at least 30 vulnerabilities“
+	- [**OWASP** Top Ten](https://owasp.org/www-project-top-ten/) ⚠️
+	- Grundlagen: Buch [Holistic **Info-Sec for Web Developers**](https://holisticinfosecforwebdevelopers.com/) in drei Teilen: **[F0](https://f0.holisticinfosecforwebdevelopers.com/toc.html)**, **[F1](https://f1.holisticinfosecforwebdevelopers.com/toc.html)**, **[F2](https://f2.holisticinfosecforwebdevelopers.com/toc.html)** | Kurs **[Introduction to Cyber Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security)** von Great Learning | Stanford **[Web Security](https://web.stanford.edu/class/cs253/)**
+		- roadmap.sh [**Cyber Security Expert** Roadmap](https://roadmap.sh/cyber-security)
+		- Vulnerability Root-Causes (aka Security-Sins): [The **CLASP** Application Security Process](https://cwe.mitre.org/documents/sources/TheCLASPApplicationSecurityProcess.pdf) (2005), Kapitel 5 | Buch [**24 Deadly Sins** of Software Security](https://www.amazon.de/dp/0071626751/) (2009) von Michael Howard
+	- Secure Coding **Practices**:
+		- OWASP: [Secure Coding Practices **Checklist**](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/), [OWASP **Cheat Sheet** Series](https://cheatsheetseries.owasp.org/Glossary.html), and [Secure **Coding Dojo**](https://securecodingdojo.owasp.org/public/index.html) (sources on [github](https://github.com/owasp/SecureCodingDojo))
+		- DOs and DONTs: Carnegie Mellon [SEI CERT **Coding Standards**](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) ([C](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard), [C++](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682), [Java](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java), [Perl](https://wiki.sei.cmu.edu/confluence/display/perl/SEI+CERT+Perl+Coding+Standard), [Android](https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard)) and Payatu ebook [The Dos and Don'ts of Secure Coding!](https://payatu.com/wp-content/uploads/2022/08/the-dos-and-donts-of-secure-coding.pdf)
+		- Online Course: codecademy [Secure Coding Practices in Java](https://www.codecademy.com/learn/secure-coding-practices-in-java)
+		- Security-orientiertes Testing: [Syllabus der **A4Q Security Essentials**](https://www.gasq.org/files/content/gasq/downloads/certification/A4Q%20Security%20Essentials/A4Q_Security_Essentials_Syllabus.pdf) Schulung/Zertifizierung
+	- Private/Persönliche IT-Sicherheit: Infosammlung **[Security-in-a-Box](https://securityinabox.org/en/)** mit grundlegenden Hinweisen und Handlungsempfehlungen | **[Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)**
+	- Passwörter
+		- Passwort-Stärke: [Hivesystems Password Table](https://www.hivesystems.com/password)
+		- XKCD Comic: [Password Strength](https://xkcd.com/936/)
+		- Passwort-Listen: [**SecList**-Sammlung](https://github.com/danielmiessler/SecLists) | [**SkullSecurity**-Sammlung](https://www.skullsecurity.org/wiki/Passwords) | [**haveibeenowned**-Downloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) | [weitere…](https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/)
+	- E-Mail-Verschlüsselung: [Einführung in die Funktionsweise von **OpenPGP/GnuPG**](https://www.hauke-laging.de/sicherheit/openpgp.html)
+	- Cryptography: **[Crypto 101](https://www.crypto101.io/)**
+	- SSH: [Linux](https://zah.uni-heidelberg.de/it-guide/ssh-tutorial-linux) | [Windows](https://www.makeuseof.com/tag/4-easy-ways-to-use-ssh-in-windows/) (→ [EdDSA/**Ed25519**](https://ed25519.cr.yp.to/))
+	- Cryptographisches Hashing: [Baeldung Deep Dive into **Hashing**](https://www.baeldung.com/cs/hashing) (→ **[BLAKE3](https://github.com/BLAKE3-team/BLAKE3-specs/blob/master/blake3.pdf)**)
+	- Passwort-Hashing: [Empfehlungen von **Password4j**](https://github.com/Password4j/password4j/wiki/Recommended-settings) (→ **[Argon2id](https://cryptobook.nakov.com/mac-and-key-derivation/argon2)**)
+	- Authentication-Options: [Consumer Authentication Strength Maturity Model (**CASMM**)](https://danielmiessler.com/blog/casmm-consumer-authentication-security-maturity-model/)
+	- Windows Security: [**Microsoft** Resources](https://learn.microsoft.com/en-us/windows/security/), [**HardeningKitty** Sources](https://github.com/0x6d69636b/windows_hardening/#sources)
+	- PKI: **[SSL-Zertifikatsketten](https://www.thesslstore.com/blog/root-certificates-intermediate/)** ⚠️
+	- Zero-Knowledge-Proof (ZKP): [Explain it Like I’m 5](https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff) / [How it Works, Use Cases & Applications](https://research.aimultiple.com/zero-knowledge-proofs/) / [Wikipedia](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+	- [Confidentiality, Integrity & Availability (**CIA Triad**)](https://www.splunk.com/en_us/blog/learn/cia-triad-confidentiality-integrity-availability.html)
+	- Deutschland: [**BSI IT-Grundschutz** Schulungen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/it-grundschutzschulung_node.html)
+	- Rollenmodell: Three Lines of Defense (TLoD) Modell [PDF](https://www.theiia.org/globalassets/documents/resources/the-iias-three-lines-model-an-update-of-the-three-lines-of-defense-july-2020/three-lines-model-updated-english.pdf) (Herkunft: [Risikomanagement](https://www.risknet.de/en/knowledge/glossary/glossary-entry/three-lines-of-defense/))
+	- LLM-Security: 
+		- Grundlagen: **[OWASP Top-10 for LLMs](https://genai.owasp.org/llm-top-10/)** und BSI-Handreichung [Sicherer, robuster und nachvollziehbarer Einsatz von KI](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Herausforderungen_und_Massnahmen_KI.pdf) ggf. zzgl. [BSI AIC4 Kriterienkatalog](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/AIC4/AI-Cloud-Service-Compliance-Criteria-Catalogue_AIC4.pdf)
+		- Prompt Injection: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm01-prompt-injection/), [Lakera-Einführung](https://www.lakera.ai/blog/guide-to-prompt-injection) zzgl. berühmte **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8)
+		- Data Poisoning: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm042025-data-and-model-poisoning/)
+	- Nennenswerte wahre Geschichten:
+		- Whistleblower: [**Twitter**-Disclosure](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf) von [Peiter „Mudge“ Zatko](https://en.wikipedia.org/wiki/Peiter_Zatko), **[Global Surveillance Disclosures](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>)** von [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
+		- Post-Mortems: [The Full Story of the Stunning **RSA Hack** Can Finally Be Told](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/) by WIRED
+		- Dramen: **[Stuxnet](https://spectrum.ieee.org/the-real-story-of-stuxnet)**, [2024 **Sony**](https://www.vox.com/2015/1/20/18089084/sony-hack-north-korea)hack, **[SolarWinds](https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack)** hack, **[Terra/Luna](https://www.nytimes.com/2022/05/18/technology/terra-luna-cryptocurrency-do-kwon.html)** crash, **[Kaseya](https://en.wikipedia.org/wiki/Kaseya_VSA_ransomware_attack)** ransomware attack, **[log4j](https://en.wikipedia.org/wiki/Log4Shell)** Vulnerability log4shell, **[FTX](https://www.zeit.de/wirtschaft/geldanlage/2022-11/ftx-kryptowaehrungen-usa-senat-bitcoin)** Insolvenz, **[xz](https://www.heise.de/hintergrund/Die-xz-Hintertuer-das-verborgene-Oster-Drama-der-IT-9673038.html)**-Hintertür
+		- Scams: [Web3 is Going Just Great](https://www.web3isgoinggreat.com) ([Leaderboard](https://www.web3isgoinggreat.com/charts/top))
+		- LLM: **[PoisonGPT](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)**
+	- [**HTML5 Security** Cheatssheet](https://html5sec.org/) (inkl. CSS)
+	- Open Source Security: [The state of **open source security** report](https://snyk.io/reports/open-source-security/) von snyk | freeCodeCamp **[Open Source Software Security Handbook](https://www.freecodecamp.org/news/oss-security-best-practices/)**
+	- Docker Security: [**snyk** Warnhinweis](https://snyk.io/blog/top-ten-most-popular-docker-images-each-contain-at-least-30-vulnerabilities/) „Top ten most popular docker images each contain at least 30 vulnerabilities“
 - Projektmanagement (Einstieg)
-  - Agil: [IAPM **Agile Project Management** Guide 2.0](https://www.iapm-cert.net/documents/apmg-de/) ⚠️
-    - Das **[Agile Manifesto](https://agilemanifesto.org/principles.html)** (vs. [Manifesto for **Half-Arsed** Agile Software Development](https://www.halfarsedagilemanifesto.org/) vs. **[Prog MoFo](http://progmofo.com/)**)
-    - **[The Agile Landscape v3](https://www.slideshare.net/ChrisWebb6/last-conference-2016-agile-landscape-presentation-v1)** (2016, insb. Folie 4) von Christopher Webb bei Deloitte
-    - Scrum: [Boris Gloger **Scrum Checklist**](https://www.infoq.com/minibooks/scrum-checklists/) (2012) | **[The Scrum Guide](https://www.michaelvizdos.com/s/2020-Scrum-Guide-US.pdf)** (2020) by Ken Schwaber and Jeff Sutherland | A **[Scrum Definition](https://www.michaelvizdos.com/interactive-scrum-guide#scrum_definition)** by Michael Vizdos
-    - Kanban: **[Priming Kanban](https://www.infoq.com/minibooks/priming-kanban-jesper-boeg/)** | Video **[Kanban im Schnelldurchlauf](https://www.youtube.com/watch?v=6nOUa6E0250)**
-    - Retrospektiven: **[Retromat](https://retromat.org/de/)**
-    - Artikel [Why the **Fibonacci** Sequence Works Well for Estimating](https://www.mountaingoatsoftware.com/blog/why-the-fibonacci-sequence-works-well-for-estimating) (2019) von Mike Cohn
-    - Chickens and Pigs: Der **[Chickens and Pigs Cartoon](https://www.michaelvizdos.com/implementing-scrum)** (aka The Scrum Cartoon) sowie dessen [Kontroverse](https://www.scrum.org/resources/chickens-and-pigs)
-    - [**User Story Splitting** Cheat Sheet](https://agileforall.com/wp-content/uploads/2009/10/Story-Splitting-Cheat-Sheet.pdf)⭐
-    - Learn to be flexible on agile methods: Video [Software Engineering, Big Tech, and Agile - Interview With Jade Wilson](https://www.youtube.com/watch?v=1EBogK5KCR8) (2024)
-    - Weiterführende Quellen: [Awesome Agile](https://github.com/lorabv/awesome-agile/tree/master)
+	- Agil: [IAPM **Agile Project Management** Guide 2.0](https://www.iapm-cert.net/documents/apmg-de/) ⚠️
+		- Das **[Agile Manifesto](https://agilemanifesto.org/principles.html)** (vs. [Manifesto for **Half-Arsed** Agile Software Development](https://www.halfarsedagilemanifesto.org/) vs. **[Prog MoFo](http://progmofo.com/)**)
+		- **[The Agile Landscape v3](https://www.slideshare.net/ChrisWebb6/last-conference-2016-agile-landscape-presentation-v1)** (2016, insb. Folie 4) von Christopher Webb bei Deloitte
+		- Scrum: [Boris Gloger **Scrum Checklist**](https://www.infoq.com/minibooks/scrum-checklists/) (2012) | **[The Scrum Guide](https://www.michaelvizdos.com/s/2020-Scrum-Guide-US.pdf)** (2020) by Ken Schwaber and Jeff Sutherland | A **[Scrum Definition](https://www.michaelvizdos.com/interactive-scrum-guide#scrum_definition)** by Michael Vizdos
+		- Kanban: **[Priming Kanban](https://www.infoq.com/minibooks/priming-kanban-jesper-boeg/)** | Video **[Kanban im Schnelldurchlauf](https://www.youtube.com/watch?v=6nOUa6E0250)**
+		- Retrospektiven: **[Retromat](https://retromat.org/de/)**
+		- Artikel [Why the **Fibonacci** Sequence Works Well for Estimating](https://www.mountaingoatsoftware.com/blog/why-the-fibonacci-sequence-works-well-for-estimating) (2019) von Mike Cohn
+		- Chickens and Pigs: Der **[Chickens and Pigs Cartoon](https://www.michaelvizdos.com/implementing-scrum)** (aka The Scrum Cartoon) sowie dessen [Kontroverse](https://www.scrum.org/resources/chickens-and-pigs)
+		- [**User Story Splitting** Cheat Sheet](https://agileforall.com/wp-content/uploads/2009/10/Story-Splitting-Cheat-Sheet.pdf)⭐
+		- Learn to be flexible on agile methods: Video [Software Engineering, Big Tech, and Agile - Interview With Jade Wilson](https://www.youtube.com/watch?v=1EBogK5KCR8) (2024)
+		- Weiterführende Quellen: [Awesome Agile](https://github.com/lorabv/awesome-agile/tree/master)
 
 ### B.Sc.: Big Data and Cloud Computing for AI
 
 #### Big Data
 
 - Data Engineering: DataCamp Einstiegskurs **[Understanding Data Engineering](https://www.datacamp.com/courses/understanding-data-engineering)**
-  - Online-Buch [The **Data Engineering Cookbook**](https://github.com/andkret/Cookbook)
-  - Data Preparation / Data Cleansing / Data Harmonization:
-    - Foliensatz **[Formen der Heterogenität](https://docplayer.org/26800898-Formen-der-heterogenitaet.html)** (2004) von Jessica Oksana Schnabel, insb. [**Folie 6**ff](https://docplayer.org/docview/50/26800898/#page=6)
-    - The **[„T“ for Transformation](https://www.guru99.com/etl-extract-load-process.html#5)** in ETL or ELT 1. Datenmigration: 1) Datentypen, Kodierungen, Zeichenketten, Datumsangaben, Maßeinheiten sowie 2) Schlüsselbehandlung: Synonym, Homonym, Äquipollenzen 2. Datenbereinigung: 1) Verletzung der referentiellen Integrität, 2) Fehlerhafte oder unzulässige Werte, 3) Redundante Werte, fehlende Werte und Nullwerte, 4) Unverständliche und uneinheitliche Werte
-    - [Data Cleaning with **Python** Cheat Sheet](https://www.kdnuggets.com/2023/02/data-cleaning-python-cheat-sheet.html)
-  - Atlan [**Data Ingestion** vs. Data Integration: How Are They Different?](https://atlan.com/data-ingestion-vs-data-integration/)
-  - (€:) Buch [**Data Pipelines** – Pocket Reference](https://www.amazon.de/dp/1492087831/) (2021) von Densmore
-  - (€:) Buch [Principles of **Data Integration**](https://www.amazon.de/dp/0124160441/) (2012) von Doan et al.
-  - (€:) Buch [97 Things Every **Data Engineer** Should Know](https://www.amazon.de/dp/1492062413/) (2021) von Macey (Hrsg.)
+	- Online-Buch [The **Data Engineering Cookbook**](https://github.com/andkret/Cookbook)
+	- Data Preparation / Data Cleansing / Data Harmonization:
+		- Foliensatz **[Formen der Heterogenität](https://docplayer.org/26800898-Formen-der-heterogenitaet.html)** (2004) von Jessica Oksana Schnabel, insb. [**Folie 6**ff](https://docplayer.org/docview/50/26800898/#page=6)
+		- The **[„T“ for Transformation](https://www.guru99.com/etl-extract-load-process.html#5)** in ETL or ELT 1. Datenmigration: 1) Datentypen, Kodierungen, Zeichenketten, Datumsangaben, Maßeinheiten sowie 2) Schlüsselbehandlung: Synonym, Homonym, Äquipollenzen 2. Datenbereinigung: 1) Verletzung der referentiellen Integrität, 2) Fehlerhafte oder unzulässige Werte, 3) Redundante Werte, fehlende Werte und Nullwerte, 4) Unverständliche und uneinheitliche Werte
+		- [Data Cleaning with **Python** Cheat Sheet](https://www.kdnuggets.com/2023/02/data-cleaning-python-cheat-sheet.html)
+	- Atlan [**Data Ingestion** vs. Data Integration: How Are They Different?](https://atlan.com/data-ingestion-vs-data-integration/)
+	- (€:) Buch [**Data Pipelines** – Pocket Reference](https://www.amazon.de/dp/1492087831/) (2021) von Densmore
+	- (€:) Buch [Principles of **Data Integration**](https://www.amazon.de/dp/0124160441/) (2012) von Doan et al.
+	- (€:) Buch [97 Things Every **Data Engineer** Should Know](https://www.amazon.de/dp/1492062413/) (2021) von Macey (Hrsg.)
 - Data Warehouse (DWH): [guru99 **Data Warehouse Tutorial**](https://www.guru99.com/data-warehousing-tutorial.html) ⚠️
-  - Bill Inmon (Top-Down / Enterprise Data Warehouse): (€) Buch **[Building the Data Warehouse](https://www.amazon.de/dp/0764599445)** (2005 | Orig: 1990)
-  - Ralph Kimball (Bottom-Up / Data Marts + [Dimensional Modelling](https://www.kimballgroup.com/1997/08/a-dimensional-modeling-manifesto/)): (€:) Buch [The **Data Warehouse Toolkit**](https://www.amazon.de/dp/1118875184) (2014 | Orig: 1996)
-  - Dan Linstedt (Loading-centric / Hub-Link-Satellite): Open Standard [**Data Vault** 2.0](https://datavaultalliance.com/data-vault-2-the-details/) (2015 | Orig: 2000)
-    - u.a. (€:) Buch [Building a **Scalable Data Warehouse** with Data Vault 2.0](https://www.amazon.de/dp/0128025107) (2015) von Linstedt & Olschimke
-  - Datenintegration/-pipelines: [**ETL** vs. **ELT**](https://www.guru99.com/etl-vs-elt.html)
-  - Nennenswertes IT-Vokabular: [Bimodal IT](https://www.gartner.com/en/information-technology/glossary/bimodal) und [Self-Service BI](https://www.gartner.com/en/information-technology/glossary/self-service-analytics) sowie **[Agile Data](https://agiledata.org/)** von Scott W. Ambler
+	- Bill Inmon (Top-Down / Enterprise Data Warehouse): (€) Buch **[Building the Data Warehouse](https://www.amazon.de/dp/0764599445)** (2005 | Orig: 1990)
+	- Ralph Kimball (Bottom-Up / Data Marts + [Dimensional Modelling](https://www.kimballgroup.com/1997/08/a-dimensional-modeling-manifesto/)): (€:) Buch [The **Data Warehouse Toolkit**](https://www.amazon.de/dp/1118875184) (2014 | Orig: 1996)
+	- Dan Linstedt (Loading-centric / Hub-Link-Satellite): Open Standard [**Data Vault** 2.0](https://datavaultalliance.com/data-vault-2-the-details/) (2015 | Orig: 2000)
+		- u.a. (€:) Buch [Building a **Scalable Data Warehouse** with Data Vault 2.0](https://www.amazon.de/dp/0128025107) (2015) von Linstedt & Olschimke
+	- Datenintegration/-pipelines: [**ETL** vs. **ELT**](https://www.guru99.com/etl-vs-elt.html)
+	- Nennenswertes IT-Vokabular: [Bimodal IT](https://www.gartner.com/en/information-technology/glossary/bimodal) und [Self-Service BI](https://www.gartner.com/en/information-technology/glossary/self-service-analytics) sowie **[Agile Data](https://agiledata.org/)** von Scott W. Ambler
 - Data Analytics / Datenanalyse
-  - Grundlagen: [**OLTP** vs. **OLAP**](https://www.guru99.com/oltp-vs-olap.html) (sowie OLAP mittels [**ROLAP** vs. MOLAP](https://www.guru99.com/online-analytical-processing.html); sowie ROLAP mittels [**Star** vs. **Snowflake**](https://www.guru99.com/star-snowflake-data-warehousing.html))
-  - MOOCs: Google Kurse **[Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics)**
-  - Webartikel: [Top 10 **SQL Projects** for Data Analysis](https://www.analyticsvidhya.com/blog/2023/07/top-sql-projects/) | kaggle [Data Analysis using SQL](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql)
-  - Cheatsheet: [SQL for Data Analysis Cheat Sheet](https://learnsql.com/blog/sql-for-data-analysis-cheat-sheet/)
-  - zzgl. unmittelbarer Nachfolge-Abschnitt: Big Data
-  - zzgl. [Bachelor-Abschnitt: **Data Science**](#bsc-big-data-and-cloud-computing-for-ai) (unten)
-  - zzgl. [Master-Abschnitt: **Data Science**](#msc-big-data-and-cloud-computing-for-ai) (unten)
+	- Grundlagen: [**OLTP** vs. **OLAP**](https://www.guru99.com/oltp-vs-olap.html) (sowie OLAP mittels [**ROLAP** vs. MOLAP](https://www.guru99.com/online-analytical-processing.html); sowie ROLAP mittels [**Star** vs. **Snowflake**](https://www.guru99.com/star-snowflake-data-warehousing.html))
+	- MOOCs: Google Kurse **[Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics)**
+	- Webartikel: [Top 10 **SQL Projects** for Data Analysis](https://www.analyticsvidhya.com/blog/2023/07/top-sql-projects/) | kaggle [Data Analysis using SQL](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql)
+	- Cheatsheet: [SQL for Data Analysis Cheat Sheet](https://learnsql.com/blog/sql-for-data-analysis-cheat-sheet/)
+	- zzgl. unmittelbarer Nachfolge-Abschnitt: Big Data
+	- zzgl. [Bachelor-Abschnitt: **Data Science**](#bsc-big-data-and-cloud-computing-for-ai) (unten)
+	- zzgl. [Master-Abschnitt: **Data Science**](#msc-big-data-and-cloud-computing-for-ai) (unten)
 - Big Data
-  - Landscape: [Big Data Landscape](https://mattturck.com/bigdata2017/) (bis 2017) von Matt Turck sowie seine [MAD Landscapes](https://mattturck.com/category/big-data/) (= Machine Learning, AI & Data) 
-  - Hinführung: Manuelle Skalierungsmaßnahmen auf traditionellen RDBMS am Bsp. von [Postgres Scale](https://newsletter.systemdesign.one/p/postgres-scale)
-  - Nennenswertes Vokabular: **[Data Lake](https://jamesdixon.wordpress.com/2010/10/14/pentaho-hadoop-and-data-lakes/)** („If you think of a datamart as a store of bottled water – cleansed and packaged and structured for easy consumption – the data lake is a large body of water in a more natural state. The contents of the data lake stream in from a source to fill the lake, and various users of the lake can come to examine, dive in, or take samples.“ – James Dixon, 2010, CTO at Pentaho)
-    - Vorläufer (vgl. Content Modeling, JCR, Jackrabbit): „[**Data First, Structure Later.** Maybe.](https://aem.design/archives/davids-model)“ als Rule #1 in David Nueschelers Modell
-  - Vorlesungen: Univ. of Columbia [**Big Data** Analytics & Advanced Big Data Analytics](https://www.ee.columbia.edu/~cylin/course/bigdata/index.html)
-  - Marktführer: [**AWS Big Data** Technology Fundamentals](https://aws.amazon.com/de/training/course-descriptions/bigdata-fundamentals/) | [**Google** Cloud **Big Data** and Machine Learning Fundamentals](https://www.cloudskillsboost.google/course_templates/3) | [**Microsoft** Learn](https://docs.microsoft.com/de-de/learn/browse/)
-  - Hadoop: **[Hadoop Illuminated](https://hadoopilluminated.com/index.html)** | [guru99 **Hadoop Tutorial**](https://www.guru99.com/bigdata-tutorials.html)
-    - Vorsicht: Hadoop ist ein „active Archive“ und damit nicht notwendigerweise das beste Werkzeug
-  - NoSQL: [guru99 **NoSQL Tutorial**](https://www.guru99.com/nosql-tutorial.html) | [MongoDB **Introduction to Modern Databases**](https://www.mongodb.com/collateral/academia/imdb) | [javatpoint **Cassandra Tutorial**](https://www.javatpoint.com/cassandra-tutorial) | **[neo4j Developer Guides](https://neo4j.com/developer/get-started/)** | **[Redis University](https://university.redis.com/)**
-  - Weiterführende Themen: [tutorialspoint **Big Data Tutorials**](https://www.tutorialspoint.com/big_data_tutorials.htm)
+	- Landscape: [Big Data Landscape](https://mattturck.com/bigdata2017/) (bis 2017) von Matt Turck sowie seine [MAD Landscapes](https://mattturck.com/category/big-data/) (= Machine Learning, AI & Data) 
+	- Hinführung: Manuelle Skalierungsmaßnahmen auf traditionellen RDBMS am Bsp. von [Postgres Scale](https://newsletter.systemdesign.one/p/postgres-scale)
+	- Nennenswertes Vokabular: **[Data Lake](https://jamesdixon.wordpress.com/2010/10/14/pentaho-hadoop-and-data-lakes/)** („If you think of a datamart as a store of bottled water – cleansed and packaged and structured for easy consumption – the data lake is a large body of water in a more natural state. The contents of the data lake stream in from a source to fill the lake, and various users of the lake can come to examine, dive in, or take samples.“ – James Dixon, 2010, CTO at Pentaho)
+		- Vorläufer (vgl. Content Modeling, JCR, Jackrabbit): „[**Data First, Structure Later.** Maybe.](https://aem.design/archives/davids-model)“ als Rule #1 in David Nueschelers Modell
+	- Vorlesungen: Univ. of Columbia [**Big Data** Analytics & Advanced Big Data Analytics](https://www.ee.columbia.edu/~cylin/course/bigdata/index.html)
+	- Marktführer: [**AWS Big Data** Technology Fundamentals](https://aws.amazon.com/de/training/course-descriptions/bigdata-fundamentals/) | [**Google** Cloud **Big Data** and Machine Learning Fundamentals](https://www.cloudskillsboost.google/course_templates/3) | [**Microsoft** Learn](https://docs.microsoft.com/de-de/learn/browse/)
+	- Hadoop: **[Hadoop Illuminated](https://hadoopilluminated.com/index.html)** | [guru99 **Hadoop Tutorial**](https://www.guru99.com/bigdata-tutorials.html)
+		- Vorsicht: Hadoop ist ein „active Archive“ und damit nicht notwendigerweise das beste Werkzeug
+	- NoSQL: [guru99 **NoSQL Tutorial**](https://www.guru99.com/nosql-tutorial.html) | [MongoDB **Introduction to Modern Databases**](https://www.mongodb.com/collateral/academia/imdb) | [javatpoint **Cassandra Tutorial**](https://www.javatpoint.com/cassandra-tutorial) | **[neo4j Developer Guides](https://neo4j.com/developer/get-started/)** | **[Redis University](https://university.redis.com/)**
+	- Weiterführende Themen: [tutorialspoint **Big Data Tutorials**](https://www.tutorialspoint.com/big_data_tutorials.htm)
 - Datenschutz
-  - Die GDPR- und DSGVO-Prinzipien: [Art. 5 GDPR](https://gdpr-info.eu/art-5-gdpr/) \[EN\] / [Art. 5 DSGVO](https://dsgvo-gesetz.de/art-5-dsgvo/) \[DE\]
-    - u.a. „für die betroffene Person nachvollziehbaren Weise“ (**Transparenz**), „sowie auf das \[…\] notwendige Maß beschränkt“ (**Datenminimierung**) und „nur so lange \[…\] wie es \[…\] erforderlich ist“ (**Speicherbegrenzung**)
-  - (Obacht für die nachfolgenden Quellen: insb. juristische Webartikel können schnell veralten!)
-  - Themenkomplex Kontaktformular/SSL-Pflicht: u.a. Webartikel [Datenschutz: Wie kann ich ein **Kontaktformular** datenschutzkonform erstellen?](https://www.it-recht-kanzlei.de/kontaktformular-datenschutz-ssl.html)
-  - Themenkomplex Cookies: u.a. Webarktikel [EuGH: **Cookie**-basierte Anwendungen weitgehend einwilligungspflichtig](https://www.it-recht-kanzlei.de/eugh-cookie-informierte-einwilligung-pflicht.html)
-    - TrustPid: u.a. Webartikel [**TrustPid**: Baking ad tracking into the internet infrastructure](https://edri.org/our-work/trustpid-baking-ad-tracking-into-the-internet-infrastructure/)
-  - Teile Des BSI-Grundschutz, daher: [**BSI IT-Grundschutz** Schulungen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/it-grundschutzschulung_node.html)
-  - (€:) Buch [**Cloud Computing** nach der Datenschutz-Grundverordnung](https://www.amazon.de/dp/3960091133/) (2022) von Thorsten Hennrich
-  - Weiterführende Quellen: vgl. Master-Abschnitt
+	- Die GDPR- und DSGVO-Prinzipien: [Art. 5 GDPR](https://gdpr-info.eu/art-5-gdpr/) \[EN\] / [Art. 5 DSGVO](https://dsgvo-gesetz.de/art-5-dsgvo/) \[DE\]
+		- u.a. „für die betroffene Person nachvollziehbaren Weise“ (**Transparenz**), „sowie auf das \[…\] notwendige Maß beschränkt“ (**Datenminimierung**) und „nur so lange \[…\] wie es \[…\] erforderlich ist“ (**Speicherbegrenzung**)
+	- (Obacht für die nachfolgenden Quellen: insb. juristische Webartikel können schnell veralten!)
+	- Themenkomplex Kontaktformular/SSL-Pflicht: u.a. Webartikel [Datenschutz: Wie kann ich ein **Kontaktformular** datenschutzkonform erstellen?](https://www.it-recht-kanzlei.de/kontaktformular-datenschutz-ssl.html)
+	- Themenkomplex Cookies: u.a. Webarktikel [EuGH: **Cookie**-basierte Anwendungen weitgehend einwilligungspflichtig](https://www.it-recht-kanzlei.de/eugh-cookie-informierte-einwilligung-pflicht.html)
+		- TrustPid: u.a. Webartikel [**TrustPid**: Baking ad tracking into the internet infrastructure](https://edri.org/our-work/trustpid-baking-ad-tracking-into-the-internet-infrastructure/)
+	- Teile Des BSI-Grundschutz, daher: [**BSI IT-Grundschutz** Schulungen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/it-grundschutzschulung_node.html)
+	- (€:) Buch [**Cloud Computing** nach der Datenschutz-Grundverordnung](https://www.amazon.de/dp/3960091133/) (2022) von Thorsten Hennrich
+	- Weiterführende Quellen: vgl. Master-Abschnitt
 
 #### Cloud Computing
 
 - Cloud: **[Cloud Computing Tutorial](https://www.javatpoint.com/cloud-computing-tutorial)**
-  - Landscape: [Cloud Native Landscape](https://landscape.cncf.io) der CNCF
-  - Cloud Marktfüher: [Amazon **AWS**](https://aws.amazon.com/free/), [Microsoft **Azure**](https://azure.microsoft.com/pricing/free-services/), [**Google** Cloud](https://cloud.google.com/free), [**Alibaba** Cloud](https://www.alibabacloud.com/free), [**IBM** Cloud](https://www.ibm.com/cloud/free), [**Tencent** Cloud](https://www.tencentcloud.com/campaign/freetier), [Oracle **OCI**](https://www.oracle.com/cloud/free/), Heroku (no free tier anymore \*sigh\*), **[DigitalOcean](https://www.digitalocean.com/pricing/app-platform)**, [**SAP** BTP](https://www.sap.com/products/technology-platform/trial.html)
-    - Vegleich AWS vs. Alibaba Services: [Alibaba Cloud Product Comparison for AWS Professionals](https://www.alibabacloud.com/blog/alibaba-cloud-product-comparison-for-aws-professionals_444958)
-  - Docker: siehe oben bei Handwerkszeug ⚠️
-  - Marktführer: [**AWS** Educate](https://www.awseducate.com) | [**Google** Tech Dev Guide: **Cloud Computing**](https://techdevguide.withgoogle.com/paths/cloud/) | [**Microsoft** Learn](https://docs.microsoft.com/de-de/learn/browse/)
-  - MicroServices vs. Monolith/Modulith: **[Prime Video: From distributed microservices to a monolith application](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)** (und die Kosten des Distributed Systems Overhead)
-  - Site Reliability Engineering: s. unten bei [Bonusliste](#bsc-bonusliste) » DevOps
-  - Kubernetes (K8s): **[The Illustrated Children's Guide to Kubernetes](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/)** von Matt Butcher and Karen Chu ⭐
-    - Kurs [LinuxFoundation **Introduction to Kubernetes**](https://www.edx.org/course/introduction-to-kubernetes)
-    - Best Practices: [15 Kubernetes **Best Practices** Every Developer Should Know](https://spacelift.io/blog/kubernetes-best-practices) (2022) von Jack Roper | [15 Common Kubernetes Pitfalls & Challenges](https://spacelift.io/blog/kubernetes-challenges) (2023) von James Walker
-    - kubectl Cheatsheet: [**kubectl** Spickzettel](https://kubernetes.io/de/docs/reference/kubectl/cheatsheet/)
-    - Netzwerk-Verdrahtung: inovex [**Kubernetes Networking** Teil 1: Networking Essentials von Simon Kurth](https://www.inovex.de/de/blog/kubernetes-networking-1-essentials/) sowie [Teil 2](https://www.inovex.de/de/blog/kubernetes-networking-2-calico-cilium-weavenet/) | Webartikel [Container richtig vernetzen](https://www.linux-magazin.de/ausgaben/2017/08/netz-in-kubernetes/) von Thomas Fricke | Kubernetes [Networking Design Document](https://github.com/kubernetes/design-proposals-archive/blob/main/network/networking.md) | [Kubernetes **Security** Best Practices Part 2: **Network Policies**](https://engineering.dynatrace.com/blog/kubernetes-security-best-practices-part-2-network-policies/) von Renato Schosser
-    - Post-Mortems: **[Kubernetes Failure Stories](https://k8s.af/)**
-  - [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code) (IaC):
-    - TerraForm: [**TerraForm** Curriculum](https://learn.hashicorp.com/terraform) (von HashiCorp Learn) | freeCodeCamp [Terraform Certified Associate](https://www.freecodecamp.org/news/terraform-certified-associate-003-study-notes/) | [Awesome Terraform](https://github.com/cloud-architecture/awesome-terraform)
-    - (Weiterführende Quellen: s. unten Abschnitt DevOps; ebenfalls hier in B.Sc. » Cloud Computing)
-  - Backend-as-a-Service/BaaS: Google [Firebase](https://dev.to/mrcflorian/10-essential-firebase-tutorials-for-beginners-4i39) (geeignet für Einsteiger), AWS [Amplify](https://medium.com/@skumar.saurabh/building-server-less-web-application-using-aws-amplify-c25aaff3cf82) (für Einsteiger eher ungeeignet, dafür mehr Funktionalitäten und Features)
-    - Unter Entwicklungs- und Wartungsverantwortung ist bei BaaS v.a. das Frontend, der Backend-Bereich obliegt dem Cloud Service Provider und der Entwickler kann i.d.R. nur die vorgefertigten Dienste nutzen und eigene Logik eher nur per Lambdas/Serverless-Functions ergänzen
-  - Serverless/FaaS: [A crash course on (AWS and) **Serverless with Node.js**](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44) | Kurs [**Practical beginners course** to (AWS and) Serverless Applications](https://www.udemy.com/course/introduction-to-serverless-aws/)
-  - [jamstack](https://jamstack.org/) / [Static Site Generators](https://jamstack.org/generators/): freeCodeCamp [**What is the JAMstack** and how do I get started?](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/) | **[Awesome JAMstack](https://github.com/BolajiAyodeji/awesome-jamstack)** | [**Awesome Static** Web **Site Generators**](https://github.com/myles/awesome-static-generators) (SSG)
-  - Fog & Edge Computing:
-    - Evolvierte Begriffsauffassung (distinktiv):
-      - Definition durch die NIST im [**Fog Computing** Conceptual Model](https://csrc.nist.gov/publications/detail/sp/500-325/final) (2018), inkl. **Gegenüberstellung beider Begriffe** im Annex A
-      - NIST Publikation [Formal Definition of **Edge Computing**: An Emphasis on Mobile Cloud and IoT Composition](https://www.nist.gov/publications/formal-definition-edge-computing-emphasis-mobile-cloud-and-iot-composition) (2018)
-    - Ursprüngliche Begriffsauffassung (überlappend, tlw. konkurrierend):
-      - Vorfahre: Akamai Content Delivery Network (CDN) in den 1990ern
-      - Fog: Bonomi et al. beschrieb Fog Computing in ACM SIGCOMM 2012 Publikation: [Fog computing and its role in the internet of things](https://doi.org/10.1145%2F2342509.2342513)
-      - Edge: Karim Arabi beschrieb Edge Computing in einer [IEEE DAC 2014 Keynote](https://web.archive.org/web/20200730234708/http://www2.dac.com/events/videoarchive.aspx?confid=170&filter=keynote&id=170-103--0&#video) (relativ allgemein und nur in Gegenüberstellung zur Cloud)
-      - Webartikel [What is **Edge Computing**: The Network Edge Explained](https://www.cloudwards.net/what-is-edge-computing/) (2018) von Eric Hamilton („The network edge depends on use case. It could be a cell tower, a smartphone, an IoT device or a self-driving car.“ Oder **[CDNs](https://people.cs.umass.edu/~ramesh/Site/PUBLICATIONS_files/DMPPSW02.pdf)** wie Akamai oder Cloudflare, etc. pp.)
+	- Landscape: [Cloud Native Landscape](https://landscape.cncf.io) der CNCF
+	- Cloud Marktfüher: [Amazon **AWS**](https://aws.amazon.com/free/), [Microsoft **Azure**](https://azure.microsoft.com/pricing/free-services/), [**Google** Cloud](https://cloud.google.com/free), [**Alibaba** Cloud](https://www.alibabacloud.com/free), [**IBM** Cloud](https://www.ibm.com/cloud/free), [**Tencent** Cloud](https://www.tencentcloud.com/campaign/freetier), [Oracle **OCI**](https://www.oracle.com/cloud/free/), Heroku (no free tier anymore \*sigh\*), **[DigitalOcean](https://www.digitalocean.com/pricing/app-platform)**, [**SAP** BTP](https://www.sap.com/products/technology-platform/trial.html)
+		- Vegleich AWS vs. Alibaba Services: [Alibaba Cloud Product Comparison for AWS Professionals](https://www.alibabacloud.com/blog/alibaba-cloud-product-comparison-for-aws-professionals_444958)
+	- Docker: siehe oben bei Handwerkszeug ⚠️
+	- Marktführer: [**AWS** Educate](https://www.awseducate.com) | [**Google** Tech Dev Guide: **Cloud Computing**](https://techdevguide.withgoogle.com/paths/cloud/) | [**Microsoft** Learn](https://docs.microsoft.com/de-de/learn/browse/)
+	- MicroServices vs. Monolith/Modulith: **[Prime Video: From distributed microservices to a monolith application](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)** (und die Kosten des Distributed Systems Overhead)
+	- Site Reliability Engineering: s. unten bei [Bonusliste](#bsc-bonusliste) » DevOps
+	- Kubernetes (K8s): **[The Illustrated Children's Guide to Kubernetes](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/)** von Matt Butcher and Karen Chu ⭐
+		- Kurs [LinuxFoundation **Introduction to Kubernetes**](https://www.edx.org/course/introduction-to-kubernetes)
+		- Best Practices: [15 Kubernetes **Best Practices** Every Developer Should Know](https://spacelift.io/blog/kubernetes-best-practices) (2022) von Jack Roper | [15 Common Kubernetes Pitfalls & Challenges](https://spacelift.io/blog/kubernetes-challenges) (2023) von James Walker
+		- kubectl Cheatsheet: [**kubectl** Spickzettel](https://kubernetes.io/de/docs/reference/kubectl/cheatsheet/)
+		- Netzwerk-Verdrahtung: inovex [**Kubernetes Networking** Teil 1: Networking Essentials von Simon Kurth](https://www.inovex.de/de/blog/kubernetes-networking-1-essentials/) sowie [Teil 2](https://www.inovex.de/de/blog/kubernetes-networking-2-calico-cilium-weavenet/) | Webartikel [Container richtig vernetzen](https://www.linux-magazin.de/ausgaben/2017/08/netz-in-kubernetes/) von Thomas Fricke | Kubernetes [Networking Design Document](https://github.com/kubernetes/design-proposals-archive/blob/main/network/networking.md) | [Kubernetes **Security** Best Practices Part 2: **Network Policies**](https://engineering.dynatrace.com/blog/kubernetes-security-best-practices-part-2-network-policies/) von Renato Schosser
+		- Post-Mortems: **[Kubernetes Failure Stories](https://k8s.af/)**
+	- [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code) (IaC):
+		- TerraForm: [**TerraForm** Curriculum](https://learn.hashicorp.com/terraform) (von HashiCorp Learn) | freeCodeCamp [Terraform Certified Associate](https://www.freecodecamp.org/news/terraform-certified-associate-003-study-notes/) | [Awesome Terraform](https://github.com/cloud-architecture/awesome-terraform)
+		- (Weiterführende Quellen: s. unten Abschnitt DevOps; ebenfalls hier in B.Sc. » Cloud Computing)
+	- Backend-as-a-Service/BaaS: Google [Firebase](https://dev.to/mrcflorian/10-essential-firebase-tutorials-for-beginners-4i39) (geeignet für Einsteiger), AWS [Amplify](https://medium.com/@skumar.saurabh/building-server-less-web-application-using-aws-amplify-c25aaff3cf82) (für Einsteiger eher ungeeignet, dafür mehr Funktionalitäten und Features)
+		- Unter Entwicklungs- und Wartungsverantwortung ist bei BaaS v.a. das Frontend, der Backend-Bereich obliegt dem Cloud Service Provider und der Entwickler kann i.d.R. nur die vorgefertigten Dienste nutzen und eigene Logik eher nur per Lambdas/Serverless-Functions ergänzen
+	- Serverless/FaaS: [A crash course on (AWS and) **Serverless with Node.js**](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44) | Kurs [**Practical beginners course** to (AWS and) Serverless Applications](https://www.udemy.com/course/introduction-to-serverless-aws/)
+	- [jamstack](https://jamstack.org/) / [Static Site Generators](https://jamstack.org/generators/): freeCodeCamp [**What is the JAMstack** and how do I get started?](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/) | **[Awesome JAMstack](https://github.com/BolajiAyodeji/awesome-jamstack)** | [**Awesome Static** Web **Site Generators**](https://github.com/myles/awesome-static-generators) (SSG)
+	- Fog & Edge Computing:
+		- Evolvierte Begriffsauffassung (distinktiv):
+			- Definition durch die NIST im [**Fog Computing** Conceptual Model](https://csrc.nist.gov/publications/detail/sp/500-325/final) (2018), inkl. **Gegenüberstellung beider Begriffe** im Annex A
+			- NIST Publikation [Formal Definition of **Edge Computing**: An Emphasis on Mobile Cloud and IoT Composition](https://www.nist.gov/publications/formal-definition-edge-computing-emphasis-mobile-cloud-and-iot-composition) (2018)
+		- Ursprüngliche Begriffsauffassung (überlappend, tlw. konkurrierend):
+			- Vorfahre: Akamai Content Delivery Network (CDN) in den 1990ern
+			- Fog: Bonomi et al. beschrieb Fog Computing in ACM SIGCOMM 2012 Publikation: [Fog computing and its role in the internet of things](https://doi.org/10.1145%2F2342509.2342513)
+			- Edge: Karim Arabi beschrieb Edge Computing in einer [IEEE DAC 2014 Keynote](https://web.archive.org/web/20200730234708/http://www2.dac.com/events/videoarchive.aspx?confid=170&filter=keynote&id=170-103--0&#video) (relativ allgemein und nur in Gegenüberstellung zur Cloud)
+			- Webartikel [What is **Edge Computing**: The Network Edge Explained](https://www.cloudwards.net/what-is-edge-computing/) (2018) von Eric Hamilton („The network edge depends on use case. It could be a cell tower, a smartphone, an IoT device or a self-driving car.“ Oder **[CDNs](https://people.cs.umass.edu/~ramesh/Site/PUBLICATIONS_files/DMPPSW02.pdf)** wie Akamai oder Cloudflare, etc. pp.)
 
 #### DevOps / Production Systems
 
-  - Begriffsherkunft / Einstieg \[Umbrella Term; DevOps-im-weitesten-Sinn\]
-    - Erfinder des Begriffs DevOps: **[Patrick Debois](https://www.infoq.com/interviews/debois-devops/)**
-    - Vortrag ⭐ [**10+ Deploys per Day**: Dev and Ops Cooperation at Flickr](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr) (2009) von Allspaw & Hammond
-    - Definition von **[Gartner](https://www.gartner.com/it-glossary/devops/)**
-    - (€:) Buch **[The DevOps Handbook](https://www.amazon.de/dp/1950508404/)** von Gene Kim, Jes Humble, Patrick Debois, et al.
-  - **DevOps** \[Hochgeschwindigkeit-IT; DevOps-im-engsten-Sinn\] ⚠️
-    - **[The Twelve-Factor App](https://12factor.net/)** (Heroku)
-    - Kostenloses Buch **[Google Site Reliability Engineering](https://sre.google/)** (**SRE**) ⭐: erste brauchbare Implementierung von DevOps (im engeren Sinn, also für Hochgeschwindigkeit-IT)
-      - Google **DORA** ⭐: [DevOps **Capabilities**](https://cloud.google.com/architecture/devops)
-      - Video [**Modern DevOps**: Reliable and Blameless](https://www.youtube.com/watch?v=YXFjHmFD69w) von Google
-      - **[Google DevOps](https://cloud.google.com/devops)** Einstieg-Seite
-    - **GitOps**: Buch [**GitOps** – Cloud-native Continuous Deployment](https://www.gitops.tech/) | **[GitOps Conversation Kit](https://gitops-community.GitHub.io/kit/)** (Weaveworks)
-  - Basis von DevOps #1: System-Operator (**SysOps**) und System-Administrator (**SysAdmin**)
-    - Grundlagen: vgl. Abschnitt [vor einer wiss. Abschlussarbeit](#vor-einer-wiss-abschlussarbeit-informatikki) » „Handwerkszeug: Getting S#\*t Done“: Betriebssystemadministration ([Linux](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/) | [Windows](https://docs.microsoft.com/de-de/learn/paths/windows-server-deployment-configuration-administration/)), Linux [Daemons](https://www.makeuseof.com/tag/control-linux-start-services-daemons/) (service/sysctl) bzw. Microsoft [Services](https://www.thewindowsclub.com/open-windows-services) (services.msc), Shell-Scripting ([shell](https://www.freecodecamp.org/news/command-line-for-beginners/) | [pwsh](https://docs.microsoft.com/de-de/learn/modules/introduction-to-powershell/1-introduction)), [SSH](https://linuxize.com/post/how-to-setup-ssh-tunneling/), [Virtualisierung](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide), [Docker](https://serversforhackers.com/c/getting-started-with-docker), [git](https://rogerdudler.GitHub.io/git-guide/)
-    - Einstieg: Lehrpläne Ausbildungsberufe, insb. **Fachinformatiker/in - Systemintegration** sowie Fachinformatiker/in - **Digitale Vernetzung**
-      - **[Umsetzungshilfe für Lehrkräfte](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/handreichung-technische-it-ausbildung/)** \[[PDF](https://www.isb.bayern.de/fileadmin/user_upload/Berufliche_Schulen/Berufsschule/Material/Aufgaben_Technische_IT-Berufe/HR_technische_it_ausbildungsberufe_2020.pdf)\] des ISB (= Staatsinstitut für Schulqualität und Bildungsforschung München)
-      - Ebenfalls aufschlussreich: **[Illustrierende Aufgaben für technische IT-Ausbildungsberufe](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/aufgaben-technische-it-ausbildung/)** des ISB, zzgl. Materialien für **IT Digital-Dialog** ([10. Jgst](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/technische-und-kaufmaennische-it-ausbildungsberufe/it-digital-dialog/) und [11. Jgst](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/technische-und-kaufmaennische-it-ausbildungsberufe/it-digital-dialog-11-jgst/))
-      - Eher abstrakt aber gut zur Workload-Einordnung: [**Rahmenlehrplan** für die Ausbildungsberufe Fachinformatiker/in in der Fachrichtung Systemintegration](https://www.kmk.org/fileadmin/Dateien/pdf/Bildung/BeruflicheBildung/rlp/Fachinformatiker_19-12-13_EL.pdf)
-      - (Eher überambitionierte Darstellung: Bundesagentur für Arbeit (BA) zu [Fachinformatiker/in - Systemintegration](https://web.arbeitsagentur.de/berufenet/beruf/7847) bzw. zu [Fachinformatiker/in - Digitale Vernetzung](https://web.arbeitsagentur.de/berufenet/beruf/133560))
-    - Auffassungsmöglichkeit 1: SysOps (Traditional IT) als Antipode zu DevOps (Modern IT)
-      - Rollenmodell „Klicki-Bunti-Admin für [**Windows Server** und Active Directory](https://www.qskills.de/qs/workshops/microsoft/ms115windowsserverundactivedirectory/)“
-      - Böse Zungen unterstellen ggf. eine Hausmeistermentalität
-    - Auffassungsmöglichkeit 2 ⭐: DevOps als moderner Bestandteil der SysOps-Tätigkeit
-      - **Linux** wichtiger als Windows: Die Linux Foundation beansprucht in Ihrem [2017 Linux Kernel Report](https://www.linuxfoundation.org/blog/blog/2017-linux-kernel-report-highlights-developers-roles-accelerating-pace-change), dass **90 Prozent der öffentlichen Cloud-Computing-Dienste auf Linux laufen**, 82 Prozent der Smartphones, 62 Prozent der eingebetteten Systeme und 99 Prozent der Supercomputer.
-      - Webartikel: [What are the **Best SysOps Tools**?](https://www.devopsschool.com/blog/what-are-the-best-sysops-tools/) von DevOpsSchool
-      - Guru99 [**Ansible Tutorial** for Beginners: Playbook, Commands & Example](https://www.guru99.com/ansible-tutorial.html)
-      - Klassische DevOps Aufgabe (DevOps-im-weitesten-Sinn als Umbrella Term und noch nicht im engeren Sinn für Hochgeschwindigkeit-IT): „**Ziehen Sie mit Ansible eine Proxmox-VM automatisiert hoch für nginx, konfiguriert für IPv4 und IPv6**“ (These: Traditionelle SysAdmins kriegen das innerhalb eines Probearbeitstags von 8h ggf. nicht gelöst 😦)
-      - Tutorials: [**Ops School** Curriculum](https://www.opsschool.org/) | [**Digital Ocean** Tutorials](https://www.digitalocean.com/community/tutorials)
-    - Werkzeuge: vgl. Schwesterseite [Tools » DevOps » SysOps/SysAdmin](https://github.com/cyberlytics/awesome-software-engineering-tools#devops)
-  - Basis von DevOps #2: **Build-Automatisierung** / **Dependency Management**
-    - [Monorepos](https://en.wikipedia.org/wiki/Monorepo) vs. [Polyrepos/Multirepos](https://earthly.dev/blog/monorepo-vs-polyrepo/):
-      - Pro Monorepo: [Monorepo: please do!](https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70) (2019) von Adam Jacob \[shared responsibility and visibility\]
-      - Pro Poly-/Multirepo: [Monorepos: please don't!](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b) (2019) von Matt Klein \[Isolation, Low Coupling, Scalability\]
-    - Code-Review: Webartikel [How to protect **GitHub** projects from non-reviewed code and **force code review culture**](https://www.bornfight.com/blog/how-to-protect-GitHub-projects-from-non-reviewed-code-and-force-code-review-culture/) (2021)
-    - Software Bill-of-Materials ([SBOM](https://fossa.com/complete-guide-software-composition-analysis#Best-License-for-Commercialization)): Einführung per [How **SBOM**s Strengthen the Software Supply Chain](https://www.fosslife.org/how-sboms-strengthen-software-supply-chain)
-      - Werkzeuge: [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom)
-    - Java Builds: Als Bestandteil meines Dissertationsprojekt habe ich ca. 2008 nebenbei eine Java-Build-Referenz auf Basis von Maven geschaffen: [cpnatwork/alphaflow_dev](https://github.com/cpnatwork/alphaflow_dev/tree/master/sys-src) (mit einem \*-buildhub-Modul für die Build-Komposition und mit \*configbase-Modulen für Abhängigkeitskonsolidierung mittels Maven-POM-Vererbung)
-    - C# Builds (.NET/NuGet):
-      - Grundlegend #1 (konzeptionell): Webartikel [Developing **With Project Dependencies - When to Package, When Not To**](https://www.softwaremeadows.com/posts/developing_with_project_dependencies_-_when_to_package__when_not_to/) (2021) von Charles Flatt
-      - Grundlegend #2 (historisches): Zeitgrafik [Microsoft **.NET History**](https://time.graphics/line/593132) | Webartikel **[Managing Dependencies in .NET](https://fossa.com/blog/managing-dependencies-net-csproj-packagesconfig/)** (2021) von Cristian Taran u.a. zu .csproj, .packages.config und project.json
-      - Grundlegend #3 (technisch): Webartikel **[Managing output in the .NET SDK projects](https://cezarypiatek.GitHub.io/post/managing-output-in-sdk-projects/)** (2019) von Cezary Piątek
-        - (Einstiegsalternative: (€) Buch [.NET Core in Action](https://www.manning.com/books/dotnet-core-in-action) (2018) von Dustin Metzgar, Kapitel 3 „How to build with .NET Core“)
-        - Zwei Build-Arten: .NET Framework (**msbuild**; Windows-only; Visual Studio) vs. .NET / .NET Core (**dotnet build**; Cross-Platform; .NET CLI)
-        - Zwei Referenztypen: **[ProjectReference](https://github.com/dotnet/msbuild/blob/main/documentation/ProjectReference-Protocol.md)** (u.a. [PreserveNewest](https://stackoverflow.com/questions/62991404/how-does-project-item-metadata-preservenewest-actually-work) sowie „Copy Local“ = Private:false) vs. **[PackageReference](https://learn.microsoft.com/en-us/nuget/consume-packages/package-references-in-project-files)** (u.a. „NOT Copy Local“ = [ExcludeAssets:runtime](https://learn.microsoft.com/en-US/nuget/consume-packages/package-references-in-project-files#controlling-dependency-assets) sowie [PrivateAssets:all](https://learn.microsoft.com/en-us/answers/questions/702182/how-to-hide-dependent-nuget-dll39s-from-consuming.html) und im Legacy-Build-Kontext ggf. [CopyLocalLockFileAssemblies:true](https://stackoverflow.com/questions/43837638/how-do-i-get-net-core-projects-to-copy-nuget-references-to-the-build-output/52824190#52824190))
-      - NuGet: Microsoft [**Quickstart** to create a NuGet package](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-the-dotnet-cli) | Webartikel **[5 steps to better NuGet package](https://alex-klaus.com/better-nuget/)** von Alex Klaus | [Best Practices for **Versioning** NuGet **Packages** in the Enterprise](https://blog.inedo.com/nuget/package-versioning) (2021) by Eric Seng | **[NuGet in the Enterprise](https://blog.inedo.com/nuget/in-the-enterprise-2021)** (2021) by Eric Seng | [Prerelease Packages & **Repackaging**](https://docs.inedo.com/docs/proget-packages-repackaging) (2021) | [Managing the global packages, cache, and temp folders](https://learn.microsoft.com/en-us/nuget/consume-packages/managing-the-global-packages-and-cache-folders)
-      - Impuls zur Inspiration: [Adding both Project and Package references](https://github.com/dotnet/project-system/issues/2836)
-  - Basis von DevOps #3: **System Integration**
-    - Webartikel **[Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)** (2006) von Martin Fowler ⭐
-    - Cloud-native: Video **[CI/CD on Google Cloud](https://www.youtube.com/watch?v=orZEBSXbmFU)** von Google | Amazon [Set Up a CI/CD Pipeline on AWS](https://aws.amazon.com/getting-started/hands-on/set-up-ci-cd-pipeline/) | Microsoft [CI/CD-Baseline-Architektur mit Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/architectures/devops-pipelines-baseline-architecture)
-    - **[Awesome CI/CD](https://github.com/cicdops/awesome-ciandcd)**
-  - Basis von DevOps #4: **Software-Architektur** und **Software-Engineering**
-    - vgl. eigene SWE-Abschnitte in den Listen zu B.Sc. und M.Sc.
-  - Basis von DevOps #5: **IT-Sicherheit**
-    - vgl. eigene IT-Security-Abschnitte in den Listen zu B.Sc. und M.Sc.
-  - Basis von DevOps #6: **Configuration Management** sowie **Release & Deployment Management**, klassisch per **Release Train**
-    - (€:) Buch **[Release It!](https://www.amazon.de/dp/1680502395/)** (Original: 2007 | Aktualisiert: 2018) von Michael T. Nygard
-  - Basis von DevOps #7: Klassischer **Betrieb** / **IT Service Management** = ITSM / **Change Management** / **Incident Management**
-    - Überlappt sich mit Punkt #1 (SysOps/SysAdmin), aber als Professionalisierung hier nochmal als Extrapunkt, damit schließt sich ein Kreis
-    - Gartner [Magic Quadrant für ITSM](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/company-library/media/itsm-8-time-pr.png)
-    - ITIL: [guru99 **What is ITIL?**](https://www.guru99.com/itil-framework-process.html) | **[ITIL Tutorial](https://www.knowledgehut.com/tutorials/itil4-tutorial)**
-  - Site Reliability Engineering:
-    - [Google **SRE Books**](https://sre.google/books/) (vgl. oben: Google SRE = DevOps-im-engsten-Sinn = erste brauchbare Implementierung von DevOps für Hochgeschwindigkeit-IT)
-      - Google Cloud Skills Boost: **[DevOps Engineer, SRE Learning Path](https://www.cloudskillsboost.google/paths/20)**
-      - Video-Playlist **[SRE implements DevOps](https://www.youtube.com/playlist?list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj)** von Google
-      - Video-Playlist **[Engineering for Reliability](https://www.youtube.com/playlist?list=PLIivdWyY5sqLOiLXJDlN-wKd0g7hf_9vC)** von Google
-      - **[Google SRE](https://cloud.google.com/sre)** Einstieg-Seite
-    - **[Awesome SRE](https://github.com/dastergon/awesome-sre)**
-  - Nennenswertes:
-    - **[Semantic Versioning](https://semver.org/)** (SemVer) ⭐
-    - **[Conventional Commits](https://www.conventionalcommits.org)** ⭐
-    - Dynatrace **[A Beginner's Guide to DevOps](https://www.dynatrace.com/resources/ebooks/devops/)**
-    - [**TerraForm** Curriculum](https://learn.hashicorp.com/terraform) (von HashiCorp Learn)
-    - **[Awesome DevOps » Books](http://awesome-devops.xyz/#books)**
-    - **[Awesome Monorepo](https://github.com/korfuri/awesome-monorepo)**
-    - [**Release Pipelines** – Terminology und Basiskonzepte am Bsp. TFS/Azure](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/artifacts)
-    - Die Liste [DevOps auf hackr.io](https://hackr.io/devops) (noch jung, noch ohne hyperbolische Voting-Selektion)
-  - Meine **[SWE](https://github.com/cyberlytics/awesome-software-engineering-tools)**-Liste (u.a. die dortigen Abschnitte [DevOps](https://github.com/cyberlytics/awesome-software-engineering-tools#devops) sowie [Modellierung & Architektur](https://github.com/cyberlytics/awesome-software-engineering-tools#modellierung--architektur), [Testing](https://github.com/cyberlytics/awesome-software-engineering-tools#testing) und weitere) sowie meine **[BDCC4Ai](https://github.com/cyberlytics/awesome-bdccai-tools)**-Liste (u.a. [Security](https://github.com/cyberlytics/awesome-bdccai-tools#security) und weitere)
-  - Erweiterte Stichwortliste: ⭐
-    - [Configuration Management](https://en.wikipedia.org/wiki/Configuration_management), [Dependency Management](https://missing.csail.mit.edu/2019/package-management/), [Dependency Hell](https://en.wikipedia.org/wiki/Dependency_hell) ([DLL \[Heck\]](https://en.wikipedia.org/wiki/DLL_Hell), [NuGet hell](https://www.google.com/search?q=nuget+hell), …), [Dependency Manager](https://devopedia.org/dependency-manager), [Build-Artifact Management](https://www.leanix.net/en/wiki/vsm/software-artifacts), [Release Management](https://en.wikipedia.org/wiki/Release_management), [Release Automation](https://en.wikipedia.org/wiki/Application-release_automation), [Software-Artifact Repository](https://en.wikipedia.org/wiki/Software_repository), [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration), [Infrastructure Automation / GitOps](https://about.gitlab.com/topics/gitops/), [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code), [Configuration as a Code](https://www.perforce.com/blog/vcs/configuration-as-code), [Virtualization](https://en.wikipedia.org/wiki/Hardware_virtualization), [Container](https://en.wikipedia.org/wiki/OS-level_virtualization) & [Containerization](https://aws.amazon.com/de/what-is/containerization/), [Consistent Environments](http://engineering-principles.onejl.uk/practices/Consistent_Environments.html), [Image Repositories](https://www.aquasec.com/cloud-native-academy/container-security/image-repository/), [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery), [Deployability](https://en.wikipedia.org/wiki/Deployment), [Modifiability](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010/57-maintainability), [Testability](https://en.wikipedia.org/wiki/Software_testability), [Monitorability/SLO-Überwachung](https://cloud.google.com/monitoring), [Maintainability](https://en.wikipedia.org/wiki/Software_maintenance), [Twelve Factor App Methodology](https://12factor.net/), [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-  - Scholar-Disclaimer: ⚠️
-    - Auf Scholar finden Sie ggf. keine Paper, weil die wissenschaftlichen Publikationen zu vielen Aspekten so alt sind (z.B. 90er Jahre), dass sie nicht als PDF im Netz stehen. Aus wissenschaftlicher Sicht sind die Einzelthemen zu DevOps-im-weitesten-Sinn nicht so neu, wie sich die Community den Anschein gibt.
-  - Weiterführende Quellen: [Best **DevOps** Blogs and **Resources for Learning**](https://devopscube.com/list-of-devops-blogs-and-resources/) | [Awesome DevOps **Learning**](https://github.com/Lets-DevOps/awesome-learning) | roadmap.sh [DevOps Roadmap](https://roadmap.sh/devops) | [Awesome **Terraform**](https://github.com/cloud-architecture/awesome-terraform)
-  - **DevSecOps**:
-    - Ich ordne das Thema eher der IT-Sicherheit unter, daher vgl. die IT-Security-Abschnitte in den Listen zu B.Sc. und M.Sc.
-    - Weiterführende Quellen: [DevSecOps](https://www.aquasec.com/cloud-native-academy/devsecops/devsecops/)
-    - Anmerkung: Der alternative Begriff "SecDevOps" ist die Security-first Variation von DevSecOps, ist aber weniger populär
-      - (Außerdem gab es auch noch "DevOpsSec" als Buchtitel von O'Reily, ist aber begrifflich kaum populär)
+	- Begriffsherkunft / Einstieg \[Umbrella Term; DevOps-im-weitesten-Sinn\]
+		- Erfinder des Begriffs DevOps: **[Patrick Debois](https://www.infoq.com/interviews/debois-devops/)**
+		- Vortrag ⭐ [**10+ Deploys per Day**: Dev and Ops Cooperation at Flickr](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr) (2009) von Allspaw & Hammond
+		- Definition von **[Gartner](https://www.gartner.com/it-glossary/devops/)**
+		- (€:) Buch **[The DevOps Handbook](https://www.amazon.de/dp/1950508404/)** von Gene Kim, Jes Humble, Patrick Debois, et al.
+	- **DevOps** \[Hochgeschwindigkeit-IT; DevOps-im-engsten-Sinn\] ⚠️
+		- **[The Twelve-Factor App](https://12factor.net/)** (Heroku)
+		- Kostenloses Buch **[Google Site Reliability Engineering](https://sre.google/)** (**SRE**) ⭐: erste brauchbare Implementierung von DevOps (im engeren Sinn, also für Hochgeschwindigkeit-IT)
+			- Google **DORA** ⭐: [DevOps **Capabilities**](https://cloud.google.com/architecture/devops)
+			- Video [**Modern DevOps**: Reliable and Blameless](https://www.youtube.com/watch?v=YXFjHmFD69w) von Google
+			- **[Google DevOps](https://cloud.google.com/devops)** Einstieg-Seite
+		- **GitOps**: Buch [**GitOps** – Cloud-native Continuous Deployment](https://www.gitops.tech/) | **[GitOps Conversation Kit](https://gitops-community.GitHub.io/kit/)** (Weaveworks)
+	- Basis von DevOps #1: System-Operator (**SysOps**) und System-Administrator (**SysAdmin**)
+		- Grundlagen: vgl. Abschnitt [vor einer wiss. Abschlussarbeit](#vor-einer-wiss-abschlussarbeit-informatikki) » „Handwerkszeug: Getting S#\*t Done“: Betriebssystemadministration ([Linux](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/) | [Windows](https://docs.microsoft.com/de-de/learn/paths/windows-server-deployment-configuration-administration/)), Linux [Daemons](https://www.makeuseof.com/tag/control-linux-start-services-daemons/) (service/sysctl) bzw. Microsoft [Services](https://www.thewindowsclub.com/open-windows-services) (services.msc), Shell-Scripting ([shell](https://www.freecodecamp.org/news/command-line-for-beginners/) | [pwsh](https://docs.microsoft.com/de-de/learn/modules/introduction-to-powershell/1-introduction)), [SSH](https://linuxize.com/post/how-to-setup-ssh-tunneling/), [Virtualisierung](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide), [Docker](https://serversforhackers.com/c/getting-started-with-docker), [git](https://rogerdudler.GitHub.io/git-guide/)
+		- Einstieg: Lehrpläne Ausbildungsberufe, insb. **Fachinformatiker/in - Systemintegration** sowie Fachinformatiker/in - **Digitale Vernetzung**
+			- **[Umsetzungshilfe für Lehrkräfte](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/handreichung-technische-it-ausbildung/)** \[[PDF](https://www.isb.bayern.de/fileadmin/user_upload/Berufliche_Schulen/Berufsschule/Material/Aufgaben_Technische_IT-Berufe/HR_technische_it_ausbildungsberufe_2020.pdf)\] des ISB (= Staatsinstitut für Schulqualität und Bildungsforschung München)
+			- Ebenfalls aufschlussreich: **[Illustrierende Aufgaben für technische IT-Ausbildungsberufe](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/aufgaben-technische-it-ausbildung/)** des ISB, zzgl. Materialien für **IT Digital-Dialog** ([10. Jgst](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/technische-und-kaufmaennische-it-ausbildungsberufe/it-digital-dialog/) und [11. Jgst](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/technische-und-kaufmaennische-it-ausbildungsberufe/it-digital-dialog-11-jgst/))
+			- Eher abstrakt aber gut zur Workload-Einordnung: [**Rahmenlehrplan** für die Ausbildungsberufe Fachinformatiker/in in der Fachrichtung Systemintegration](https://www.kmk.org/fileadmin/Dateien/pdf/Bildung/BeruflicheBildung/rlp/Fachinformatiker_19-12-13_EL.pdf)
+			- (Eher überambitionierte Darstellung: Bundesagentur für Arbeit (BA) zu [Fachinformatiker/in - Systemintegration](https://web.arbeitsagentur.de/berufenet/beruf/7847) bzw. zu [Fachinformatiker/in - Digitale Vernetzung](https://web.arbeitsagentur.de/berufenet/beruf/133560))
+		- Auffassungsmöglichkeit 1: SysOps (Traditional IT) als Antipode zu DevOps (Modern IT)
+			- Rollenmodell „Klicki-Bunti-Admin für [**Windows Server** und Active Directory](https://www.qskills.de/qs/workshops/microsoft/ms115windowsserverundactivedirectory/)“
+			- Böse Zungen unterstellen ggf. eine Hausmeistermentalität
+		- Auffassungsmöglichkeit 2 ⭐: DevOps als moderner Bestandteil der SysOps-Tätigkeit
+			- **Linux** wichtiger als Windows: Die Linux Foundation beansprucht in Ihrem [2017 Linux Kernel Report](https://www.linuxfoundation.org/blog/blog/2017-linux-kernel-report-highlights-developers-roles-accelerating-pace-change), dass **90 Prozent der öffentlichen Cloud-Computing-Dienste auf Linux laufen**, 82 Prozent der Smartphones, 62 Prozent der eingebetteten Systeme und 99 Prozent der Supercomputer.
+			- Webartikel: [What are the **Best SysOps Tools**?](https://www.devopsschool.com/blog/what-are-the-best-sysops-tools/) von DevOpsSchool
+			- Guru99 [**Ansible Tutorial** for Beginners: Playbook, Commands & Example](https://www.guru99.com/ansible-tutorial.html)
+			- Klassische DevOps Aufgabe (DevOps-im-weitesten-Sinn als Umbrella Term und noch nicht im engeren Sinn für Hochgeschwindigkeit-IT): „**Ziehen Sie mit Ansible eine Proxmox-VM automatisiert hoch für nginx, konfiguriert für IPv4 und IPv6**“ (These: Traditionelle SysAdmins kriegen das innerhalb eines Probearbeitstags von 8h ggf. nicht gelöst 😦)
+			- Tutorials: [**Ops School** Curriculum](https://www.opsschool.org/) | [**Digital Ocean** Tutorials](https://www.digitalocean.com/community/tutorials)
+		- Werkzeuge: vgl. Schwesterseite [Tools » DevOps » SysOps/SysAdmin](https://github.com/cyberlytics/awesome-software-engineering-tools#devops)
+	- Basis von DevOps #2: **Build-Automatisierung** / **Dependency Management**
+		- [Monorepos](https://en.wikipedia.org/wiki/Monorepo) vs. [Polyrepos/Multirepos](https://earthly.dev/blog/monorepo-vs-polyrepo/):
+			- Pro Monorepo: [Monorepo: please do!](https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70) (2019) von Adam Jacob \[shared responsibility and visibility\]
+			- Pro Poly-/Multirepo: [Monorepos: please don't!](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b) (2019) von Matt Klein \[Isolation, Low Coupling, Scalability\]
+		- Code-Review: Webartikel [How to protect **GitHub** projects from non-reviewed code and **force code review culture**](https://www.bornfight.com/blog/how-to-protect-GitHub-projects-from-non-reviewed-code-and-force-code-review-culture/) (2021)
+		- Software Bill-of-Materials ([SBOM](https://fossa.com/complete-guide-software-composition-analysis#Best-License-for-Commercialization)): Einführung per [How **SBOM**s Strengthen the Software Supply Chain](https://www.fosslife.org/how-sboms-strengthen-software-supply-chain)
+			- Werkzeuge: [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom)
+		- Java Builds: Als Bestandteil meines Dissertationsprojekt habe ich ca. 2008 nebenbei eine Java-Build-Referenz auf Basis von Maven geschaffen: [cpnatwork/alphaflow_dev](https://github.com/cpnatwork/alphaflow_dev/tree/master/sys-src) (mit einem \*-buildhub-Modul für die Build-Komposition und mit \*configbase-Modulen für Abhängigkeitskonsolidierung mittels Maven-POM-Vererbung)
+		- C# Builds (.NET/NuGet):
+			- Grundlegend #1 (konzeptionell): Webartikel [Developing **With Project Dependencies - When to Package, When Not To**](https://www.softwaremeadows.com/posts/developing_with_project_dependencies_-_when_to_package__when_not_to/) (2021) von Charles Flatt
+			- Grundlegend #2 (historisches): Zeitgrafik [Microsoft **.NET History**](https://time.graphics/line/593132) | Webartikel **[Managing Dependencies in .NET](https://fossa.com/blog/managing-dependencies-net-csproj-packagesconfig/)** (2021) von Cristian Taran u.a. zu .csproj, .packages.config und project.json
+			- Grundlegend #3 (technisch): Webartikel **[Managing output in the .NET SDK projects](https://cezarypiatek.GitHub.io/post/managing-output-in-sdk-projects/)** (2019) von Cezary Piątek
+				- (Einstiegsalternative: (€) Buch [.NET Core in Action](https://www.manning.com/books/dotnet-core-in-action) (2018) von Dustin Metzgar, Kapitel 3 „How to build with .NET Core“)
+				- Zwei Build-Arten: .NET Framework (**msbuild**; Windows-only; Visual Studio) vs. .NET / .NET Core (**dotnet build**; Cross-Platform; .NET CLI)
+				- Zwei Referenztypen: **[ProjectReference](https://github.com/dotnet/msbuild/blob/main/documentation/ProjectReference-Protocol.md)** (u.a. [PreserveNewest](https://stackoverflow.com/questions/62991404/how-does-project-item-metadata-preservenewest-actually-work) sowie „Copy Local“ = Private:false) vs. **[PackageReference](https://learn.microsoft.com/en-us/nuget/consume-packages/package-references-in-project-files)** (u.a. „NOT Copy Local“ = [ExcludeAssets:runtime](https://learn.microsoft.com/en-US/nuget/consume-packages/package-references-in-project-files#controlling-dependency-assets) sowie [PrivateAssets:all](https://learn.microsoft.com/en-us/answers/questions/702182/how-to-hide-dependent-nuget-dll39s-from-consuming.html) und im Legacy-Build-Kontext ggf. [CopyLocalLockFileAssemblies:true](https://stackoverflow.com/questions/43837638/how-do-i-get-net-core-projects-to-copy-nuget-references-to-the-build-output/52824190#52824190))
+			- NuGet: Microsoft [**Quickstart** to create a NuGet package](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-the-dotnet-cli) | Webartikel **[5 steps to better NuGet package](https://alex-klaus.com/better-nuget/)** von Alex Klaus | [Best Practices for **Versioning** NuGet **Packages** in the Enterprise](https://blog.inedo.com/nuget/package-versioning) (2021) by Eric Seng | **[NuGet in the Enterprise](https://blog.inedo.com/nuget/in-the-enterprise-2021)** (2021) by Eric Seng | [Prerelease Packages & **Repackaging**](https://docs.inedo.com/docs/proget-packages-repackaging) (2021) | [Managing the global packages, cache, and temp folders](https://learn.microsoft.com/en-us/nuget/consume-packages/managing-the-global-packages-and-cache-folders)
+			- Impuls zur Inspiration: [Adding both Project and Package references](https://github.com/dotnet/project-system/issues/2836)
+	- Basis von DevOps #3: **System Integration**
+		- Webartikel **[Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)** (2006) von Martin Fowler ⭐
+		- Cloud-native: Video **[CI/CD on Google Cloud](https://www.youtube.com/watch?v=orZEBSXbmFU)** von Google | Amazon [Set Up a CI/CD Pipeline on AWS](https://aws.amazon.com/getting-started/hands-on/set-up-ci-cd-pipeline/) | Microsoft [CI/CD-Baseline-Architektur mit Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/architectures/devops-pipelines-baseline-architecture)
+		- **[Awesome CI/CD](https://github.com/cicdops/awesome-ciandcd)**
+	- Basis von DevOps #4: **Software-Architektur** und **Software-Engineering**
+		- vgl. eigene SWE-Abschnitte in den Listen zu B.Sc. und M.Sc.
+	- Basis von DevOps #5: **IT-Sicherheit**
+		- vgl. eigene IT-Security-Abschnitte in den Listen zu B.Sc. und M.Sc.
+	- Basis von DevOps #6: **Configuration Management** sowie **Release & Deployment Management**, klassisch per **Release Train**
+		- (€:) Buch **[Release It!](https://www.amazon.de/dp/1680502395/)** (Original: 2007 | Aktualisiert: 2018) von Michael T. Nygard
+	- Basis von DevOps #7: Klassischer **Betrieb** / **IT Service Management** = ITSM / **Change Management** / **Incident Management**
+		- Überlappt sich mit Punkt #1 (SysOps/SysAdmin), aber als Professionalisierung hier nochmal als Extrapunkt, damit schließt sich ein Kreis
+		- Gartner [Magic Quadrant für ITSM](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/company-library/media/itsm-8-time-pr.png)
+		- ITIL: [guru99 **What is ITIL?**](https://www.guru99.com/itil-framework-process.html) | **[ITIL Tutorial](https://www.knowledgehut.com/tutorials/itil4-tutorial)**
+	- Site Reliability Engineering:
+		- [Google **SRE Books**](https://sre.google/books/) (vgl. oben: Google SRE = DevOps-im-engsten-Sinn = erste brauchbare Implementierung von DevOps für Hochgeschwindigkeit-IT)
+			- Google Cloud Skills Boost: **[DevOps Engineer, SRE Learning Path](https://www.cloudskillsboost.google/paths/20)**
+			- Video-Playlist **[SRE implements DevOps](https://www.youtube.com/playlist?list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj)** von Google
+			- Video-Playlist **[Engineering for Reliability](https://www.youtube.com/playlist?list=PLIivdWyY5sqLOiLXJDlN-wKd0g7hf_9vC)** von Google
+			- **[Google SRE](https://cloud.google.com/sre)** Einstieg-Seite
+		- **[Awesome SRE](https://github.com/dastergon/awesome-sre)**
+	- Nennenswertes:
+		- **[Semantic Versioning](https://semver.org/)** (SemVer) ⭐
+		- **[Conventional Commits](https://www.conventionalcommits.org)** ⭐
+		- Dynatrace **[A Beginner's Guide to DevOps](https://www.dynatrace.com/resources/ebooks/devops/)**
+		- [**TerraForm** Curriculum](https://learn.hashicorp.com/terraform) (von HashiCorp Learn)
+		- **[Awesome DevOps » Books](http://awesome-devops.xyz/#books)**
+		- **[Awesome Monorepo](https://github.com/korfuri/awesome-monorepo)**
+		- [**Release Pipelines** – Terminology und Basiskonzepte am Bsp. TFS/Azure](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/artifacts)
+		- Die Liste [DevOps auf hackr.io](https://hackr.io/devops) (noch jung, noch ohne hyperbolische Voting-Selektion)
+	- Meine **[SWE](https://github.com/cyberlytics/awesome-software-engineering-tools)**-Liste (u.a. die dortigen Abschnitte [DevOps](https://github.com/cyberlytics/awesome-software-engineering-tools#devops) sowie [Modellierung & Architektur](https://github.com/cyberlytics/awesome-software-engineering-tools#modellierung--architektur), [Testing](https://github.com/cyberlytics/awesome-software-engineering-tools#testing) und weitere) sowie meine **[BDCC4Ai](https://github.com/cyberlytics/awesome-bdccai-tools)**-Liste (u.a. [Security](https://github.com/cyberlytics/awesome-bdccai-tools#security) und weitere)
+	- Erweiterte Stichwortliste: ⭐
+		- [Configuration Management](https://en.wikipedia.org/wiki/Configuration_management), [Dependency Management](https://missing.csail.mit.edu/2019/package-management/), [Dependency Hell](https://en.wikipedia.org/wiki/Dependency_hell) ([DLL \[Heck\]](https://en.wikipedia.org/wiki/DLL_Hell), [NuGet hell](https://www.google.com/search?q=nuget+hell), …), [Dependency Manager](https://devopedia.org/dependency-manager), [Build-Artifact Management](https://www.leanix.net/en/wiki/vsm/software-artifacts), [Release Management](https://en.wikipedia.org/wiki/Release_management), [Release Automation](https://en.wikipedia.org/wiki/Application-release_automation), [Software-Artifact Repository](https://en.wikipedia.org/wiki/Software_repository), [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration), [Infrastructure Automation / GitOps](https://about.gitlab.com/topics/gitops/), [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code), [Configuration as a Code](https://www.perforce.com/blog/vcs/configuration-as-code), [Virtualization](https://en.wikipedia.org/wiki/Hardware_virtualization), [Container](https://en.wikipedia.org/wiki/OS-level_virtualization) & [Containerization](https://aws.amazon.com/de/what-is/containerization/), [Consistent Environments](http://engineering-principles.onejl.uk/practices/Consistent_Environments.html), [Image Repositories](https://www.aquasec.com/cloud-native-academy/container-security/image-repository/), [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery), [Deployability](https://en.wikipedia.org/wiki/Deployment), [Modifiability](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010/57-maintainability), [Testability](https://en.wikipedia.org/wiki/Software_testability), [Monitorability/SLO-Überwachung](https://cloud.google.com/monitoring), [Maintainability](https://en.wikipedia.org/wiki/Software_maintenance), [Twelve Factor App Methodology](https://12factor.net/), [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+	- Scholar-Disclaimer: ⚠️
+		- Auf Scholar finden Sie ggf. keine Paper, weil die wissenschaftlichen Publikationen zu vielen Aspekten so alt sind (z.B. 90er Jahre), dass sie nicht als PDF im Netz stehen. Aus wissenschaftlicher Sicht sind die Einzelthemen zu DevOps-im-weitesten-Sinn nicht so neu, wie sich die Community den Anschein gibt.
+	- Weiterführende Quellen: [Best **DevOps** Blogs and **Resources for Learning**](https://devopscube.com/list-of-devops-blogs-and-resources/) | [Awesome DevOps **Learning**](https://github.com/Lets-DevOps/awesome-learning) | roadmap.sh [DevOps Roadmap](https://roadmap.sh/devops) | [Awesome **Terraform**](https://github.com/cloud-architecture/awesome-terraform)
+	- **DevSecOps**:
+		- Ich ordne das Thema eher der IT-Sicherheit unter, daher vgl. die IT-Security-Abschnitte in den Listen zu B.Sc. und M.Sc.
+		- Weiterführende Quellen: [DevSecOps](https://www.aquasec.com/cloud-native-academy/devsecops/devsecops/)
+		- Anmerkung: Der alternative Begriff "SecDevOps" ist die Security-first Variation von DevSecOps, ist aber weniger populär
+			- (Außerdem gab es auch noch "DevOpsSec" als Buchtitel von O'Reily, ist aber begrifflich kaum populär)
 - **[Availability and Uptime](https://www.logicmonitor.com/blog/uptime-vs-availability)** Goals:
-  - **99% (“2 nines“): 87,6 hours (~4 days) downtime per year – [Already requires careful considerations](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/s-99-scenario.html)**
-  - 99,5%: 43,8 hours (~2 days) downtime per year – (AWS offers an instance-level SLA of 99,5% for EC2 instances)
-  - **99,9% (“3 nines“): 8,76 hours downtime per year – [Not easy at all](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/s-99.9-scenario.html)**
-  - 99,99% (“4 nines“): 52,56 minutes downtime per year
-  - **99,999% (“[5 nines](https://www.blameless.com/blog/five-nines-availability)“): 5,26 minutes downtime per year – [Always-On Infrastructure](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/s-99.999-or-higher-scenario-with-a-recovery-time-under-1-minute.html) = Continuous Availability**
-  - 99,9999% (“6 nines“): 31,54 seconds downtime per year – Inhuman for SW! For HW/SW-CoDesign or HW.
-  - 99,99999% (“7 nines“): 3,15 seconds downtime per year
-  - 99,999999% (“8 nines“): 315 milliseconds downtime per year
-  - 99,9999999% (“9 nines“): 31,5 milliseconds downtime per year – Just for [some ATM switches running on Erlang](https://stackoverflow.com/questions/8426897/erlangs-99-9999999-nine-nines-reliability)…
-  - 100% uptime is impossible
+	- **99% (“2 nines“): 87,6 hours (~4 days) downtime per year – [Already requires careful considerations](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/s-99-scenario.html)**
+	- 99,5%: 43,8 hours (~2 days) downtime per year – (AWS offers an instance-level SLA of 99,5% for EC2 instances)
+	- **99,9% (“3 nines“): 8,76 hours downtime per year – [Not easy at all](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/s-99.9-scenario.html)**
+	- 99,99% (“4 nines“): 52,56 minutes downtime per year
+	- **99,999% (“[5 nines](https://www.blameless.com/blog/five-nines-availability)“): 5,26 minutes downtime per year – [Always-On Infrastructure](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/s-99.999-or-higher-scenario-with-a-recovery-time-under-1-minute.html) = Continuous Availability**
+	- 99,9999% (“6 nines“): 31,54 seconds downtime per year – Inhuman for SW! For HW/SW-CoDesign or HW.
+	- 99,99999% (“7 nines“): 3,15 seconds downtime per year
+	- 99,999999% (“8 nines“): 315 milliseconds downtime per year
+	- 99,9999999% (“9 nines“): 31,5 milliseconds downtime per year – Just for [some ATM switches running on Erlang](https://stackoverflow.com/questions/8426897/erlangs-99-9999999-nine-nines-reliability)…
+	- 100% uptime is impossible
 
 #### AI
 
 - (AI:) Machine Learning / Subsymbolische Künstliche Intelligenz
-  - Grundlegendes: Starke vs. schwache KI vs. (Technological) Singularity: [**Artificial General Intelligence** (AGI)](https://en.wikipedia.org/wiki/Artificial_general_intelligence) auf Wikipedia
-  - Machine Learning
-    - Kurs **[Stanford ML](https://www.coursera.org/learn/machine-learning)**
-    - [**Google** Tech Dev Guide: **Machine Learning**](https://techdevguide.withgoogle.com/paths/machine-learning/)
-    - [10 Types of Machine learning Algorithms and Their Use Cases](https://www.marktechpost.com/2024/11/27/10-types-of-machine-learning-algorithms-and-their-use-cases/)
-    - [Top 15 Machine Learning Algorithms Every Data Scientist Should Know](https://www.geeksforgeeks.org/top-10-algorithms-every-machine-learning-engineer-should-know/)
-    - [A Beginner’s Guide to the Top 10 Machine Learning Algorithms](https://www.kdnuggets.com/a-beginner-guide-to-the-top-10-machine-learning-algorithms)
-    - Videokurs freeCodeCamp [Learn the Foundations of Machine Learning and Artificial Intelligence](https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/)
-  - Deep Learning
-    - Buch [Dive into Deep Learning (**D2L**)](https://d2l.ai/)
-    - Buch **[Deep Learning](https://www.deeplearningbook.org/)**
-    - Historie: [How a stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/) sowie [How computers got shockingly good at recognizing images](https://arstechnica.com/science/2018/12/how-computers-got-shockingly-good-at-recognizing-images/)
-  - Reinforcement Learning
-    - Vorlesung **[Reinforcement Learning](https://www.davidsilver.uk/teaching/)** (2015) und Video **[Deep Reinforcement Learning](https://videolectures.net/rldm2015_silver_reinforcement_learning/)** von David Silver
-    - Buch [**Reinforcement Learning**: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) (2017; Prepress-Version) von Sutton & Barto
-    - Videos [**Deep RL** Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
-  - Videos [Making Friends with machine learning (**MFML**)](https://www.kdnuggets.com/2022/09/everything-youve-ever-wanted-to-know-about-machine-learning.html)
-  - Einstieg: [Machine Learning Basics … **for Non-Technical Readers**](https://pages.dataiku.com/machine-learning-basics-illustrated-guidebook) ⚠️ | DataCamp **[Understanding Machine Learning](https://www.datacamp.com/courses/understanding-machine-learning)** | freeCodeCamp **[Machine Learning Handbook](https://www.freecodecamp.org/news/machine-learning-handbook/)**
-  - Anwendungsfälle: [Big Book of **Data Science** Use Cases](https://databricks.com/p/ebook/the-big-book-of-data-science-use-cases-nurture) | [Big Book of **Machine Learning** Use Cases](https://databricks.com/p/ebook/big-book-of-machine-learning-use-cases)
-    - Object Detection: [YOLO-NAS: SoTA Foundation Model for Object Detection](https://wandb.ai/geekyrakshit/yolo-nas-integration/reports/YOLO-NAS-SoTA-Foundation-Model-for-Object-Detection--Vmlldzo0MzE1NTA2)
-  - Grenzen:
-    - Nennenswert/allg.: [Mops vs. Muffins](https://www.freecodecamp.org/news/chihuahua-or-muffin-my-search-for-the-best-computer-vision-api-cbda4d6b425d/) | [Why deep-learning AIs are so easy to fool](https://www.nature.com/articles/d41586-019-03013-5) (2019) by Douglas Heaven
-    - Anti-Gesichtserkennung: [Brillengestelle](https://www.heise.de/newsticker/meldung/Buntes-Brillengestell-soll-zuverlaessig-Gesichtserkennung-austricksen-3456711.html)
-    - Anti-Kunst-Plagiarism: [GLAZE](https://arxiv.org/abs/2302.04222)
-  - Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
-  - Weiterführende Quellen: siehe [Master-Abschnitt](#msc-big-data-and-cloud-computing-for-ai)
+	- Grundlegendes: Starke vs. schwache KI vs. (Technological) Singularity: [**Artificial General Intelligence** (AGI)](https://en.wikipedia.org/wiki/Artificial_general_intelligence) auf Wikipedia
+	- Machine Learning
+		- Kurs **[Stanford ML](https://www.coursera.org/learn/machine-learning)**
+		- [**Google** Tech Dev Guide: **Machine Learning**](https://techdevguide.withgoogle.com/paths/machine-learning/)
+		- [10 Types of Machine learning Algorithms and Their Use Cases](https://www.marktechpost.com/2024/11/27/10-types-of-machine-learning-algorithms-and-their-use-cases/)
+		- [Top 15 Machine Learning Algorithms Every Data Scientist Should Know](https://www.geeksforgeeks.org/top-10-algorithms-every-machine-learning-engineer-should-know/)
+		- [A Beginner’s Guide to the Top 10 Machine Learning Algorithms](https://www.kdnuggets.com/a-beginner-guide-to-the-top-10-machine-learning-algorithms)
+		- Videokurs freeCodeCamp [Learn the Foundations of Machine Learning and Artificial Intelligence](https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/)
+	- Deep Learning
+		- Buch [Dive into Deep Learning (**D2L**)](https://d2l.ai/)
+		- Buch **[Deep Learning](https://www.deeplearningbook.org/)**
+		- Historie: [How a stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/) sowie [How computers got shockingly good at recognizing images](https://arstechnica.com/science/2018/12/how-computers-got-shockingly-good-at-recognizing-images/)
+	- Reinforcement Learning
+		- Vorlesung **[Reinforcement Learning](https://www.davidsilver.uk/teaching/)** (2015) und Video **[Deep Reinforcement Learning](https://videolectures.net/rldm2015_silver_reinforcement_learning/)** von David Silver
+		- Buch [**Reinforcement Learning**: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) (2017; Prepress-Version) von Sutton & Barto
+		- Videos [**Deep RL** Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+	- Videos [Making Friends with machine learning (**MFML**)](https://www.kdnuggets.com/2022/09/everything-youve-ever-wanted-to-know-about-machine-learning.html)
+	- Einstieg: [Machine Learning Basics … **for Non-Technical Readers**](https://pages.dataiku.com/machine-learning-basics-illustrated-guidebook) ⚠️ | DataCamp **[Understanding Machine Learning](https://www.datacamp.com/courses/understanding-machine-learning)** | freeCodeCamp **[Machine Learning Handbook](https://www.freecodecamp.org/news/machine-learning-handbook/)**
+	- Anwendungsfälle: [Big Book of **Data Science** Use Cases](https://databricks.com/p/ebook/the-big-book-of-data-science-use-cases-nurture) | [Big Book of **Machine Learning** Use Cases](https://databricks.com/p/ebook/big-book-of-machine-learning-use-cases)
+		- Object Detection: [YOLO-NAS: SoTA Foundation Model for Object Detection](https://wandb.ai/geekyrakshit/yolo-nas-integration/reports/YOLO-NAS-SoTA-Foundation-Model-for-Object-Detection--Vmlldzo0MzE1NTA2)
+	- Grenzen:
+		- Nennenswert/allg.: [Mops vs. Muffins](https://www.freecodecamp.org/news/chihuahua-or-muffin-my-search-for-the-best-computer-vision-api-cbda4d6b425d/) | [Why deep-learning AIs are so easy to fool](https://www.nature.com/articles/d41586-019-03013-5) (2019) by Douglas Heaven
+		- Anti-Gesichtserkennung: [Brillengestelle](https://www.heise.de/newsticker/meldung/Buntes-Brillengestell-soll-zuverlaessig-Gesichtserkennung-austricksen-3456711.html)
+		- Anti-Kunst-Plagiarism: [GLAZE](https://arxiv.org/abs/2302.04222)
+	- Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
+	- Weiterführende Quellen: siehe [Master-Abschnitt](#msc-big-data-and-cloud-computing-for-ai)
 - Generative AI / LLMs:
-  - Einstieg GAN: [**Generative Adversarial Networks**: Build Your First Models](https://realpython.com/generative-adversarial-networks/) | [Tensorflow GAN](https://www.tensorflow.org/tutorials/generative/dcgan) | Google Course [GAN](https://developers.google.com/machine-learning/gan)
-  - Einstieg LLM: [What are Large Language Models](https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/)
-  - Für Non-Technical Persons:
-    - Webartikel [A jargon-free explanation of how AI large language models work](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
-    - Podcast [State of Process Automation](https://www.stateofprocessautomation.com/) mit Folge [145 „**Generative KI im Mittelstand**“](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZWMwMDhjMC9wb2RjYXN0L3Jzcw/episode/M2M4ZDhmZDMtMThlNS00ODYwLWJhZmEtMDhjZmM0MWFiNjUy)
-    - Zur Leistungsfähigkeit von LLMs: [A **GPT-4 Capability** Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris) ⭐
-  - Einstieg für Technical Persons:
-    - Webartikel [What are **Large Language Models** (LLMs)?](https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/)
-    - Videokurs freeCodeCamp [Learn Generative AI for Developers](https://www.freecodecamp.org/news/learn-generative-ai-for-developers/)
-  - Chatbot (Text-to-Text):
-    - Einstieg: KDnuggets [ChatGPT: Everything You **Need to Know**](https://www.kdnuggets.com/2023/01/chatgpt-everything-need-know.html) | KDnuggets [ChatGPT as a **Python Programming Assistant**](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html)
-    - Webartikel: **[GPT-3's family tree](https://www.truthm.com/gpt-3s-family-tree/)** | Paper **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** (2017) von Vasvani et al. (auch als das [**Transformer**-Paper von Google](https://arxiv.org/abs/1706.03762) bekannt)
-    - Zulässigkeit von Generative AI als Werkzeug zur Erstellung wiss. Publikationen? vgl. **[ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship)**
-    - Text-to-Code: [Top Open Source (Free) Text to Code Generator models on the market](https://www.edenai.co/post/top-free-code-generation-tools-apis-and-open-source-models)
-    - Weiterführende Referenz: [Awesome OpenAI](https://github.com/Jaykef/awesome-openAI)
-  - Image Generator: [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
-  - Tools für Text-to-X: [Tools auf meiner Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#generative-ki) (Text-zu-Bild, Text-zu-Video, Text-zu-Präsentation, Text-zu-Quiz, Text-zu-Sprache, Text-zu-Sound)
-  - Europäische Ebene: **[LEAM](https://leam.ai/)**
-  - Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
-  - Weiterführende Quellen: [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art), [Awesome MVS](https://github.com/walsvid/Awesome-MVS)
+	- Einstieg GAN: [**Generative Adversarial Networks**: Build Your First Models](https://realpython.com/generative-adversarial-networks/) | [Tensorflow GAN](https://www.tensorflow.org/tutorials/generative/dcgan) | Google Course [GAN](https://developers.google.com/machine-learning/gan)
+	- Einstieg LLM: [What are Large Language Models](https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/)
+	- Für Non-Technical Persons:
+		- Webartikel [A jargon-free explanation of how AI large language models work](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
+		- Podcast [State of Process Automation](https://www.stateofprocessautomation.com/) mit Folge [145 „**Generative KI im Mittelstand**“](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZWMwMDhjMC9wb2RjYXN0L3Jzcw/episode/M2M4ZDhmZDMtMThlNS00ODYwLWJhZmEtMDhjZmM0MWFiNjUy)
+		- Zur Leistungsfähigkeit von LLMs: [A **GPT-4 Capability** Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris) ⭐
+	- Einstieg für Technical Persons:
+		- Webartikel [What are **Large Language Models** (LLMs)?](https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/)
+		- Videokurs freeCodeCamp [Learn Generative AI for Developers](https://www.freecodecamp.org/news/learn-generative-ai-for-developers/)
+	- Chatbot (Text-to-Text):
+		- Einstieg: KDnuggets [ChatGPT: Everything You **Need to Know**](https://www.kdnuggets.com/2023/01/chatgpt-everything-need-know.html) | KDnuggets [ChatGPT as a **Python Programming Assistant**](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html)
+		- Webartikel: **[GPT-3's family tree](https://www.truthm.com/gpt-3s-family-tree/)** | Paper **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** (2017) von Vasvani et al. (auch als das [**Transformer**-Paper von Google](https://arxiv.org/abs/1706.03762) bekannt)
+		- Zulässigkeit von Generative AI als Werkzeug zur Erstellung wiss. Publikationen? vgl. **[ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship)**
+		- Text-to-Code: [Top Open Source (Free) Text to Code Generator models on the market](https://www.edenai.co/post/top-free-code-generation-tools-apis-and-open-source-models)
+		- Weiterführende Referenz: [Awesome OpenAI](https://github.com/Jaykef/awesome-openAI)
+	- Image Generator: [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
+	- Tools für Text-to-X: [Tools auf meiner Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#generative-ki) (Text-zu-Bild, Text-zu-Video, Text-zu-Präsentation, Text-zu-Quiz, Text-zu-Sprache, Text-zu-Sound)
+	- Europäische Ebene: **[LEAM](https://leam.ai/)**
+	- Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
+	- Weiterführende Quellen: [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art), [Awesome MVS](https://github.com/walsvid/Awesome-MVS)
 - Prompt Engineering: [Google Prompting Essentials](https://www.coursera.org/learn/google-prompting-essentials)
-  - ChatBot:
-    - Einstieg: [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain) | [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101) | roadmap.sh [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
-    - Cheat Sheets: [20 ChatGPT Prompts](https://images.app.goo.gl/7LqXi96XaQABWpRY6), [All-in-one AI Cheat Sheet](https://images.app.goo.gl/uvfr5XsuUdHD2gRYA), [Prompt Engineering Mistakes](https://images.app.goo.gl/ANUTJHrRc6QzM1ak6)
-    - Use Cases: [The 14 Best ChatGPT Prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-GitHub/) (2023) von J. Luansing
-    - Data Science: KDnuggets [ChatGPT-**for-Data-Science**-Cheatsheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_for_Data_Science_Cheat_Sheet_KDnuggets.pdf), KDnuggets [ChatGPT-**Cheatsheet**](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
-    - IT-Security: [ChatGPT4 – Potential Scenarios For Accelerated Cybercrime](https://blog.checkpoint.com/2023/03/15/check-point-research-conducts-initial-security-analysis-of-chatgpt4-highlighting-potential-scenarios-for-accelerated-cybercrime/)
-  - Text-zu-Bild: [The Ultimate **Stable Diffusion Prompt Guide**](https://prompthero.com/stable-diffusion-prompt-guide) von PromptHero | [Prompting **Adobe Firefly**](https://torybarber.com/prompting-adobe-firefly/) (2023) von Tory Barber
-    - Webartikel [How to Use ChatGPT to Write Prompts & Prompt Templates for Adobe Firefly & Midjourney](https://www.downloadsource.net/how-to-use-chatgpt-to-write-prompts-prompt-templates-for-adobe-firefly-midjourney/n/22511/) (2023) von Jascha Luca | analog [Adobe Firefly prompt generator](https://flowgpt.com/prompt/UjVmU4bSLor1cpBxx5veq) Vorlage für GPT
-  - Weiterführende Quellen: [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | reddit-Liste [Useful Prompt Engineering tools and resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) | lablab [AI Tutorials](https://lablab.ai/t) | [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
+	- ChatBot:
+		- Einstieg: [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain) | [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101) | roadmap.sh [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
+		- Cheat Sheets: [20 ChatGPT Prompts](https://images.app.goo.gl/7LqXi96XaQABWpRY6), [All-in-one AI Cheat Sheet](https://images.app.goo.gl/uvfr5XsuUdHD2gRYA), [Prompt Engineering Mistakes](https://images.app.goo.gl/ANUTJHrRc6QzM1ak6)
+		- Use Cases: [The 14 Best ChatGPT Prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-GitHub/) (2023) von J. Luansing
+		- Data Science: KDnuggets [ChatGPT-**for-Data-Science**-Cheatsheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_for_Data_Science_Cheat_Sheet_KDnuggets.pdf), KDnuggets [ChatGPT-**Cheatsheet**](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
+		- IT-Security: [ChatGPT4 – Potential Scenarios For Accelerated Cybercrime](https://blog.checkpoint.com/2023/03/15/check-point-research-conducts-initial-security-analysis-of-chatgpt4-highlighting-potential-scenarios-for-accelerated-cybercrime/)
+	- Text-zu-Bild: [The Ultimate **Stable Diffusion Prompt Guide**](https://prompthero.com/stable-diffusion-prompt-guide) von PromptHero | [Prompting **Adobe Firefly**](https://torybarber.com/prompting-adobe-firefly/) (2023) von Tory Barber
+		- Webartikel [How to Use ChatGPT to Write Prompts & Prompt Templates for Adobe Firefly & Midjourney](https://www.downloadsource.net/how-to-use-chatgpt-to-write-prompts-prompt-templates-for-adobe-firefly-midjourney/n/22511/) (2023) von Jascha Luca | analog [Adobe Firefly prompt generator](https://flowgpt.com/prompt/UjVmU4bSLor1cpBxx5veq) Vorlage für GPT
+	- Weiterführende Quellen: [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | reddit-Liste [Useful Prompt Engineering tools and resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) | lablab [AI Tutorials](https://lablab.ai/t) | [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
 - (AI:) Symbolische Künstliche Intelligenz
-  - Umfassende Referenz: **[AI-Vorlesungsskript](https://kwarc.info/teaching/AI/notes.pdf)** von Prof. Michael Kohlhase (FAU)
+	- Umfassende Referenz: **[AI-Vorlesungsskript](https://kwarc.info/teaching/AI/notes.pdf)** von Prof. Michael Kohlhase (FAU)
 - Robotik
-  - Umfassende Referenzen:
-    - Buch (€€) Springer **[Handbook of Robotics](https://www.amazon.de/dp/3319325507/)** (2016) von Sicilano & Khatib \[EN\] ⭐
-      - Kostenlos für Studierende der OTH-AW per [Bib/OPAC](https://opac.oth-aw.de/TouchPoint/perma.do?q=+1035%3D%22BV043706274%22+IN+%5B2%5D&v=faw&l=de) \[[PDF|EPub](https://doi.org/10.1007/978-3-319-32552-1)\]
-    - Buch (€) **[Handbuch Robotik](https://www.amazon.de/dp/364239857X)** (2013) von Matthias Haun \[DE\]
-  - Autonome, mobile Roboter:
-    - Buche (€) **[Mobile Robotik](https://www.amazon.com/dp/3540428585)** (2002) von Nehmzow
-  - Weiterführende Quellen: [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) #1 | [Awesome Robotics](https://github.com/ahundt/awesome-robotics) #2 | [Robotics Coursework](https://github.com/mithi/robotics-coursework) | [Learning Optimal Control](https://github.com/martinseilair/learningoptimalcontrol)
+	- Umfassende Referenzen:
+		- Buch (€€) Springer **[Handbook of Robotics](https://www.amazon.de/dp/3319325507/)** (2016) von Sicilano & Khatib \[EN\] ⭐
+			- Kostenlos für Studierende der OTH-AW per [Bib/OPAC](https://opac.oth-aw.de/TouchPoint/perma.do?q=+1035%3D%22BV043706274%22+IN+%5B2%5D&v=faw&l=de) \[[PDF|EPub](https://doi.org/10.1007/978-3-319-32552-1)\]
+		- Buch (€) **[Handbuch Robotik](https://www.amazon.de/dp/364239857X)** (2013) von Matthias Haun \[DE\]
+	- Autonome, mobile Roboter:
+		- Buche (€) **[Mobile Robotik](https://www.amazon.com/dp/3540428585)** (2002) von Nehmzow
+	- Weiterführende Quellen: [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) #1 | [Awesome Robotics](https://github.com/ahundt/awesome-robotics) #2 | [Robotics Coursework](https://github.com/mithi/robotics-coursework) | [Learning Optimal Control](https://github.com/martinseilair/learningoptimalcontrol)
 - Operations Research (⊆ Wirtschaftsinformatik)
-  - OR-Einstieg:
-    - (€:) Buch [Introduction to **Operations Research**](https://www.amazon.de/dp/9339221850) (2014 | [Orig: 1967](https://www.amazon.de/dp/0816238677)) von Frederick S. Hillier et al.
-    - (€:) Buch [Operations Research: Applications and Algorithms](https://books.google.de/books/about/Operations_Research_Applications_and_Alg.html?id=Y9NYEAAAQBAJ) (2004 | Orig: 1987) von Wayne L. Winston \[v.a. zum Ausleihen aus einer Bibliothek\]
-    - Laienfreundliche [Übersichtsgrafik **OR**](https://www.dynaprog.de/images/operations-research-abstraktionslevel.png)
-      - Klassische generische Probleme: Traveling Salesman Problem (TSP), Rucksack, Graphenfärbung, …
-      - Klassische reelle Probleme: Routenplanung, Anlagenkapazität-Optimierung, Personaleinsatzplanung, Supply Chain Optimierung, …
-    - Mathematischer Überblick: Webartikel [What types of optimization problems does SCIP solve?](https://www.scipopt.org/doc/html/WHATPROBLEMS.php)
-  - Disziplinen:
-    - Linear Programming ([LP](https://en.wikipedia.org/wiki/Linear_programming)) und Integer Programming ([IP](https://en.wikipedia.org/wiki/Integer_programming))
-      - \[LP: objective function is linear and the constraints consist of linear equalities and inequalities\]
-      - Fortgeschrittenes Buch **[Theory of Linear and Integer Programming](https://www.amazon.com/dp/0471908541/)** (1986) von Alexander Schrijver
-    - Nonlinear Programming ([NLP](https://en.wikipedia.org/wiki/Nonlinear_programming)) / seltener: Nonlinear Optimization
-      - \[at least one of the objective function and constraints is nonlinear\]
-      - [lm-AMZN-tfy](https://www.amazon.de/s?k=Nonlinear+Programming)
-    - [Convex Optimization](https://en.wikipedia.org/wiki/Convex_optimization) / seltener: Convex Programming (CP)
-      - \[minimizing a convex objective function (or maximizing a concave objective function) over a convex set of constraints\]
-      - \[overlaps both linear and nonlinear programming as a superset of LP and subset of the NLP\]
-      - Kostenloses Buch **[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)** von Boyd & Vandenberghe
-    - Stochastic Optimization ([SO](https://en.wikipedia.org/wiki/Stochastic_optimization))
-      - inkl. heuristische Algorithmen / [Metaheuristiken](https://en.wikipedia.org/wiki/Metaheuristic) \[[Bild](https://en.wikipedia.org/wiki/Metaheuristic#/media/File:Metaheuristics_classification.svg)\]
-        - \[„Metaheuristik“ = grundsätzliches Verfahren, das nicht an ein spezielles Problem gebunden\]
-        - inkl. [Genetische Algorithmen](https://en.wikipedia.org/wiki/Genetic_algorithms) und [Schwarm-Algorithmen](https://en.wikipedia.org/wiki/Swarm_intelligence)
-  - Anwendungsgebiete
-    - Vehicle Routing Problems (**[VRP](https://en.wikipedia.org/wiki/Vehicle_routing_problem)**), als Generalisierung des Travelling Salesman Problem ([TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem))
-      - Buch (€) [**Vehicle Routing**: Problems, Methods, and Applications](https://epubs.siam.org/doi/book/10.1137/1.9781611973594) (2014) von Paolo Toth & Daniele Vigo
-      - Nennenswerte VRP-Subdisziplinen (ausgewählte; es gibt etliche mehr):
-        - CVRP = Capacitated Vehicle Routing Problem
-        - VRPTW = Vehicle Routing Problem with Time Windows
-        - VRPPD = Vehicle Routing Problem with Pickup and Delivery
-        - MDVRP = Multi-Depot Vehicle Routing Problem
-        - IRP = Inventory Routing Problem
-      - Ausgewählte Paper:
-        - VRPPD paper [Integrating first-mile pickup and last-mile delivery on shared vehicle routes for efficient urban e-commerce distribution](https://doi.org/10.1016/j.trb.2019.09.013) (2020) von Bergmann, Wagner & Winkenbach
-    - [Transportation Problems](<https://en.wikipedia.org/wiki/Transportation_theory_(mathematics)>), insbesondere [Hitchcock Problem](https://www.cs.emory.edu/~cheung/Courses/253/Syllabus/Transportation/intro.html)
-      - Fortgeschrittenes Buch **[Computational Optimal Transport](https://arxiv.org/pdf/1803.00567.pdf)** (2020) von G. Peyré & M. Cuturi
-  - Weiterführende Quellen: [Awesome Operational Research](https://github.com/joaojunior/awesome-operational_research) #1 | [Awesome Operational Research](https://github.com/SirMore/Awesome-Operations-Research/blob/main/books.md) #2 | [Awesome OR-Tools (Sect. Research)](https://github.com/or-tools/awesome_or-tools?tab=readme-ov-file#research)
-    - Weitere [kostenlose Bücher über OR](https://freecomputerbooks.com/specialOperationResearchBooks.html)
-    - Es gibt nur wenige kostenlose Kurse zu OR, aber diese beiden der National Taiwan University: 1) [OR: Models and Applications](https://www.classcentral.com/course/operations-research-modeling-33417), 2) [OR: Optimization Algorithms](https://www.classcentral.com/course/operations-research-algorithms-33430)
-  - OBACHT: **OR ist nicht AI**!
-    - Die Anwendung von AI auf klassische OR-Probleme ist eine neue Strömung!
-    - Travelling-salesperson problem (TSP)
-      - Einstieg: [**AI for TSP** competition](https://www.tspcompetition.com/)
-      - TSP mit Reinforcement Learning:
-        - [AMARL: An Attention-Based Multiagent Reinforcement Learning Approach to the Min-Max Multiple Traveling Salesmen Problem](https://doi.org/10.1109/TNNLS.2023.3236629)
-        - [Learn to Solve the Min-max Multiple Traveling Salesmen Problem with Reinforcement Learning](https://doi.org/10.5555/3545946.3598725)
+	- OR-Einstieg:
+		- (€:) Buch [Introduction to **Operations Research**](https://www.amazon.de/dp/9339221850) (2014 | [Orig: 1967](https://www.amazon.de/dp/0816238677)) von Frederick S. Hillier et al.
+		- (€:) Buch [Operations Research: Applications and Algorithms](https://books.google.de/books/about/Operations_Research_Applications_and_Alg.html?id=Y9NYEAAAQBAJ) (2004 | Orig: 1987) von Wayne L. Winston \[v.a. zum Ausleihen aus einer Bibliothek\]
+		- Laienfreundliche [Übersichtsgrafik **OR**](https://www.dynaprog.de/images/operations-research-abstraktionslevel.png)
+			- Klassische generische Probleme: Traveling Salesman Problem (TSP), Rucksack, Graphenfärbung, …
+			- Klassische reelle Probleme: Routenplanung, Anlagenkapazität-Optimierung, Personaleinsatzplanung, Supply Chain Optimierung, …
+		- Mathematischer Überblick: Webartikel [What types of optimization problems does SCIP solve?](https://www.scipopt.org/doc/html/WHATPROBLEMS.php)
+	- Disziplinen:
+		- Linear Programming ([LP](https://en.wikipedia.org/wiki/Linear_programming)) und Integer Programming ([IP](https://en.wikipedia.org/wiki/Integer_programming))
+			- \[LP: objective function is linear and the constraints consist of linear equalities and inequalities\]
+			- Fortgeschrittenes Buch **[Theory of Linear and Integer Programming](https://www.amazon.com/dp/0471908541/)** (1986) von Alexander Schrijver
+		- Nonlinear Programming ([NLP](https://en.wikipedia.org/wiki/Nonlinear_programming)) / seltener: Nonlinear Optimization
+			- \[at least one of the objective function and constraints is nonlinear\]
+			- [lm-AMZN-tfy](https://www.amazon.de/s?k=Nonlinear+Programming)
+		- [Convex Optimization](https://en.wikipedia.org/wiki/Convex_optimization) / seltener: Convex Programming (CP)
+			- \[minimizing a convex objective function (or maximizing a concave objective function) over a convex set of constraints\]
+			- \[overlaps both linear and nonlinear programming as a superset of LP and subset of the NLP\]
+			- Kostenloses Buch **[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)** von Boyd & Vandenberghe
+		- Stochastic Optimization ([SO](https://en.wikipedia.org/wiki/Stochastic_optimization))
+			- inkl. heuristische Algorithmen / [Metaheuristiken](https://en.wikipedia.org/wiki/Metaheuristic) \[[Bild](https://en.wikipedia.org/wiki/Metaheuristic#/media/File:Metaheuristics_classification.svg)\]
+				- \[„Metaheuristik“ = grundsätzliches Verfahren, das nicht an ein spezielles Problem gebunden\]
+				- inkl. [Genetische Algorithmen](https://en.wikipedia.org/wiki/Genetic_algorithms) und [Schwarm-Algorithmen](https://en.wikipedia.org/wiki/Swarm_intelligence)
+	- Anwendungsgebiete
+		- Vehicle Routing Problems (**[VRP](https://en.wikipedia.org/wiki/Vehicle_routing_problem)**), als Generalisierung des Travelling Salesman Problem ([TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem))
+			- Buch (€) [**Vehicle Routing**: Problems, Methods, and Applications](https://epubs.siam.org/doi/book/10.1137/1.9781611973594) (2014) von Paolo Toth & Daniele Vigo
+			- Nennenswerte VRP-Subdisziplinen (ausgewählte; es gibt etliche mehr):
+				- CVRP = Capacitated Vehicle Routing Problem
+				- VRPTW = Vehicle Routing Problem with Time Windows
+				- VRPPD = Vehicle Routing Problem with Pickup and Delivery
+				- MDVRP = Multi-Depot Vehicle Routing Problem
+				- IRP = Inventory Routing Problem
+			- Ausgewählte Paper:
+				- VRPPD paper [Integrating first-mile pickup and last-mile delivery on shared vehicle routes for efficient urban e-commerce distribution](https://doi.org/10.1016/j.trb.2019.09.013) (2020) von Bergmann, Wagner & Winkenbach
+		- [Transportation Problems](<https://en.wikipedia.org/wiki/Transportation_theory_(mathematics)>), insbesondere [Hitchcock Problem](https://www.cs.emory.edu/~cheung/Courses/253/Syllabus/Transportation/intro.html)
+			- Fortgeschrittenes Buch **[Computational Optimal Transport](https://arxiv.org/pdf/1803.00567.pdf)** (2020) von G. Peyré & M. Cuturi
+	- Weiterführende Quellen: [Awesome Operational Research](https://github.com/joaojunior/awesome-operational_research) #1 | [Awesome Operational Research](https://github.com/SirMore/Awesome-Operations-Research/blob/main/books.md) #2 | [Awesome OR-Tools (Sect. Research)](https://github.com/or-tools/awesome_or-tools?tab=readme-ov-file#research)
+		- Weitere [kostenlose Bücher über OR](https://freecomputerbooks.com/specialOperationResearchBooks.html)
+		- Es gibt nur wenige kostenlose Kurse zu OR, aber diese beiden der National Taiwan University: 1) [OR: Models and Applications](https://www.classcentral.com/course/operations-research-modeling-33417), 2) [OR: Optimization Algorithms](https://www.classcentral.com/course/operations-research-algorithms-33430)
+	- OBACHT: **OR ist nicht AI**!
+		- Die Anwendung von AI auf klassische OR-Probleme ist eine neue Strömung!
+		- Travelling-salesperson problem (TSP)
+			- Einstieg: [**AI for TSP** competition](https://www.tspcompetition.com/)
+			- TSP mit Reinforcement Learning:
+				- [AMARL: An Attention-Based Multiagent Reinforcement Learning Approach to the Min-Max Multiple Traveling Salesmen Problem](https://doi.org/10.1109/TNNLS.2023.3236629)
+				- [Learn to Solve the Min-max Multiple Traveling Salesmen Problem with Reinforcement Learning](https://doi.org/10.5555/3545946.3598725)
 - Data Science: Vorlesung **[Harvard CS109 Data Science](https://cs109.GitHub.io/2015/pages/videos.html)** ⭐ | DataCamp Einstiegskurs **[Understanding Data Science](https://www.datacamp.com/courses/understanding-data-science)** | [**WolframAlpha** University Free Interactive Courses](https://www.wolfram.com/wolfram-u/courses/catalog/?f_format%5B%5D=interactive-course&q=&f_button=filters)
-  - MOOC-Kurse von Stanford: [Statistical Learning with Python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) und [Statistical Learning with R](https://www.edx.org/learn/statistics/stanford-university-statistical-learning)
-  - Statistische Fehlinterpretationen: Webinare [Understanding Data](https://www.youtube.com/@Understanding_Data), insb. Video [Aus Flops lernen](https://www.youtube.com/watch?v=iiJd6ibKSQ4)
-  - KDnuggets [5 **Statistical Paradoxes** Data Scientists Should Know](https://www.kdnuggets.com/2023/02/5-statistical-paradoxes-data-scientists-know.html)
-  - Aaron Wang's **[Data Science Cheatsheet 2.0](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf)**
-  - Python: **[Python Data Science Handbook](https://jakevdp.GitHub.io/PythonDataScienceHandbook/)** | [**Scipy** Lecture Notes](https://scipy-lectures.org/)
-  - **[Mojo](https://www.modular.com/mojo)** (s.o. bei Programmierung): designt als Superset of Py, mit SIMD- und Multicore-Optimierungen, will Python als Data Science Programmiersprache #1 ablösen
-  - ML direkt in SQL: [HowTo **PostgresML**](https://www.freecodecamp.org/news/machine-learning-directly-in-sql/)
-  - (€:) Buch [**Guide to Intelligent Data Science** – How to Intelligently Make Use of Real Data](https://link.springer.com/book/10.1007/978-3-030-45574-3) (2020) von Berthold et al.
-  - (€:) Buch **[The Data Science Design Manual](https://www.amazon.de/dp/3319554433)** (2017) von Skiena
-  - Ausreißeranalyse / Outlier Detection: Webartikel [**5 Ways to Detect Outliers/Anomalies** That Every Data Scientist Should Know](https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scientist-should-know-python-code-70a54335a623)
-    - Webartikel [Why **“1.5“ in IQR Method** of Outlier Detection?](https://towardsdatascience.com/why-1-5-in-iqr-method-of-outlier-detection-5d07fdc82097)
-    - Weiterführende Quellen: [Awesome **Outlier Detection** Resources](https://github.com/durgeshsamariya/awesome-outlier-detection-resources) | [Awesome **Anomaly Detection**](https://github.com/hoya012/awesome-anomaly-detection)
-  - Predictive Maintenance (PdM): **[Types of Maintenance](https://roadtoreliability.com/types-of-maintenance/)** | [**Predictive Maintenance** Explained](https://realpars.com/predictive-maintenance/) für Non-Technical-Readers
-    - Disclaimer: Predictive Maintenance ist viel älter als Data Science, daher gibt es **[Buchwissen](https://www.amazon.de/s?k=predictive+maintenance)** (zusätzlich zu akt. [wiss. Publikationen](https://scholar.google.com/scholar?q=predictive+maintenance)).
-    - Publikation [State-of-the-Art **Predictive Maintenance Techniques**](https://web.archive.org/web/20171118060917id_/http://www.indiana.edu:80/~t581pm/Week_13/Articles/PreventiveMaintenance.pdf) (2010) von Hashemian und Bean
-    - Buch (€) **[An Introduction to Predictive Maintenance](https://www.amazon.de/dp/0123996376/)** (2013) von R. K. Mobley (verfügbar online über die FAU) – allerdings werden dort Modelle zur Entscheidungsfindung mehr oder weniger ausgeklammert
-    - Überblick über Ansätze zur Entscheidungsfindung bei PdM: [**Decision Making in Predictive Maintenance**: Literature Review and Research Agenda for Industry 4.0](https://www.sciencedirect.com/science/article/pii/S2405896319311772)
-    - Verwandt: Gartner Quadrant für **[Computerized Maintenance Management Systems](https://software-advice.imgix.net/managed/frontrunner/fr_cmms_v2.png)** (CMMS)
-  - MOOC-Kurse des MITs: [Understanding the **World Through Data**](https://www.edx.org/course/understanding-the-world-through-data), [Introduction to Computational Thinking and **Data Science**](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4), [**Machine Learning** with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) und [Computational Thinking for **Modeling and Simulation**](https://www.edx.org/course/computational-thinking-for-modeling-and-simulation) sowie als Anwendungsgebiet per **[Supply Chain Analytics](https://www.edx.org/course/supply-chain-analytics)**
-  - Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
-  - **MLOps**:
-    - Weiterführende Quellen: [Awesome MLOps](https://github.com/visenger/awesome-mlops)
-  - (Es geht mit dem Thema ebenfalls weiter im [Master-Abschnitt](#msc-big-data-and-cloud-computing-for-ai))
+	- MOOC-Kurse von Stanford: [Statistical Learning with Python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python) und [Statistical Learning with R](https://www.edx.org/learn/statistics/stanford-university-statistical-learning)
+	- Statistische Fehlinterpretationen: Webinare [Understanding Data](https://www.youtube.com/@Understanding_Data), insb. Video [Aus Flops lernen](https://www.youtube.com/watch?v=iiJd6ibKSQ4)
+	- KDnuggets [5 **Statistical Paradoxes** Data Scientists Should Know](https://www.kdnuggets.com/2023/02/5-statistical-paradoxes-data-scientists-know.html)
+	- Aaron Wang's **[Data Science Cheatsheet 2.0](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf)**
+	- Python: **[Python Data Science Handbook](https://jakevdp.GitHub.io/PythonDataScienceHandbook/)** | [**Scipy** Lecture Notes](https://scipy-lectures.org/)
+	- **[Mojo](https://www.modular.com/mojo)** (s.o. bei Programmierung): designt als Superset of Py, mit SIMD- und Multicore-Optimierungen, will Python als Data Science Programmiersprache #1 ablösen
+	- ML direkt in SQL: [HowTo **PostgresML**](https://www.freecodecamp.org/news/machine-learning-directly-in-sql/)
+	- (€:) Buch [**Guide to Intelligent Data Science** – How to Intelligently Make Use of Real Data](https://link.springer.com/book/10.1007/978-3-030-45574-3) (2020) von Berthold et al.
+	- (€:) Buch **[The Data Science Design Manual](https://www.amazon.de/dp/3319554433)** (2017) von Skiena
+	- Ausreißeranalyse / Outlier Detection: Webartikel [**5 Ways to Detect Outliers/Anomalies** That Every Data Scientist Should Know](https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scientist-should-know-python-code-70a54335a623)
+		- Webartikel [Why **“1.5“ in IQR Method** of Outlier Detection?](https://towardsdatascience.com/why-1-5-in-iqr-method-of-outlier-detection-5d07fdc82097)
+		- Weiterführende Quellen: [Awesome **Outlier Detection** Resources](https://github.com/durgeshsamariya/awesome-outlier-detection-resources) | [Awesome **Anomaly Detection**](https://github.com/hoya012/awesome-anomaly-detection)
+	- Predictive Maintenance (PdM): **[Types of Maintenance](https://roadtoreliability.com/types-of-maintenance/)** | [**Predictive Maintenance** Explained](https://realpars.com/predictive-maintenance/) für Non-Technical-Readers
+		- Disclaimer: Predictive Maintenance ist viel älter als Data Science, daher gibt es **[Buchwissen](https://www.amazon.de/s?k=predictive+maintenance)** (zusätzlich zu akt. [wiss. Publikationen](https://scholar.google.com/scholar?q=predictive+maintenance)).
+		- Publikation [State-of-the-Art **Predictive Maintenance Techniques**](https://web.archive.org/web/20171118060917id_/http://www.indiana.edu:80/~t581pm/Week_13/Articles/PreventiveMaintenance.pdf) (2010) von Hashemian und Bean
+		- Buch (€) **[An Introduction to Predictive Maintenance](https://www.amazon.de/dp/0123996376/)** (2013) von R. K. Mobley (verfügbar online über die FAU) – allerdings werden dort Modelle zur Entscheidungsfindung mehr oder weniger ausgeklammert
+		- Überblick über Ansätze zur Entscheidungsfindung bei PdM: [**Decision Making in Predictive Maintenance**: Literature Review and Research Agenda for Industry 4.0](https://www.sciencedirect.com/science/article/pii/S2405896319311772)
+		- Verwandt: Gartner Quadrant für **[Computerized Maintenance Management Systems](https://software-advice.imgix.net/managed/frontrunner/fr_cmms_v2.png)** (CMMS)
+	- MOOC-Kurse des MITs: [Understanding the **World Through Data**](https://www.edx.org/course/understanding-the-world-through-data), [Introduction to Computational Thinking and **Data Science**](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4), [**Machine Learning** with Python: from Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) und [Computational Thinking for **Modeling and Simulation**](https://www.edx.org/course/computational-thinking-for-modeling-and-simulation) sowie als Anwendungsgebiet per **[Supply Chain Analytics](https://www.edx.org/course/supply-chain-analytics)**
+	- Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
+	- **MLOps**:
+		- Weiterführende Quellen: [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+	- (Es geht mit dem Thema ebenfalls weiter im [Master-Abschnitt](#msc-big-data-and-cloud-computing-for-ai))
 
 ### B.Sc.: Bonusliste
 
 - Weiterbildung: **[roadmap.sh](https://roadmap.sh/)** (free educational roadmaps for software engineers)
 - Berufliche Wegfindung / Persönliche Karriere
-  - (€:) Buch [Durchstarten zum Traumjob](https://www.amazon.de/s?k=Durchstarten+zum+Traumjob) von Richard Nelson Bolles (engl. Original: **[What Color Is Your Parachute?](https://www.amazon.de/s?k=what+color+is+your+parachute)**)
-  - Vorbereitung auf die Stilblüten der Arbeitswelt: Buch [Die Humanisierung der Organisation: Wie man dem Menschen gerecht wird, indem man den Großteil seines Wesens ignoriert](https://www.amazon.de/dp/3800667576/) von Matthiesen, Muster & Laudenbach
+	- (€:) Buch [Durchstarten zum Traumjob](https://www.amazon.de/s?k=Durchstarten+zum+Traumjob) von Richard Nelson Bolles (engl. Original: **[What Color Is Your Parachute?](https://www.amazon.de/s?k=what+color+is+your+parachute)**)
+	- Vorbereitung auf die Stilblüten der Arbeitswelt: Buch [Die Humanisierung der Organisation: Wie man dem Menschen gerecht wird, indem man den Großteil seines Wesens ignoriert](https://www.amazon.de/dp/3800667576/) von Matthiesen, Muster & Laudenbach
 - Persönlichkeitsmodelle
-  - Keirsey Temperament Sorter
-    - [Wikipedia](https://de.wikipedia.org/wiki/Keirsey_Temperament_Sorter)
-    - [Original-Test](https://keirsey.com/) mit 70 dichotomen Fragen
-    - Kostenlose Varianten: [70-Fragen-Test](http://www.finest-jobs.com/Berufstest/Kostenloser-Test.html)
-  - Myers-Briggs-Typenindikator (MBTI)
-    - Beschreibung: [Wikipedia](https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator) sowie PDF [Der MBTI (Myers Briggs Typenindikator)](http://kosi.at/downloads/mbti.pdf) von Kalcher, Kos & Sponner
-    - Der kostenpflichtige [Original-Test](https://eu.themyersbriggs.com/de-DE/tools/MBTI/MBTI-personality-Types) besteht aus 144 bipolaren Fragen
-  - [Communication Preferences](https://www.rachelmacik.com/blog/2012/09/be-brief-be-bright-be-gone.html): [Insights® Discovery](http://www.insights.com/) (Yellow: Involve me.  Green: Show me you care.  Red: Be brief, be bright, be gone.  Blue: Give me details.)
+	- Keirsey Temperament Sorter
+		- [Wikipedia](https://de.wikipedia.org/wiki/Keirsey_Temperament_Sorter)
+		- [Original-Test](https://keirsey.com/) mit 70 dichotomen Fragen
+		- Kostenlose Varianten: [70-Fragen-Test](http://www.finest-jobs.com/Berufstest/Kostenloser-Test.html)
+	- Myers-Briggs-Typenindikator (MBTI)
+		- Beschreibung: [Wikipedia](https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator) sowie PDF [Der MBTI (Myers Briggs Typenindikator)](http://kosi.at/downloads/mbti.pdf) von Kalcher, Kos & Sponner
+		- Der kostenpflichtige [Original-Test](https://eu.themyersbriggs.com/de-DE/tools/MBTI/MBTI-personality-Types) besteht aus 144 bipolaren Fragen
+	- [Communication Preferences](https://www.rachelmacik.com/blog/2012/09/be-brief-be-bright-be-gone.html): [Insights® Discovery](http://www.insights.com/) (Yellow: Involve me.	Green: Show me you care.	Red: Be brief, be bright, be gone.	Blue: Give me details.)
 - Beziehungen, Ehe, Kinder
-  - Webartikel [10 Qualities for Happier Marriages](https://www.yourtango.com/love/psychologist-reveals-men-who-choose-wives-with-these-qualities-happier-marriage)
+	- Webartikel [10 Qualities for Happier Marriages](https://www.yourtango.com/love/psychologist-reveals-men-who-choose-wives-with-these-qualities-happier-marriage)
 - Jobsuche
-  - **Kununu**: [Einstiegsseite **Rankings**](https://news.kununu.com/ranking/) bzw. in Kooperation mit der ZEIT auch [Beste Arbeitgeber Deutschlands 2022](https://news.kununu.com/beste-arbeitgeber-deutschland/)
-    - Alternativ auch **Glassdoor** bspw. via [Beste Arbeitgeber 2023 (Germany)](https://www.glassdoor.com/Award/Beste-Arbeitgeber-Deutschland-LST_KQ0,29.htm)
-    - … und auch Monster, Xing, etc. pp.
-  - Regional: 1) **Messekatalog** des [Careerday](https://www.oth-aw.de/studium/nach-dem-studium/career-service/careerday/) lesen, 2) die [**IHK** in Amberg](https://www.ihk-wissen.de/ihk-akademie/standorte/amberg/) anrufen/besuchen, 3) unseren **[Studien- und Career-Service](https://www.oth-aw.de/hochschule/ueber-uns/einrichtungen/studien-und-career-service/ueber-uns/)** aufsuchen sowie 4) unsere **[Hochschul-Jobbörse](https://www.hochschuljobboerse.de/studierende)**
-  - Warnhinweise:
-    - Seitens Unternehmen: [Ghost Jobs](https://patriciaparnet.medium.com/ghost-jobs-das-mysterium-der-fake-stellenanzeigen-erobert-deutschland-36d2a52d000a)
-    - Seitens Bewerber: [White Fonting](https://purplecv.co.uk/blog/white-fonting-cv-our-verdict) sowie ([Hintergründe](https://de.euronews.com/2023/08/14/wie-ki-millionen-von-qualifizierten-bewerbern-herausfiltert)
-  - Gehälter: heise [i'x **Gehaltsreport**](https://www.google.com/search?q=heise+ix+gehaltsreport), kununu **[Gehaltscheck](https://campaigns.kununu.com/gehaltscheck/)** und von „get in IT“ die [**Einstiegsgehälter** für Informatiker](https://www.get-in-it.de/magazin/gehalt/statistik)
-    - gehalt.de mit Gehaltsangaben je Jobprofil: bspw. [Informatiker](https://www.gehalt.de/beruf/informatiker-informatikerin), [Data Scientist](https://www.gehalt.de/beruf/big-data-scientist), [IT-Consultant](https://www.gehalt.de/beruf/it-consultant), [Medieninformatiker](https://www.gehalt.de/beruf/medieninformatiker), [Datenbank-Programmierer](https://www.gehalt.de/beruf/datenbank-programmierer-datenbank-programmiererin) (im Vgl.: [Fachinformatiker](https://www.gehalt.de/beruf/fachinformatiker-anwendungsentwicklung))
-  - Definition von Kleine und mittlere Unternehmen (KMU): [**SME** Definition](https://single-market-economy.ec.europa.eu/smes/sme-definition_en) der EU (2003/361/EG) sowie die analoge deutsche [**KMU** Definition](https://www.ifm-bonn.org/definitionen/kmu-definition-der-eu-kommission)
-    - Erstorientierung: **Mittel: 50-250 Mitarbeiter** | Klein: 10-49 MA | Kleinst: 1-9 Mitarbeiter {zzgl. Umsatz- oder Bilanz-Kriterien…}
-  - Skill-Sets / Erwartungen der Unternehmen an Bewerber: [**T-Shaped** / **Star-Shaped**](http://kriscoverdale.com/2016/10/08/beyond-the-t-shaped-person-becoming-star-shaped/), [A framework for Engineering Managers](https://www.engineeringladders.com/)
-  - Management-Weisheiten:
-    - „[Lieber **unterbesetzt** als **fehlbesetzt**](https://www.changex.de/Article/interview_breckwoldt_wer_geht_vor_was)“ (Frank Breckwoldt; Hochleistung und Menschlichkeit)
-      - Kontext: „Auch Personalknappheit darf nicht dazu führen, die Anforderungen zu senken. Denn dann verabschieden Sie sich vom Spitzenleistungsanspruch.“
-    - Nach der Einstellung macht man sich einen Termin zur Hälfte der Probezeit. Ein guter Manager stellt sich dann die Frage: „Unter dem Wissen, das ich heute über die Mitarbeiterin oder den Mitarbeiter habe, würde ich ihn einstellen?“ Wenn diese Frage nicht zweifelsfrei ist, dann Probezeit beenden.
-    - „[If you pay **peanuts**, you get **monkeys**](https://en.m.wiktionary.org/wiki/if_you_pay_peanuts,_you_get_monkeys)“
-    - „[**As hire As** and **Bs hire Cs**](https://www.youtube.com/watch?v=XhuEjXZIK6M)“
-    - „[**people who struggle to code** don’t just struggle on big problems](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/), or even smallish problems (i.e. write a implementation of a linked list). They struggle with tiny problems. \[like FizzBuzz\]“ (vgl. auch [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/) von Coding Horror)
+	- **Kununu**: [Einstiegsseite **Rankings**](https://news.kununu.com/ranking/) bzw. in Kooperation mit der ZEIT auch [Beste Arbeitgeber Deutschlands 2022](https://news.kununu.com/beste-arbeitgeber-deutschland/)
+		- Alternativ auch **Glassdoor** bspw. via [Beste Arbeitgeber 2023 (Germany)](https://www.glassdoor.com/Award/Beste-Arbeitgeber-Deutschland-LST_KQ0,29.htm)
+		- … und auch Monster, Xing, etc. pp.
+	- Regional: 1) **Messekatalog** des [Careerday](https://www.oth-aw.de/studium/nach-dem-studium/career-service/careerday/) lesen, 2) die [**IHK** in Amberg](https://www.ihk-wissen.de/ihk-akademie/standorte/amberg/) anrufen/besuchen, 3) unseren **[Studien- und Career-Service](https://www.oth-aw.de/hochschule/ueber-uns/einrichtungen/studien-und-career-service/ueber-uns/)** aufsuchen sowie 4) unsere **[Hochschul-Jobbörse](https://www.hochschuljobboerse.de/studierende)**
+	- Warnhinweise:
+		- Seitens Unternehmen: [Ghost Jobs](https://patriciaparnet.medium.com/ghost-jobs-das-mysterium-der-fake-stellenanzeigen-erobert-deutschland-36d2a52d000a)
+		- Seitens Bewerber: [White Fonting](https://purplecv.co.uk/blog/white-fonting-cv-our-verdict) sowie ([Hintergründe](https://de.euronews.com/2023/08/14/wie-ki-millionen-von-qualifizierten-bewerbern-herausfiltert)
+	- Gehälter: heise [i'x **Gehaltsreport**](https://www.google.com/search?q=heise+ix+gehaltsreport), kununu **[Gehaltscheck](https://campaigns.kununu.com/gehaltscheck/)** und von „get in IT“ die [**Einstiegsgehälter** für Informatiker](https://www.get-in-it.de/magazin/gehalt/statistik)
+		- gehalt.de mit Gehaltsangaben je Jobprofil: bspw. [Informatiker](https://www.gehalt.de/beruf/informatiker-informatikerin), [Data Scientist](https://www.gehalt.de/beruf/big-data-scientist), [IT-Consultant](https://www.gehalt.de/beruf/it-consultant), [Medieninformatiker](https://www.gehalt.de/beruf/medieninformatiker), [Datenbank-Programmierer](https://www.gehalt.de/beruf/datenbank-programmierer-datenbank-programmiererin) (im Vgl.: [Fachinformatiker](https://www.gehalt.de/beruf/fachinformatiker-anwendungsentwicklung))
+	- Definition von Kleine und mittlere Unternehmen (KMU): [**SME** Definition](https://single-market-economy.ec.europa.eu/smes/sme-definition_en) der EU (2003/361/EG) sowie die analoge deutsche [**KMU** Definition](https://www.ifm-bonn.org/definitionen/kmu-definition-der-eu-kommission)
+		- Erstorientierung: **Mittel: 50-250 Mitarbeiter** | Klein: 10-49 MA | Kleinst: 1-9 Mitarbeiter {zzgl. Umsatz- oder Bilanz-Kriterien…}
+	- Skill-Sets / Erwartungen der Unternehmen an Bewerber: [**T-Shaped** / **Star-Shaped**](http://kriscoverdale.com/2016/10/08/beyond-the-t-shaped-person-becoming-star-shaped/), [A framework for Engineering Managers](https://www.engineeringladders.com/)
+	- Management-Weisheiten:
+		- „[Lieber **unterbesetzt** als **fehlbesetzt**](https://www.changex.de/Article/interview_breckwoldt_wer_geht_vor_was)“ (Frank Breckwoldt; Hochleistung und Menschlichkeit)
+			- Kontext: „Auch Personalknappheit darf nicht dazu führen, die Anforderungen zu senken. Denn dann verabschieden Sie sich vom Spitzenleistungsanspruch.“
+		- Nach der Einstellung macht man sich einen Termin zur Hälfte der Probezeit. Ein guter Manager stellt sich dann die Frage: „Unter dem Wissen, das ich heute über die Mitarbeiterin oder den Mitarbeiter habe, würde ich ihn einstellen?“ Wenn diese Frage nicht zweifelsfrei ist, dann Probezeit beenden.
+		- „[If you pay **peanuts**, you get **monkeys**](https://en.m.wiktionary.org/wiki/if_you_pay_peanuts,_you_get_monkeys)“
+		- „[**As hire As** and **Bs hire Cs**](https://www.youtube.com/watch?v=XhuEjXZIK6M)“
+		- „[**people who struggle to code** don’t just struggle on big problems](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/), or even smallish problems (i.e. write a implementation of a linked list). They struggle with tiny problems. \[like FizzBuzz\]“ (vgl. auch [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/) von Coding Horror)
 - Bewerbungsunterlagen
-  - Lebenslauf: (€) [Bücher](https://www.amazon.de/s?k=bewerbungsmappe&i=stripbooks), bspw. von [Püttjer & Schnierda](https://www.amazon.de/s?k=P%C3%BCttjer+Schnierda) oder [Hesse & Schrader](https://www.amazon.de/s?k=hesse+schrader+bewerbung)
-    - Lebenslauf-Werkzeuge für Informatiker: vgl. [Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#job-bewerbungen)
-  - How to write a successful cover letter? Webartikel mit [5 Tipps](https://www.lionstep.com/cover-letter-for-job-application-5-tips-to-write-the-best-cover-letter/) von Lionstep, Übersicht [Breakdown of Writing A Cover Letter That Gets Results](https://jofibostorage.blob.core.windows.net/blog/Infographic-Breakdown-of-Writing-A-Cover-Letter-That-Gets-Results.jpg) von jofido
+	- Lebenslauf: (€) [Bücher](https://www.amazon.de/s?k=bewerbungsmappe&i=stripbooks), bspw. von [Püttjer & Schnierda](https://www.amazon.de/s?k=P%C3%BCttjer+Schnierda) oder [Hesse & Schrader](https://www.amazon.de/s?k=hesse+schrader+bewerbung)
+		- Lebenslauf-Werkzeuge für Informatiker: vgl. [Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#job-bewerbungen)
+	- How to write a successful cover letter? Webartikel mit [5 Tipps](https://www.lionstep.com/cover-letter-for-job-application-5-tips-to-write-the-best-cover-letter/) von Lionstep, Übersicht [Breakdown of Writing A Cover Letter That Gets Results](https://jofibostorage.blob.core.windows.net/blog/Infographic-Breakdown-of-Writing-A-Cover-Letter-That-Gets-Results.jpg) von jofido
 - Karriere
-  - Stellenbeschreibungen und Ebenen einer technischen Organisation: [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders) | [30+ Engineering Career Ladders](https://www.nidup.io/garden/engineering-career-ladders)
-  - Übersicht: [Performance Review](https://www.promotions.fyi/) (insbesondere amerikanische Unternehmen)
+	- Stellenbeschreibungen und Ebenen einer technischen Organisation: [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders) | [30+ Engineering Career Ladders](https://www.nidup.io/garden/engineering-career-ladders)
+	- Übersicht: [Performance Review](https://www.promotions.fyi/) (insbesondere amerikanische Unternehmen)
+- Jargon
+	- Verklausulierung in Fachbegriffen: [Was "Morbus Bahlsen" und "Hausfrauentest" bedeuten](https://www.wiwo.de/technologie/forschung/fachjargon-von-medizinern-beratern-und-werbern-was-morbus-bahlsen-und-hausfrauentest-bedeuten/10737568.html) (Medizinerjargon, Beraterjargon, Werberjargon)
+	- Nennenswert: [Tractatus Logico-Philosophicus](https://www.amazon.de/dp/3150142458/) (= Logisch-Philosophische Abhandlung) des deutschen Philosophen Ludwig Wittgenstein (1889–1951) 
 - Kündigungen/Offboarding
-  - Nennenswerte Management-Weisheiten
-    - „Mitarbeiter verlassen nicht ihre Firma, sondern ihren Chef.“ (vgl. [Gallup-Report](https://www.gallup.com/services/182216/state-american-manager-report.aspx))
-    - „Anständig bis zum Schluss“ (vgl. [Frank Breckwoldt](https://www.amazon.de/dp/3869364777/))
-    - „Der letzte Eindruck bleibt“ (vgl. [Recency Effekt](https://www.anti-bias.eu/biaseffekte/recency-effekt/); natürlich in Verbindung mit „Der erste Eindruck zählt“ = Primacy Effect) zusammen mit „Man sieht sich immer zweimal“
-  - Themenkomplex "Abfindungen" bei betriebsbedingten Kündigungen: [VW-Referenz in 2024](https://www.watson.de/leben/job-uni/222201372-streik-bei-vw-mitarbeiter-spricht-ueber-irre-abfindung)
+	- Nennenswerte Management-Weisheiten
+		- „Mitarbeiter verlassen nicht ihre Firma, sondern ihren Chef.“ (vgl. [Gallup-Report](https://www.gallup.com/services/182216/state-american-manager-report.aspx))
+		- „Anständig bis zum Schluss“ (vgl. [Frank Breckwoldt](https://www.amazon.de/dp/3869364777/))
+		- „Der letzte Eindruck bleibt“ (vgl. [Recency Effekt](https://www.anti-bias.eu/biaseffekte/recency-effekt/); natürlich in Verbindung mit „Der erste Eindruck zählt“ = Primacy Effect) zusammen mit „Man sieht sich immer zweimal“
+	- Themenkomplex "Abfindungen" bei betriebsbedingten Kündigungen: [VW-Referenz in 2024](https://www.watson.de/leben/job-uni/222201372-streik-bei-vw-mitarbeiter-spricht-ueber-irre-abfindung)
 - Entrepreneurship
-  - MIT-Kurs **[Becoming an Entrepreneur](https://www.edx.org/course/becoming-an-entrepreneur)** sowie ebenfalls [**Entrepreneurship 101**: Who is your customer?](https://www.edx.org/course/entrepreneurship-101-who-is-your-customer), [102: What Can You Do for Your Customer?](https://zdcs.link/73jZn?cd36=Standard&t=deals&m=content_body&e=offer&i=text-link&el=Entrepreneurship%20102%3A%20What%20Can%20You%20Do%20for%20Your%20Customer%3F%28opens%20in%20a%20new%20tab%29&cd62=article&cd63=074merJxzaZthFnADPppqgR&short_url=73jZn&u=https%3A%2F%2Fmashable.com%2Fuk%2Fdeals%2Ffree-online-courses-mit) und [103: Show Me The Money](https://zdcs.link/xmlMp?cd36=Standard&t=deals&m=content_body&e=offer&i=text-link&el=Entrepreneurship%20103%3A%20Show%20Me%20The%20Money%28opens%20in%20a%20new%20tab%29&cd62=article&cd63=074merJxzaZthFnADPppqgR&short_url=xmlMp&u=https%3A%2F%2Fmashable.com%2Fuk%2Fdeals%2Ffree-online-courses-mit)
-  - [Zinsrechner/Finanzrechner](https://www.zinsen-berechnen.de/finanzrechner/top-rechner.php)
-  - Buch (€) [The **Lean Startup**](https://www.amazon.com/dp/B004J4XGN6/) (2011) von Eric Ries
-  - Basiswissen:
-    - Buch (€) [Handelsblatt **Mittelstands-Bibliothek**. Gesamtwerk in 12 Bänden](https://www.amazon.de/dp/3791027107) (2007)
-    - Buch (€) [Handelsblatt - **Strategien** des Erfolgs: Band 1 bis 6](https://www.amazon.de/dp/3593384051/) (2007)
-    - Buch (€) [Handelsblatt - **Erfolgreich führen**: Band 1 bis 6](https://www.amazon.de/dp/3593386259/) (2008)
-    - Buch (€) [Handelsblatt **Management Bibliothek**. Kompaktes Wirtschafts- und Managementwissen in 12 Bänden](https://www.amazon.de/dp/3593378280) (2005)
-  - Online-Buch [The Startup **CTO's Handbook**](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md) von Zach Goldberg
-  - Weiterführende Quellen: [Awesome Startup](https://github.com/KrishMunot/awesome-startup)
+	- MIT-Kurs **[Becoming an Entrepreneur](https://www.edx.org/course/becoming-an-entrepreneur)** sowie ebenfalls [**Entrepreneurship 101**: Who is your customer?](https://www.edx.org/course/entrepreneurship-101-who-is-your-customer), [102: What Can You Do for Your Customer?](https://zdcs.link/73jZn?cd36=Standard&t=deals&m=content_body&e=offer&i=text-link&el=Entrepreneurship%20102%3A%20What%20Can%20You%20Do%20for%20Your%20Customer%3F%28opens%20in%20a%20new%20tab%29&cd62=article&cd63=074merJxzaZthFnADPppqgR&short_url=73jZn&u=https%3A%2F%2Fmashable.com%2Fuk%2Fdeals%2Ffree-online-courses-mit) und [103: Show Me The Money](https://zdcs.link/xmlMp?cd36=Standard&t=deals&m=content_body&e=offer&i=text-link&el=Entrepreneurship%20103%3A%20Show%20Me%20The%20Money%28opens%20in%20a%20new%20tab%29&cd62=article&cd63=074merJxzaZthFnADPppqgR&short_url=xmlMp&u=https%3A%2F%2Fmashable.com%2Fuk%2Fdeals%2Ffree-online-courses-mit)
+	- [Zinsrechner/Finanzrechner](https://www.zinsen-berechnen.de/finanzrechner/top-rechner.php)
+	- Buch (€) [The **Lean Startup**](https://www.amazon.com/dp/B004J4XGN6/) (2011) von Eric Ries
+	- Basiswissen:
+		- Buch (€) [Handelsblatt **Mittelstands-Bibliothek**. Gesamtwerk in 12 Bänden](https://www.amazon.de/dp/3791027107) (2007)
+		- Buch (€) [Handelsblatt - **Strategien** des Erfolgs: Band 1 bis 6](https://www.amazon.de/dp/3593384051/) (2007)
+		- Buch (€) [Handelsblatt - **Erfolgreich führen**: Band 1 bis 6](https://www.amazon.de/dp/3593386259/) (2008)
+		- Buch (€) [Handelsblatt **Management Bibliothek**. Kompaktes Wirtschafts- und Managementwissen in 12 Bänden](https://www.amazon.de/dp/3593378280) (2005)
+	- Online-Buch [The Startup **CTO's Handbook**](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md) von Zach Goldberg
+	- Weiterführende Quellen: [Awesome Startup](https://github.com/KrishMunot/awesome-startup)
 - Selbst-Achtsamkeit
-  - Yale’s [The Science of **Well-Being**](https://www.coursera.org/learn/the-science-of-well-being) by Prof. Laurie Santos (Es gibt einen unabh. [Blog-Beitrag](https://www.linkedin.com/pulse/my-takeaways-from-science-well-being-course-imroze-aslam-malik) mit zusammenfassenden Aspekten)
-  - Weiterführende Quellen: [Awesome **Mental Health**](https://github.com/dreamingechoes/awesome-mental-health) #1 (Tech-Branche-orientiert) | [Awesome **Mental Health**](https://github.com/benstew/awesome-mental-health) #2 (generell)
+	- Yale’s [The Science of **Well-Being**](https://www.coursera.org/learn/the-science-of-well-being) by Prof. Laurie Santos (Es gibt einen unabh. [Blog-Beitrag](https://www.linkedin.com/pulse/my-takeaways-from-science-well-being-course-imroze-aslam-malik) mit zusammenfassenden Aspekten)
+	- Weiterführende Quellen: [Awesome **Mental Health**](https://github.com/dreamingechoes/awesome-mental-health) #1 (Tech-Branche-orientiert) | [Awesome **Mental Health**](https://github.com/benstew/awesome-mental-health) #2 (generell)
 - Börsenterminologie im Kontext High-Tech-Unternehmen:
-  - FANG (stocks) = **Facebook**, **Amazon**, **Netflix**, **Google** \[term popularized by Jim Cramer in 2013; term invented by Bob Lang\]
-  - Big Tech = Big Four = GAFA = Google, Amazon, **Apple**, Facebook
-  - FAANG (stocks) = Facebook, Amazon, Apple, Netflix, Google \[Apple added to the FANG acronym in 2017\]
-  - Big Tech = Big Five = GAMAM = Google, Amazon, Apple, Meta, **Microsoft** (aka GAMMA)
-  - The Magnificent 7 (stocks) = Apple, Alphabet, Amazon, Meta, Microsoft, **[Nvidia](https://www.linkedin.com/posts/jameseagle_nvidia-activity-7166813796819165184-Fubp)**, **Tesla** \[Largest Corporations by Market Capitalization\]
-  - China: BATX = Baidu, Alibaba, Tencent, Xiaomi
+	- FANG (stocks) = **Facebook**, **Amazon**, **Netflix**, **Google** \[term popularized by Jim Cramer in 2013; term invented by Bob Lang\]
+	- Big Tech = Big Four = GAFA = Google, Amazon, **Apple**, Facebook
+	- FAANG (stocks) = Facebook, Amazon, Apple, Netflix, Google \[Apple added to the FANG acronym in 2017\]
+	- Big Tech = Big Five = GAMAM = Google, Amazon, Apple, Meta, **Microsoft** (aka GAMMA)
+	- The Magnificent 7 (stocks) = Apple, Alphabet, Amazon, Meta, Microsoft, **[Nvidia](https://www.linkedin.com/posts/jameseagle_nvidia-activity-7166813796819165184-Fubp)**, **Tesla** \[Largest Corporations by Market Capitalization\]
+	- China: BATX = Baidu, Alibaba, Tencent, Xiaomi
 - Erweiterte Methoden aus dem Dunstkreis Agile/Lean
-  - BarCamp („Unkonferenz“): [lernOS **BarCamp** Leitfaden](https://cogneon.GitHub.io/lernos-barcamp/de/1-0-Grundlagen/)
-  - Siehe auch unter der [Mastel-level Bonusliste](#msc-bonusliste) im Abschnitt Innovationsmethoden » Design Thinking
+	- BarCamp („Unkonferenz“): [lernOS **BarCamp** Leitfaden](https://cogneon.GitHub.io/lernos-barcamp/de/1-0-Grundlagen/)
+	- Siehe auch unter der [Mastel-level Bonusliste](#msc-bonusliste) im Abschnitt Innovationsmethoden » Design Thinking
 - Empfehlungen für Parametergestaltung von Kommandozeilen-Werkzeugen
-  - [Command Line Interface Guidelines (**CLIG**)](https://clig.dev/), insbesondere die Abschnitte [The Basics](https://clig.dev/#the-basics), [Arguments and Flags](https://clig.dev/#arguments-and-flags) und [Environment Varibles](https://clig.dev/#environment-variables)
-  - Die [**12 Factor CLI** Apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) von Jeff Dickey, insbesondere Abschnitt 4 („stdout is for output, stderr is for messaging“)
-  - [**GNU** CLI Standards](https://www.gnu.org/prep/standards/standards.html#Option-Table) und die [**POSIX** Utility Conventions](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap12.html)
-  - Weiterführende Referenzen: [awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks)
+	- [Command Line Interface Guidelines (**CLIG**)](https://clig.dev/), insbesondere die Abschnitte [The Basics](https://clig.dev/#the-basics), [Arguments and Flags](https://clig.dev/#arguments-and-flags) und [Environment Varibles](https://clig.dev/#environment-variables)
+	- Die [**12 Factor CLI** Apps](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) von Jeff Dickey, insbesondere Abschnitt 4 („stdout is for output, stderr is for messaging“)
+	- [**GNU** CLI Standards](https://www.gnu.org/prep/standards/standards.html#Option-Table) und die [**POSIX** Utility Conventions](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap12.html)
+	- Weiterführende Referenzen: [awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks)
 - PowerPoint-Programmierung / VBA
-  - Vorlage [Do something to -- every shape on a slide, every slide in a presentation, every presentation in a folder](https://www.rdpslides.com/pptfaq/FAQ00594_Do_something_to_--_every_shape_on_a_slide-_every_slide_in_a_presentation-_every_presentation_in_a_folder.htm)
+	- Vorlage [Do something to -- every shape on a slide, every slide in a presentation, every presentation in a folder](https://www.rdpslides.com/pptfaq/FAQ00594_Do_something_to_--_every_shape_on_a_slide-_every_slide_in_a_presentation-_every_presentation_in_a_folder.htm)
 - Data Quality
-  - Einstiegsartikel: [Your Guide to **Data Quality Management**](https://www.scnsoft.com/blog/guide-to-data-quality-management) von Irene Mikhailouskaya
-  - Klassifikation von **[DQ-Dimensionen](https://www.tandfonline.com/doi/abs/10.1080/07421222.1996.11518099)** nach Wang & Strong (1996): [Beyond Accuracy: What Data Quality Means to Data Consumers](https://www.tandfonline.com/doi/abs/10.1080/07421222.1996.11518099) | [List of Conformed **Dimensions of Data Quality**](https://dimensionsofdataquality.com/alldimensions)
-  - Total Data Quality Management (**[TDQM](https://web.mit.edu/tdqm/www/about.shtml)**), ein Forschungsprogramm am MIT, initial nach Madnick & Wang seit 1992
-  - DQ in der Prozeßdarstellung: **[IP-MAP](http://mitiq.mit.edu/ICIQ/Documents/IQ%20Conference%202000/Papers/IPMAPRepresentingManufactureofIP.pdf)**, vgl. Shankaranarayanan, Wang & Ziad (2000): [**IP-MAP**: Representing the Manufacture of an Information Product](http://mitiq.mit.edu/ICIQ/Documents/IQ%20Conference%202000/Papers/IPMAPRepresentingManufactureofIP.pdf)
-  - Wiss. Grundlagen Datenqualität: (€) [Dissertation von Juliane Blechinger](https://www.shaker.de/de/content/catalogue/index.asp?lang=de&ID=8&ISBN=978-3-8440-1190-6), insb. Kapitel 2
-  - guru99 [**ETL Testing** Tutorial](https://www.guru99.com/utlimate-guide-etl-datawarehouse-testing.html)
-  - Atlan [**Data Profiling**: Definition, Techniques, Process, and Examples](https://atlan.com/data-profiling-101/)
+	- Einstiegsartikel: [Your Guide to **Data Quality Management**](https://www.scnsoft.com/blog/guide-to-data-quality-management) von Irene Mikhailouskaya
+	- Klassifikation von **[DQ-Dimensionen](https://www.tandfonline.com/doi/abs/10.1080/07421222.1996.11518099)** nach Wang & Strong (1996): [Beyond Accuracy: What Data Quality Means to Data Consumers](https://www.tandfonline.com/doi/abs/10.1080/07421222.1996.11518099) | [List of Conformed **Dimensions of Data Quality**](https://dimensionsofdataquality.com/alldimensions)
+	- Total Data Quality Management (**[TDQM](https://web.mit.edu/tdqm/www/about.shtml)**), ein Forschungsprogramm am MIT, initial nach Madnick & Wang seit 1992
+	- DQ in der Prozeßdarstellung: **[IP-MAP](http://mitiq.mit.edu/ICIQ/Documents/IQ%20Conference%202000/Papers/IPMAPRepresentingManufactureofIP.pdf)**, vgl. Shankaranarayanan, Wang & Ziad (2000): [**IP-MAP**: Representing the Manufacture of an Information Product](http://mitiq.mit.edu/ICIQ/Documents/IQ%20Conference%202000/Papers/IPMAPRepresentingManufactureofIP.pdf)
+	- Wiss. Grundlagen Datenqualität: (€) [Dissertation von Juliane Blechinger](https://www.shaker.de/de/content/catalogue/index.asp?lang=de&ID=8&ISBN=978-3-8440-1190-6), insb. Kapitel 2
+	- guru99 [**ETL Testing** Tutorial](https://www.guru99.com/utlimate-guide-etl-datawarehouse-testing.html)
+	- Atlan [**Data Profiling**: Definition, Techniques, Process, and Examples](https://atlan.com/data-profiling-101/)
 - Data Governance / Metadata Management
-  - Atlan [**Data Catalog** 101 — The Ultimate Starter Guide](https://atlan.com/what-is-a-data-catalog/)
-  - Werkzeuge? Vgl. [Tools » Datenbankwerkzeuge](https://github.com/cyberlytics/awesome-bdccai-tools#datenbanksysteme)
-  - Forschungsdatenmanagement? [s. unten](#vor-einer-post-doc-phase-oder-professur) (Werkzeuge? Vgl. [Dozenten-Werkzeuge](https://www.oth-aw.de/neumann/tools-faculty/#forschungsdatenmanagement))
+	- Atlan [**Data Catalog** 101 — The Ultimate Starter Guide](https://atlan.com/what-is-a-data-catalog/)
+	- Werkzeuge? Vgl. [Tools » Datenbankwerkzeuge](https://github.com/cyberlytics/awesome-bdccai-tools#datenbanksysteme)
+	- Forschungsdatenmanagement? [s. unten](#vor-einer-post-doc-phase-oder-professur) (Werkzeuge? Vgl. [Dozenten-Werkzeuge](https://www.oth-aw.de/neumann/tools-faculty/#forschungsdatenmanagement))
 - Data Lineage
-  - Atlan [**Data Lineage** 101](https://atlan.com/data-lineage-101/) [—](https://atlan.com/what-is-a-data-catalog/) [Importance, Use Cases and Its Role in Governance](https://atlan.com/data-lineage-101/)
+	- Atlan [**Data Lineage** 101](https://atlan.com/data-lineage-101/) [—](https://atlan.com/what-is-a-data-catalog/) [Importance, Use Cases and Its Role in Governance](https://atlan.com/data-lineage-101/)
 - IT-Recht/Lizenzen:
-  - Recht: Kurs **[IT-Recht für Software-Entwickler](https://open.hpi.de/courses/it-recht2018)** | Vorlesungsskript **[Internetrecht](https://www.itm.nrw/lehre/materialien/)** von Prof. Dr. Hoeren
-  - Lizenzen #1 (Software): **[Choose an open source license](https://choosealicense.com/)** | WICHTIG: [Here’s what happens if you don’t choose a license!](https://choosealicense.com/no-permission/)
-  - Lizenzen #2 (Creative Works): [**Creative Commons** Chooser](https://creativecommons.org/choose/) | Blogartikel [Understanding **Free Cultur**al Works](https://creativecommons.org/share-your-work/public-domain/freeworks)
-    - FAQ on [Submitting **Papers to IEEE** under a Creative Commons Attribution License (**CC BY**)](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/oa-ccby-faq.pdf)
-    - LaTeX-Icons for CC licenses: **[ccicons](https://ctan.org/pkg/ccicons)** package
-    - [**Unicode** Standard includes CC License Symbols](https://creativecommons.org/2020/03/18/the-unicode-standard-now-includes-cc-license-symbols/) (benötigt aber einen [Font mit entsprechender Unterstützung](https://www.ctrl.blog/entry/creative-commons-unicode-fallback-font.html))
-  - Lizenzen #3 (Andere): [Non-Software Licenses](https://choosealicense.com/non-software/)
+	- Recht: Kurs **[IT-Recht für Software-Entwickler](https://open.hpi.de/courses/it-recht2018)** | Vorlesungsskript **[Internetrecht](https://www.itm.nrw/lehre/materialien/)** von Prof. Dr. Hoeren
+	- Lizenzen #1 (Software): **[Choose an open source license](https://choosealicense.com/)** | WICHTIG: [Here’s what happens if you don’t choose a license!](https://choosealicense.com/no-permission/)
+	- Lizenzen #2 (Creative Works): [**Creative Commons** Chooser](https://creativecommons.org/choose/) | Blogartikel [Understanding **Free Cultur**al Works](https://creativecommons.org/share-your-work/public-domain/freeworks)
+		- FAQ on [Submitting **Papers to IEEE** under a Creative Commons Attribution License (**CC BY**)](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/oa-ccby-faq.pdf)
+		- LaTeX-Icons for CC licenses: **[ccicons](https://ctan.org/pkg/ccicons)** package
+		- [**Unicode** Standard includes CC License Symbols](https://creativecommons.org/2020/03/18/the-unicode-standard-now-includes-cc-license-symbols/) (benötigt aber einen [Font mit entsprechender Unterstützung](https://www.ctrl.blog/entry/creative-commons-unicode-fallback-font.html))
+	- Lizenzen #3 (Andere): [Non-Software Licenses](https://choosealicense.com/non-software/)
 - Normen und Spezifikationen der IT („Standards, Norms, Directives“)
-  - Auswahl:
-    - Gesetze: EU (GDPR, …, IFRS, BCBS, …), DE (StGB, …, DSGVO, TKG, …, HGB, …), …
-    - ISO, EU, DIN, NIST, …, BSI, …
-      - Anmerkung: Die NIST ist das National Institute of Standards and Technology in den USA, vergleichbar mit dem Deutschen Institut für Normung (DIN)
-    - IETF (RFC), IEEE, ITU, IEC, …
-    - W3C (HTML, DOM, XML, CSS, SVG, RDF, OWL, SPARQL, SOAP, WASM), OMG (UML, MOF, SysML, CORBA), OASIS (AMQP, MQTT, SAML, DocBook, DITA), …, JCP/JSR (JVM, JMX, JDBC, JPA), OSGi, OSI, …
-    - Linux Foundation (OpenAPI Specification aka Swagger Specification, …)
-  - Tool-Äquivalent: Foundations
-    - FSF = Free Software Foundation (GNU Project, Emacs, bash, Octave, …), Linux Foundation (Kernel, Cloud Foundry, PyTorch, …), KDE e.V., GNOME Foundation, 
-    - ASF = Apache Software Foundation (HTTP Server, Tomcat, Struts, Lucene, OpenOffice, JMeter, Hadoop, Spark, Cassandra, Kafka, Druid, CloudStack, …), Eclipse Foundation (Eclipse IDE, BIRD, Jetty, Temurin, GlassFish, RDF4J, Mosquitto/MQTT, Eclipse IoT, …), Mozilla Foundation (Firefox, Thunderbird, Bugzilla, …, Rust)
-    - CNCF = Cloud Native Computing Foundation (Kubernetes, Envoy, Istio, Helm, Prometheus, …), OpenJS (jQuery, Node.js, webpack, LoopBack, …), 
-  - Big Tech (gleichzeitig Normen/Spezifikation und Tools)
-    - Microsoft, Google, Meta, X, Apple, Amazon, Netflix …, IBM, Oracle, LinkedIn, SAP, …, Baidu, Tencent, Alibaba, Xiaomi, …
-  - [Umfassende Übersicht zu **Standardisierungsorganisationen**](https://www.w3.org/WoT/IG/wiki/How_does_W3C_compare_to_other_organizations) (aus Sicht der W3C)
-  - [Übersicht zu **Open Source Organisationen**](https://opensource.com/resources/organizations)
+	- Auswahl:
+		- Gesetze: EU (GDPR, …, IFRS, BCBS, …), DE (StGB, …, DSGVO, TKG, …, HGB, …), …
+		- ISO, EU, DIN, NIST, …, BSI, …
+			- Anmerkung: Die NIST ist das National Institute of Standards and Technology in den USA, vergleichbar mit dem Deutschen Institut für Normung (DIN)
+		- IETF (RFC), IEEE, ITU, IEC, …
+		- W3C (HTML, DOM, XML, CSS, SVG, RDF, OWL, SPARQL, SOAP, WASM), OMG (UML, MOF, SysML, CORBA), OASIS (AMQP, MQTT, SAML, DocBook, DITA), …, JCP/JSR (JVM, JMX, JDBC, JPA), OSGi, OSI, …
+		- Linux Foundation (OpenAPI Specification aka Swagger Specification, …)
+	- Tool-Äquivalent: Foundations
+		- FSF = Free Software Foundation (GNU Project, Emacs, bash, Octave, …), Linux Foundation (Kernel, Cloud Foundry, PyTorch, …), KDE e.V., GNOME Foundation, 
+		- ASF = Apache Software Foundation (HTTP Server, Tomcat, Struts, Lucene, OpenOffice, JMeter, Hadoop, Spark, Cassandra, Kafka, Druid, CloudStack, …), Eclipse Foundation (Eclipse IDE, BIRD, Jetty, Temurin, GlassFish, RDF4J, Mosquitto/MQTT, Eclipse IoT, …), Mozilla Foundation (Firefox, Thunderbird, Bugzilla, …, Rust)
+		- CNCF = Cloud Native Computing Foundation (Kubernetes, Envoy, Istio, Helm, Prometheus, …), OpenJS (jQuery, Node.js, webpack, LoopBack, …), 
+	- Big Tech (gleichzeitig Normen/Spezifikation und Tools)
+		- Microsoft, Google, Meta, X, Apple, Amazon, Netflix …, IBM, Oracle, LinkedIn, SAP, …, Baidu, Tencent, Alibaba, Xiaomi, …
+	- [Umfassende Übersicht zu **Standardisierungsorganisationen**](https://www.w3.org/WoT/IG/wiki/How_does_W3C_compare_to_other_organizations) (aus Sicht der W3C)
+	- [Übersicht zu **Open Source Organisationen**](https://opensource.com/resources/organizations)
 - Developer Experience (DX)
-  - Publikation [The **SPACE** of Developer Productivity](https://dl.acm.org/doi/10.1145/3454122.3454124)
-  - Webartikel [**DevEx**, a New Metrics Framework](https://www.infoq.com/articles/devex-metrics-framework/)
-- Usability
-  - GUI: (€) Buch **[About Face: The Essentials of Interaction Design](https://www.amazon.de/dp/1118766571/)** (2014) von Allan Cooper, et al.
-  - Web: (€) Buch **[Don't Make Me Think, Revisited](https://www.amazon.com/dp/0321965515/)** (2013) von Steve Krug | (€) Buch **[Designing Web Usability](https://www.amazon.de/gp/product/156205810X/)** (1999) von Jakob Nielsen
+	- Publikation [The **SPACE** of Developer Productivity](https://dl.acm.org/doi/10.1145/3454122.3454124)
+	- Webartikel [**DevEx**, a New Metrics Framework](https://www.infoq.com/articles/devex-metrics-framework/)
 - UX Design / User Experience
-  - Buch (€) **[Lean UX](https://www.amazon.de/dp/1098116305/)** von Gothelf & Seiden
-  - UX Prinzipien: [Laws of UX](https://lawsofux.com/)
-  - Artikel [Advanced **Figma Prototyping** Tips & Tricks](https://uxdesign.cc/advanced-figma-prototyping-tips-tricks-ccef9db99f24)
-  - Design Systems: Google **[Material Design](https://m3.material.io/foundations/design-tokens/overview)**, Apple [**Human Interface** Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview) (HIG), Ant Design = **[AntD](https://ant.design)**, Salesforce [**Lightning** Design System](https://www.lightningdesignsystem.com/design-tokens/), Adobe **[Spectrum](https://spectrum.adobe.com/page/design-tokens/)**, Microsoft **[Fluent](https://www.microsoft.com/design/fluent/)**, Shopify **[Polaris](https://polaris.shopify.com/tokens/colors)**, IBM **[Carbon](https://carbondesignsystem.com/)**
-    - Webartikel [10 Best Design Systems and **How to Learn (and Steal) From Them**](https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/)
-    - [**More** Design Systems…](https://builtin.com/design-ux/design-system)
-  - Computerspiele-Oberflächen: **[Game UI Database](https://gameuidatabase.com/)**
-  - Personas:
-    - Formen
-      - (Vorläufer:) Nutzerarchetypen
-      - (Klassische) Personas = basierend auf statistischer Nutzeranalyse / Fakten
-      - (Lean) Proto-Personas = basierend auf Hypothesen / Intuition der Persona-Gestalter
-    - Ursprung: Buch (€:) **[The Inmates are Running the Asylum](https://www.amazon.de/dp/0672316498/)** (1999) von Alan Cooper
-    - Tutorial [**Personas** for Design, Development & Growth](https://www.alexandercowan.com/tutorial-personas-problem-scenarios-user-stories/) von Alexander Cowan
-    - Disclaimer: Archetypen! Keine Stereotypen!
-      - „archetype refers to a generic version of a personality“
-      - (Obwohl es eine frühere, professionelle und wertschätzende [Auffassung von Stereotypen in der Informatik](https://www.sciencedirect.com/science/article/pii/S0364021379800129) gibt…)
-  - Fonts: freeCodeCamp **[How to Pick a Font](https://www.freecodecamp.org/news/things-to-consider-when-picking-fonts/)**
-  - UX Surveys:
-    - Webarktikel [Three very good standardized UX surveys for industrial use](https://uxdesign.cc/three-very-good-standardized-ux-surveys-for-industrial-use-f8f1e628d475), beachte dessen Appendix unten: Templates of the questionnaires (!)
-    - [SUS](https://uiuxtrend.com/sus-calculator/), [PSSUQ](https://uiuxtrend.com/pssuq-calculator/), [ISO 9241–110](http://www.uselab.tu-berlin.de/wiki/images/6/62/ISONorm_Kurzversion.pdf) sowie [UEQ](https://www.ueq-online.org/), [NPS](https://www.netpromotersystem.com/about/net-promoter-system-framework/), [AttrakDiff](https://www.attrakdiff.de/)
-  - Weiterführende Quellen: **[UX Study Guide](https://www.nngroup.com/articles/ux-basics-study-guide/)** der Nielsen Norman Group | roadmap.sh [**UX Design** Roadmap](https://roadmap.sh/ux-design)
+	- Usability:
+		- … für GUI: (€) Buch **[About Face: The Essentials of Interaction Design](https://www.amazon.de/dp/1118766571/)** (2014) von Allan Cooper, et al.
+		- … für Web: (€) Buch **[Don't Make Me Think, Revisited](https://www.amazon.com/dp/0321965515/)** (2013) von Steve Krug | (€) Buch **[Designing Web Usability](https://www.amazon.de/gp/product/156205810X/)** (1999) von Jakob Nielsen
+		- … für Digitale Produkte: (€) Buch **[Lean UX](https://www.amazon.de/dp/1098116305/)** von Gothelf & Seiden
+	- UX Prinzipien: [Laws of UX](https://lawsofux.com/)
+	- Artikel [Advanced **Figma Prototyping** Tips & Tricks](https://uxdesign.cc/advanced-figma-prototyping-tips-tricks-ccef9db99f24)
+	- Design Systems: Google **[Material Design](https://m3.material.io/foundations/design-tokens/overview)**, Apple [**Human Interface** Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview) (HIG), Ant Design = **[AntD](https://ant.design)**, Salesforce [**Lightning** Design System](https://www.lightningdesignsystem.com/design-tokens/), Adobe **[Spectrum](https://spectrum.adobe.com/page/design-tokens/)**, Microsoft **[Fluent](https://www.microsoft.com/design/fluent/)**, Shopify **[Polaris](https://polaris.shopify.com/tokens/colors)**, IBM **[Carbon](https://carbondesignsystem.com/)**
+		- Webartikel [10 Best Design Systems and **How to Learn (and Steal) From Them**](https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/)
+		- [**More** Design Systems…](https://builtin.com/design-ux/design-system)
+		- Umfassender Katalog: [Design System Repo](https://designsystemsrepo.com/design-systems/)
+	- Computerspiele-Oberflächen: **[Game UI Database](https://gameuidatabase.com/)**
+	- Personas:
+		- Formen
+			- (Vorläufer:) Nutzerarchetypen
+			- (Klassische) Personas = basierend auf statistischer Nutzeranalyse / Fakten
+			- (Lean) Proto-Personas = basierend auf Hypothesen / Intuition der Persona-Gestalter
+		- Ursprung: Buch (€:) **[The Inmates are Running the Asylum](https://www.amazon.de/dp/0672316498/)** (1999) von Alan Cooper
+		- Tutorial [**Personas** for Design, Development & Growth](https://www.alexandercowan.com/tutorial-personas-problem-scenarios-user-stories/) von Alexander Cowan
+		- Disclaimer: Archetypen! Keine Stereotypen!
+			- „archetype refers to a generic version of a personality“
+			- (Obwohl es eine frühere, professionelle und wertschätzende [Auffassung von Stereotypen in der Informatik](https://www.sciencedirect.com/science/article/pii/S0364021379800129) gibt…)
+	- Fonts: freeCodeCamp **[How to Pick a Font](https://www.freecodecamp.org/news/things-to-consider-when-picking-fonts/)**
+	- UX Surveys:
+		- Webarktikel [Three very good standardized UX surveys for industrial use](https://uxdesign.cc/three-very-good-standardized-ux-surveys-for-industrial-use-f8f1e628d475), beachte dessen Appendix unten: Templates of the questionnaires (!)
+		- [SUS](https://uiuxtrend.com/sus-calculator/), [PSSUQ](https://uiuxtrend.com/pssuq-calculator/), [ISO 9241–110](http://www.uselab.tu-berlin.de/wiki/images/6/62/ISONorm_Kurzversion.pdf) sowie [UEQ](https://www.ueq-online.org/), [NPS](https://www.netpromotersystem.com/about/net-promoter-system-framework/), [AttrakDiff](https://www.attrakdiff.de/)
+	- Jargon: [Verklausulierungen in der Werbebranche](https://www.wiwo.de/technologie/forschung/fachjargon-von-medizinern-beratern-und-werbern-was-morbus-bahlsen-und-hausfrauentest-bedeuten/10737568.html)
+		- [Laientest](https://de.wikipedia.org/wiki/Hausfrauentest) (früher auch: Putzfrauentest)
+	- Weiterführende Quellen: **[UX Study Guide](https://www.nngroup.com/articles/ux-basics-study-guide/)** der Nielsen Norman Group | roadmap.sh [**UX Design** Roadmap](https://roadmap.sh/ux-design)
 - Color Management
-  - Fundamental: Print (CMYK) vs. Digital/Online (RGB)
-    - Büroarbeit ist MS-Office-orientiert (Word, PowerPoint) und Dateien können nur in RGB angelegt werden
-    - Webarbeit ist streng RGB-orientiert
-    - Traditionelle Marketingarbeit ist häufig Print-orientiert und Dateien werden ggf. in CMYK angelegt, was unter Windows ausschließlich mit Profi-Anwendungen wie InDesign/Photoshop/Illustrator technisch unterstützt wird
-  - [Farbmodell vs. Farbraum/Farbprofil](https://wisotop.de/farbmodell-farbraum-farbprofil.php)
-    - Es gibt ein einziges (lineares) **RGB-Farbmodell**, aber viele nicht-lineare RGB-Geräte**farbräume**; es gibt mehrere genormte nicht-lineare RGB-Farbräume wie bspw. [**sRGB**2014.icc](https://www.color.org/srgbprofiles.xalter) oder **AdobeRGB1998**.icc
-    - Dasselbe gilt für das (lineare) **CMYK-Farbmodell** mit vielen nicht-linearen CMYK-Geräte**farbräume**, ebenfalls mit genormten nicht-linearen CMYK-Farbräumen wie bspw. Coated**FOGRA39**.icc
-    - ICC-Farbprofile für wichtige RGB- und CMYK-Gerätefarbräume kann man bei [Das Richtwerk](https://das-richtwerk.de/icc-profile/) runterladen
-  - **WICHTIG**: Lediglich **sRGB** ⭐ ist der Farbraum, in dem **Websites** erstellt werden (Webarbeit: HTML/CSS) und bildet außerdem die Grundlage des Microsoft **Windows** Color Space (Büroarbeit: PowerPoint/Word/…) ⚠️
-    - Themenkomplex [sRGB vs. Adobe RGB](https://www.eizoglobal.com/library/management/adobergb/)
-      - Die Verwendung von Adobe RGB in Photoshop/InDesign/etc. ist eine gute Grundlage für Print-Workflows, aber letztlich eine schlechte farbliche Referenz/Grundlage für Webarbeit und Büroarbeit
-    - Grundlegend: **[Farbraum-Übersicht](https://www.grapheine.com/wp-content/uploads/2022/10/EN-gamut-rgb-cmyk-print-digital-1.jpg)** ⭐
-      - Inkl. FOGRA39, Pantone, sRGB und Adobe RGB 98 (!)
-      - Aus dem Artikel [Branding and colorimetry: The “RGB First“ strategy](https://www.grapheine.com/en/graphic-design-en/colorimetry-rgb-cmyk-digital-print-strategies)
-  - Consistent Brand Color Palette
-    - Webartikel [Establishing Consistent Brand Colors Across Media](https://www.extensis.com/blog/establishing-consistent-brand-colors-across-media)
-    - Problematisch in einem **Print- und Online-übergreifenden CI/CD** sind typischer Weise **Grüntöne** ⚠️ was anhand der [Farbraum-Übersicht](https://www.grapheine.com/wp-content/uploads/2022/10/EN-gamut-rgb-cmyk-print-digital-1.jpg) (vgl. CMYK zu RGB) logisch wird
-    - Von PANTOME-Farben ausgehend (= Print-zentrisch) sind die daraus abgeleiteten RGB-Werte i.d.R. nur Annäherungswerte
-      - PANTOME vs. Print (CMYK):
-        - Nicht alle PANTOME-Farben sind mit einem herkömmlichen (= Consumer-grade) Drucker farbecht druckbar, was anhand der [Farbraum-Übersicht](https://www.grapheine.com/wp-content/uploads/2022/10/EN-gamut-rgb-cmyk-print-digital-1.jpg) (vgl. FOGRA39 zu PANTOME) anschaulich wird
-      - PANTOME vs. Digital/Online (RGB):
-        - Man sollte die RGB-Wertangaben von PANTOME nehmen und NICHT selbst in Photoshop umrechnen
-        - Wieso: Photoshop rechnet meist nicht nach sRGB sondern in ein konfiguriertes RGB-Farbprofil, das meist nicht sRGB ist (meist ist ein RGB-Farbraum eingestellt, der mindestens so umfangreich und Print-freundlich ist wie Adobe RGB)
-        - Problem: die RGB-Angaben in einem Brand Guide bzw. Corporate Design sind für Digital/Online vorgesehen und müssen sRGB-konform sein
-      - Erneut sind **Grüntöne** ⚠️ häufig ein Problem, was anhand der [Farbraum-Übersicht](https://www.grapheine.com/wp-content/uploads/2022/10/EN-gamut-rgb-cmyk-print-digital-1.jpg) (vgl. sRGB zu AdobeRGB/PANTOME) anschaulich wird
-  - Markenhandbuch
-    - Webartikel [Building a Brand Style Guide for All Media](https://www.extensis.com/blog/building-a-brand-style-guide-for-all-media)
-    - Webartikel [Color Psychology in Marketing and Branding is All About Context](https://www.helpscout.com/blog/psychology-of-color/)
+	- Fundamental: Print (CMYK) vs. Digital/Online (RGB)
+		- Büroarbeit ist MS-Office-orientiert (Word, PowerPoint) und Dateien können nur in RGB angelegt werden
+		- Webarbeit ist streng RGB-orientiert
+		- Traditionelle Marketingarbeit ist häufig Print-orientiert und Dateien werden ggf. in CMYK angelegt, was unter Windows ausschließlich mit Profi-Anwendungen wie InDesign/Photoshop/Illustrator technisch unterstützt wird
+	- [Farbmodell vs. Farbraum/Farbprofil](https://wisotop.de/farbmodell-farbraum-farbprofil.php)
+		- Es gibt ein einziges (lineares) **RGB-Farbmodell**, aber viele nicht-lineare RGB-Geräte**farbräume**; es gibt mehrere genormte nicht-lineare RGB-Farbräume wie bspw. [**sRGB**2014.icc](https://www.color.org/srgbprofiles.xalter) oder **AdobeRGB1998**.icc
+		- Dasselbe gilt für das (lineare) **CMYK-Farbmodell** mit vielen nicht-linearen CMYK-Geräte**farbräume**, ebenfalls mit genormten nicht-linearen CMYK-Farbräumen wie bspw. Coated**FOGRA39**.icc
+		- ICC-Farbprofile für wichtige RGB- und CMYK-Gerätefarbräume kann man bei [Das Richtwerk](https://das-richtwerk.de/icc-profile/) runterladen
+	- **WICHTIG**: Lediglich **sRGB** ⭐ ist der Farbraum, in dem **Websites** erstellt werden (Webarbeit: HTML/CSS) und bildet außerdem die Grundlage des Microsoft **Windows** Color Space (Büroarbeit: PowerPoint/Word/…) ⚠️
+		- Themenkomplex [sRGB vs. Adobe RGB](https://www.eizoglobal.com/library/management/adobergb/)
+			- Die Verwendung von Adobe RGB in Photoshop/InDesign/etc. ist eine gute Grundlage für Print-Workflows, aber letztlich eine schlechte farbliche Referenz/Grundlage für Webarbeit und Büroarbeit
+		- Grundlegend: **[Farbraum-Übersicht](https://www.grapheine.com/wp-content/uploads/2022/10/EN-gamut-rgb-cmyk-print-digital-1.jpg)** ⭐
+			- Inkl. FOGRA39, Pantone, sRGB und Adobe RGB 98 (!)
+			- Aus dem Artikel [Branding and colorimetry: The “RGB First“ strategy](https://www.grapheine.com/en/graphic-design-en/colorimetry-rgb-cmyk-digital-print-strategies)
+	- Consistent Brand Color Palette
+		- Webartikel [Establishing Consistent Brand Colors Across Media](https://www.extensis.com/blog/establishing-consistent-brand-colors-across-media)
+		- Problematisch in einem **Print- und Online-übergreifenden CI/CD** sind typischer Weise **Grüntöne** ⚠️ was anhand der [Farbraum-Übersicht](https://www.grapheine.com/wp-content/uploads/2022/10/EN-gamut-rgb-cmyk-print-digital-1.jpg) (vgl. CMYK zu RGB) logisch wird
+		- Von PANTOME-Farben ausgehend (= Print-zentrisch) sind die daraus abgeleiteten RGB-Werte i.d.R. nur Annäherungswerte
+			- PANTOME vs. Print (CMYK):
+				- Nicht alle PANTOME-Farben sind mit einem herkömmlichen (= Consumer-grade) Drucker farbecht druckbar, was anhand der [Farbraum-Übersicht](https://www.grapheine.com/wp-content/uploads/2022/10/EN-gamut-rgb-cmyk-print-digital-1.jpg) (vgl. FOGRA39 zu PANTOME) anschaulich wird
+			- PANTOME vs. Digital/Online (RGB):
+				- Man sollte die RGB-Wertangaben von PANTOME nehmen und NICHT selbst in Photoshop umrechnen
+				- Wieso: Photoshop rechnet meist nicht nach sRGB sondern in ein konfiguriertes RGB-Farbprofil, das meist nicht sRGB ist (meist ist ein RGB-Farbraum eingestellt, der mindestens so umfangreich und Print-freundlich ist wie Adobe RGB)
+				- Problem: die RGB-Angaben in einem Brand Guide bzw. Corporate Design sind für Digital/Online vorgesehen und müssen sRGB-konform sein
+			- Erneut sind **Grüntöne** ⚠️ häufig ein Problem, was anhand der [Farbraum-Übersicht](https://www.grapheine.com/wp-content/uploads/2022/10/EN-gamut-rgb-cmyk-print-digital-1.jpg) (vgl. sRGB zu AdobeRGB/PANTOME) anschaulich wird
+	- Markenhandbuch
+		- Webartikel [Building a Brand Style Guide for All Media](https://www.extensis.com/blog/building-a-brand-style-guide-for-all-media)
+		- Webartikel [Color Psychology in Marketing and Branding is All About Context](https://www.helpscout.com/blog/psychology-of-color/)
 - Software-Tutorien
-  - Adobe Photoshop: [Video-Tutorials von Adobe](https://helpx.adobe.com/de/photoshop/tutorials.html)
-  - Adobe Firefly (Generative AI): [Einstiegsseite von Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
-  - Adobe Sensei GenAI: [Einstiegsseite von Adobe](https://www.adobe.com/de/sensei.html)
-  - Adobe Lightroom: [Video-Tutorials von Adobe](https://helpx.adobe.com/de/lightroom-cc/tutorials.html) (und [zu Lightroom Classic](https://helpx.adobe.com/de/lightroom-classic/tutorials.html))
-  - Adobe Illustrator: [Video-Tutorials von Adobe](https://helpx.adobe.com/de/illustrator/tutorials.html)
-  - Adobe XD: [Video-Tutorials von Adobe](https://www.adobe.com/de/products/xd/learn/get-started-xd-design.html)
-  - Adobe InDesign: [Video-Tutorials von Adobe](https://helpx.adobe.com/de/indesign/tutorials.html)
-  - Adobe Acrobat: [Video-Tutorials von Adobe](https://helpx.adobe.com/de/acrobat/tutorials.html)
-  - Adobe Premiere Pro: [Video-Tutorials von Adobe](https://helpx.adobe.com/de/premiere-pro/tutorials.html)
-  - Adobe Express: [Video-Tutorials von Adobe](https://www.adobe.com/de/express/learn/tutorials)
+	- Adobe Photoshop: [Video-Tutorials von Adobe](https://helpx.adobe.com/de/photoshop/tutorials.html)
+	- Adobe Firefly (Generative AI): [Einstiegsseite von Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
+	- Adobe Sensei GenAI: [Einstiegsseite von Adobe](https://www.adobe.com/de/sensei.html)
+	- Adobe Lightroom: [Video-Tutorials von Adobe](https://helpx.adobe.com/de/lightroom-cc/tutorials.html) (und [zu Lightroom Classic](https://helpx.adobe.com/de/lightroom-classic/tutorials.html))
+	- Adobe Illustrator: [Video-Tutorials von Adobe](https://helpx.adobe.com/de/illustrator/tutorials.html)
+	- Adobe XD: [Video-Tutorials von Adobe](https://www.adobe.com/de/products/xd/learn/get-started-xd-design.html)
+	- Adobe InDesign: [Video-Tutorials von Adobe](https://helpx.adobe.com/de/indesign/tutorials.html)
+	- Adobe Acrobat: [Video-Tutorials von Adobe](https://helpx.adobe.com/de/acrobat/tutorials.html)
+	- Adobe Premiere Pro: [Video-Tutorials von Adobe](https://helpx.adobe.com/de/premiere-pro/tutorials.html)
+	- Adobe Express: [Video-Tutorials von Adobe](https://www.adobe.com/de/express/learn/tutorials)
 - Monetarisierung für Studierende
-  - Leitsatz: „Audience comes first, monetization second“
-  - Weiterführende Quelle: **[Awesome OSS Monetization](https://github.com/PayDevs/awesome-oss-monetization)**
-  - \[Eine naive „Display Ads“-Monetarisierungsstrategie ist nicht ernsthaft relevant für Studierenden-Webprojekte und deren Reichweite.\]
-  - **Donation Tools**: Webartikel [Online Donations: The Best Tools for **Nonprofits**](https://nonprofitgrowth.com/what-are-the-best-nonprofit-friendly-tools-to-collect-online-donations/), bspw. **[Ko-Fi](https://ko-fi.com/)** wegen „0% fee on Donations“ (daher besser als Patreon)
-  - (Weniger sympathisch: Sponsored Posts, Membership / Content Gating, …, Affiliate Marketing)
-  - Dropshipping: bspw. [Shopify Dropshipping](https://www.shopify.com/de/blog/dropshipping-store)
-  - Freemium: [The 7 Types of Freemium](https://sixteenventures.com/seven-types-of-freemium) (Obacht: „Freemium ist in Wahrheit eine Marketing-Taktik und kein Geschäftsmodell“ – [Lincoln Murphy](https://sixteenventures.com/))
-  - Blogposts/Newsletter/Podcasts: [Steady](https://steadyhq.com/de)
+	- Leitsatz: „Audience comes first, monetization second“
+	- Weiterführende Quelle: **[Awesome OSS Monetization](https://github.com/PayDevs/awesome-oss-monetization)**
+	- \[Eine naive „Display Ads“-Monetarisierungsstrategie ist nicht ernsthaft relevant für Studierenden-Webprojekte und deren Reichweite.\]
+	- **Donation Tools**: Webartikel [Online Donations: The Best Tools for **Nonprofits**](https://nonprofitgrowth.com/what-are-the-best-nonprofit-friendly-tools-to-collect-online-donations/), bspw. **[Ko-Fi](https://ko-fi.com/)** wegen „0% fee on Donations“ (daher besser als Patreon)
+	- (Weniger sympathisch: Sponsored Posts, Membership / Content Gating, …, Affiliate Marketing)
+	- Dropshipping: bspw. [Shopify Dropshipping](https://www.shopify.com/de/blog/dropshipping-store)
+	- Freemium: [The 7 Types of Freemium](https://sixteenventures.com/seven-types-of-freemium) (Obacht: „Freemium ist in Wahrheit eine Marketing-Taktik und kein Geschäftsmodell“ – [Lincoln Murphy](https://sixteenventures.com/))
+	- Blogposts/Newsletter/Podcasts: [Steady](https://steadyhq.com/de)
 - Content Management Systeme / Technische Dokumentation
-  - Dt. Verband: [tekom](https://www.tekom.de/) Deutschland e.V.
-  - (€:) Buch [Technische Dokumentation: Übersetzungsgerechte Texterstellung und Content-Management](https://www.amazon.de/dp/3834333484/) (2014) von Drewer & Ziegler
+	- Dt. Verband: [tekom](https://www.tekom.de/) Deutschland e.V.
+	- (€:) Buch [Technische Dokumentation: Übersetzungsgerechte Texterstellung und Content-Management](https://www.amazon.de/dp/3834333484/) (2014) von Drewer & Ziegler
 - Gaming/Game-Engines/3D: [**Unity** Education](https://unity.com/learn) | [**Unreal** Learning Library](https://dev.epicgames.com/community/learning?application=unreal_engine)
-  - Communities: [Ludum Dare 48h Competitions](https://en.wikipedia.org/wiki/Ludum_Dare), [Demoscene](https://en.wikipedia.org/wiki/Demoscene), [64K intro](https://www.lofibucket.com/articles/64k_intro.html), [96k game competition](https://en.wikipedia.org/wiki/.kkrieger), [13KB Web Games](https://js13kgames.com/)
-  - Game-Design: [Game Developer Conference **(GDC) talks**](https://www.youtube.com/c/Gdconf)
-  - (Web-Games » GPU-Beschleunigung in Browsers: Artikel [How to fix/turn on your browser’s hardware acceleration](https://forums.forge-vtt.com/t/how-to-fix-turn-on-your-browsers-hardware-acceleration/11296))
-  - Hintergrundinfos über den [**Game Engine Markt** aus Sicht Unity](https://techcrunch.com/2020/09/10/how-unity-built-a-gaming-engine-for-the-future/) (Stand 2020)
-  - Hintergrundinfos über [**Konsolen-Entwicklung** am Bsp. Godot](https://godotengine.org/article/godot-consoles-all-you-need-know/) (Infos gelten auch für Unity oder Unreal, bspw. „It is a common misconception that you can download a game engine and start using it to develop for consoles without previously being approved by the console manufacturer.“)
-  - Webartikel [A Comparison of Modern **Graphics APIs**](https://alain.xyz/blog/comparison-of-modern-graphics-apis) (2021) über DirectX (Win), OpenGL (Win/Lin/Mac zzgl. GLES), Vulkan (Win/Lin zzgl. MoltenVK), Metal (Mac/iOS), WebGPU
-    - Cross-Platform Low-Level 3D Rendering? u.a. [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) oder [The-Forge](https://github.com/ConfettiFX/The-Forge)
-  - 3D vs. KI/ML? [Awesome **3D Machine Learning**](https://github.com/timzhang642/3D-Machine-Learning)
-  - Creative? [Awesome **Creative Coding**](https://github.com/terkelg/awesome-creative-coding), [Awesome Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology), [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
-  - Weiterführende Quellen: [Awesome **Graphics**](https://github.com/ericjang/awesome-graphics) (Einstieg), [Awesome **Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision) (u.a. mit Links auf weitere Awesome-Listen), [Awesome **Visualization Research**](https://github.com/mathisonian/awesome-visualization-research), [Awesome **Game Engine Development**](https://github.com/stevinz/awesome-game-engine-dev), [Awesome OpenGL](https://github.com/eug/awesome-opengl), [Awesome WebGL](https://github.com/sjfricke/awesome-webgl), [Awesome Canvas](https://github.com/raphamorim/awesome-canvas) (= HTML5), Awesome Game Development [Magic tools](https://github.com/ellisonleao/magictools), uvm.
+	- Communities: [Ludum Dare 48h Competitions](https://en.wikipedia.org/wiki/Ludum_Dare), [Demoscene](https://en.wikipedia.org/wiki/Demoscene), [64K intro](https://www.lofibucket.com/articles/64k_intro.html), [96k game competition](https://en.wikipedia.org/wiki/.kkrieger), [13KB Web Games](https://js13kgames.com/)
+	- Game-Design: [Game Developer Conference **(GDC) talks**](https://www.youtube.com/c/Gdconf)
+	- (Web-Games » GPU-Beschleunigung in Browsers: Artikel [How to fix/turn on your browser’s hardware acceleration](https://forums.forge-vtt.com/t/how-to-fix-turn-on-your-browsers-hardware-acceleration/11296))
+	- Hintergrundinfos über den [**Game Engine Markt** aus Sicht Unity](https://techcrunch.com/2020/09/10/how-unity-built-a-gaming-engine-for-the-future/) (Stand 2020)
+	- Hintergrundinfos über [**Konsolen-Entwicklung** am Bsp. Godot](https://godotengine.org/article/godot-consoles-all-you-need-know/) (Infos gelten auch für Unity oder Unreal, bspw. „It is a common misconception that you can download a game engine and start using it to develop for consoles without previously being approved by the console manufacturer.“)
+	- Webartikel [A Comparison of Modern **Graphics APIs**](https://alain.xyz/blog/comparison-of-modern-graphics-apis) (2021) über DirectX (Win), OpenGL (Win/Lin/Mac zzgl. GLES), Vulkan (Win/Lin zzgl. MoltenVK), Metal (Mac/iOS), WebGPU
+		- Cross-Platform Low-Level 3D Rendering? u.a. [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) oder [The-Forge](https://github.com/ConfettiFX/The-Forge)
+	- 3D vs. KI/ML? [Awesome **3D Machine Learning**](https://github.com/timzhang642/3D-Machine-Learning)
+	- Creative? [Awesome **Creative Coding**](https://github.com/terkelg/awesome-creative-coding), [Awesome Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology), [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
+	- Weiterführende Quellen: [Awesome **Graphics**](https://github.com/ericjang/awesome-graphics) (Einstieg), [Awesome **Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision) (u.a. mit Links auf weitere Awesome-Listen), [Awesome **Visualization Research**](https://github.com/mathisonian/awesome-visualization-research), [Awesome **Game Engine Development**](https://github.com/stevinz/awesome-game-engine-dev), [Awesome OpenGL](https://github.com/eug/awesome-opengl), [Awesome WebGL](https://github.com/sjfricke/awesome-webgl), [Awesome Canvas](https://github.com/raphamorim/awesome-canvas) (= HTML5), Awesome Game Development [Magic tools](https://github.com/ellisonleao/magictools), uvm.
 
 ## U-Literatur
 
@@ -1275,11 +1281,11 @@ Werkzeuge:
 - Metaverse: **[Snow Crash](https://www.amazon.de/dp/3596705592/)** von Neal Stephenson („Metaverse“) / **[Ready Player One](https://www.amazon.de/dp/0525574344/)** von Ernest Cline („OASIS“)
 - Datenüberwachung: **[NSA – Nationales Sicherheits-Amt](https://www.amazon.de/dp/3785726252)** von Andreas Eschbach
 - Projektmanagement im Kontext der Software-Entwicklung:
-  - **[The Deadline](https://www.amazon.de/dp/B006MN4RAS/)** von Tom DeMarco (unterhaltsame Vermittlung von Basiswissen Projektmanagement)
-  - **[Peopleware](https://www.amazon.de/dp/0321934113/)** von DeMarco & Lister (über Arbeitsumfeldbedingungen und Unternehmenskultur)
-  - **[The Mythical Man-Month](https://www.amazon.de/dp/0201835959/)** von Frederick P. Brooks, Jr. (Brookssche Gesetz: “Adding manpower to a late software project makes it later.“)
-    - Artikel [The Mythical Man-Month: After 20 years](https://ieeexplore.ieee.org/document/6172609) (1995) von Frederick P. Brooks, Jr. ("I dismissed Parnas' concept \[of information hiding\] as a 'recipe for disaster' in Chapter 7. Parnas was right, and I was wrong.")
-  - **[Death March](https://www.amazon.de/dp/013143635X/)** von Edward Yourdon (Yourdon's definition: "Quite simply, a death march project is one whose 'project parameters' exceed the norm by at least 50 percent.")
+	- **[The Deadline](https://www.amazon.de/dp/B006MN4RAS/)** von Tom DeMarco (unterhaltsame Vermittlung von Basiswissen Projektmanagement)
+	- **[Peopleware](https://www.amazon.de/dp/0321934113/)** von DeMarco & Lister (über Arbeitsumfeldbedingungen und Unternehmenskultur)
+	- **[The Mythical Man-Month](https://www.amazon.de/dp/0201835959/)** von Frederick P. Brooks, Jr. (Brookssche Gesetz: “Adding manpower to a late software project makes it later.“)
+		- Artikel [The Mythical Man-Month: After 20 years](https://ieeexplore.ieee.org/document/6172609) (1995) von Frederick P. Brooks, Jr. ("I dismissed Parnas' concept \[of information hiding\] as a 'recipe for disaster' in Chapter 7. Parnas was right, and I was wrong.")
+	- **[Death March](https://www.amazon.de/dp/013143635X/)** von Edward Yourdon (Yourdon's definition: "Quite simply, a death march project is one whose 'project parameters' exceed the norm by at least 50 percent.")
 - Personas: **[The Inmates are Running the Asylum](https://www.amazon.de/dp/0672316498/)** (1999) von Alan Cooper
 - Statistik: **[Risiko](https://www.amazon.de/dp/3570554422/)** (2013) von Gerd Gigerenzer
 - Wissenschaftskommunikation: **[The Demon-Haunted World: Science as a Candle in the Dark](https://www.amazon.de/dp/0345409469/)** (1995) von Carl Sagan ("science is not just a body of knowledge, but is a way of thinking").
@@ -1300,563 +1306,563 @@ Internet Ikonen:
 ### Master Informatik/KI
 
 - Technische Informatik für Fortgeschrittene
-  - In-Memory Computing: Kurs [ETH Zürich **Processing in Memory**](https://safari.ethz.ch/projects_and_seminars/fall2021/doku.php?id=processing_in_memory)
+	- In-Memory Computing: Kurs [ETH Zürich **Processing in Memory**](https://safari.ethz.ch/projects_and_seminars/fall2021/doku.php?id=processing_in_memory)
 - Programmierung für Fortgeschrittene: High-Performance Code
-  - Grundlegend ⭐:
-    - [Performance-Aware Programming](https://www.computerenhance.com/p/table-of-contents) von Casey Muratori
-    - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) von Sergey Slotin et al.
-  - C++: E-Book [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf) sowie Werkzeug [godbolt](https://godbolt.org/)
-  - C#: (€) Buch [Writing High-Performance .NET Code](https://www.writinghighperf.net/) von Ben Watson
-    - Einstieg: Webartikel [Writing High-Performance C# and .NET Code](https://www.stevejgordon.co.uk/writing-high-performance-csharp-and-dotnet-code) von Steve Gordon
-  - Py: (€) Buch [High Performance Python](https://www.amazon.de/dp/1492055026)
-  - Rust: [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
-  - Werkzeugkasten: [Profiler](https://github.com/msaroufim/awesome-profiling)!
+	- Grundlegend ⭐:
+		- [Performance-Aware Programming](https://www.computerenhance.com/p/table-of-contents) von Casey Muratori
+		- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) von Sergey Slotin et al.
+	- C++: E-Book [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf) sowie Werkzeug [godbolt](https://godbolt.org/)
+	- C#: (€) Buch [Writing High-Performance .NET Code](https://www.writinghighperf.net/) von Ben Watson
+		- Einstieg: Webartikel [Writing High-Performance C# and .NET Code](https://www.stevejgordon.co.uk/writing-high-performance-csharp-and-dotnet-code) von Steve Gordon
+	- Py: (€) Buch [High Performance Python](https://www.amazon.de/dp/1492055026)
+	- Rust: [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
+	- Werkzeugkasten: [Profiler](https://github.com/msaroufim/awesome-profiling)!
 - Software-Engineering (SWE) für Fortgeschrittene
-  - iSAQB Certified Professional for Software Architecture (CPSA): [Liste von Lehrplänen für das Advanced Level](https://www.isaqb.org/de/downloads/)
-  - System Design: **[Grokking the System Design Interview](https://designgurus.org/course/grokking-the-system-design-interview)** | [System Design Primer](https://github.com/donnemartin/system-design-primer) | [18 System Design Concepts Every Engineer Must Know Before the Interview](https://www.designgurus.io/blog/system-design-interview-fundamentals)
-  - SW-Architektur kompakt: embarc **[Architektur-Spicker](https://www.architektur-spicker.de)**
-  - SWE-Bücher:
-    - (€:) Buch **[Enterprise Integration Patterns](https://www.amazon.de/dp/0321200683/)** (2003) von Hohpe & Woolf
-    - (€:) Buch **[Clean Architecture](https://www.amazon.de/dp/0134494164/)** (2017) von Uncle Bob | verwandtes [Poster/Cheatsheet](https://www.dropbox.com/s/b6wkaqxp4oslano/Clean%20Architecture%20V1.5.pdf?dl=0) (2019) von Urs Enzler
-    - (€:) Buch **[Refactoring](https://www.amazon.de/dp/0134757599/)** (2018) von Martin Fowler
-    - (€:) Buch **[Langlebige Software-Architekturen](https://www.amazon.de/dp/3864907292/)** (2019) von Carola Lilienthal ⭐
-    - (€:) Buch **[Domain-Driven Design](https://www.amazon.de/dp/0321125215/)** (2003) von Eric J. Evans ⭐
-    - (€:) Buch **[Implementing Domain-Driven Design](https://www.amazon.de/dp/0321834577/)** (2013) von Vaughn Vernon
-    - (€:) Buch **[Patterns of Enterprise Application Architecture](https://www.amazon.de/dp/0321127420/)** (2012) von Martin Fowler
-      - Natürlich gibt es auch weitere berühmte Pattern-Bücher wie **GoF** und **POSA** (Vol. 1 bis Vol. 4)…
-    - (€:) Buch **[Working Effectively with Legacy Code](https://www.amazon.de/dp/0131177052)** (2013) von Michael C. Feathers
-    - (€:) Buch **[UML@Work](https://www.amazon.de/dp/3898642615/)** (2005) von Hitz, et al. – UML aus einer anspruchsvollen akademisch-wissenschaftlichen Perspektive; etwas älter aber weitestgehend zeitlos
-    - (€:) Buch **[Generative Programming](https://www.amazon.de/dp/0201309777/)** (2000) von Czarnecki & Eisenecker – Software-System-Familien
-  - Architekturmanagement (Deutschland):
-    - **[arc42](https://arc42.de/)** ⭐ / [aim42](https://www.aim42.org/)
-    - **[V-Modell XT](http://ftp.tu-clausthal.de/pub/institute/informatik/v-modell-xt/Releases/2.2/V-Modell-XT-Gesamt.pdf)**
-    - iteratec: (€) Buch [Enterprise Architecture Management - einfach und effektiv: Ein praktischer Leitfaden für die Einführung von EAM](http://www.amazon.de/dp/B0B5WB7CYN/) von Inge Hanschke
-    - sd&m AG: **[Quasar](http://www.amazon.de/dp/3898642925)** und **[Quasar Enterprise](http://www.amazon.de/dp/3898645061)** von Prof. Denert, Prof. Siedersleben und Prof. Hummels
-    - [Capgemini **IAF**](https://www.springer.com/de/book/9783642115172)
-  - Architekturmanagement (International):
-    - [Zachman Framework](https://zachman-feac.com/zachman/about-the-zachman-framework)
-    - RUP: (€) Buch [**Applying UML and Patterns**: An Introduction to Object-Oriented Analysis and Design and Iterative Development](http://www.amazon.de/dp/0131489062/) von Craig Larman ⭐
-    - CMMI: [**CMMI** Maturity Levels](https://www.tutorialspoint.com/cmmi/cmmi_maturity_levels.htm), [CMMI v2.0](https://cmmiinstitute.com/cmmi), **[DMM](https://cmmiinstitute.com/dmm)**
-    - [**Microsoft** Architecture Guides](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) (auch als [älteres Buch](https://dl.acm.org/doi/10.5555/1822629))
-    - [**TOGAF**®](https://www.opengroup.org/togaf)
-    - ArchiMate®: [Spezifikation](https://www.opengroup.org/archimate-forum/archimate-overview) sowie [Modellierungswerkzeug](https://www.archimatetool.com/)
-    - **[Agile Modeling](https://agilemodeling.com/)** von Scott W. Ambler
-  - Videos:
-    - Int'l: **[Software-Pioniere](https://www.software-pioneers.com/videos)** | **[Uncle Bob](https://cleancoders.com/library/all)** (Object Mentor) | **[Martin Fowler](https://martinfowler.com/videos.html)** (Thoughtworks) | **[Kent Beck](https://www.youtube.com/results?search_query=kent+beck)** | [Grady Booch](https://www.youtube.com/results?search_query=grady+booch) (IBM Research) | [Rockford Lhotka](https://www.youtube.com/results?search_query=Rockford+Lhotka) (Microsoft) | [Neal Ford](https://www.youtube.com/results?search_query=Neal+Ford) (Thoughtworks)
-    - DE: **[Eberhard Wolff](https://tube.tchncs.de/a/eberhard_wolff/)** (INNOQ) **≙** **[software-architektur.tv](https://software-architektur.tv/chronologisch.html)** | [Carola Lilienthal](https://www.youtube.com/results?search_query=Carola+Lilienthal) (WPS) | [Gernot Starke](https://www.youtube.com/results?search_query=gernot+starke) (INNOQ) | [Stefan Zörner](https://www.youtube.com/results?search_query=stefan+z%C3%B6rner) (embarc)
-  - „How they …“-Repos:, [How They **Test**](https://github.com/abhivaikar/howtheytest), [How They **Load-Test**](https://github.com/aliesbelik/how-they-load), [How They **DevOps**](https://github.com/bregman-arie/howtheydevops), [How They **SRE**](https://github.com/upgundecha/howtheysre), [How They **AWS**](https://github.com/upgundecha/howtheyaws), [How They Automate on **Mobile**](https://github.com/testableapple/how-they-automate-on-mobile)
-  - Weiterführende Quellen: [Awesome Software Architecture](https://awesome-architecture.com/) | roadmap.sh [Software Architect Roadmap](https://roadmap.sh/software-architect) + [System Design Roadmap](https://roadmap.sh/system-design) + [Software Design and Architecture](https://roadmap.sh/software-design-architecture)
+	- iSAQB Certified Professional for Software Architecture (CPSA): [Liste von Lehrplänen für das Advanced Level](https://www.isaqb.org/de/downloads/)
+	- System Design: **[Grokking the System Design Interview](https://designgurus.org/course/grokking-the-system-design-interview)** | [System Design Primer](https://github.com/donnemartin/system-design-primer) | [18 System Design Concepts Every Engineer Must Know Before the Interview](https://www.designgurus.io/blog/system-design-interview-fundamentals)
+	- SW-Architektur kompakt: embarc **[Architektur-Spicker](https://www.architektur-spicker.de)**
+	- SWE-Bücher:
+		- (€:) Buch **[Enterprise Integration Patterns](https://www.amazon.de/dp/0321200683/)** (2003) von Hohpe & Woolf
+		- (€:) Buch **[Clean Architecture](https://www.amazon.de/dp/0134494164/)** (2017) von Uncle Bob | verwandtes [Poster/Cheatsheet](https://www.dropbox.com/s/b6wkaqxp4oslano/Clean%20Architecture%20V1.5.pdf?dl=0) (2019) von Urs Enzler
+		- (€:) Buch **[Refactoring](https://www.amazon.de/dp/0134757599/)** (2018) von Martin Fowler
+		- (€:) Buch **[Langlebige Software-Architekturen](https://www.amazon.de/dp/3864907292/)** (2019) von Carola Lilienthal ⭐
+		- (€:) Buch **[Domain-Driven Design](https://www.amazon.de/dp/0321125215/)** (2003) von Eric J. Evans ⭐
+		- (€:) Buch **[Implementing Domain-Driven Design](https://www.amazon.de/dp/0321834577/)** (2013) von Vaughn Vernon
+		- (€:) Buch **[Patterns of Enterprise Application Architecture](https://www.amazon.de/dp/0321127420/)** (2012) von Martin Fowler
+			- Natürlich gibt es auch weitere berühmte Pattern-Bücher wie **GoF** und **POSA** (Vol. 1 bis Vol. 4)…
+		- (€:) Buch **[Working Effectively with Legacy Code](https://www.amazon.de/dp/0131177052)** (2013) von Michael C. Feathers
+		- (€:) Buch **[UML@Work](https://www.amazon.de/dp/3898642615/)** (2005) von Hitz, et al. – UML aus einer anspruchsvollen akademisch-wissenschaftlichen Perspektive; etwas älter aber weitestgehend zeitlos
+		- (€:) Buch **[Generative Programming](https://www.amazon.de/dp/0201309777/)** (2000) von Czarnecki & Eisenecker – Software-System-Familien
+	- Architekturmanagement (Deutschland):
+		- **[arc42](https://arc42.de/)** ⭐ / [aim42](https://www.aim42.org/)
+		- **[V-Modell XT](http://ftp.tu-clausthal.de/pub/institute/informatik/v-modell-xt/Releases/2.2/V-Modell-XT-Gesamt.pdf)**
+		- iteratec: (€) Buch [Enterprise Architecture Management - einfach und effektiv: Ein praktischer Leitfaden für die Einführung von EAM](http://www.amazon.de/dp/B0B5WB7CYN/) von Inge Hanschke
+		- sd&m AG: **[Quasar](http://www.amazon.de/dp/3898642925)** und **[Quasar Enterprise](http://www.amazon.de/dp/3898645061)** von Prof. Denert, Prof. Siedersleben und Prof. Hummels
+		- [Capgemini **IAF**](https://www.springer.com/de/book/9783642115172)
+	- Architekturmanagement (International):
+		- [Zachman Framework](https://zachman-feac.com/zachman/about-the-zachman-framework)
+		- RUP: (€) Buch [**Applying UML and Patterns**: An Introduction to Object-Oriented Analysis and Design and Iterative Development](http://www.amazon.de/dp/0131489062/) von Craig Larman ⭐
+		- CMMI: [**CMMI** Maturity Levels](https://www.tutorialspoint.com/cmmi/cmmi_maturity_levels.htm), [CMMI v2.0](https://cmmiinstitute.com/cmmi), **[DMM](https://cmmiinstitute.com/dmm)**
+		- [**Microsoft** Architecture Guides](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) (auch als [älteres Buch](https://dl.acm.org/doi/10.5555/1822629))
+		- [**TOGAF**®](https://www.opengroup.org/togaf)
+		- ArchiMate®: [Spezifikation](https://www.opengroup.org/archimate-forum/archimate-overview) sowie [Modellierungswerkzeug](https://www.archimatetool.com/)
+		- **[Agile Modeling](https://agilemodeling.com/)** von Scott W. Ambler
+	- Videos:
+		- Int'l: **[Software-Pioniere](https://www.software-pioneers.com/videos)** | **[Uncle Bob](https://cleancoders.com/library/all)** (Object Mentor) | **[Martin Fowler](https://martinfowler.com/videos.html)** (Thoughtworks) | **[Kent Beck](https://www.youtube.com/results?search_query=kent+beck)** | [Grady Booch](https://www.youtube.com/results?search_query=grady+booch) (IBM Research) | [Rockford Lhotka](https://www.youtube.com/results?search_query=Rockford+Lhotka) (Microsoft) | [Neal Ford](https://www.youtube.com/results?search_query=Neal+Ford) (Thoughtworks)
+		- DE: **[Eberhard Wolff](https://tube.tchncs.de/a/eberhard_wolff/)** (INNOQ) **≙** **[software-architektur.tv](https://software-architektur.tv/chronologisch.html)** | [Carola Lilienthal](https://www.youtube.com/results?search_query=Carola+Lilienthal) (WPS) | [Gernot Starke](https://www.youtube.com/results?search_query=gernot+starke) (INNOQ) | [Stefan Zörner](https://www.youtube.com/results?search_query=stefan+z%C3%B6rner) (embarc)
+	- „How they …“-Repos:, [How They **Test**](https://github.com/abhivaikar/howtheytest), [How They **Load-Test**](https://github.com/aliesbelik/how-they-load), [How They **DevOps**](https://github.com/bregman-arie/howtheydevops), [How They **SRE**](https://github.com/upgundecha/howtheysre), [How They **AWS**](https://github.com/upgundecha/howtheyaws), [How They Automate on **Mobile**](https://github.com/testableapple/how-they-automate-on-mobile)
+	- Weiterführende Quellen: [Awesome Software Architecture](https://awesome-architecture.com/) | roadmap.sh [Software Architect Roadmap](https://roadmap.sh/software-architect) + [System Design Roadmap](https://roadmap.sh/system-design) + [Software Design and Architecture](https://roadmap.sh/software-design-architecture)
 - Testing für Fortgeschrittene
-  - TDD: (€) Buch [**Test-Driven Development**: By Example](https://www.amazon.de/dp/0321146530/) von Kent Beck
-  - Agiles Testen: [Syllabus der ISTQB **Agile Tester**](http://www.german-testing-board.info/wp-content/uploads/2016/07/Certified-Tester-Foundation-Level-Extension-Syllabus-Agile-Tester-%E2%80%93-Deutsch.pdf) Schulung/Zertifizierung
-  - Modell-basiertes Testen: [Syllabus der ISTQB Model-based Tester](https://astqb.org/assets/documents/MBT-Syllabus-2015-GA.pdf) Schulung/Zertifizierung
-  - ArchUnit: [Automatisierte Architekturprüfungen mit **ArchUnit** – Praxiswissen](https://blog.viadee.de/archunit-praxiswissen)
-  - Load Testing: [guru99 **JMeter** Tutorial for Beginners](https://www.guru99.com/jmeter-tutorials.html)
-  - Container: [Docker **TestContainers** in Java Tests](https://www.baeldung.com/docker-test-containers)
-  - Cloud: [**Moto** für Mocks zu AWS-Diensten](https://docs.getmoto.org/en/latest/docs/getting_started.html)
+	- TDD: (€) Buch [**Test-Driven Development**: By Example](https://www.amazon.de/dp/0321146530/) von Kent Beck
+	- Agiles Testen: [Syllabus der ISTQB **Agile Tester**](http://www.german-testing-board.info/wp-content/uploads/2016/07/Certified-Tester-Foundation-Level-Extension-Syllabus-Agile-Tester-%E2%80%93-Deutsch.pdf) Schulung/Zertifizierung
+	- Modell-basiertes Testen: [Syllabus der ISTQB Model-based Tester](https://astqb.org/assets/documents/MBT-Syllabus-2015-GA.pdf) Schulung/Zertifizierung
+	- ArchUnit: [Automatisierte Architekturprüfungen mit **ArchUnit** – Praxiswissen](https://blog.viadee.de/archunit-praxiswissen)
+	- Load Testing: [guru99 **JMeter** Tutorial for Beginners](https://www.guru99.com/jmeter-tutorials.html)
+	- Container: [Docker **TestContainers** in Java Tests](https://www.baeldung.com/docker-test-containers)
+	- Cloud: [**Moto** für Mocks zu AWS-Diensten](https://docs.getmoto.org/en/latest/docs/getting_started.html)
 - Projektmanagement für Fortgeschrittene
-  - Agile (Scrum + Kanban: siehe oben!)
-    - [**Agile Engineering Fluency** – Stages of Practice Map](https://arlobelshee.GitHub.io/AgileEngineeringFluency/Stages_of_practice_map.html?)
-    - Flight Levels: Video **[Flight Levels – Operationalisierung der Unternehmensstrategie durch Darstellung der Zusammenhänge](https://www.youtube.com/watch?v=vBg6JD16PRM)**
-    - Weiterführende Quellen: [Awesome Agile](https://github.com/lorabv/awesome-agile/tree/master)
-  - Traditionell: [IAPM **Project Management** Guide 2.0](https://www.projektmagazin.de/sites/default/files/2020-09/iapm-pm-guide-09.pdf)
-    - (€:) Buch [**PMBOK**® Guide](https://www.amazon.de/gp/product/1628256648/)
-    - (€:) Buch **[PMP Exam Prep](https://www.amazon.de/dp/1943704279/)** von Rita Mulcahy ⭐
-    - Projektvorgehen nach **[V-Modell XT](http://ftp.tu-clausthal.de/pub/institute/informatik/v-modell-xt/Releases/2.2/V-Modell-XT-Gesamt.pdf)**
-  - Interkulturell: [IAPM **International** Project Management Guide 2.0](https://www.iapm-cert.net/documents/international-pm-guide-en.pdf)
+	- Agile (Scrum + Kanban: siehe oben!)
+		- [**Agile Engineering Fluency** – Stages of Practice Map](https://arlobelshee.GitHub.io/AgileEngineeringFluency/Stages_of_practice_map.html?)
+		- Flight Levels: Video **[Flight Levels – Operationalisierung der Unternehmensstrategie durch Darstellung der Zusammenhänge](https://www.youtube.com/watch?v=vBg6JD16PRM)**
+		- Weiterführende Quellen: [Awesome Agile](https://github.com/lorabv/awesome-agile/tree/master)
+	- Traditionell: [IAPM **Project Management** Guide 2.0](https://www.projektmagazin.de/sites/default/files/2020-09/iapm-pm-guide-09.pdf)
+		- (€:) Buch [**PMBOK**® Guide](https://www.amazon.de/gp/product/1628256648/)
+		- (€:) Buch **[PMP Exam Prep](https://www.amazon.de/dp/1943704279/)** von Rita Mulcahy ⭐
+		- Projektvorgehen nach **[V-Modell XT](http://ftp.tu-clausthal.de/pub/institute/informatik/v-modell-xt/Releases/2.2/V-Modell-XT-Gesamt.pdf)**
+	- Interkulturell: [IAPM **International** Project Management Guide 2.0](https://www.iapm-cert.net/documents/international-pm-guide-en.pdf)
 - Anforderungsmanagement für Fortgeschrittene
-  - Traditionell:
-    - (€:) Buch **[Basiswissen Requirements Engineering](https://www.amazon.de/dp/3864908140/)** (konform zu IREB) ⭐ von Klaus Pohl und Christine Rupp
-    - (€:) Buch [**BABOK**© Guide](https://www.amazon.de/dp/1927584027/)
-  - Agil:
-    - (€:) Buch **[User Stories Applied](https://www.amazon.de/dp/0321205685/)** von Mike Cohn
-    - (€:) Buch **[User Story Mapping](https://www.amazon.de/dp/1491904909/)** von Jeff Patton
-  - Functional Safety / Safety Integrity Levels (SIL):
-    - **[What Is IEC 61508?](https://www.perforce.com/blog/qac/what-iec-61508-how-determine-safety-integrity-levels)**
-    - (€:) Buch **[The Safety Critical Systems Handbook](https://www.amazon.de/dp/0128207000/)** (2020)
-  - Requirements Tracibility
-    - Einstieg: Wikipedia-Artikel zu [Requirements Tracibility](https://en.wikipedia.org/wiki/Requirements_traceability) sowie [List of Requirements Engineering Tools](https://en.wikipedia.org/wiki/List_of_requirements_engineering_tools)
-    - Well-known: IBM DOORS / IBM DOORS Next
+	- Traditionell:
+		- (€:) Buch **[Basiswissen Requirements Engineering](https://www.amazon.de/dp/3864908140/)** (konform zu IREB) ⭐ von Klaus Pohl und Christine Rupp
+		- (€:) Buch [**BABOK**© Guide](https://www.amazon.de/dp/1927584027/)
+	- Agil:
+		- (€:) Buch **[User Stories Applied](https://www.amazon.de/dp/0321205685/)** von Mike Cohn
+		- (€:) Buch **[User Story Mapping](https://www.amazon.de/dp/1491904909/)** von Jeff Patton
+	- Functional Safety / Safety Integrity Levels (SIL):
+		- **[What Is IEC 61508?](https://www.perforce.com/blog/qac/what-iec-61508-how-determine-safety-integrity-levels)**
+		- (€:) Buch **[The Safety Critical Systems Handbook](https://www.amazon.de/dp/0128207000/)** (2020)
+	- Requirements Tracibility
+		- Einstieg: Wikipedia-Artikel zu [Requirements Tracibility](https://en.wikipedia.org/wiki/Requirements_traceability) sowie [List of Requirements Engineering Tools](https://en.wikipedia.org/wiki/List_of_requirements_engineering_tools)
+		- Well-known: IBM DOORS / IBM DOORS Next
 - IT-Sicherheit / IT-Security für Fortgeschrittene
-  - Pentesting: [Hacker101](https://www.hacker101.com/start-here), [PortSwigger](https://portswigger.net/web-security/all-materials/detailed)
-    - Pentest-Übungen: **[Hack the Box](https://www.hackthebox.com/)** (Hacking Playground) und **[VulnHub](https://www.vulnhub.com/)** (VMs als Übungsziel, insb. [Basic Pentesting](https://www.vulnhub.com/entry/basic-pentesting-1,216/), [Mr. Robot](https://www.vulnhub.com/entry/mr-robot-1,151/), [Quaoar](https://www.vulnhub.com/entry/hackfest2016-quaoar,180/), [The Necromancer](https://www.vulnhub.com/entry/the-necromancer-1,154/), [The Wall](https://www.vulnhub.com/entry/the-wall-1,130/))
-  - Hacking Resources: [**0xdf** hacks stuff](https://0xdf.gitlab.io/), **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**
-  - Vulnerability Search: [SOCRadar **Top-10**](https://socradar.io/top-10-search-engines-for-pentesters-and-bug-bounty-hunters/) (inkl. prominentem **[Shodan](https://www.shodan.io/)** ⚠️, **[grep.app](https://grep.app/)**, etc.), umfassende [Awesome Hacker **Search Engines**](https://github.com/edoardottt/awesome-hacker-search-engines) sowie Google Dorking via [**Google** Hacking Database](https://www.exploit-db.com/google-hacking-database)
-  - [Bekannte Bücher](https://news.ycombinator.com/item?id=37230995) aus dem [Film Hackers](https://www.youtube.com/watch?v=4U9MI0u2VIE): US DoD Crayola Books aka [Rainbow Series](https://irp.fas.org/nsa/rainbow.htm) ([The Orange Book](https://en.m.wikipedia.org/wiki/Trusted_Computer_System_Evaluation_Criteria), [The Red Book](https://irp.fas.org/nsa/rainbow/tg005.htm)), [Pink-Shirt Book](https://en.wikipedia.org/wiki/Peter_Norton), [The Devil Book](https://archive.org/details/designimplementa0000unse) (sowie das Dragon Book über Compilerbau, das aber nur mit Programmierfähigkeiten i. Allg. assoziiert ist)
-  - Cloud Security: vgl. Master-Abschnitt "Cloud für Fortgeschrittene"
-    - Docker Security: vgl. Bachelor-Abschnitt "IT-Security"
-  - (Etliche weitere fortgeschrittene IT-Security Themen existieren, sind aber hier nicht weiter aufgeführt!)
-  - Weiterführende Quellen: [Awesome InfoSec](https://github.com/onlurking/awesome-infosec), [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
-    - Talks/Videos: [Awesome Sec Talks](https://github.com/PaulSec/awesome-sec-talks)
-    - Kommerzielle IT-Sec MOOCs: [Cybrary](https://www.cybrary.it/)
+	- Pentesting: [Hacker101](https://www.hacker101.com/start-here), [PortSwigger](https://portswigger.net/web-security/all-materials/detailed)
+		- Pentest-Übungen: **[Hack the Box](https://www.hackthebox.com/)** (Hacking Playground) und **[VulnHub](https://www.vulnhub.com/)** (VMs als Übungsziel, insb. [Basic Pentesting](https://www.vulnhub.com/entry/basic-pentesting-1,216/), [Mr. Robot](https://www.vulnhub.com/entry/mr-robot-1,151/), [Quaoar](https://www.vulnhub.com/entry/hackfest2016-quaoar,180/), [The Necromancer](https://www.vulnhub.com/entry/the-necromancer-1,154/), [The Wall](https://www.vulnhub.com/entry/the-wall-1,130/))
+	- Hacking Resources: [**0xdf** hacks stuff](https://0xdf.gitlab.io/), **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**
+	- Vulnerability Search: [SOCRadar **Top-10**](https://socradar.io/top-10-search-engines-for-pentesters-and-bug-bounty-hunters/) (inkl. prominentem **[Shodan](https://www.shodan.io/)** ⚠️, **[grep.app](https://grep.app/)**, etc.), umfassende [Awesome Hacker **Search Engines**](https://github.com/edoardottt/awesome-hacker-search-engines) sowie Google Dorking via [**Google** Hacking Database](https://www.exploit-db.com/google-hacking-database)
+	- [Bekannte Bücher](https://news.ycombinator.com/item?id=37230995) aus dem [Film Hackers](https://www.youtube.com/watch?v=4U9MI0u2VIE): US DoD Crayola Books aka [Rainbow Series](https://irp.fas.org/nsa/rainbow.htm) ([The Orange Book](https://en.m.wikipedia.org/wiki/Trusted_Computer_System_Evaluation_Criteria), [The Red Book](https://irp.fas.org/nsa/rainbow/tg005.htm)), [Pink-Shirt Book](https://en.wikipedia.org/wiki/Peter_Norton), [The Devil Book](https://archive.org/details/designimplementa0000unse) (sowie das Dragon Book über Compilerbau, das aber nur mit Programmierfähigkeiten i. Allg. assoziiert ist)
+	- Cloud Security: vgl. Master-Abschnitt "Cloud für Fortgeschrittene"
+		- Docker Security: vgl. Bachelor-Abschnitt "IT-Security"
+	- (Etliche weitere fortgeschrittene IT-Security Themen existieren, sind aber hier nicht weiter aufgeführt!)
+	- Weiterführende Quellen: [Awesome InfoSec](https://github.com/onlurking/awesome-infosec), [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
+		- Talks/Videos: [Awesome Sec Talks](https://github.com/PaulSec/awesome-sec-talks)
+		- Kommerzielle IT-Sec MOOCs: [Cybrary](https://www.cybrary.it/)
 - DevOps für Fortgeschrittene
-  - **[TraceBoK](http://www.tracebok.org/)**: Software Tracibility Body of Knowledge
+	- **[TraceBoK](http://www.tracebok.org/)**: Software Tracibility Body of Knowledge
 - Datenbanksysteme für Fortgeschrittene
-  - Datenmodelle für evolutionäre Informationssysteme (bzw. Agile Data Modeling)
-    - **[Entity-Attribute-Value](https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model)** Modell (EAV) seit spät. 1990
-      - Paper [A generalized relational schema for an integrated clinical patient database](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2245527/pdf/procascamc00016-0360.pdf) (1990) von Friedman et al.
-      - Erweiterung: Entity-Attribute-Value with Classes and Relationships (EAV/CR): Publikation [Organization of heterogeneous scientific data using the **EAV/CR** representation](https://academic.oup.com/jamia/article-pdf/6/6/478/2339676/6-6-478.pdf) (1999) von Nadkarni et al.
-    - **[Anchor Modeling](https://www.anchormodeling.com/)** (Anchor, Attribute, Tie & Knot) seit spät. 2007
-      - (€:) Paper [Anchor Modeling - An Agile Modeling Technique Using the Sixth Normal Form for Structurally and Temporally Evolving Data](https://www.researchgate.net/publication/221268907_Anchor_Modeling) (free: [Presentation](https://www.anchormodeling.com/wp-content/uploads/2010/08/SU_KTH_Course_Presentation.pdf)) von Regardt & Rönnbäck
-    - (Und natürlich **schemalose Datenbanken** wie RDF Triplestores und NoSQL Stores)
-    - (Obacht #1: Abfragen sind auf impliziter Ebene niemals schemalos, daher ist „schemalos“ irreführend, besser: **Schema-on-Read** sowie **Deferred Data Integration**. Im Gegensatz dazu bei schema-enforcing Datenbanken: Schema-on-Write.)
-    - (Obacht #2: Bei evolutionsfähigen/schemalosen/flexiblen/agilen Modellierungsansätzen ist der **Transaktionsschutz** oft nur eingeschränkt.)
-  - Advanced SQL: **[Modern SQL](https://modern-sql.com/de)** | [**Mode SQL Tutorial**: Advanced SQL](https://mode.com/sql-tutorial/intro-to-advanced-sql/)
-  - **[Analytische Fensterfunktionen](https://mode.com/sql-tutorial/sql-window-functions/)** in SQL: die [**OVER** clause](<https://modern-sql.com/caniuse/over_(empty_over_clause)>) in Verbindung mit **[LAG | LEAD](https://learnsql.com/blog/lead-and-lag-functions-in-sql/)** | FIRST | LAST | RANK | DENSE_RANK ⚠️
-  - Rekursive Anfragen bzw. Hierarchical Queries in SQL: sowohl [**WITH RECURSIVE** … ;](<https://modern-sql.com/caniuse/with_recursive_(top_level)>) als auch [\[START WITH …\] **CONNECT BY … PRIOR** … ;](http://%5BSTART "CONNECT")
-  - [**Assertions** und **Triggers**](https://medium.com/geekculture/introduction-to-constraints-assertions-and-triggers-6c4ae8209cbc) in SQL
-  - Performance Tuning in SQL: [**EXPLAIN** …;](https://mode.com/sql-tutorial/sql-performance-tuning/) ⚠️
+	- Datenmodelle für evolutionäre Informationssysteme (bzw. Agile Data Modeling)
+		- **[Entity-Attribute-Value](https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model)** Modell (EAV) seit spät. 1990
+			- Paper [A generalized relational schema for an integrated clinical patient database](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2245527/pdf/procascamc00016-0360.pdf) (1990) von Friedman et al.
+			- Erweiterung: Entity-Attribute-Value with Classes and Relationships (EAV/CR): Publikation [Organization of heterogeneous scientific data using the **EAV/CR** representation](https://academic.oup.com/jamia/article-pdf/6/6/478/2339676/6-6-478.pdf) (1999) von Nadkarni et al.
+		- **[Anchor Modeling](https://www.anchormodeling.com/)** (Anchor, Attribute, Tie & Knot) seit spät. 2007
+			- (€:) Paper [Anchor Modeling - An Agile Modeling Technique Using the Sixth Normal Form for Structurally and Temporally Evolving Data](https://www.researchgate.net/publication/221268907_Anchor_Modeling) (free: [Presentation](https://www.anchormodeling.com/wp-content/uploads/2010/08/SU_KTH_Course_Presentation.pdf)) von Regardt & Rönnbäck
+		- (Und natürlich **schemalose Datenbanken** wie RDF Triplestores und NoSQL Stores)
+		- (Obacht #1: Abfragen sind auf impliziter Ebene niemals schemalos, daher ist „schemalos“ irreführend, besser: **Schema-on-Read** sowie **Deferred Data Integration**. Im Gegensatz dazu bei schema-enforcing Datenbanken: Schema-on-Write.)
+		- (Obacht #2: Bei evolutionsfähigen/schemalosen/flexiblen/agilen Modellierungsansätzen ist der **Transaktionsschutz** oft nur eingeschränkt.)
+	- Advanced SQL: **[Modern SQL](https://modern-sql.com/de)** | [**Mode SQL Tutorial**: Advanced SQL](https://mode.com/sql-tutorial/intro-to-advanced-sql/)
+	- **[Analytische Fensterfunktionen](https://mode.com/sql-tutorial/sql-window-functions/)** in SQL: die [**OVER** clause](<https://modern-sql.com/caniuse/over_(empty_over_clause)>) in Verbindung mit **[LAG | LEAD](https://learnsql.com/blog/lead-and-lag-functions-in-sql/)** | FIRST | LAST | RANK | DENSE_RANK ⚠️
+	- Rekursive Anfragen bzw. Hierarchical Queries in SQL: sowohl [**WITH RECURSIVE** … ;](<https://modern-sql.com/caniuse/with_recursive_(top_level)>) als auch [\[START WITH …\] **CONNECT BY … PRIOR** … ;](http://%5BSTART "CONNECT")
+	- [**Assertions** und **Triggers**](https://medium.com/geekculture/introduction-to-constraints-assertions-and-triggers-6c4ae8209cbc) in SQL
+	- Performance Tuning in SQL: [**EXPLAIN** …;](https://mode.com/sql-tutorial/sql-performance-tuning/) ⚠️
 - Implementierung von Datenbanksystemen: **[Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)** (2007) von Hellerstein, Stonebraker & Hamilton
-  - Auch substantielle Teile der Materialien von Prof. Dr. Jens Dittrich (s. oben)
-  - (€:) Buch **[Datenbanksysteme: Konzepte und Techniken der Implementierung](https://www.amazon.de/dp/3540421335/)** (2001) von Härder & Rahm
-  - (€:) Buch **[Database Systems: The Complete Book](https://www.amazon.de/dp/129202447X/)** (2013) von Garcia-Molina, Ullman & Widom
-  - In-Memory Databases: Kurs [Hasso Plattner **In-Memory Data Management**](https://open.hpi.de/courses/imdb2017) | [Dissertation **Viktor Leis**](http://mediatum.ub.tum.de/node?id=1306494)
-  - \[Disclaimer: Prof. Thomas Neumann an der TUM ist nicht mir mir verwandt.\]
-  - Vectorized execution engine: [MonetDB/X100: Hyper-**Pipelining** **Query Execution**](http://cidrdb.org/cidr2005/papers/P19.pdf) (2005) von Boncz et al.
-  - Query Optimizer: [Dynamic programming strikes back](https://15721.courses.cs.cmu.edu/spring2020/papers/20-optimizer2/p539-moerkotte.pdf) (2020) by Moerkotte & Th. Neumann sowie [Unnesting Arbitrary Queries](http://www.btw-2015.de/res/proceedings/Hauptband/Wiss/Neumann-Unnesting_Arbitrary_Querie.pdf) (2025) von Th. Neumann & Kemper
-  - MVCC Concurrency control: [Fast Serializable **Multi-Version Concurrency Control** for Main-Memory Database Systems](https://db.in.tum.de/~muehlbau/papers/mvcc.pdf) (2015) von Th. Neumann et al.
-  - Secondary Indexes: [The **Adaptive Radix Tree**: ARTful Indexing for Main-Memory Databases](https://db.in.tum.de/~leis/papers/ART.pdf) (2013) von Leis et al.
-  - SQL Window Functions via Segment Tree Aggregation: [Efficient Processing of **Window Functions** in Analytical SQL Queries](https://dl.acm.org/doi/abs/10.14778/2794367.2794375) (2015) von Leis et al.
+	- Auch substantielle Teile der Materialien von Prof. Dr. Jens Dittrich (s. oben)
+	- (€:) Buch **[Datenbanksysteme: Konzepte und Techniken der Implementierung](https://www.amazon.de/dp/3540421335/)** (2001) von Härder & Rahm
+	- (€:) Buch **[Database Systems: The Complete Book](https://www.amazon.de/dp/129202447X/)** (2013) von Garcia-Molina, Ullman & Widom
+	- In-Memory Databases: Kurs [Hasso Plattner **In-Memory Data Management**](https://open.hpi.de/courses/imdb2017) | [Dissertation **Viktor Leis**](http://mediatum.ub.tum.de/node?id=1306494)
+	- \[Disclaimer: Prof. Thomas Neumann an der TUM ist nicht mir mir verwandt.\]
+	- Vectorized execution engine: [MonetDB/X100: Hyper-**Pipelining** **Query Execution**](http://cidrdb.org/cidr2005/papers/P19.pdf) (2005) von Boncz et al.
+	- Query Optimizer: [Dynamic programming strikes back](https://15721.courses.cs.cmu.edu/spring2020/papers/20-optimizer2/p539-moerkotte.pdf) (2020) by Moerkotte & Th. Neumann sowie [Unnesting Arbitrary Queries](http://www.btw-2015.de/res/proceedings/Hauptband/Wiss/Neumann-Unnesting_Arbitrary_Querie.pdf) (2025) von Th. Neumann & Kemper
+	- MVCC Concurrency control: [Fast Serializable **Multi-Version Concurrency Control** for Main-Memory Database Systems](https://db.in.tum.de/~muehlbau/papers/mvcc.pdf) (2015) von Th. Neumann et al.
+	- Secondary Indexes: [The **Adaptive Radix Tree**: ARTful Indexing for Main-Memory Databases](https://db.in.tum.de/~leis/papers/ART.pdf) (2013) von Leis et al.
+	- SQL Window Functions via Segment Tree Aggregation: [Efficient Processing of **Window Functions** in Analytical SQL Queries](https://dl.acm.org/doi/abs/10.14778/2794367.2794375) (2015) von Leis et al.
 - Web-Anwendungsentwicklung (WAE) für Fortgeschrittene
-  - Front-End:
-    - Front-End System Design by Example:
-      - Video: Design an asset heavy app like [Pinterest](https://www.youtube.com/watch?v=3MADCVqL534)
-      - Video: Design social media feed appl like [Facebook](https://www.youtube.com/watch?v=5vyKhm2NTfw)
-      - Video: Design video streaming app like [Netflix](https://www.youtube.com/watch?v=Tu-hZ6lqNtY)
-      - Video: Design a [Chat application](https://www.youtube.com/watch?v=LEaiGjffLEs) like Messenger
-      - Video: Design schedule-planner app like [Google Calendar](https://www.youtube.com/watch?v=leo1FZ6vu1I)
-      - Video: Design scalable spreadsheet like [Google Sheets](https://www.youtube.com/watch?v=fmIiDLbLc_s)
-      - Video: Design a configurable [Autocomplete (= Typeahead)](https://www.youtube.com/watch?v=9aOXGE7wAZo) widget
-      - Video: Design a scalable [Data Table](https://www.youtube.com/watch?v=u6jhTo13_No) application
-      - Video: Design a scalable [Poll widget](https://www.youtube.com/watch?v=lO6GyCvbDm8) component
-      - Video: Design a scalable productivity app like [Notion](https://www.youtube.com/watch?v=tsGarhpWOws)
-      - Video: Design a code collaboration app like [CodeSandbox](https://www.youtube.com/watch?v=o5aoJlcS8Rc)
-      - Video: Design a realtime drawing app like [Excalidraw/Figma/Draw.io](https://www.youtube.com/watch?v=1lNJVDfsTSo)
-    - Web Accessibility Fundamentals: W3C **[Web Accessibility Initiative](https://www.w3.org/WAI/people-use-web/tools-techniques/)** (WAI) | Video **[Web Accessibility](https://www.youtube.com/watch?v=bEM9Fn9aOG8)** sowie [Web Accessibility Matters: **Why Should We Care**](https://www.youtube.com/watch?v=VIRx3RJzbZg)
-    - Mobile Usability: Google **[Mobile Sites Optimization](https://developers.google.com/search/mobile-sites/get-started)**
-    - Micro Frontends: Webartikel **[Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)** (2019) von Cam Jackson auf Martin Fowlers Blog | **[micro-frondends.org](https://micro-frontends.org/)** | [Awesome Micro-Frontends](https://github.com/rajasegar/awesome-micro-frontends) | [Awesome Micro-Frontend](https://awesome-architecture.com/micro-frontend/)
-  - Back-End:
-    - Kostenloses Buch [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook)
-    - Sowie alle Aspekte über fortgeschrittene SW-Architektur, SW-Engineering, DevOps, Datenbanksysteme, etc.
+	- Front-End:
+		- Front-End System Design by Example:
+			- Video: Design an asset heavy app like [Pinterest](https://www.youtube.com/watch?v=3MADCVqL534)
+			- Video: Design social media feed appl like [Facebook](https://www.youtube.com/watch?v=5vyKhm2NTfw)
+			- Video: Design video streaming app like [Netflix](https://www.youtube.com/watch?v=Tu-hZ6lqNtY)
+			- Video: Design a [Chat application](https://www.youtube.com/watch?v=LEaiGjffLEs) like Messenger
+			- Video: Design schedule-planner app like [Google Calendar](https://www.youtube.com/watch?v=leo1FZ6vu1I)
+			- Video: Design scalable spreadsheet like [Google Sheets](https://www.youtube.com/watch?v=fmIiDLbLc_s)
+			- Video: Design a configurable [Autocomplete (= Typeahead)](https://www.youtube.com/watch?v=9aOXGE7wAZo) widget
+			- Video: Design a scalable [Data Table](https://www.youtube.com/watch?v=u6jhTo13_No) application
+			- Video: Design a scalable [Poll widget](https://www.youtube.com/watch?v=lO6GyCvbDm8) component
+			- Video: Design a scalable productivity app like [Notion](https://www.youtube.com/watch?v=tsGarhpWOws)
+			- Video: Design a code collaboration app like [CodeSandbox](https://www.youtube.com/watch?v=o5aoJlcS8Rc)
+			- Video: Design a realtime drawing app like [Excalidraw/Figma/Draw.io](https://www.youtube.com/watch?v=1lNJVDfsTSo)
+		- Web Accessibility Fundamentals: W3C **[Web Accessibility Initiative](https://www.w3.org/WAI/people-use-web/tools-techniques/)** (WAI) | Video **[Web Accessibility](https://www.youtube.com/watch?v=bEM9Fn9aOG8)** sowie [Web Accessibility Matters: **Why Should We Care**](https://www.youtube.com/watch?v=VIRx3RJzbZg)
+		- Mobile Usability: Google **[Mobile Sites Optimization](https://developers.google.com/search/mobile-sites/get-started)**
+		- Micro Frontends: Webartikel **[Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)** (2019) von Cam Jackson auf Martin Fowlers Blog | **[micro-frondends.org](https://micro-frontends.org/)** | [Awesome Micro-Frontends](https://github.com/rajasegar/awesome-micro-frontends) | [Awesome Micro-Frontend](https://awesome-architecture.com/micro-frontend/)
+	- Back-End:
+		- Kostenloses Buch [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook)
+		- Sowie alle Aspekte über fortgeschrittene SW-Architektur, SW-Engineering, DevOps, Datenbanksysteme, etc.
 - Workflow-Management: Kurs [**BPMN Meets DMN**: Business Process and Decision Modeling](https://open.hpi.de/courses/bpm2016?locale=de) | Kurs [**Business Processes**: Modeling, Simulation, Execution](https://open.hpi.de/courses/bpm2019)
-  - (€:) Buch **[BPMN 2.0](https://www.amazon.de/dp/375043526X/)** von Thomas Allweyer
-  - (€:) Buch [**Praxishandbuch BPMN**: Mit Einführung in **DMN**](https://www.amazon.de/dp/3446461116/) von Rücker & Freund
+	- (€:) Buch **[BPMN 2.0](https://www.amazon.de/dp/375043526X/)** von Thomas Allweyer
+	- (€:) Buch [**Praxishandbuch BPMN**: Mit Einführung in **DMN**](https://www.amazon.de/dp/3446461116/) von Rücker & Freund
 - Semantic Web / Wissensrepräsentation
-  - Einstieg: [**Ontologien** in der Softwaretechnik](https://www.mathematik.uni-marburg.de/~hesse/papers/H_K_04.pdf) (2004) von Hesse & Krzensk
-  - Tutorial: [Protégé: **Pizzas in 10 Minutes**](https://protegewiki.stanford.edu/wiki/Protege4Pizzas10Minutes) (2016) von Alan Rector
-  - Artikel [**Ontology Development 101**: A Guide to Creating Your First Ontology](https://protege.stanford.edu/publications/ontology_development/ontology101.pdf) (2002) von Noy & McGuiness
-  - Tutorial (Advanced): [**Protégé OWL Tutorial** (überarbeitet von Michael Debellis für Protégé 5)](https://www.researchgate.net/publication/351037551_A_Practical_Guide_to_Building_OWL_Ontologies_Using_Protege_55_and_Plugins), geht weit über das Pizza-Tutorial hinaus!
-    - \[[Original von Matthew Horridge aber nur zu Protégé 4](http://owl.cs.manchester.ac.uk/publications/talks-and-tutorials/protg-owl-tutorial/)\]
-    - Alternative: [Manchester Family History **Advanced OWL Tutorial**](http://owl.cs.manchester.ac.uk/publications/talks-and-tutorials/fhkbtutorial/) v1.1 (2015) von Stevens et al.
-  - Video: **[Knowledge Graphs](https://www.youtube.com/watch?v=UKv1orCph90)** von Prof. Harald Sack (FIZ Karlsruhe) im Modul Information Service Engineering
-  - [Semantic Web **Cheat Sheet**](https://cheatography.com/asselin/cheat-sheets/semantic-web/)
-  - **[Schema.org](https://schema.org/docs/developers.html)** | [**YAGO** Graph](https://yago-knowledge.org/graph/) | [SparQL on **YAGO**](http://www.yago-knowledge.org/sparql) | [SparQL on **Wikidata**](https://query.wikidata.org/) | [SparQL on **DBpedia**](https://dbpedia.org/sparql) | [**prefix**.cc](https://prefix.cc/)
-  - (€:) Buch **[Semantic Web](https://www.amazon.de/dp/3540339930/)** (2007) von Hitzler et al.
-  - (€:) Buch [**Semantic Web for the Working Ontologist**: Effective Modeling for Linked Data, RDFS, and OWL](https://www.amazon.de/dp/1450376142/) (2020) von Allemang, Hendler & Gandon
-  - (€:) Buch [**Semantische Technologien**: Grundlagen. Konzepte. Anwendungen.](https://www.amazon.de/dp/3827426634/) (2012) von Andreas Dengel
-  - (€:) Buch [**Knowledge Graphs**: Methodology, Tools and Selected Use Cases](https://www.amazon.de/dp/3030374386/) (2020) von Fensel et al.
-  - (€:) Buch [Handbook of **Knowledge Representation**](https://www.amazon.de/dp/0444522115) (2007) von Harmelen et al.
-  - Geo-Informationen:
-    - (€:) Buch [Linked Data A Geographic Perspective](https://www.amazon.de/dp/0367866544) (2019) von Hart & Dolbear
-    - (€:) Buch [Geospatial Semantics and the Semantic Web: Foundations, Algorithms, and Applications](https://www.amazon.de/dp/1441994459) (2011) von Ashish & Sheth
-    - (€:) Buch [Geospatial Semantic Web](https://www.amazon.de/dp/3319378392/) (2016) von Zhang, Zhao & Li
-  - Nennenswerte öffentliche Knowledge Graphs:
-    - Open Data: **[wikidata.org](https://www.wikidata.org/)**, **[DBpedia](https://wiki.dbpedia.org/)**, **[WordNet](https://wordnet.princeton.edu/)**, **[Geonames](https://www.geonames.org/)**, …, **[FactGrid](https://database.factgrid.de)**, **[EoE](https://editors.eol.org/eoearth/wiki/The_Encyclopedia_of_Earth)**, …
-    - Linked Open Data: **[YAGO](https://yago-knowledge.org/)**, **[FactForge.net](http://factforge.net/)**, …, **[LOV](https://lov.linkeddata.es/dataset/lov/)**, [**Getty** Vocabularies](https://vocab.getty.edu/), …
-    - [**Google** knowledge graph](https://blog.google/products/search/introducing-knowledge-graph-things-not/), [**Amazon**’s product graph](https://www.amazon.science/blog/building-product-graphs-automatically), etc.
-    - **[northdata](https://www.northdata.de/)**: Wirtschaftsinformationen durch Firmenveröffentlichungen
-    - **[golden.com](https://golden.com/query/)**: Wirtschaftsunternehmen, Organisationen, Finanzen, uvm.
-    - [**arkham**intelligence.com](https://www.arkhamintelligence.com/): BitCoin, DeFi, …
-    - **[Notable People](https://tjukanovt.GitHub.io/notable-people)** World Map
+	- Einstieg: [**Ontologien** in der Softwaretechnik](https://www.mathematik.uni-marburg.de/~hesse/papers/H_K_04.pdf) (2004) von Hesse & Krzensk
+	- Tutorial: [Protégé: **Pizzas in 10 Minutes**](https://protegewiki.stanford.edu/wiki/Protege4Pizzas10Minutes) (2016) von Alan Rector
+	- Artikel [**Ontology Development 101**: A Guide to Creating Your First Ontology](https://protege.stanford.edu/publications/ontology_development/ontology101.pdf) (2002) von Noy & McGuiness
+	- Tutorial (Advanced): [**Protégé OWL Tutorial** (überarbeitet von Michael Debellis für Protégé 5)](https://www.researchgate.net/publication/351037551_A_Practical_Guide_to_Building_OWL_Ontologies_Using_Protege_55_and_Plugins), geht weit über das Pizza-Tutorial hinaus!
+		- \[[Original von Matthew Horridge aber nur zu Protégé 4](http://owl.cs.manchester.ac.uk/publications/talks-and-tutorials/protg-owl-tutorial/)\]
+		- Alternative: [Manchester Family History **Advanced OWL Tutorial**](http://owl.cs.manchester.ac.uk/publications/talks-and-tutorials/fhkbtutorial/) v1.1 (2015) von Stevens et al.
+	- Video: **[Knowledge Graphs](https://www.youtube.com/watch?v=UKv1orCph90)** von Prof. Harald Sack (FIZ Karlsruhe) im Modul Information Service Engineering
+	- [Semantic Web **Cheat Sheet**](https://cheatography.com/asselin/cheat-sheets/semantic-web/)
+	- **[Schema.org](https://schema.org/docs/developers.html)** | [**YAGO** Graph](https://yago-knowledge.org/graph/) | [SparQL on **YAGO**](http://www.yago-knowledge.org/sparql) | [SparQL on **Wikidata**](https://query.wikidata.org/) | [SparQL on **DBpedia**](https://dbpedia.org/sparql) | [**prefix**.cc](https://prefix.cc/)
+	- (€:) Buch **[Semantic Web](https://www.amazon.de/dp/3540339930/)** (2007) von Hitzler et al.
+	- (€:) Buch [**Semantic Web for the Working Ontologist**: Effective Modeling for Linked Data, RDFS, and OWL](https://www.amazon.de/dp/1450376142/) (2020) von Allemang, Hendler & Gandon
+	- (€:) Buch [**Semantische Technologien**: Grundlagen. Konzepte. Anwendungen.](https://www.amazon.de/dp/3827426634/) (2012) von Andreas Dengel
+	- (€:) Buch [**Knowledge Graphs**: Methodology, Tools and Selected Use Cases](https://www.amazon.de/dp/3030374386/) (2020) von Fensel et al.
+	- (€:) Buch [Handbook of **Knowledge Representation**](https://www.amazon.de/dp/0444522115) (2007) von Harmelen et al.
+	- Geo-Informationen:
+		- (€:) Buch [Linked Data A Geographic Perspective](https://www.amazon.de/dp/0367866544) (2019) von Hart & Dolbear
+		- (€:) Buch [Geospatial Semantics and the Semantic Web: Foundations, Algorithms, and Applications](https://www.amazon.de/dp/1441994459) (2011) von Ashish & Sheth
+		- (€:) Buch [Geospatial Semantic Web](https://www.amazon.de/dp/3319378392/) (2016) von Zhang, Zhao & Li
+	- Nennenswerte öffentliche Knowledge Graphs:
+		- Open Data: **[wikidata.org](https://www.wikidata.org/)**, **[DBpedia](https://wiki.dbpedia.org/)**, **[WordNet](https://wordnet.princeton.edu/)**, **[Geonames](https://www.geonames.org/)**, …, **[FactGrid](https://database.factgrid.de)**, **[EoE](https://editors.eol.org/eoearth/wiki/The_Encyclopedia_of_Earth)**, …
+		- Linked Open Data: **[YAGO](https://yago-knowledge.org/)**, **[FactForge.net](http://factforge.net/)**, …, **[LOV](https://lov.linkeddata.es/dataset/lov/)**, [**Getty** Vocabularies](https://vocab.getty.edu/), …
+		- [**Google** knowledge graph](https://blog.google/products/search/introducing-knowledge-graph-things-not/), [**Amazon**’s product graph](https://www.amazon.science/blog/building-product-graphs-automatically), etc.
+		- **[northdata](https://www.northdata.de/)**: Wirtschaftsinformationen durch Firmenveröffentlichungen
+		- **[golden.com](https://golden.com/query/)**: Wirtschaftsunternehmen, Organisationen, Finanzen, uvm.
+		- [**arkham**intelligence.com](https://www.arkhamintelligence.com/): BitCoin, DeFi, …
+		- **[Notable People](https://tjukanovt.GitHub.io/notable-people)** World Map
 - Graphdatenbanksysteme
-  - Buch [**Graph Databases For Dummies**, Neo4j Special Edition](https://neo4j.com/graph-databases-for-dummies/) (2020) von Webber & van Bruggen
-  - Artikel [RDF Triple Stores vs. **Labeled Property Graphs**: What’s the Difference?](https://neo4j.com/blog/rdf-triple-store-vs-labeled-property-graph-difference/) (2017) von Neo4j
+	- Buch [**Graph Databases For Dummies**, Neo4j Special Edition](https://neo4j.com/graph-databases-for-dummies/) (2020) von Webber & van Bruggen
+	- Artikel [RDF Triple Stores vs. **Labeled Property Graphs**: What’s the Difference?](https://neo4j.com/blog/rdf-triple-store-vs-labeled-property-graph-difference/) (2017) von Neo4j
 - IT-Sicherheit für Fortgeschrittene: **[Advanced Cyber Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-cyber-security-threats-and-governance)** von Great Learning
-  - Threat Modeling: [Threat Modeling **Manifesto**](https://www.threatmodelingmanifesto.org/) | OWASP [**Threat Modeling** Process](https://owasp.org/www-community/Threat_Modeling_Process) | Threat Identification: **[STRIDE](https://www.softwaresecured.com/stride-threat-modeling/)** | Risk Assessment: **[DREAD](https://owasp.org/www-community/Threat_Modeling_Process#subjective-model-dread)**
-  - Pen Testing für Fortgeschrittene: [**Payloads** All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
-  - Katalog: [Common Attack Pattern Enumerations and Classifications (**CAPEC**)](https://capec.mitre.org/data/index.html)
-  - Fuzz Testing: Paper [The Art, Science, and Engineering of **Fuzzing**: A Survey](https://ieeexplore.ieee.org/document/8863940) (2019) von Manès et al. | Code Intelligence [Fuzzing 101](https://www.code-intelligence.com/what-is-fuzz-testing) | [Awesome Fuzzing](https://github.com/cpuu/awesome-fuzzing)
-  - Ethical Hacking: [**Hacking** Techniques and Intrusion Detection](https://opensecuritytraining.info/HTID.html)
-  - [**CISSP** Study Resources](https://github.com/jefferywmoore/CISSP-Study-Resources)
-  - **[Über die Rolle der NSA](https://blog.cr.yp.to/20220805-nsa.html)** von Daniel J. Bernstein
-  - (€:) Buch **[Building a Secure Computer System](https://www.amazon.de/dp/0442230222/)** (1988) von Gasser – zeitlos: glaube nicht an „build it first, secure it later“, denn „it usually involves great costs to retrofit security“
-  - Cloud Security:
-    - Einstieg: Amazons **[Shared Responsibility Model](https://aws.amazon.com/en/compliance/shared-responsibility-model/)** | GitGuardian [**10 Rules** for Better Cloud Security](https://blog.gitguardian.com/10-rules-for-better-cloud-security/) | [The Shared Responsibility Model for Cloud Security **is Broken**](http://www.linkedin.com/posts/mattdfuller_fwdcloudsec-2020-shared-security-responsibility-activity-6683498210704584704-faPz/) von Matt Fuller | **[Cloud Security Orienteering](https://tldrsec.com/p/blog-cloud-security-orienteering)** von Rami McCarthy | aquasec [cloud native wiki » **cloud security**](https://www.aquasec.com/cloud-native-academy/cspm/cloud-security/)
-    - Security Mindset: Buch (€) [**Cybersecurity for Executives** in the Age of Cloud](https://www.amazon.de/dp/1652474811) (2020) von Teri Radichel
-    - AWS: [**Best Practices** for Security, Identity, & Compliance](http://aws.amazon.com/architecture/security-identity-compliance/) | [AWS Well-Architected Framework: **Security Pillar**](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
-      - Kubernetes: [Amazon **EKS Best Practices** Guide for Security](https://aws.GitHub.io/aws-eks-best-practices/security/docs/)
-      - Scott Piper: [AWS **Security Maturity** Roadmap](https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf)
-    - Datadog [The State of **AWS Security**: A Look Into Real-World AWS Environments](https://www.datadoghq.com/state-of-aws-security/) | Video [**Deep Dive** into the Security Posture of 600+ Real-World AWS Environments](https://www.youtube.com/watch?v=HUJXJoPI6TQ)
-    - lmgtfy: [**Riskiest** Cloud Native AWS **Configurations**](http://www.google.com/search?client=opera&q=Riskiest+Cloud+Native+AWS+Configurations)
-  - More Security Domains:
-    - Mobile Security: [Hacking **Mobile Devices**](https://samsclass.info/128/128_S15.shtml), [Awesome **Mobile Security**](https://github.com/vaib25vicky/awesome-mobile-security)
-    - AI Security: [**OWASP** Top 10 for **Large Language Model Applications**](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-    - AI Privacy Preserving / Differntial Privacy: Book (€) **[Privacy-preserving Machine Learning](https://www.amazon.de/dp/1617298042/)** (2023) | [Why **differential privacy** is awesome?](https://desfontain.es/privacy/differential-privacy-awesomeness.html) | [Awesome Privacy-Preserving Machine Learning](https://github.com/innovation-cat/awesome-privacy-preserving-machine-learning) | [Awesome Differentlia Privacy #1](https://github.com/menisadi/awesome-differential-privacy) | [Awesome Differentlia Privacy #2](https://github.com/Billy1900/Awesome-Differential-Privacy)
-  - [**Postmortem** Culture](https://sre.google/sre-book/postmortem-culture/):
-    - Awesome [Catalog of **AWS Customer Security Incidents**](https://github.com/ramimac/aws-customer-security-incidents) by Rami McCarthy
-    - Webartikel [Learning from a Security Incident: A **Post-Mortem Checklist**](https://www.digitalguardian.com/blog/learning-security-incident-post-mortem-checklist) (2022) von Tim Bandos
-    - Webartikel [7 Infamous **Cloud Security Breaches**](https://www.arcserve.com/blog/7-most-infamous-cloud-security-breaches)
-  - Security Assessments: **[Buying Security](http://tldrsec.com/p/guides-buying-security)** (2023) von Rami McCarthy
-  - Weiterführende Quellen: **[Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening)**
-  - Blockchain-Counter-Exploit: [Nicht so unveränderlich, dezentral und unantastbar-ggb-staatlichem-Eingriff wie man meint](https://www.blockworksresearch.com/research/we-do-a-little-counter-exploit).
+	- Threat Modeling: [Threat Modeling **Manifesto**](https://www.threatmodelingmanifesto.org/) | OWASP [**Threat Modeling** Process](https://owasp.org/www-community/Threat_Modeling_Process) | Threat Identification: **[STRIDE](https://www.softwaresecured.com/stride-threat-modeling/)** | Risk Assessment: **[DREAD](https://owasp.org/www-community/Threat_Modeling_Process#subjective-model-dread)**
+	- Pen Testing für Fortgeschrittene: [**Payloads** All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
+	- Katalog: [Common Attack Pattern Enumerations and Classifications (**CAPEC**)](https://capec.mitre.org/data/index.html)
+	- Fuzz Testing: Paper [The Art, Science, and Engineering of **Fuzzing**: A Survey](https://ieeexplore.ieee.org/document/8863940) (2019) von Manès et al. | Code Intelligence [Fuzzing 101](https://www.code-intelligence.com/what-is-fuzz-testing) | [Awesome Fuzzing](https://github.com/cpuu/awesome-fuzzing)
+	- Ethical Hacking: [**Hacking** Techniques and Intrusion Detection](https://opensecuritytraining.info/HTID.html)
+	- [**CISSP** Study Resources](https://github.com/jefferywmoore/CISSP-Study-Resources)
+	- **[Über die Rolle der NSA](https://blog.cr.yp.to/20220805-nsa.html)** von Daniel J. Bernstein
+	- (€:) Buch **[Building a Secure Computer System](https://www.amazon.de/dp/0442230222/)** (1988) von Gasser – zeitlos: glaube nicht an „build it first, secure it later“, denn „it usually involves great costs to retrofit security“
+	- Cloud Security:
+		- Einstieg: Amazons **[Shared Responsibility Model](https://aws.amazon.com/en/compliance/shared-responsibility-model/)** | GitGuardian [**10 Rules** for Better Cloud Security](https://blog.gitguardian.com/10-rules-for-better-cloud-security/) | [The Shared Responsibility Model for Cloud Security **is Broken**](http://www.linkedin.com/posts/mattdfuller_fwdcloudsec-2020-shared-security-responsibility-activity-6683498210704584704-faPz/) von Matt Fuller | **[Cloud Security Orienteering](https://tldrsec.com/p/blog-cloud-security-orienteering)** von Rami McCarthy | aquasec [cloud native wiki » **cloud security**](https://www.aquasec.com/cloud-native-academy/cspm/cloud-security/)
+		- Security Mindset: Buch (€) [**Cybersecurity for Executives** in the Age of Cloud](https://www.amazon.de/dp/1652474811) (2020) von Teri Radichel
+		- AWS: [**Best Practices** for Security, Identity, & Compliance](http://aws.amazon.com/architecture/security-identity-compliance/) | [AWS Well-Architected Framework: **Security Pillar**](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
+			- Kubernetes: [Amazon **EKS Best Practices** Guide for Security](https://aws.GitHub.io/aws-eks-best-practices/security/docs/)
+			- Scott Piper: [AWS **Security Maturity** Roadmap](https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf)
+		- Datadog [The State of **AWS Security**: A Look Into Real-World AWS Environments](https://www.datadoghq.com/state-of-aws-security/) | Video [**Deep Dive** into the Security Posture of 600+ Real-World AWS Environments](https://www.youtube.com/watch?v=HUJXJoPI6TQ)
+		- lmgtfy: [**Riskiest** Cloud Native AWS **Configurations**](http://www.google.com/search?client=opera&q=Riskiest+Cloud+Native+AWS+Configurations)
+	- More Security Domains:
+		- Mobile Security: [Hacking **Mobile Devices**](https://samsclass.info/128/128_S15.shtml), [Awesome **Mobile Security**](https://github.com/vaib25vicky/awesome-mobile-security)
+		- AI Security: [**OWASP** Top 10 for **Large Language Model Applications**](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+		- AI Privacy Preserving / Differntial Privacy: Book (€) **[Privacy-preserving Machine Learning](https://www.amazon.de/dp/1617298042/)** (2023) | [Why **differential privacy** is awesome?](https://desfontain.es/privacy/differential-privacy-awesomeness.html) | [Awesome Privacy-Preserving Machine Learning](https://github.com/innovation-cat/awesome-privacy-preserving-machine-learning) | [Awesome Differentlia Privacy #1](https://github.com/menisadi/awesome-differential-privacy) | [Awesome Differentlia Privacy #2](https://github.com/Billy1900/Awesome-Differential-Privacy)
+	- [**Postmortem** Culture](https://sre.google/sre-book/postmortem-culture/):
+		- Awesome [Catalog of **AWS Customer Security Incidents**](https://github.com/ramimac/aws-customer-security-incidents) by Rami McCarthy
+		- Webartikel [Learning from a Security Incident: A **Post-Mortem Checklist**](https://www.digitalguardian.com/blog/learning-security-incident-post-mortem-checklist) (2022) von Tim Bandos
+		- Webartikel [7 Infamous **Cloud Security Breaches**](https://www.arcserve.com/blog/7-most-infamous-cloud-security-breaches)
+	- Security Assessments: **[Buying Security](http://tldrsec.com/p/guides-buying-security)** (2023) von Rami McCarthy
+	- Weiterführende Quellen: **[Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening)**
+	- Blockchain-Counter-Exploit: [Nicht so unveränderlich, dezentral und unantastbar-ggb-staatlichem-Eingriff wie man meint](https://www.blockworksresearch.com/research/we-do-a-little-counter-exploit).
 - Nebenläufige Programmierung für Fortgeschrittene:
-  - Vorlesungsskript **[Parallelverarbeitug](https://www.tcs.uni-luebeck.de/mitarbeiter/tantau/lehre/lectures/Parallelverarbeitung-2018.pdf)**
-  - Vorlesungsfolien **[Concurrent Object-Oriented Programming](http://se.inf.ethz.ch/old/teaching/ss2007/0268/lectures/05-coop-basic_concepts.pdf)** von Bertrand Meyer und Volkan Arslan
-  - Zeitlos: Paper **[Communicating Sequential Processes](https://ora.ox.ac.uk/objects/uuid:e026f803-a2f5-4aca-a6b8-4a096925920b/)** (1976) von C. A. R. Hoare
-  - Schlüsselkonzepte: Message-Passing Semantics | Futures and Promises | Active Object Pattern | **[Actor Model](https://www.youtube.com/watch?v=7erJ1DV_Tlo)**
-  - (€:) Buch [**POSA2**: Patterns for Concurrent and Networked Objects](https://www.amazon.de/dp/0471606952/) (2000) von Schmidt, et al.
-  - Nachdrücklich: Video **[Concurrency Is Not Parallelism](https://vimeo.com/49718712)** von Rob Pike ⭐
-  - (€:) Buch **[Concurrency in C# Cookbook](https://www.amazon.de/dp/149205450X/)** (2019) von **[Stephen Cleary](https://stephencleary.com/)**
-  - Weiterführende Referenzen: [Awesome Concurrency](https://gitlab.com/Lipovsky/awesome-concurrency)
-  - Parallele Programmierung / Multi-Threading (⊆ Nebenläufige Programmierung):
-    - (Multi-Threading; s. oben bei Bachelor-Level)
-    - **[Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)**
-    - Tutorial [Introduction to **Parallel Computing Tutorial**](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial) des HPC at LLNL
-    - Vorlesung **[Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2020)** (2020) an der UC Berkeley
-    - Weiterführende Referenzen: [Awesome Parallel Computing Resources](https://github.com/taskflow/awesome-parallel-computing)
-  - Asynchrone Programmierung (⊆ Nebenläufige Programmierung):
-    - C#: Stephen Clearys Artikel **[Async and Await](http://blog.stephencleary.com/2012/02/async-and-await.html)**, **[Three is no Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)**, **[Don't Block on Async Code](http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html)** sowie sein obiges Buch | CodinGame [Your **Ultimate** async / await **Tutorial** in C#](https://www.codingame.com/playgrounds/4240/your-ultimate-async-await-tutorial-in-c/introduction)
-    - JS: freeCodeCamp [Asynchronous Programming in JavaScript for Beginners](https://www.freecodecamp.org/news/asynchronism-in-javascript/)
-    - Weiterführende Referenzen: [Awesome (**Python**) asyncio](https://github.com/timofurrer/awesome-asyncio) | [Awesome **Swift** async/await](https://github.com/artemnovichkov/awesome-swift-async-await) |
+	- Vorlesungsskript **[Parallelverarbeitug](https://www.tcs.uni-luebeck.de/mitarbeiter/tantau/lehre/lectures/Parallelverarbeitung-2018.pdf)**
+	- Vorlesungsfolien **[Concurrent Object-Oriented Programming](http://se.inf.ethz.ch/old/teaching/ss2007/0268/lectures/05-coop-basic_concepts.pdf)** von Bertrand Meyer und Volkan Arslan
+	- Zeitlos: Paper **[Communicating Sequential Processes](https://ora.ox.ac.uk/objects/uuid:e026f803-a2f5-4aca-a6b8-4a096925920b/)** (1976) von C. A. R. Hoare
+	- Schlüsselkonzepte: Message-Passing Semantics | Futures and Promises | Active Object Pattern | **[Actor Model](https://www.youtube.com/watch?v=7erJ1DV_Tlo)**
+	- (€:) Buch [**POSA2**: Patterns for Concurrent and Networked Objects](https://www.amazon.de/dp/0471606952/) (2000) von Schmidt, et al.
+	- Nachdrücklich: Video **[Concurrency Is Not Parallelism](https://vimeo.com/49718712)** von Rob Pike ⭐
+	- (€:) Buch **[Concurrency in C# Cookbook](https://www.amazon.de/dp/149205450X/)** (2019) von **[Stephen Cleary](https://stephencleary.com/)**
+	- Weiterführende Referenzen: [Awesome Concurrency](https://gitlab.com/Lipovsky/awesome-concurrency)
+	- Parallele Programmierung / Multi-Threading (⊆ Nebenläufige Programmierung):
+		- (Multi-Threading; s. oben bei Bachelor-Level)
+		- **[Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)**
+		- Tutorial [Introduction to **Parallel Computing Tutorial**](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial) des HPC at LLNL
+		- Vorlesung **[Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2020)** (2020) an der UC Berkeley
+		- Weiterführende Referenzen: [Awesome Parallel Computing Resources](https://github.com/taskflow/awesome-parallel-computing)
+	- Asynchrone Programmierung (⊆ Nebenläufige Programmierung):
+		- C#: Stephen Clearys Artikel **[Async and Await](http://blog.stephencleary.com/2012/02/async-and-await.html)**, **[Three is no Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)**, **[Don't Block on Async Code](http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html)** sowie sein obiges Buch | CodinGame [Your **Ultimate** async / await **Tutorial** in C#](https://www.codingame.com/playgrounds/4240/your-ultimate-async-await-tutorial-in-c/introduction)
+		- JS: freeCodeCamp [Asynchronous Programming in JavaScript for Beginners](https://www.freecodecamp.org/news/asynchronism-in-javascript/)
+		- Weiterführende Referenzen: [Awesome (**Python**) asyncio](https://github.com/timofurrer/awesome-asyncio) | [Awesome **Swift** async/await](https://github.com/artemnovichkov/awesome-swift-async-await) |
 - Verteilte Systeme: **[Distributed systems for fun and profit](http://book.mixu.net/distsys/)**
-  - InfoQ: [**5 Challenges** in Building Distributed Systems](https://dzone.com/articles/5-challenges-in-building-distributed-systems) (auch für Non-Technical Readers)
-  - Principles-Wiki: [**8 Fallacies** of Distributed Computing](http://principles-wiki.net/principles:fallacies_of_distributed_computing)
-  - freeCodeCamp [The **Design Patterns for Distributed Systems** Handbook](https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/) (2023): CQRS, Sagas, Circuit Breaker, Bloom Filters, …
-  - Multi-Version Concurrency Control (**[MVCC](https://de.wikipedia.org/wiki/Multiversion_Concurrency_Control)**)⭐: Publikation „[Concurrency Control in Distributed Database Systems](http://portal.acm.org/citation.cfm?id=356842.356846)“ (1981) von Phil Bernstein und Nathan Goodman
-  - **[RAFT](https://raft.GitHub.io/)** Consensus Algorithmus ([RAFT paper](https://ramcloud.stanford.edu/raft.pdf))
-  - Etliche der Arbeiten von **[Rich Hickey](https://github.com/tallesl/Rich-Hickey-fanclub)**
-  - Video zum **[Actor Model](https://www.youtube.com/watch?v=7erJ1DV_Tlo)** (2012) auf Channel9 mit Carl Hewitt persönlich ⭐
-  - Unmeshi Joshi [Catalog of Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) (basierend auf seinem [Buch](http://www.amazon.de/dp/0138221987/))
-  - Video [Mind Your State for Your State of Mind](https://www.youtube.com/watch?v=V8TcEWdx2Q8) by Pat Helland ⭐
-  - Weiterführende Listen: [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems) | [Distributed Systems Reading List](https://dancres.GitHub.io/Pages/)
+	- InfoQ: [**5 Challenges** in Building Distributed Systems](https://dzone.com/articles/5-challenges-in-building-distributed-systems) (auch für Non-Technical Readers)
+	- Principles-Wiki: [**8 Fallacies** of Distributed Computing](http://principles-wiki.net/principles:fallacies_of_distributed_computing)
+	- freeCodeCamp [The **Design Patterns for Distributed Systems** Handbook](https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/) (2023): CQRS, Sagas, Circuit Breaker, Bloom Filters, …
+	- Multi-Version Concurrency Control (**[MVCC](https://de.wikipedia.org/wiki/Multiversion_Concurrency_Control)**)⭐: Publikation „[Concurrency Control in Distributed Database Systems](http://portal.acm.org/citation.cfm?id=356842.356846)“ (1981) von Phil Bernstein und Nathan Goodman
+	- **[RAFT](https://raft.GitHub.io/)** Consensus Algorithmus ([RAFT paper](https://ramcloud.stanford.edu/raft.pdf))
+	- Etliche der Arbeiten von **[Rich Hickey](https://github.com/tallesl/Rich-Hickey-fanclub)**
+	- Video zum **[Actor Model](https://www.youtube.com/watch?v=7erJ1DV_Tlo)** (2012) auf Channel9 mit Carl Hewitt persönlich ⭐
+	- Unmeshi Joshi [Catalog of Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) (basierend auf seinem [Buch](http://www.amazon.de/dp/0138221987/))
+	- Video [Mind Your State for Your State of Mind](https://www.youtube.com/watch?v=V8TcEWdx2Q8) by Pat Helland ⭐
+	- Weiterführende Listen: [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems) | [Distributed Systems Reading List](https://dancres.GitHub.io/Pages/)
 - GPU Computing
-  - Weiterführende Listen: [Awesome GPU](https://github.com/look4regev/awesome-gpu) | [Awesome CUDA](https://github.com/Erkaman/Awesome-CUDA) | [Awesome WebGPU](https://github.com/mikbry/awesome-webgpu)
+	- Weiterführende Listen: [Awesome GPU](https://github.com/look4regev/awesome-gpu) | [Awesome CUDA](https://github.com/Erkaman/Awesome-CUDA) | [Awesome WebGPU](https://github.com/mikbry/awesome-webgpu)
 
 ### M.Sc.: Big Data and Cloud Computing for AI
 
 \[ Relevant sind besonders die obigen Abschnitte aus einem Master Informatik/KI zu **In-Memory-Computing**, **Implementierung von Datenbanksystemen**, **Nebenläufige Programmierung** und **Verteilte Systeme**. Nicht zu jedem fortgeschritten Thema sind kostenlose Lernmaterialien oder Bücher verfügbar. Entsprechend erfolgen hier nur selektive und unvollständige Ergänzungen zu meiner obigen Basisliste **B.Sc.: Big Data und Cloud-Computing für KI**. Meinen Abschlussarbeitern und Abschlussarbeiterinnen stelle ich daher zusätzlich einen Foliensatz „Notbuch: Big Data und Cloud-Computing für KI“ zur Verfügung. \]
 
 - Datenschutz
-  - Aus dem Umfeld TensorFlow Privacy: Paper [Enabling Fast **Differentially Private** SGD via Just-in-Time Compilation and Vectorization](https://arxiv.org/abs/2010.09063) (2020) von Subramani et al.
-  - Weiterführende Quellen: [Awesome GDPR](https://github.com/bakke92/awesome-gdpr) | [Awesome Privacy](https://github.com/pluja/awesome-privacy)
+	- Aus dem Umfeld TensorFlow Privacy: Paper [Enabling Fast **Differentially Private** SGD via Just-in-Time Compilation and Vectorization](https://arxiv.org/abs/2010.09063) (2020) von Subramani et al.
+	- Weiterführende Quellen: [Awesome GDPR](https://github.com/bakke92/awesome-gdpr) | [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 - Big Data
-  - [**Big Data** Disclaimer](https://motherduck.com/blog/big-data-is-dead/) (2023) von Jordan Tigani; Kernbotschaft: die meisten Unternehmen haben kein Big Data Problem (höchstens ein Smart Data oder Data Science Problem); Tigani hat mit den meisten Beobachtungen Recht (aber Obacht, er will damit auch DuckDB verkaufen)
-  - Skalierbarkeit: vgl. Abschnitt Verteilte Systeme, u. a. Video [Mind Your State for Your State of Mind](https://www.youtube.com/watch?v=V8TcEWdx2Q8) by Pat Helland ⭐
-  - Datenarchitekturen für evolutionäre und agile Informationssysteme
-    - Vorwissen: Data-Warehouse (s. oben) und Data Lake (s. oben)
-    - **[Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)** (2019) von Zhamak Dehghani (bei Thoughtworks): ein [dezentraler und föderativer Ansatz](https://martinfowler.com/articles/data-mesh-principles.html)
-    - Der Business Event Analysis & Modelling (**[BEAM✲](https://modelstorming.com/)**) Ansatz, inkl. **[Modelstorming](https://modelstorming.com/)**, aus dem (€:) Buch **[Agile Data Warehouse Design](https://www.amazon.de/dp/0956817203/)** (2011) von Corr & Stagnitto
-      - Kurzer [Einordnung](https://www.optimalbi.com/post/agilebi-vs-beam-vs-modelstorming) von OptimalBI | Kostenloses [Kapitel 1](https://modelstorming.com/s/Agile-Data-Warehouse-Design-Sampler.pdf) aus dem Buch
-  - (€:) Buch **[Handbook of Big Data Technologies](https://www.amazon.de/dp/3319493396)** (2017) von Zomaya & Sakr
-  - Buch [Mining of Massive Datasets (**MMDS**)](http://www.mmds.org/) – zwischen Big Data und Data Science
-  - Streaming: **[Kafka by Example](https://apoclyps.GitHub.io/kafka-by-example/)** | **[Flink Docu](https://nightlies.apache.org/flink/flink-docs-stable/)** » Learn Flink: Hands-on Training | **[Kafka vs. RabbitMQ](https://www.upsolver.com/blog/kafka-versus-rabbitmq-architecture-performance-use-case)**
-  - λ/Lambda-Architektur: **[How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html)** (2011) by Nathan Marz | (€:) Buch [Big Data: Principles and best practices of **scalable realtime data systems**](https://www.amazon.de/dp/1617290343) (2015) by Nathan Marz & James Warren
-  - ϰ/Kappa-Architektur: **[Questioning the Lambda Architecture](https://www.oreilly.com/radar/questioning-the-lambda-architecture/)** (2014) by Jay Kreps | Publikation **[The lambda and the kappa](https://cs.uwaterloo.ca/~jimmylin/publications/Lin_IEEE2017b.pdf)** (2017) by J. Lin
-  - Log-Analysen: [Awesome **Log Analysis**](https://github.com/logpai/awesome-log-analysis)
+	- [**Big Data** Disclaimer](https://motherduck.com/blog/big-data-is-dead/) (2023) von Jordan Tigani; Kernbotschaft: die meisten Unternehmen haben kein Big Data Problem (höchstens ein Smart Data oder Data Science Problem); Tigani hat mit den meisten Beobachtungen Recht (aber Obacht, er will damit auch DuckDB verkaufen)
+	- Skalierbarkeit: vgl. Abschnitt Verteilte Systeme, u. a. Video [Mind Your State for Your State of Mind](https://www.youtube.com/watch?v=V8TcEWdx2Q8) by Pat Helland ⭐
+	- Datenarchitekturen für evolutionäre und agile Informationssysteme
+		- Vorwissen: Data-Warehouse (s. oben) und Data Lake (s. oben)
+		- **[Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)** (2019) von Zhamak Dehghani (bei Thoughtworks): ein [dezentraler und föderativer Ansatz](https://martinfowler.com/articles/data-mesh-principles.html)
+		- Der Business Event Analysis & Modelling (**[BEAM✲](https://modelstorming.com/)**) Ansatz, inkl. **[Modelstorming](https://modelstorming.com/)**, aus dem (€:) Buch **[Agile Data Warehouse Design](https://www.amazon.de/dp/0956817203/)** (2011) von Corr & Stagnitto
+			- Kurzer [Einordnung](https://www.optimalbi.com/post/agilebi-vs-beam-vs-modelstorming) von OptimalBI | Kostenloses [Kapitel 1](https://modelstorming.com/s/Agile-Data-Warehouse-Design-Sampler.pdf) aus dem Buch
+	- (€:) Buch **[Handbook of Big Data Technologies](https://www.amazon.de/dp/3319493396)** (2017) von Zomaya & Sakr
+	- Buch [Mining of Massive Datasets (**MMDS**)](http://www.mmds.org/) – zwischen Big Data und Data Science
+	- Streaming: **[Kafka by Example](https://apoclyps.GitHub.io/kafka-by-example/)** | **[Flink Docu](https://nightlies.apache.org/flink/flink-docs-stable/)** » Learn Flink: Hands-on Training | **[Kafka vs. RabbitMQ](https://www.upsolver.com/blog/kafka-versus-rabbitmq-architecture-performance-use-case)**
+	- λ/Lambda-Architektur: **[How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html)** (2011) by Nathan Marz | (€:) Buch [Big Data: Principles and best practices of **scalable realtime data systems**](https://www.amazon.de/dp/1617290343) (2015) by Nathan Marz & James Warren
+	- ϰ/Kappa-Architektur: **[Questioning the Lambda Architecture](https://www.oreilly.com/radar/questioning-the-lambda-architecture/)** (2014) by Jay Kreps | Publikation **[The lambda and the kappa](https://cs.uwaterloo.ca/~jimmylin/publications/Lin_IEEE2017b.pdf)** (2017) by J. Lin
+	- Log-Analysen: [Awesome **Log Analysis**](https://github.com/logpai/awesome-log-analysis)
 - NewSQL/MPP-DBMS
-  - Exasol: [A Drill-Down Into Exasol](https://www.exasol.com/resource/a-drill-down-into-exasol-2/) (2016) von Exasol
-  - SnowFlake: [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/10.1145/2882903.2903741) (2016) von Snowflake, [Design Principles of Snowflake](https://blog.det.life/i-spent-another-6-hours-understanding-the-design-principles-of-snowflake-heres-what-i-found-dea9fd74ae96) (2024) von Vu Trinh
-  - DuckDB: [Embedded Analytics](https://vutr.substack.com/p/i-made-110-in-duckdb) (2024) von Vu Trinh
+	- Exasol: [A Drill-Down Into Exasol](https://www.exasol.com/resource/a-drill-down-into-exasol-2/) (2016) von Exasol
+	- SnowFlake: [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/10.1145/2882903.2903741) (2016) von Snowflake, [Design Principles of Snowflake](https://blog.det.life/i-spent-another-6-hours-understanding-the-design-principles-of-snowflake-heres-what-i-found-dea9fd74ae96) (2024) von Vu Trinh
+	- DuckDB: [Embedded Analytics](https://vutr.substack.com/p/i-made-110-in-duckdb) (2024) von Vu Trinh
 - Cloud für Fortgeschrittene:
-  - Docker für Fortgeschrittene: Webartikel [The efficient way to publish **multi-arch containers** from GitHub Actions](https://actuated.dev/blog/multi-arch-docker-GitHub-actions) (2023) von Alex Ellis
-  - Kubernetes für Fortgeschrittene:
-    - [Kubernetes **Learning Roadmap**](https://github.com/techiescamp/kubernetes-learning-path) ⭐
-    - **[Certified Kubernetes Administrator Study Guide](https://www.freecodecamp.org/news/certified-kubernetes-administrator-study-guide-cka/)**
-  - Serverless: [**Martin Fowler** über Serverless](https://martinfowler.com/articles/serverless.html) | [**Google Cloud Funktionen** für Firebase](https://firebase.google.com/docs/functions/)
-    - Scale to Zero: [The Scale to Zero Problem](https://www.fermyon.com/blog/scale-to-zero-problem) | DZone [Scale to Zero With Kubernetes](https://dzone.com/articles/scale-to-zero-with-kubernetes)
-  - Cloud-zugängliche Datenbanksysteme bzw. Backend-as-a-Service (BaaS): z.B. **[Parse](https://docs.parseplatform.org/parse-server/guide/)**, [Google Firebase **Firestore**](https://firebase.google.com/docs/firestore)
-  - Cloud-zugängliche Authentication Services: z.B. **[Auth0](https://auth0.com/docs/videos/get-started-series)**, **[AWS Cognito](https://www.freecodecamp.org/news/user-management-with-aws-cognito-1-3-initial-setup-a1a692a657b3/)**
-  - Cloud Security: Buch **[Container Security](https://info.aquasec.com/docker-container-security)** | **[Docker Security Best Practices & Cheat Sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/)** | **[Best practices for managing and storing secrets](https://blog.gitguardian.com/secrets-api-management/)** | **[Kubernetes Hardening Tutorial](https://blog.gitguardian.com/kubernetes-tutorial-part-1-pods/)**
-  - Weiterführende Quellen: [Awesome **Cloud Native Tutorials**](https://github.com/manifoldco/awesome-cloud-native-tutorials)
+	- Docker für Fortgeschrittene: Webartikel [The efficient way to publish **multi-arch containers** from GitHub Actions](https://actuated.dev/blog/multi-arch-docker-GitHub-actions) (2023) von Alex Ellis
+	- Kubernetes für Fortgeschrittene:
+		- [Kubernetes **Learning Roadmap**](https://github.com/techiescamp/kubernetes-learning-path) ⭐
+		- **[Certified Kubernetes Administrator Study Guide](https://www.freecodecamp.org/news/certified-kubernetes-administrator-study-guide-cka/)**
+	- Serverless: [**Martin Fowler** über Serverless](https://martinfowler.com/articles/serverless.html) | [**Google Cloud Funktionen** für Firebase](https://firebase.google.com/docs/functions/)
+		- Scale to Zero: [The Scale to Zero Problem](https://www.fermyon.com/blog/scale-to-zero-problem) | DZone [Scale to Zero With Kubernetes](https://dzone.com/articles/scale-to-zero-with-kubernetes)
+	- Cloud-zugängliche Datenbanksysteme bzw. Backend-as-a-Service (BaaS): z.B. **[Parse](https://docs.parseplatform.org/parse-server/guide/)**, [Google Firebase **Firestore**](https://firebase.google.com/docs/firestore)
+	- Cloud-zugängliche Authentication Services: z.B. **[Auth0](https://auth0.com/docs/videos/get-started-series)**, **[AWS Cognito](https://www.freecodecamp.org/news/user-management-with-aws-cognito-1-3-initial-setup-a1a692a657b3/)**
+	- Cloud Security: Buch **[Container Security](https://info.aquasec.com/docker-container-security)** | **[Docker Security Best Practices & Cheat Sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/)** | **[Best practices for managing and storing secrets](https://blog.gitguardian.com/secrets-api-management/)** | **[Kubernetes Hardening Tutorial](https://blog.gitguardian.com/kubernetes-tutorial-part-1-pods/)**
+	- Weiterführende Quellen: [Awesome **Cloud Native Tutorials**](https://github.com/manifoldco/awesome-cloud-native-tutorials)
 - Blockchain / dApps:
-  - roadmap.sh [**BlockChain Developer** Roadmap](https://roadmap.sh/blockchain)
-  - Interaktive Lernplattform: **[CryptoZombies](https://cryptozombies.io)**
-  - Online-Kurse [Ethereum Developer Bootcamp](https://university.alchemy.com/#eth-bootcamp) von alchemy | [LearnWeb3](https://learnweb3.io)
-  - Wiss. Publikationen: **[Polkadot Whitepaper](https://www.win.tue.nl/~mholende/seminar/references/ethereum_polkadot.pdf)** | [A **Survey on Blockchain Interoperability**: Past, Present, and Future Trends](https://arxiv.org/pdf/2005.14282.pdf)
-  - Ethereum ZK-Rollups: [Dev-Doku](https://ethereum.org/en/developers/docs/scaling/zk-rollups/) ([Video](https://www.youtube.com/watch?v=7pWxCklcNsU&t=406s))
-  - Weiterführende Quellen: [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain) | [Blockchain Resources](https://gist.github.com/sin2akshay/65cdfe2f7fa1f84b4914f188d49d5323)
+	- roadmap.sh [**BlockChain Developer** Roadmap](https://roadmap.sh/blockchain)
+	- Interaktive Lernplattform: **[CryptoZombies](https://cryptozombies.io)**
+	- Online-Kurse [Ethereum Developer Bootcamp](https://university.alchemy.com/#eth-bootcamp) von alchemy | [LearnWeb3](https://learnweb3.io)
+	- Wiss. Publikationen: **[Polkadot Whitepaper](https://www.win.tue.nl/~mholende/seminar/references/ethereum_polkadot.pdf)** | [A **Survey on Blockchain Interoperability**: Past, Present, and Future Trends](https://arxiv.org/pdf/2005.14282.pdf)
+	- Ethereum ZK-Rollups: [Dev-Doku](https://ethereum.org/en/developers/docs/scaling/zk-rollups/) ([Video](https://www.youtube.com/watch?v=7pWxCklcNsU&t=406s))
+	- Weiterführende Quellen: [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain) | [Blockchain Resources](https://gist.github.com/sin2akshay/65cdfe2f7fa1f84b4914f188d49d5323)
 - Machine Learning:
-  - Autonomes Fahren: **[SAE J3016 Levels of Driving Automation](https://www.sae.org/binaries/content/assets/cm/content/blog/sae-j3016-visual-chart_5.3.21.pdf)** ([J3016 Details](https://www.sae.org/standards/content/j3016_202104/))
-  - Tensorflow: **[tensorflow.org Tutorials](https://www.tensorflow.org/tutorials)**
-  - Chatbots: [Understanding **Large Language Models** – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html) (2023) mit Verweisen auf diverse wiss. Publikationen
-  - Weiterführende Quellen: [Awesome **Machine-Learning Tutorials**](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | [Awesome **Production Machine Learning**](https://github.com/EthicalML/awesome-production-machine-learning) | [My Self-Created **Artificial Intelligence Masters Degree**](https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e?source=linkShare-dbc019e228f5-1513738324) | [Awesome AI Awesomeness](https://github.com/amusi/awesome-ai-awesomeness)
+	- Autonomes Fahren: **[SAE J3016 Levels of Driving Automation](https://www.sae.org/binaries/content/assets/cm/content/blog/sae-j3016-visual-chart_5.3.21.pdf)** ([J3016 Details](https://www.sae.org/standards/content/j3016_202104/))
+	- Tensorflow: **[tensorflow.org Tutorials](https://www.tensorflow.org/tutorials)**
+	- Chatbots: [Understanding **Large Language Models** – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html) (2023) mit Verweisen auf diverse wiss. Publikationen
+	- Weiterführende Quellen: [Awesome **Machine-Learning Tutorials**](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | [Awesome **Production Machine Learning**](https://github.com/EthicalML/awesome-production-machine-learning) | [My Self-Created **Artificial Intelligence Masters Degree**](https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e?source=linkShare-dbc019e228f5-1513738324) | [Awesome AI Awesomeness](https://github.com/amusi/awesome-ai-awesomeness)
 - Data Science:
-  - Spark: **[Learn Spark from Experts](https://intellipaat.com/blog/tutorial/spark-tutorial/)** | **[Apache Spark in Python: Beginner's Guide](https://www.datacamp.com/tutorial/apache-spark-python#gs.fMIIqxM)** | datacamp [Getting Started with **Pyspark**](https://www.datacamp.com/tutorial/pyspark-tutorial-getting-started-with-pyspark#gs.fMIIqxM)
-  - R-Programmierung für Fortgeschrittene: **[R for Data Science](https://r4ds.had.co.nz/)**
-  - Weiterführende Quellen: [Awesome **Data Science #1**](https://github.com/academic/awesome-datascience) | [Awesome **Data Science #2**](https://awesomerank.GitHub.io/lists/bulutyazilim/awesome-datascience.html)
+	- Spark: **[Learn Spark from Experts](https://intellipaat.com/blog/tutorial/spark-tutorial/)** | **[Apache Spark in Python: Beginner's Guide](https://www.datacamp.com/tutorial/apache-spark-python#gs.fMIIqxM)** | datacamp [Getting Started with **Pyspark**](https://www.datacamp.com/tutorial/pyspark-tutorial-getting-started-with-pyspark#gs.fMIIqxM)
+	- R-Programmierung für Fortgeschrittene: **[R for Data Science](https://r4ds.had.co.nz/)**
+	- Weiterführende Quellen: [Awesome **Data Science #1**](https://github.com/academic/awesome-datascience) | [Awesome **Data Science #2**](https://awesomerank.GitHub.io/lists/bulutyazilim/awesome-datascience.html)
 
 ### M.Sc.: Bonusliste
 
 - Wissensmanagement
-  - (€:) Buch **[Die Organisation des Wissens](https://www.amazon.de/dp/3593396319/)** (2012) von Nonaka & Takeuchi inkl. **[SECI model](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions)**
+	- (€:) Buch **[Die Organisation des Wissens](https://www.amazon.de/dp/3593396319/)** (2012) von Nonaka & Takeuchi inkl. **[SECI model](https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions)**
 - Psychologie
-  - Kognitive Verzerrungen: [dt. Liste](https://de.wikipedia.org/wiki/Liste_kognitiver_Verzerrungen) | [engl. Liste](https://en.wikipedia.org/wiki/List_of_cognitive_biases) | [engl. Infografik](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg) | [Biases von A-Z](https://www.anti-bias.eu/wissen/biases-von-a-z/)
-    - Relevant in der Informatik u.a. in der Anforderungsanalyse: bspw. [Kognitive Dissonanz](https://de.wikipedia.org/wiki/Kognitive_Dissonanz), [Paradox of Expertise](https://www.cambridge.org/core/books/abs/paradoxical-brain/paradox-of-human-expertise-why-experts-get-it-wrong/D7D9DCD8E0074ACA9C66B2C044177A74), [Dunning-Kruger-Effekt](https://de.wikipedia.org/wiki/Dunning-Kruger-Effekt), [Brandolinis Gesetz](https://de.wikipedia.org/wiki/Brandolinis_Gesetz)
-  - Fakt vs. Fake News: [Widerlegen, aber richtig](https://skepticalscience.com/docs/DebunkingHandbook2020-German.pdf) (2020) (Originaltitel: The Debunking Handbook) von John Cook und Stephan Lewandowsky
+	- Kognitive Verzerrungen: [dt. Liste](https://de.wikipedia.org/wiki/Liste_kognitiver_Verzerrungen) | [engl. Liste](https://en.wikipedia.org/wiki/List_of_cognitive_biases) | [engl. Infografik](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg) | [Biases von A-Z](https://www.anti-bias.eu/wissen/biases-von-a-z/)
+		- Relevant in der Informatik u.a. in der Anforderungsanalyse: bspw. [Kognitive Dissonanz](https://de.wikipedia.org/wiki/Kognitive_Dissonanz), [Paradox of Expertise](https://www.cambridge.org/core/books/abs/paradoxical-brain/paradox-of-human-expertise-why-experts-get-it-wrong/D7D9DCD8E0074ACA9C66B2C044177A74), [Dunning-Kruger-Effekt](https://de.wikipedia.org/wiki/Dunning-Kruger-Effekt), [Brandolinis Gesetz](https://de.wikipedia.org/wiki/Brandolinis_Gesetz)
+	- Fakt vs. Fake News: [Widerlegen, aber richtig](https://skepticalscience.com/docs/DebunkingHandbook2020-German.pdf) (2020) (Originaltitel: The Debunking Handbook) von John Cook und Stephan Lewandowsky
 - Empfehlungen aus dem Buch „**Documenting Software Architectures**: Views and Beyond“ von Paul Clemens et al.:
-  1. Schreibe aus Sicht des Lesers
-  2. Vermeide unnötige Wiederholungen
-  3. Vermeide Mehrdeutigkeiten (bspw. Erkläre die Notation)
-  4. Verwende eine Standardstrukturierung
-  5. Halte Begründungen für Entscheidungen fest
+	1. Schreibe aus Sicht des Lesers
+	2. Vermeide unnötige Wiederholungen
+	3. Vermeide Mehrdeutigkeiten (bspw. Erkläre die Notation)
+	4. Verwende eine Standardstrukturierung
+	5. Halte Begründungen für Entscheidungen fest
 - Evolutionäre Informationssysteme
-  - Paper [Programs, life cycles, and laws of **software evolution**](https://www.ifi.uzh.ch/dam/jcr:00000000-2f41-7b40-ffff-ffffd5af5da7/lehman80.pdf) (1980) ⚠️ von Lehman inkl. **[Lehman's laws of software evolution](https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution)** und die **[SPE-classification](https://www.expressionsofchange.org/lehman-spe-classification/)**
-  - (€:) Paper [**BPR implementation process**: an analysis of key success and failure factors](https://doi.org/10.1108/14637159910249108) (1999) von Al‐Mashari & Zairi
-  - Short Paper **[Software Maintenance Costs](https://ocw.unican.es/pluginfile.php/1408/course/section/1805/SMCOSTS.pdf)** (2015) von Koskinen
+	- Paper [Programs, life cycles, and laws of **software evolution**](https://www.ifi.uzh.ch/dam/jcr:00000000-2f41-7b40-ffff-ffffd5af5da7/lehman80.pdf) (1980) ⚠️ von Lehman inkl. **[Lehman's laws of software evolution](https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution)** und die **[SPE-classification](https://www.expressionsofchange.org/lehman-spe-classification/)**
+	- (€:) Paper [**BPR implementation process**: an analysis of key success and failure factors](https://doi.org/10.1108/14637159910249108) (1999) von Al‐Mashari & Zairi
+	- Short Paper **[Software Maintenance Costs](https://ocw.unican.es/pluginfile.php/1408/course/section/1805/SMCOSTS.pdf)** (2015) von Koskinen
 - Qualitätsmanagement
-  - **[Six Sigma](https://de.wikipedia.org/wiki/Six_Sigma)** und [Parts per Million (**PPM**) Defectives](https://blog.masterofproject.com/ppm-defectives-six-sigma/)
+	- **[Six Sigma](https://de.wikipedia.org/wiki/Six_Sigma)** und [Parts per Million (**PPM**) Defectives](https://blog.masterofproject.com/ppm-defectives-six-sigma/)
 - Produktivität / Developer Experience (DX)
-  - Flow State / Deep Work: Webartikel [Distracting software engineers is much more harmful than you think](https://zaidesanton.substack.com/p/the-biggest-problem-in-todays-work) (2024) von Anton Zaides
+	- Flow State / Deep Work: Webartikel [Distracting software engineers is much more harmful than you think](https://zaidesanton.substack.com/p/the-biggest-problem-in-todays-work) (2024) von Anton Zaides
 - Präsentationen
-  - Grundlagen: Buch (€) [Präsentieren können: Das neue Handbuch für authentische Präsentationen](http://www.amazon.de/dp/3836292912/)
-  - Rhethorik (ausgewählte Grundlagen)
-    - Redegattungen
-      - Nach Aristoteles: (1) Gerichtsrede, (2) **Beratungsrede**, (3) Lob- und Festrede
-      - Später wurde noch die Gattung (4) **Lehrvortrag** bzw. Sachrede sowie (5) Predigt ergänzt
-    - Fünfsatztechnik: [Mit der **5-Satz-Technik** zur perfekten Rede](https://www.akademie.de/de/wissen/5-satz-technik-rede-vortrag)
-    - MECE-Prinzip (McKinsey)
-      - MECE = Mutually Exclusive, Collectively Exhaustive
-      - Groups: Never more than 5 object in a group + Always insightful headlines to each of the groups
-  - Keynotes
-    - Buch (€) [Talk Like TED](http://www.amazon.de/dp/3836292912/)
-    - Buch (€) [**Presentation Zen**: Simple Ideas on Presentation Design and Delivery](https://www.amazon.de/dp/0135800919/) (2007) von Garr Reynolds
-    - Zitat: „Einfachheit ist die höchste Form der Raffinesse“ – Leonardo da Vinci
-  - Nennenswerte Einzelpersonen und Ansätze:
-    - Steve Jobs: Webartikel [Die 10 Besten Tricks von Steve Jobs](https://inflow-academy.de/praesentieren-wie-die-experten-die-10-besten-tricks-von-steve-jobs/)
-    - Nancy Duarte: [slide:ology](https://www.amazon.de/dp/3897219395/)
-    - [Takahashi](https://en.wikipedia.org/wiki/Takahashi_method)-Methode / [Lessig](https://presentationzen.blogs.com/presentationzen/2005/10/the_lessig_meth.html)-Methode
-    - [Pecha Kucha](https://en.wikipedia.org/wiki/PechaKucha) / [Ignite Talks](<https://en.wikipedia.org/wiki/Ignite_(event)>)
+	- Grundlagen: Buch (€) [Präsentieren können: Das neue Handbuch für authentische Präsentationen](http://www.amazon.de/dp/3836292912/)
+	- Rhethorik (ausgewählte Grundlagen)
+		- Redegattungen
+			- Nach Aristoteles: (1) Gerichtsrede, (2) **Beratungsrede**, (3) Lob- und Festrede
+			- Später wurde noch die Gattung (4) **Lehrvortrag** bzw. Sachrede sowie (5) Predigt ergänzt
+		- Fünfsatztechnik: [Mit der **5-Satz-Technik** zur perfekten Rede](https://www.akademie.de/de/wissen/5-satz-technik-rede-vortrag)
+		- MECE-Prinzip (McKinsey)
+			- MECE = Mutually Exclusive, Collectively Exhaustive
+			- Groups: Never more than 5 object in a group + Always insightful headlines to each of the groups
+	- Keynotes
+		- Buch (€) [Talk Like TED](http://www.amazon.de/dp/3836292912/)
+		- Buch (€) [**Presentation Zen**: Simple Ideas on Presentation Design and Delivery](https://www.amazon.de/dp/0135800919/) (2007) von Garr Reynolds
+		- Zitat: „Einfachheit ist die höchste Form der Raffinesse“ – Leonardo da Vinci
+	- Nennenswerte Einzelpersonen und Ansätze:
+		- Steve Jobs: Webartikel [Die 10 Besten Tricks von Steve Jobs](https://inflow-academy.de/praesentieren-wie-die-experten-die-10-besten-tricks-von-steve-jobs/)
+		- Nancy Duarte: [slide:ology](https://www.amazon.de/dp/3897219395/)
+		- [Takahashi](https://en.wikipedia.org/wiki/Takahashi_method)-Methode / [Lessig](https://presentationzen.blogs.com/presentationzen/2005/10/the_lessig_meth.html)-Methode
+		- [Pecha Kucha](https://en.wikipedia.org/wiki/PechaKucha) / [Ignite Talks](<https://en.wikipedia.org/wiki/Ignite_(event)>)
 - Führungskonzept / Unternehmensführung
-  - (€:) Buch **[Hochleistung und Menschlichkeit](https://www.amazon.de/dp/3869364777/)** (2013) ⭐ von Frank Breckwoldt (u.a. „Alles, was Sie als Führungskraft für die Motivation Ihrer Mitarbeiter tun können, ist: sie nicht zu demotivieren.“)
-  - (€:) Buch [**Die Humanisierung der Organisation**: Wie man dem Menschen gerecht wird, indem man den Großteil seines Wesens ignoriert](https://www.amazon.de/dp/3800667576/) (2022) ⭐ von Matthiesen, Muster & Laudenbach
-  - (€:) Buch [Einführung in die **Systemtheorie**](https://www.amazon.de/dp/3896708392/) (2020) von Niklas Luhmann / (€:) [Luhmann leicht gemacht: Eine Einführung in die **Systemtheorie**](https://www.amazon.de/dp/3825257738/) (2022) von Margot Berghaus
-  - (€:) Buch **[Zurück an die Arbeit](https://www.amazon.de/dp/3709306124/)** (2016) ⭐ von Lars Vollmer
-  - (€:) Buch **[Wir führen anders!](https://www.amazon.de/dp/3947886128/)** (2021) ⭐ von Mark Poppenborg
-  - Video-Liste **[Befreiende Impulse für Manager](https://www.youtube.com/playlist?list=PLT-3Vmq8_SaE7BPl9fKv-_JJVvaPIk191)** von Mark Poppenborg
-  - (€:) Buch **[Holocrazy](https://www.amazon.de/dp/3800650878/)** (2016) von Brian J. Robertson
-  - (€:) Bücher **[The Practice of Management](https://www.amazon.de/dp/0060878975/)** (1954) und **[The Effective Executive](https://www.amazon.de/dp/0062574345/)** (1967) von Peter Drucker
-  - Nachhaltigkeit und Zukunftsfragen der Menschheit: **[Club of Rome](https://de.wikipedia.org/wiki/Club_of_Rome)** sowie deren [Studien](https://www.clubofrome.org/publications/)
-  - Video [New Work](https://www.youtube.com/watch?v=29IoGFD86QM) mit Prof. Frithjof Bergmann
-  - intrinsify-Leseliste
-    - [Eine kompakte Einführung in die Systemtheorie](https://intrinsify.de/systemtheorie-wieso-sie-fuer-moderne-unternehmensfuehrung-unverzichtbar-ist/)
-    - [Wie C-Level Funktionen Dein Führungsteam zerstören können](https://intrinsify.de/braucht-dein-unternehmen-auch-einen-chief-trust-officer/)
-    - [Glaubenssätze in traditionellen Unternehmen](https://intrinsify.de/wp-content/uploads/Glaubenssaetze.pdf)
-    - [Welches Spiel spielt Dich?](https://intrinsify.de/video/welches-spiel-spielt-dich/)
-    - [Wie lassen sich Organisationen wirksam irritieren?](https://intrinsify.de/organisationsentwicklung-wie-lassen-sich-organisationen-wirksam-irritieren/)
-    - [Beliebte Denkfehler und -fallen](https://intrinsify.de/diese-weihnachtsgeschichte-koennte-auch-in-wirtschaftsunternehmen-spielen/)
-    - [Wie diese Unternehmen die individuellen Zielvereinbarungen abgeschafft haben](https://intrinsify.de/wie-diese-unternehmen-die-individuellen-zielvereinbarungen-abgeschafft-haben/)
-    - [Welche Rolle spielt HR in der neuen Arbeitswelt?](https://intrinsify.de/welche-rolle-spielt-hr-in-der-neuen-arbeitswelt/)
-    - [5 Anzeichen, dass Eure Mitarbeiter doch noch motiviert sind](https://intrinsify.de/5-anzeichen-dass-eure-mitarbeiter-doch-noch-motiviert-sind/)
-    - [Die Ämterfalle: Wie Du Talente verheizt](https://intrinsify.de/die-aemterfalle-wie-du-talente-verheizt/)
-    - [Warum eine Führungskraft kein Coach sein kann](https://intrinsify.de/warum-eine-fuehrungskraft-kein-coach-sein-kann/)
-    - [Der Talent-Irrtum](https://intrinsify.de/der-talent-irrtum/)
-    - [Magische Emergenz](https://intrinsify.de/magische-emergenz/)
-    - [Work early, Hire late, Fire slow](https://intrinsify.de/work-early-hire-late-fire-slow/)
-    - [Wie ich mich in der Generation Y getäuscht habe](https://intrinsify.de/wie-ich-mich-in-der-generation-y-getaeuscht-habe/)
-    - [Mein perfekter Chef (den ich nie hatte)](https://intrinsify.de/mein-perfekter-chef-den-ich-nie-hatte/)
-    - [Immer gegen die Wand gelaufen](https://intrinsify.de/immer-gegen-die-wand-gelaufen-bis-ich/)
-    - [Meeting-Wahnsinn: Wieso die üblichen Tipps nichts bringen](https://intrinsify.de/meeting-wahnsinn-wieso-die-ueblichen-tipps-nichts-bringen/)
-  - [Chris Croft](https://www.linkedin.com/learning/instructors/chris-croft)) auf LinkedIn Learning
+	- (€:) Buch **[Hochleistung und Menschlichkeit](https://www.amazon.de/dp/3869364777/)** (2013) ⭐ von Frank Breckwoldt (u.a. „Alles, was Sie als Führungskraft für die Motivation Ihrer Mitarbeiter tun können, ist: sie nicht zu demotivieren.“)
+	- (€:) Buch [**Die Humanisierung der Organisation**: Wie man dem Menschen gerecht wird, indem man den Großteil seines Wesens ignoriert](https://www.amazon.de/dp/3800667576/) (2022) ⭐ von Matthiesen, Muster & Laudenbach
+	- (€:) Buch [Einführung in die **Systemtheorie**](https://www.amazon.de/dp/3896708392/) (2020) von Niklas Luhmann / (€:) [Luhmann leicht gemacht: Eine Einführung in die **Systemtheorie**](https://www.amazon.de/dp/3825257738/) (2022) von Margot Berghaus
+	- (€:) Buch **[Zurück an die Arbeit](https://www.amazon.de/dp/3709306124/)** (2016) ⭐ von Lars Vollmer
+	- (€:) Buch **[Wir führen anders!](https://www.amazon.de/dp/3947886128/)** (2021) ⭐ von Mark Poppenborg
+	- Video-Liste **[Befreiende Impulse für Manager](https://www.youtube.com/playlist?list=PLT-3Vmq8_SaE7BPl9fKv-_JJVvaPIk191)** von Mark Poppenborg
+	- (€:) Buch **[Holocrazy](https://www.amazon.de/dp/3800650878/)** (2016) von Brian J. Robertson
+	- (€:) Bücher **[The Practice of Management](https://www.amazon.de/dp/0060878975/)** (1954) und **[The Effective Executive](https://www.amazon.de/dp/0062574345/)** (1967) von Peter Drucker
+	- Nachhaltigkeit und Zukunftsfragen der Menschheit: **[Club of Rome](https://de.wikipedia.org/wiki/Club_of_Rome)** sowie deren [Studien](https://www.clubofrome.org/publications/)
+	- Video [New Work](https://www.youtube.com/watch?v=29IoGFD86QM) mit Prof. Frithjof Bergmann
+	- intrinsify-Leseliste
+		- [Eine kompakte Einführung in die Systemtheorie](https://intrinsify.de/systemtheorie-wieso-sie-fuer-moderne-unternehmensfuehrung-unverzichtbar-ist/)
+		- [Wie C-Level Funktionen Dein Führungsteam zerstören können](https://intrinsify.de/braucht-dein-unternehmen-auch-einen-chief-trust-officer/)
+		- [Glaubenssätze in traditionellen Unternehmen](https://intrinsify.de/wp-content/uploads/Glaubenssaetze.pdf)
+		- [Welches Spiel spielt Dich?](https://intrinsify.de/video/welches-spiel-spielt-dich/)
+		- [Wie lassen sich Organisationen wirksam irritieren?](https://intrinsify.de/organisationsentwicklung-wie-lassen-sich-organisationen-wirksam-irritieren/)
+		- [Beliebte Denkfehler und -fallen](https://intrinsify.de/diese-weihnachtsgeschichte-koennte-auch-in-wirtschaftsunternehmen-spielen/)
+		- [Wie diese Unternehmen die individuellen Zielvereinbarungen abgeschafft haben](https://intrinsify.de/wie-diese-unternehmen-die-individuellen-zielvereinbarungen-abgeschafft-haben/)
+		- [Welche Rolle spielt HR in der neuen Arbeitswelt?](https://intrinsify.de/welche-rolle-spielt-hr-in-der-neuen-arbeitswelt/)
+		- [5 Anzeichen, dass Eure Mitarbeiter doch noch motiviert sind](https://intrinsify.de/5-anzeichen-dass-eure-mitarbeiter-doch-noch-motiviert-sind/)
+		- [Die Ämterfalle: Wie Du Talente verheizt](https://intrinsify.de/die-aemterfalle-wie-du-talente-verheizt/)
+		- [Warum eine Führungskraft kein Coach sein kann](https://intrinsify.de/warum-eine-fuehrungskraft-kein-coach-sein-kann/)
+		- [Der Talent-Irrtum](https://intrinsify.de/der-talent-irrtum/)
+		- [Magische Emergenz](https://intrinsify.de/magische-emergenz/)
+		- [Work early, Hire late, Fire slow](https://intrinsify.de/work-early-hire-late-fire-slow/)
+		- [Wie ich mich in der Generation Y getäuscht habe](https://intrinsify.de/wie-ich-mich-in-der-generation-y-getaeuscht-habe/)
+		- [Mein perfekter Chef (den ich nie hatte)](https://intrinsify.de/mein-perfekter-chef-den-ich-nie-hatte/)
+		- [Immer gegen die Wand gelaufen](https://intrinsify.de/immer-gegen-die-wand-gelaufen-bis-ich/)
+		- [Meeting-Wahnsinn: Wieso die üblichen Tipps nichts bringen](https://intrinsify.de/meeting-wahnsinn-wieso-die-ueblichen-tipps-nichts-bringen/)
+	- [Chris Croft](https://www.linkedin.com/learning/instructors/chris-croft)) auf LinkedIn Learning
 - Strategische Planung / Unternehmenssteuerung / Unternehmensstrategie
-  - OKR (Intel, Google, …): (€) Buch [**Objectives & Key Results (OKR)**: Das agile Betriebssystem für moderne Organisationen](https://www.amazon.de/dp/B0874PCH3H) ⭐
-    - Artikel [Die größten Fake News Rund um OKR](https://www.die-agilen.de/blog/die-groessten-fake-news-rund-um-okr)
-  - Hoshin Kanri (Toyota, Siemens, …): [i-nexus **Hoshin Kanri** Guide](https://info.i-nexus.com/hoshin-kanri-ebook) (Management by Policy / Management by Planning)
-  - (Vorläufer: **[Management by Objectives (MbO)](https://www.amazon.de/dp/0060878975/)** seit 1954 von Peter F. Drucker)
-  - [**SWOT**-Analyse](https://www.wordstream.com/blog/ws/2017/12/20/swot-analysis)
-  - Nennenswerte Weisheiten:
-    - "You can't achieve the strategic until you've mastered the tactical."
-    - "A computer can never be held accountable. Therefore, a computer must never make management decisions." ([1979 internal presentation at IBM](https://werd.io/2024/a-computer-can-never-be-held-accountable))
+	- OKR (Intel, Google, …): (€) Buch [**Objectives & Key Results (OKR)**: Das agile Betriebssystem für moderne Organisationen](https://www.amazon.de/dp/B0874PCH3H) ⭐
+		- Artikel [Die größten Fake News Rund um OKR](https://www.die-agilen.de/blog/die-groessten-fake-news-rund-um-okr)
+	- Hoshin Kanri (Toyota, Siemens, …): [i-nexus **Hoshin Kanri** Guide](https://info.i-nexus.com/hoshin-kanri-ebook) (Management by Policy / Management by Planning)
+	- (Vorläufer: **[Management by Objectives (MbO)](https://www.amazon.de/dp/0060878975/)** seit 1954 von Peter F. Drucker)
+	- [**SWOT**-Analyse](https://www.wordstream.com/blog/ws/2017/12/20/swot-analysis)
+	- Nennenswerte Weisheiten:
+		- "You can't achieve the strategic until you've mastered the tactical."
+		- "A computer can never be held accountable. Therefore, a computer must never make management decisions." ([1979 internal presentation at IBM](https://werd.io/2024/a-computer-can-never-be-held-accountable))
 - Taktische Steuerung / KPIs
-  - Webartikel [The **engineering KPIs** that actually matter](https://getdx.com/blog/engineering-kpis/)
+	- Webartikel [The **engineering KPIs** that actually matter](https://getdx.com/blog/engineering-kpis/)
 - Change-Management
-  - Webartikel [10 Tipps zur wirksamen Transformation im Mittelstand](https://intrinsify.de/thema/transformation-im-mittelstand/) von Mark Poppenborg
-  - intrinsify-Leseliste
-    - [3 konkrete Ideen um mit einem unlösbaren Problem umzugehen](https://intrinsify.de/hilfe-ich-bin-der-new-work-beauftragte-was-nun/)
-    - [Der schädliche Zielreflex](https://intrinsify.de/der-schaedliche-zielreflex/)
-    - [Wieso wirksame Veränderung auf Appelle verzichtet](https://intrinsify.de/einfach-machen-ein-kindlicher-ratschlag/)
-    - [Verkündet Entscheidungen, keine Vorhaben](https://intrinsify.de/das-problem-mit-den-kick-off-veranstaltungen/)
-    - [Wie man ein Unternehmen erfolgreich verändert](https://intrinsify.de/change-management-new-work/)
-    - [Mit meinen Leuten geht das nicht](https://intrinsify.de/mit-meinen-leuten-geht-das-nicht/)
+	- Webartikel [10 Tipps zur wirksamen Transformation im Mittelstand](https://intrinsify.de/thema/transformation-im-mittelstand/) von Mark Poppenborg
+	- intrinsify-Leseliste
+		- [3 konkrete Ideen um mit einem unlösbaren Problem umzugehen](https://intrinsify.de/hilfe-ich-bin-der-new-work-beauftragte-was-nun/)
+		- [Der schädliche Zielreflex](https://intrinsify.de/der-schaedliche-zielreflex/)
+		- [Wieso wirksame Veränderung auf Appelle verzichtet](https://intrinsify.de/einfach-machen-ein-kindlicher-ratschlag/)
+		- [Verkündet Entscheidungen, keine Vorhaben](https://intrinsify.de/das-problem-mit-den-kick-off-veranstaltungen/)
+		- [Wie man ein Unternehmen erfolgreich verändert](https://intrinsify.de/change-management-new-work/)
+		- [Mit meinen Leuten geht das nicht](https://intrinsify.de/mit-meinen-leuten-geht-das-nicht/)
 - Innovationsmethoden
-  - Design Thinking: Foliensatz **[Design Thinking Playbook](https://dschool.stanford.edu/s/DESIGN-THINKING-PLAYBOOK.pdf)** | Artikel [**Design thinking origin story** plus some of the people who made it all happen](https://szczpanks.medium.com/design-thinking-where-it-came-from-and-the-type-of-people-who-made-it-all-happen-dc3a05411e53) | Artikel [How to combine **Design Thinking and Agile in practice**](https://medium.com/startup-frontier/how-to-combine-design-thinking-and-agile-in-practice-36c9fc75c6e6)
-  - Gurus: Prof. [David Kelley](https://www.ted.com/talks/david_kelley_human_centered_design) (MIT; Gründer von IDEO; Design Thinking)
-  - Weiterführende Quellen: [Awesome Design Thinking](https://github.com/lorabv/awesome-agile/blob/master/Design-Thinking.md)
+	- Design Thinking: Foliensatz **[Design Thinking Playbook](https://dschool.stanford.edu/s/DESIGN-THINKING-PLAYBOOK.pdf)** | Artikel [**Design thinking origin story** plus some of the people who made it all happen](https://szczpanks.medium.com/design-thinking-where-it-came-from-and-the-type-of-people-who-made-it-all-happen-dc3a05411e53) | Artikel [How to combine **Design Thinking and Agile in practice**](https://medium.com/startup-frontier/how-to-combine-design-thinking-and-agile-in-practice-36c9fc75c6e6)
+	- Gurus: Prof. [David Kelley](https://www.ted.com/talks/david_kelley_human_centered_design) (MIT; Gründer von IDEO; Design Thinking)
+	- Weiterführende Quellen: [Awesome Design Thinking](https://github.com/lorabv/awesome-agile/blob/master/Design-Thinking.md)
 - Corporate Interests vs. Users Interest
-  - Google Search: [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/) (2024) von Edward Zitron
-  - Passkeys: [A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/) (2024) von William Brown, dem Autor von webauthn-rs
+	- Google Search: [The Man Who Killed Google Search](https://www.wheresyoured.at/the-men-who-killed-google/) (2024) von Edward Zitron
+	- Passkeys: [A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/) (2024) von William Brown, dem Autor von webauthn-rs
 - Politische Erneuerung
-  - [Koalitionstracker](https://fragdenstaat.de/koalitionstracker/) von FragDenStaat
-  - [Regierungsmonitor](https://www.bundesregierung.de/breg-de/bundesregierung/regierungsmonitor) der Bundesregierung
+	- [Koalitionstracker](https://fragdenstaat.de/koalitionstracker/) von FragDenStaat
+	- [Regierungsmonitor](https://www.bundesregierung.de/breg-de/bundesregierung/regierungsmonitor) der Bundesregierung
 - Neumannsche Listen ⭐
-  - **Urprobleme im Software-Engineering**
-    - ⚠️ 1. **[Premature Generalization](https://wiki.c2.com/?PrematureGeneralization)**
-    - ⚠️ 2. **[Featuritis](https://wiki.c2.com/?CreepingFeaturitis)**
-      - Anmerkung zu Featuritis:
-        - Die Verallgemeinerung von Featuritis außerhalb der Softwaretechnik: [a vast majority of people chose to augment rather than remove](https://www.scientificamerican.com/article/our-brain-typically-overlooks-this-brilliant-problem-solving-strategy/) (2021) von Diana Kwon
-        - Trainiere daher die [Art of Subtraction](https://www.google.com/search?q=art+of+subtraction)
-  - Top-Themen, die **von Anfängern maßlos unterschätzt** werden:
-    - ⚠️ 1. **Zeit** ([ISO 8602](https://en.wikipedia.org/wiki/ISO_8601); [Joda-Time Dokumentation](https://www.joda.org/joda-time/index.html); Video [Leap Seconds](https://www.youtube.com/watch?v=1E5GKh1OUoY); Timescales/[TAI-UT1](https://stjarnhimlen.se/comp/time.html))
-    - ⚠️ 2. **Internationalisierung** (u.a. Character Encodings: [Unicode Lernmaterialien](https://github.com/jagracey/Awesome-Unicode) insbesondere [Unicode-Einstiegsartikel](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/); [UTF-8 Debugging](https://www.i18nqa.com/debug/utf8-debug.html), bspw. [Double Mis-Conversion](https://www.i18nqa.com/debug/bug-double-conversion.html))
-  - Die **modernen Reiter der Apokalypse in der Aufbauorganisation**
-    - ⚠️ 1. **Verantwortungsvakuum**
-    - ⚠️ 2. **Mangelverwaltung**
-    - ⚠️ 3. **Kopfmonopole**
-    - ⚠️ 4. **Rollenüberlastung**
-  - Die **Neumannschen Gesetze**:
-    - Erstes Neumannsches Gesetz: „Alles ist immer dasselbe.“ ⭐
-      - Anmerkung: Es handelt sich um eine Abwandlung von Arthur Schopenhauers „Always to see the general in the particular is the very foundation of genius“. Allerdings eher als Verkehrung ins Gegenteil, wegen meiner Beobachtung: Wir bringen Nicht-Informatikern nach dem Abitur in einem langen Informatik-Studium die Abstraktion und Generalisierung bei. Danach setzt m.E. eine kollektive Hybris ein. Das 1. Neumann’sche Gesetz karikiert die Fähigkeit zur Generalisierung durch dessen Trivialisierung. Warum? Ich bin überzeugt, dass Informatiker im Berufsleben viel häufiger scheitern, weil wir Unterschiede nicht erkennen; und unser Stolz auf Generalisierung und Abstraktion macht uns blind. Abstraktion ist nicht das Weglassen unwichtiger Details, wie es viele Schüler in der Jugend häufig auf fehlgeleitete Weise erklärt bekommen. **Abstraktion ist die zweckgerichtete Schaffung einer verwendungsgleichen Repräsentation**. ⚠️ Weglassen ist vermeintlich leicht. Erschaffen ist sehr, sehr schwer.
-    - Zweites Neumannsches Gesetz: „Nichts ist schlimmer als enttäuschte Erwartungen.“ ⭐
-      - Anmerkung: Diese Weisheit hab ich offensichtlich nicht erfunden, aber ich habe über die Jahre ein enormes Anwendungspotential insbesondere in der Software-Entwicklung beobachtet, also empfehle ich stets diese Gesetzmäßigkeit in der Informatik niemals leichtfertig zu mißachten.
-  - Wichtige Performance-Weisheiten:
-    - „O-Notation eats Multi-Threading to breakfast“ aka „Gute Algorithmik schlägt viel Blech bei weitem“
-    - Implikation aus der Theory of Constraints: „If you optimize anything other than the bottleneck, you are rather optimizing at all“
-  - Weiterführende Quellen: **[Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)** ([Einstieg](https://spaceninja.com/2015/12/08/falsehoods-programmers-believe/)), **[Awesome CTO](https://github.com/kuchin/awesome-cto)**
+	- **Urprobleme im Software-Engineering**
+		- ⚠️ 1. **[Premature Generalization](https://wiki.c2.com/?PrematureGeneralization)**
+		- ⚠️ 2. **[Featuritis](https://wiki.c2.com/?CreepingFeaturitis)**
+			- Anmerkung zu Featuritis:
+				- Die Verallgemeinerung von Featuritis außerhalb der Softwaretechnik: [a vast majority of people chose to augment rather than remove](https://www.scientificamerican.com/article/our-brain-typically-overlooks-this-brilliant-problem-solving-strategy/) (2021) von Diana Kwon
+				- Trainiere daher die [Art of Subtraction](https://www.google.com/search?q=art+of+subtraction)
+	- Top-Themen, die **von Anfängern maßlos unterschätzt** werden:
+		- ⚠️ 1. **Zeit** ([ISO 8602](https://en.wikipedia.org/wiki/ISO_8601); [Joda-Time Dokumentation](https://www.joda.org/joda-time/index.html); Video [Leap Seconds](https://www.youtube.com/watch?v=1E5GKh1OUoY); Timescales/[TAI-UT1](https://stjarnhimlen.se/comp/time.html))
+		- ⚠️ 2. **Internationalisierung** (u.a. Character Encodings: [Unicode Lernmaterialien](https://github.com/jagracey/Awesome-Unicode) insbesondere [Unicode-Einstiegsartikel](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/); [UTF-8 Debugging](https://www.i18nqa.com/debug/utf8-debug.html), bspw. [Double Mis-Conversion](https://www.i18nqa.com/debug/bug-double-conversion.html))
+	- Die **modernen Reiter der Apokalypse in der Aufbauorganisation**
+		- ⚠️ 1. **Verantwortungsvakuum**
+		- ⚠️ 2. **Mangelverwaltung**
+		- ⚠️ 3. **Kopfmonopole**
+		- ⚠️ 4. **Rollenüberlastung**
+	- Die **Neumannschen Gesetze**:
+		- Erstes Neumannsches Gesetz: „Alles ist immer dasselbe.“ ⭐
+			- Anmerkung: Es handelt sich um eine Abwandlung von Arthur Schopenhauers „Always to see the general in the particular is the very foundation of genius“. Allerdings eher als Verkehrung ins Gegenteil, wegen meiner Beobachtung: Wir bringen Nicht-Informatikern nach dem Abitur in einem langen Informatik-Studium die Abstraktion und Generalisierung bei. Danach setzt m.E. eine kollektive Hybris ein. Das 1. Neumann’sche Gesetz karikiert die Fähigkeit zur Generalisierung durch dessen Trivialisierung. Warum? Ich bin überzeugt, dass Informatiker im Berufsleben viel häufiger scheitern, weil wir Unterschiede nicht erkennen; und unser Stolz auf Generalisierung und Abstraktion macht uns blind. Abstraktion ist nicht das Weglassen unwichtiger Details, wie es viele Schüler in der Jugend häufig auf fehlgeleitete Weise erklärt bekommen. **Abstraktion ist die zweckgerichtete Schaffung einer verwendungsgleichen Repräsentation**. ⚠️ Weglassen ist vermeintlich leicht. Erschaffen ist sehr, sehr schwer.
+		- Zweites Neumannsches Gesetz: „Nichts ist schlimmer als enttäuschte Erwartungen.“ ⭐
+			- Anmerkung: Diese Weisheit hab ich offensichtlich nicht erfunden, aber ich habe über die Jahre ein enormes Anwendungspotential insbesondere in der Software-Entwicklung beobachtet, also empfehle ich stets diese Gesetzmäßigkeit in der Informatik niemals leichtfertig zu mißachten.
+	- Wichtige Performance-Weisheiten:
+		- „O-Notation eats Multi-Threading to breakfast“ aka „Gute Algorithmik schlägt viel Blech bei weitem“
+		- Implikation aus der Theory of Constraints: „If you optimize anything other than the bottleneck, you are rather optimizing at all“
+	- Weiterführende Quellen: **[Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)** ([Einstieg](https://spaceninja.com/2015/12/08/falsehoods-programmers-believe/)), **[Awesome CTO](https://github.com/kuchin/awesome-cto)**
 - Mis-Quotations:
-  - Famous [Misquotes from **History**](https://www.historyhit.com/famous-misquotes-from-history/)
-  - [Drucker never said „**Culture eats strategy for breakfast.**“](https://drucker.institute/did-peter-drucker-say-that/)
+	- Famous [Misquotes from **History**](https://www.historyhit.com/famous-misquotes-from-history/)
+	- [Drucker never said „**Culture eats strategy for breakfast.**“](https://drucker.institute/did-peter-drucker-say-that/)
 - Quantencomputing:
-  - Einstieg: IBM [**Fundamentals** of quantum algorithms](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms)
-  - **[PlanQK](https://planqk.de/)**: europräisches Wissensportal zu Quantencomputing
-  - Videos: **[qiskit](https://www.youtube.com/qiskit)**-YouTube-Channel (guter Einstieg ⭐) sowie MOOC-Kurse von Stanford: [Quantum Mechanics for Scientists and Engineers 1](https://www.edx.org/learn/quantum-physics-mechanics/stanford-university-quantum-mechanics-for-scientists-and-engineers-1) & [2](https://www.edx.org/learn/quantum-physics-mechanics/stanford-university-quantum-mechanics-for-scientists-and-engineers-2)
-  - Algorithmen: [**Shor**-Algorithmus](https://de.wikipedia.org/wiki/Shor-Algorithmus) (Faktorisierung; bricht RSA-Crypto), [**Grover**-Algorithmus](https://de.m.wikipedia.org/wiki/Grover-Algorithmus) (Suche in ungeordneten Daten) und [**weitere** Quantenalgorithmen](https://en.wikipedia.org/wiki/Quantum_algorithm)
-  - Weiterführende Quellen: [Awesome **Quantum Computing**](https://github.com/desireevl/awesome-quantum-computing) | [Awesome **Quantum Machine Learning**](http://krishnakumarsekar.GitHub.io/awesome-quantum-machine-learning/)
+	- Einstieg: IBM [**Fundamentals** of quantum algorithms](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms)
+	- **[PlanQK](https://planqk.de/)**: europräisches Wissensportal zu Quantencomputing
+	- Videos: **[qiskit](https://www.youtube.com/qiskit)**-YouTube-Channel (guter Einstieg ⭐) sowie MOOC-Kurse von Stanford: [Quantum Mechanics for Scientists and Engineers 1](https://www.edx.org/learn/quantum-physics-mechanics/stanford-university-quantum-mechanics-for-scientists-and-engineers-1) & [2](https://www.edx.org/learn/quantum-physics-mechanics/stanford-university-quantum-mechanics-for-scientists-and-engineers-2)
+	- Algorithmen: [**Shor**-Algorithmus](https://de.wikipedia.org/wiki/Shor-Algorithmus) (Faktorisierung; bricht RSA-Crypto), [**Grover**-Algorithmus](https://de.m.wikipedia.org/wiki/Grover-Algorithmus) (Suche in ungeordneten Daten) und [**weitere** Quantenalgorithmen](https://en.wikipedia.org/wiki/Quantum_algorithm)
+	- Weiterführende Quellen: [Awesome **Quantum Computing**](https://github.com/desireevl/awesome-quantum-computing) | [Awesome **Quantum Machine Learning**](http://krishnakumarsekar.GitHub.io/awesome-quantum-machine-learning/)
 - Post-Quanten-Kryptographie (PQC)
-  - Einführung: [A (somewhat) gentle introduction to lattice-based post-quantum cryptography](https://www.cybersecurity.blog.aisec.fraunhofer.de/en/a-somewhat-gentle-introduction-to-lattice-based-post-quantum-cryptography/) des Fraunhofer AISEC
-  - NIST: [Post-Quantum Cryptography](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography)
-  - Vertiefung: [Cryptographic Suite for Algebraic Lattices (CRYSTALS)](https://pq-crystals.org): [Kyber](https://pq-crystals.org/kyber/index.shtml) für secure key encapsulation mechanism (KEM) zzgl. [Dilithium](https://pq-crystals.org/dilithium/index.shtml) als digital signature scheme
-  - Software: [Open Quantum Safe](https://openquantumsafe.org)
+	- Einführung: [A (somewhat) gentle introduction to lattice-based post-quantum cryptography](https://www.cybersecurity.blog.aisec.fraunhofer.de/en/a-somewhat-gentle-introduction-to-lattice-based-post-quantum-cryptography/) des Fraunhofer AISEC
+	- NIST: [Post-Quantum Cryptography](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography)
+	- Vertiefung: [Cryptographic Suite for Algebraic Lattices (CRYSTALS)](https://pq-crystals.org): [Kyber](https://pq-crystals.org/kyber/index.shtml) für secure key encapsulation mechanism (KEM) zzgl. [Dilithium](https://pq-crystals.org/dilithium/index.shtml) als digital signature scheme
+	- Software: [Open Quantum Safe](https://openquantumsafe.org)
 
 ## Vor einer PhD-Phase
 
 - Orientierung vor einer Promotion: **[PhD Comics](https://phdcomics.com/comics/most_popular.php)** ⭐
 - Awesome-Liste: **[PhD](https://github.com/macoj/phd)** ⭐ und spez. deutsche Ergänzungen per academics.de **[Wege zur Promotion](https://www.academics.de/ratgeber/wege-zur-promotion)** ⭐
 - Funding:
-  - **Promotionsstipendium** als Geldgeber
-    - [Webartikel von **academics.de**](https://www.academics.de/ratgeber/promotionsstipendium-doktorandenstipendium) ⭐
-    - Stipendium-Suche: **[mystipendium.de](https://www.mystipendium.de/)**
-  - **Projektanträge** als Geldgeber
-    - _Bayern_
-      - **[Bayerische Forschungsstiftung](https://forschungsstiftung.de/)**
-      - **[IuK-Bayern](https://www.iuk-bayern.de/foerderbedingungen)** ([Förderquotenberechnung](https://www.iuk-bayern.de/foerderquotenberechung))
-    - _Bund_
-      - **DFG**
-        - Klassisch: [Sachbeihilfen](https://www.dfg.de/de/merkblatt-programm-sachbeihilfe-246700)
-        - Speziell FH: [Transfer FH/HAW PLUS](https://www.dfg.de/foerderung/info_wissenschaft/info_wissenschaft_22_31/)
-      - **BMBF**
-        - [KMU-Innovativ](https://www.bmbf.de/bmbf/de/forschung/innovativer-mittelstand/kmu-innovativ/kmu-innovativ_node.html) (diverse Technologiefelder Projektskizzen bis 15. Oktober)
-        - [Validierungsförderung](https://validierungsfoerderung.de/)
-      - **BMWK** (ehem. BMWi)
-        - [Zentrales Innovationsprogramm Mittelstand (**ZIM**)](https://www.zim.de/ZIM/Navigation/DE/Home/home.html)
-    - _Europa_
-      - **BTHA**: [Bayerisch-tschechische akademische Projekte](https://www.btha.cz/de/foerderung/akademische-projekte)
-      - **EU**-geförderte Projekte
-  - **Industriepromotion**: Industrieunternehmen als Geldgeber
-    - [Webartikel von **academics.de**](https://www.academics.de/ratgeber/industriepromotion)
+	- **Promotionsstipendium** als Geldgeber
+		- [Webartikel von **academics.de**](https://www.academics.de/ratgeber/promotionsstipendium-doktorandenstipendium) ⭐
+		- Stipendium-Suche: **[mystipendium.de](https://www.mystipendium.de/)**
+	- **Projektanträge** als Geldgeber
+		- _Bayern_
+			- **[Bayerische Forschungsstiftung](https://forschungsstiftung.de/)**
+			- **[IuK-Bayern](https://www.iuk-bayern.de/foerderbedingungen)** ([Förderquotenberechnung](https://www.iuk-bayern.de/foerderquotenberechung))
+		- _Bund_
+			- **DFG**
+				- Klassisch: [Sachbeihilfen](https://www.dfg.de/de/merkblatt-programm-sachbeihilfe-246700)
+				- Speziell FH: [Transfer FH/HAW PLUS](https://www.dfg.de/foerderung/info_wissenschaft/info_wissenschaft_22_31/)
+			- **BMBF**
+				- [KMU-Innovativ](https://www.bmbf.de/bmbf/de/forschung/innovativer-mittelstand/kmu-innovativ/kmu-innovativ_node.html) (diverse Technologiefelder Projektskizzen bis 15. Oktober)
+				- [Validierungsförderung](https://validierungsfoerderung.de/)
+			- **BMWK** (ehem. BMWi)
+				- [Zentrales Innovationsprogramm Mittelstand (**ZIM**)](https://www.zim.de/ZIM/Navigation/DE/Home/home.html)
+		- _Europa_
+			- **BTHA**: [Bayerisch-tschechische akademische Projekte](https://www.btha.cz/de/foerderung/akademische-projekte)
+			- **EU**-geförderte Projekte
+	- **Industriepromotion**: Industrieunternehmen als Geldgeber
+		- [Webartikel von **academics.de**](https://www.academics.de/ratgeber/industriepromotion)
 - DAAD-Stipendienprogramme
-  - Während der Promotion und in den ersten fünf Jahren nach der Promotion ist eine Förderung einmal pro Kalenderjahr möglich, danach in jedem zweiten Kalenderjahr.\
-    Nähere Informationen: [Häufig gestellten Fragen (FAQ)](https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_kongressreisen_faq.pdf) in Kapitel 3.
-  - [**Kongressreisen**programm](http://www.daad.de/kongressreisen): Aktive Kongressteilnahme
-  - [**Vortragsreisen**programm](http://www.daad.de/vortragsreisen): Vortragstätigkeit außerhalb von Kongressen und Konferenzen
+	- Während der Promotion und in den ersten fünf Jahren nach der Promotion ist eine Förderung einmal pro Kalenderjahr möglich, danach in jedem zweiten Kalenderjahr.\
+		Nähere Informationen: [Häufig gestellten Fragen (FAQ)](https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_kongressreisen_faq.pdf) in Kapitel 3.
+	- [**Kongressreisen**programm](http://www.daad.de/kongressreisen): Aktive Kongressteilnahme
+	- [**Vortragsreisen**programm](http://www.daad.de/vortragsreisen): Vortragstätigkeit außerhalb von Kongressen und Konferenzen
 - Grobgliederung der Informatik:
-  - Anerkannte Autorität für die Untergliederung der Informatik ist Prof. Peter **Rechenberg**, ein deutsch-österreichischer Informatiker (TU Berlin / Uni Linz).
-    - Mainstream-Impact hat seine Einteilung erhalten durch das bereits oben aufgeführte "**[Das Informatik-Handbuch](https://www.amazon.de/dp/3446401857)**" von Peter Rechenberg (Hrsg.) & Gustav Pomberger (Hrsg.)
-    - Den [Scan des Inhaltsverzeichnissen von 2006](https://www.cyberlytics.eu/img/informatik/) \[[PDF](https://www.cyberlytics.eu/img/informatik/Informatik_Taxonomie_Stand2006.pdf)\] ⭐
-  - Er charakterisiert vier Teilgebiete der Informatik: 1. **Theoretische Informatik** 2. **Technische Informatik** 3. **Praktische Informatik** 4. **Angewandte Informatik**
-  - Als Überbegriff wurde neben (schlicht) **Informatik** auch regelmäßig **Kerninformatik** verwendet
-    - Bspw. in jahrzehntelanger Abgrenzung zur **Wirtschaftsinformatik** oder später auch zur **Bioinformatik** und weiteren Teilgebieten, die sich zu eigenen Wissenschaften entwickelt haben, und i.d.R. heute nicht (mehr) unter angewandte Informatik subsumiert werden
-    - **Künstliche Intelligenz** und **Data Science** fällt (in Deutschland) klar unter die Kerninformatik, genauer in das Teilgebiet Angewandte Informatik; vgl. u.a. [Geschichte der Gesellschaft der Informatik](https://gi.de/fileadmin/GI/Hauptseite/Themen/geschichte-der-gi.pdf)
+	- Anerkannte Autorität für die Untergliederung der Informatik ist Prof. Peter **Rechenberg**, ein deutsch-österreichischer Informatiker (TU Berlin / Uni Linz).
+		- Mainstream-Impact hat seine Einteilung erhalten durch das bereits oben aufgeführte "**[Das Informatik-Handbuch](https://www.amazon.de/dp/3446401857)**" von Peter Rechenberg (Hrsg.) & Gustav Pomberger (Hrsg.)
+		- Den [Scan des Inhaltsverzeichnissen von 2006](https://www.cyberlytics.eu/img/informatik/) \[[PDF](https://www.cyberlytics.eu/img/informatik/Informatik_Taxonomie_Stand2006.pdf)\] ⭐
+	- Er charakterisiert vier Teilgebiete der Informatik: 1. **Theoretische Informatik** 2. **Technische Informatik** 3. **Praktische Informatik** 4. **Angewandte Informatik**
+	- Als Überbegriff wurde neben (schlicht) **Informatik** auch regelmäßig **Kerninformatik** verwendet
+		- Bspw. in jahrzehntelanger Abgrenzung zur **Wirtschaftsinformatik** oder später auch zur **Bioinformatik** und weiteren Teilgebieten, die sich zu eigenen Wissenschaften entwickelt haben, und i.d.R. heute nicht (mehr) unter angewandte Informatik subsumiert werden
+		- **Künstliche Intelligenz** und **Data Science** fällt (in Deutschland) klar unter die Kerninformatik, genauer in das Teilgebiet Angewandte Informatik; vgl. u.a. [Geschichte der Gesellschaft der Informatik](https://gi.de/fileadmin/GI/Hauptseite/Themen/geschichte-der-gi.pdf)
 - Eigene wiss. Publikationen planen: ⭐
-  - Hintergrund: [**Peer Review** – A Historical Perspective](https://mitcommlab.mit.edu/broad/commkit/peer-review-a-historical-perspective/) von Rosy Hoskin
-  - Call-for-Paper Termine: **[WikiCFP](http://www.wikicfp.com/cfp/)** | [Computer Science **Conference Search**](https://confsearch.ethz.ch/) (inkl. graph. Kalender-Funktion)
-  - Rankings
-    - CS Conference Rank: [**CORE** Portal](http://portal.core.edu.au/conf-ranks/) | **[GGS](https://scie.lcc.uma.es/)**
-      - Damit Konferenzen auf CORE gelistet werden [benötigen diese ein **DBLP**- und **Scopus**-Listing](https://docs.google.com/document/d/11lyr_N7rnyhpvTnGJRVvrFIp73REt3lwTCmy0k8geJo/)
-      - GGS basierte zuletzt auf: [CORE](http://www.core.edu.au/conference-portal), Microsoft Academic API (discontinued) und Scholar per [LiveSHINE](http://liveshine.icomp.ufam.edu.br/) (discontinued, since Google Scholar stopped granting automated bulk access)
-    - CS Conference Acceptance Rates: [**csconferences**.org](https://csconferences.org/)
-    - **[Scholar Rakings](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng)** für Publikationsorgane:
-      - BD: [Databases & Information Retrieval](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_databasesinformationsystems), [Data Mining & Analysis](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_datamininganalysis)
-      - CC: [Computing Systems](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computingsystems) (Cloud), [Software Systems](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_softwaresystems) (SWE)
-      - AI: [Artificial Intelligence](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence), [Operations Research](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_operationsresearch), [Robotics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)
-      - Weitere: [Computer Security & Cryptography](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography), [Human Computer Interaction](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_humancomputerinteraction), [Multimedia](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_multimedia)
-      - Interdisziplinär: [Medical Informatics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_medicalinformatics), [Bioinformatics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=bio_bioinformatics), [Educational Technology](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_educationaltechnology), [«all»](https://scholar.google.com/citations?view_op=top_venues)
-      - Labels: [authors:Cloud](https://scholar.google.com/citations?view_op=search_authors&mauthors=label:cloud), [authors:SWE](https://scholar.google.de/citations?view_op=search_authors&mauthors=label:software_engineering), [authors:SW-Arch](https://scholar.google.de/citations?view_op=search_authors&mauthors=label:software_architecture), [authors:DevOps](https://scholar.google.de/citations?view_op=search_authors&mauthors=label:devops), [authors:MLops](https://scholar.google.de/citations?view_op=search_authors&mauthors=label:mlops), [authors:Blockchain](https://scholar.google.com/citations?view_op=search_authors&mauthors=label:blockchain)
-    - Rankings für Forschungsinstitutionen
-      - **[CSRankings](https://csrankings.org/)** für Forschungsinstitutionen
-        - US: [DBS](https://csrankings.org/#/index?mod&us), [HPC](https://csrankings.org/#/index?hpc&us), [SWE](https://csrankings.org/#/index?soft&us), [HMI](https://csrankings.org/#/index?chi&us), [AI](https://csrankings.org/#/index?ai&vision&mlmining&nlp&inforet&us), [Robotics](https://csrankings.org/#/index?robotics&us)
-        - DE: [DBS](https://csrankings.org/#/index?mod&de), [HPC](https://csrankings.org/#/index?hpc&de), [SWE](https://csrankings.org/#/index?soft&de), [HMI](https://csrankings.org/#/index?chi&de), [AI](https://csrankings.org/#/index?ai&vision&mlmining&nlp&inforet&de), [Robotics](https://csrankings.org/#/index?robotics&de)
-      - **[csmetrics.net](https://csmetrics.net/)** (inkl. privatwirtschaftliche Unternehmen wie Google, Microsoft, Meta, Intel, IBM, Adobe, NVidia, DeepMind, etc.)
-  - Indexing:
-    - **[Scholar](https://scholar.google.de/)**: [Inclusion Guideline](https://scholar.google.com/intl/en/scholar/inclusion.html) + [Indexing](https://docs.pkp.sfu.ca/google-scholar/en/)
-    - **[DBLP](https://dblp.uni-trier.de/search/)**: [Criteria](https://dblp.org/faq/5210119.html) + [Submission Format](https://dblp.org/faq/1474621.html)
-      - **WICHTIG**: Zusätzlich Uploads von Pre-Prints auf **arXiv** (d.h. zusätzlich zu der Veröffentlichung durch den Publisher einer Konferenz) sollten sowohl zu erfolgreichen Listings unter **DBLP** ⚠️ als auch unter Scopus führen (allerdings nicht unter der ursprünglichen Konferenz, sondern gelistet zugehörig zur CoRR = Computing Research Repository = arXiv-Subset)
-    - **[BASE](https://www.base-search.net/Search/Advanced)**: [OAI Interface](https://www.base-search.net/about/en/faq_oai.php)
-    - **[dissem.in](https://dissem.in/search/)**: [Data Sources](https://dissem.in/sources/) ([CrossRef.org](https://www.crossref.org/), [BASE](https://www.base-search.net/), [SHERPA/RoMEO](https://www.sherpa.ac.uk/romeo/), [Zotero](https://www.zotero.org/))
-  - Repositories: **[arXiv](https://arxiv.org)**, **[Zenodo](https://zenodo.org)**, [HAL](https://hal.science), [figshare](https://figshare.com/)
-    - Hinweise: arxiv „encourages conference organizers [to use arXiv as a way to **distribute and archive conference papers**](https://info.arxiv.org/help/submit_index.html)“
-      - Verwende das Feld [**Journal-ref** auch für Proceedings](https://info.arxiv.org/help/prep.html#journal)
-    - arXiv Einstieg: [Submission Guidelines](https://info.arxiv.org/help/submit/index.html), Trevor Campbell [Checkliste](https://trevorcampbell.me/html/arxiv.html) ⭐, arXiv [License Information](https://info.arxiv.org/help/license/index.html), [Common Mistakes](https://info.arxiv.org/help/faq/mistakes.html) ⚠️, [Non-English Submissions](https://info.arxiv.org/help/faq/multilang.html)
-      - **WICHTIG**: Die [arXiv TeXLive Version](https://info.arxiv.org/help/faq/texlive.html) ist meist nicht die neueste ⚠️. Best Practice: [Overleaf unterstützt auch ältere TeXLive-Versionen](https://www.overleaf.com/learn/latex/Overleaf_and_TeX_Live#How_often_is_TeX_Live_updated_on_Overleaf%3F), so dass mittels Overleaf bequem die technisch risikoärmste Vorbereitung für einen arXiv-Upload erfolgen kann, besser als mit der eigenen lokalen TeX-Installation. (Beispiel: biber-Versions-Konflikt zwecks .bbl-Datei)
-  - Publishers:
-    - Einstieg: [Scientists paid large publishers over $1 billion in four years to have their studies published with open access](https://english.elpais.com/science-tech/2023-11-21/scientists-paid-large-publishers-over-1-billion-in-four-years-to-have-their-studies-published-with-open-access.html) (2013)
-    - Largest [**Academic** Publishers: Top-10](https://www.peeref.com/collections/top-10-largest-academic-publishers-in-2022) (2022), insbesondere: **Springer**, **Elsevier**, **De Gruyter**
-      - [**Oligopoly** / Haustein et al.](https://direct.mit.edu/qss/article/4/4/778/118070/The-oligopoly-s-shift-to-open-access-How-the-big): In 2015 \[…\] „Elsevier, Wiley-Blackwell, Springer (before the merger with Nature in 2015), and Taylor & Francis publish more than half of the scholarly journal literature indexed in Web of Science“
-  - [**Open Access** in der Informatik](https://open-access.network/informieren/open-access-in-fachdisziplinen/informatik)
-    - Open Access Publisher [benötigen für ein Scopus-Listing](https://www.elsevier.com/__data/assets/pdf_file/0007/69451/ScopusContentCoverageGuideWEB.pdf) bspw. ein Gold OA or Subsidized OA Listing unter der [Directory of Open Access Journals (DOAJ)](https://doaj.org/) und/oder [Directory of Open Access Scholarly Resources](https://road.issn.org/)
-  - Kosten von Konferenzen: Registrierungsgebühr, Flug, Hotel ↣ mind. €1500 p.P.
+	- Hintergrund: [**Peer Review** – A Historical Perspective](https://mitcommlab.mit.edu/broad/commkit/peer-review-a-historical-perspective/) von Rosy Hoskin
+	- Call-for-Paper Termine: **[WikiCFP](http://www.wikicfp.com/cfp/)** | [Computer Science **Conference Search**](https://confsearch.ethz.ch/) (inkl. graph. Kalender-Funktion)
+	- Rankings
+		- CS Conference Rank: [**CORE** Portal](http://portal.core.edu.au/conf-ranks/) | **[GGS](https://scie.lcc.uma.es/)**
+			- Damit Konferenzen auf CORE gelistet werden [benötigen diese ein **DBLP**- und **Scopus**-Listing](https://docs.google.com/document/d/11lyr_N7rnyhpvTnGJRVvrFIp73REt3lwTCmy0k8geJo/)
+			- GGS basierte zuletzt auf: [CORE](http://www.core.edu.au/conference-portal), Microsoft Academic API (discontinued) und Scholar per [LiveSHINE](http://liveshine.icomp.ufam.edu.br/) (discontinued, since Google Scholar stopped granting automated bulk access)
+		- CS Conference Acceptance Rates: [**csconferences**.org](https://csconferences.org/)
+		- **[Scholar Rakings](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng)** für Publikationsorgane:
+			- BD: [Databases & Information Retrieval](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_databasesinformationsystems), [Data Mining & Analysis](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_datamininganalysis)
+			- CC: [Computing Systems](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computingsystems) (Cloud), [Software Systems](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_softwaresystems) (SWE)
+			- AI: [Artificial Intelligence](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence), [Operations Research](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_operationsresearch), [Robotics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics)
+			- Weitere: [Computer Security & Cryptography](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography), [Human Computer Interaction](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_humancomputerinteraction), [Multimedia](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_multimedia)
+			- Interdisziplinär: [Medical Informatics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_medicalinformatics), [Bioinformatics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=bio_bioinformatics), [Educational Technology](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_educationaltechnology), [«all»](https://scholar.google.com/citations?view_op=top_venues)
+			- Labels: [authors:Cloud](https://scholar.google.com/citations?view_op=search_authors&mauthors=label:cloud), [authors:SWE](https://scholar.google.de/citations?view_op=search_authors&mauthors=label:software_engineering), [authors:SW-Arch](https://scholar.google.de/citations?view_op=search_authors&mauthors=label:software_architecture), [authors:DevOps](https://scholar.google.de/citations?view_op=search_authors&mauthors=label:devops), [authors:MLops](https://scholar.google.de/citations?view_op=search_authors&mauthors=label:mlops), [authors:Blockchain](https://scholar.google.com/citations?view_op=search_authors&mauthors=label:blockchain)
+		- Rankings für Forschungsinstitutionen
+			- **[CSRankings](https://csrankings.org/)** für Forschungsinstitutionen
+				- US: [DBS](https://csrankings.org/#/index?mod&us), [HPC](https://csrankings.org/#/index?hpc&us), [SWE](https://csrankings.org/#/index?soft&us), [HMI](https://csrankings.org/#/index?chi&us), [AI](https://csrankings.org/#/index?ai&vision&mlmining&nlp&inforet&us), [Robotics](https://csrankings.org/#/index?robotics&us)
+				- DE: [DBS](https://csrankings.org/#/index?mod&de), [HPC](https://csrankings.org/#/index?hpc&de), [SWE](https://csrankings.org/#/index?soft&de), [HMI](https://csrankings.org/#/index?chi&de), [AI](https://csrankings.org/#/index?ai&vision&mlmining&nlp&inforet&de), [Robotics](https://csrankings.org/#/index?robotics&de)
+			- **[csmetrics.net](https://csmetrics.net/)** (inkl. privatwirtschaftliche Unternehmen wie Google, Microsoft, Meta, Intel, IBM, Adobe, NVidia, DeepMind, etc.)
+	- Indexing:
+		- **[Scholar](https://scholar.google.de/)**: [Inclusion Guideline](https://scholar.google.com/intl/en/scholar/inclusion.html) + [Indexing](https://docs.pkp.sfu.ca/google-scholar/en/)
+		- **[DBLP](https://dblp.uni-trier.de/search/)**: [Criteria](https://dblp.org/faq/5210119.html) + [Submission Format](https://dblp.org/faq/1474621.html)
+			- **WICHTIG**: Zusätzlich Uploads von Pre-Prints auf **arXiv** (d.h. zusätzlich zu der Veröffentlichung durch den Publisher einer Konferenz) sollten sowohl zu erfolgreichen Listings unter **DBLP** ⚠️ als auch unter Scopus führen (allerdings nicht unter der ursprünglichen Konferenz, sondern gelistet zugehörig zur CoRR = Computing Research Repository = arXiv-Subset)
+		- **[BASE](https://www.base-search.net/Search/Advanced)**: [OAI Interface](https://www.base-search.net/about/en/faq_oai.php)
+		- **[dissem.in](https://dissem.in/search/)**: [Data Sources](https://dissem.in/sources/) ([CrossRef.org](https://www.crossref.org/), [BASE](https://www.base-search.net/), [SHERPA/RoMEO](https://www.sherpa.ac.uk/romeo/), [Zotero](https://www.zotero.org/))
+	- Repositories: **[arXiv](https://arxiv.org)**, **[Zenodo](https://zenodo.org)**, [HAL](https://hal.science), [figshare](https://figshare.com/)
+		- Hinweise: arxiv „encourages conference organizers [to use arXiv as a way to **distribute and archive conference papers**](https://info.arxiv.org/help/submit_index.html)“
+			- Verwende das Feld [**Journal-ref** auch für Proceedings](https://info.arxiv.org/help/prep.html#journal)
+		- arXiv Einstieg: [Submission Guidelines](https://info.arxiv.org/help/submit/index.html), Trevor Campbell [Checkliste](https://trevorcampbell.me/html/arxiv.html) ⭐, arXiv [License Information](https://info.arxiv.org/help/license/index.html), [Common Mistakes](https://info.arxiv.org/help/faq/mistakes.html) ⚠️, [Non-English Submissions](https://info.arxiv.org/help/faq/multilang.html)
+			- **WICHTIG**: Die [arXiv TeXLive Version](https://info.arxiv.org/help/faq/texlive.html) ist meist nicht die neueste ⚠️. Best Practice: [Overleaf unterstützt auch ältere TeXLive-Versionen](https://www.overleaf.com/learn/latex/Overleaf_and_TeX_Live#How_often_is_TeX_Live_updated_on_Overleaf%3F), so dass mittels Overleaf bequem die technisch risikoärmste Vorbereitung für einen arXiv-Upload erfolgen kann, besser als mit der eigenen lokalen TeX-Installation. (Beispiel: biber-Versions-Konflikt zwecks .bbl-Datei)
+	- Publishers:
+		- Einstieg: [Scientists paid large publishers over $1 billion in four years to have their studies published with open access](https://english.elpais.com/science-tech/2023-11-21/scientists-paid-large-publishers-over-1-billion-in-four-years-to-have-their-studies-published-with-open-access.html) (2013)
+		- Largest [**Academic** Publishers: Top-10](https://www.peeref.com/collections/top-10-largest-academic-publishers-in-2022) (2022), insbesondere: **Springer**, **Elsevier**, **De Gruyter**
+			- [**Oligopoly** / Haustein et al.](https://direct.mit.edu/qss/article/4/4/778/118070/The-oligopoly-s-shift-to-open-access-How-the-big): In 2015 \[…\] „Elsevier, Wiley-Blackwell, Springer (before the merger with Nature in 2015), and Taylor & Francis publish more than half of the scholarly journal literature indexed in Web of Science“
+	- [**Open Access** in der Informatik](https://open-access.network/informieren/open-access-in-fachdisziplinen/informatik)
+		- Open Access Publisher [benötigen für ein Scopus-Listing](https://www.elsevier.com/__data/assets/pdf_file/0007/69451/ScopusContentCoverageGuideWEB.pdf) bspw. ein Gold OA or Subsidized OA Listing unter der [Directory of Open Access Journals (DOAJ)](https://doaj.org/) und/oder [Directory of Open Access Scholarly Resources](https://road.issn.org/)
+	- Kosten von Konferenzen: Registrierungsgebühr, Flug, Hotel ↣ mind. €1500 p.P.
 - Technical Report zu Research Software publizieren (International und Peer-reviewed) / [OpenScience](https://twitter.com/openscience):
-  - Überblick: [Bild](https://ineed.coffee/uploads/submission_process.png) von Daniel Graziotin, Uni Stuttgart
-  - Kostenloses [Journal of Open Source Software (**JOSS**)](https://joss.theoj.org/), bis zu 1000 Wörter, Markdown-Format \[[submission guide](https://joss.readthedocs.io/en/latest/submitting.html)\]
-    - Considers submissions for which the implementation of the software itself reflects a substantial scientific effort (» 1000 LoC)
-  - (€:) [Journal of Open Research Software (**JORS**)](https://openresearchsoftware.metajnl.com/), bis zu 4000 Wörtern (ca. 4-6 Seiten), LaTeX/Word/ODT-Format \[[submission guide](https://openresearchsoftware.metajnl.com/about/submissions#authorGuidelines)\]\[externer [Blogbeitrag als Review](https://ineed.coffee/post/review-journal-of-open-research-software)\]
-    - Considers research software with high reuse potential
-    - Kosten: knapp €500
+	- Überblick: [Bild](https://ineed.coffee/uploads/submission_process.png) von Daniel Graziotin, Uni Stuttgart
+	- Kostenloses [Journal of Open Source Software (**JOSS**)](https://joss.theoj.org/), bis zu 1000 Wörter, Markdown-Format \[[submission guide](https://joss.readthedocs.io/en/latest/submitting.html)\]
+		- Considers submissions for which the implementation of the software itself reflects a substantial scientific effort (» 1000 LoC)
+	- (€:) [Journal of Open Research Software (**JORS**)](https://openresearchsoftware.metajnl.com/), bis zu 4000 Wörtern (ca. 4-6 Seiten), LaTeX/Word/ODT-Format \[[submission guide](https://openresearchsoftware.metajnl.com/about/submissions#authorGuidelines)\]\[externer [Blogbeitrag als Review](https://ineed.coffee/post/review-journal-of-open-research-software)\]
+		- Considers research software with high reuse potential
+		- Kosten: knapp €500
 - Themenfeld Journals vs. Costs:
-  - Ridiculous Cost: [Lots of Journals](https://media.springernature.com/lw703/springer-static/image/art%3A10.1038%2F495426a/MediaObjects/41586_2013_Article_BF495426a_Figb_HTML.jpg)
-  - High Cost: [PeerJ](https://peerj.com/pricing/) ($1,195 - $1,595 per arcticle)
-  - Medium Cost: [SAGE Open](https://journals.sagepub.com/home/SGO) ($395 per article), [Ubiquity Press](https://www.ubiquitypress.com/site/publish/) (~$500 per article, wie JORS oben).
-  - No Cost (Peer-Reviewed): per Recherche mittels [Directory of Open Access Journals (DOAJ)](https://doaj.org/search/journals?ref=homepage-box&source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%5B%7B%22term%22%3A%7B%22bibjson.apc.has_apc%22%3Afalse%7D%7D%2C%7B%22term%22%3A%7B%22bibjson.other_charges.has_other_charges%22%3Afalse%7D%7D%2C%7B%22query_string%22%3A%7B%22query%22%3A%22Computer%20Science%22%2C%22default_operator%22%3A%22AND%22%7D%7D%5D%7D%7D%2C%22track_total_hits%22%3Atrue%7D)
-  - No Cost (Non-Peer-Reviewed): unser [OTH-Forschungsbericht](https://www.oth-aw.de/hochschule/mediathek/forschungsbericht/), Eigenveröffentlichung auf [arXiv.org](https://arxiv.org/) (beide Formen als techn. Report begreifen und in BibTeX nur als TECHREP zitieren!)
+	- Ridiculous Cost: [Lots of Journals](https://media.springernature.com/lw703/springer-static/image/art%3A10.1038%2F495426a/MediaObjects/41586_2013_Article_BF495426a_Figb_HTML.jpg)
+	- High Cost: [PeerJ](https://peerj.com/pricing/) ($1,195 - $1,595 per arcticle)
+	- Medium Cost: [SAGE Open](https://journals.sagepub.com/home/SGO) ($395 per article), [Ubiquity Press](https://www.ubiquitypress.com/site/publish/) (~$500 per article, wie JORS oben).
+	- No Cost (Peer-Reviewed): per Recherche mittels [Directory of Open Access Journals (DOAJ)](https://doaj.org/search/journals?ref=homepage-box&source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%5B%7B%22term%22%3A%7B%22bibjson.apc.has_apc%22%3Afalse%7D%7D%2C%7B%22term%22%3A%7B%22bibjson.other_charges.has_other_charges%22%3Afalse%7D%7D%2C%7B%22query_string%22%3A%7B%22query%22%3A%22Computer%20Science%22%2C%22default_operator%22%3A%22AND%22%7D%7D%5D%7D%7D%2C%22track_total_hits%22%3Atrue%7D)
+	- No Cost (Non-Peer-Reviewed): unser [OTH-Forschungsbericht](https://www.oth-aw.de/hochschule/mediathek/forschungsbericht/), Eigenveröffentlichung auf [arXiv.org](https://arxiv.org/) (beide Formen als techn. Report begreifen und in BibTeX nur als TECHREP zitieren!)
 - Zum kommerziellen Erfolg von **Büchern**: „Writing books isn’t a good idea“
-  - Webartikel von Elle Griffin: **[Publishing Industry Truths](https://www.elysian.press/p/publishing-industry-truth)** (2021) und **[No one buys books](https://www.elysian.press/p/no-one-buys-books)** (2024) sowie [Creator Community](https://www.elysian.press/p/creator-economy-for-fiction-authors) (2021)
-  - In General: [**Big Five** US Publishers](https://almossawi.com/big-five-publishers/): Penguin/Random House, Hachette Book Group, Harper Collins, Simon and Schuster, Macmillan
-    - It used to be the “Big 6“, until Penguin and Random House merged
+	- Webartikel von Elle Griffin: **[Publishing Industry Truths](https://www.elysian.press/p/publishing-industry-truth)** (2021) und **[No one buys books](https://www.elysian.press/p/no-one-buys-books)** (2024) sowie [Creator Community](https://www.elysian.press/p/creator-economy-for-fiction-authors) (2021)
+	- In General: [**Big Five** US Publishers](https://almossawi.com/big-five-publishers/): Penguin/Random House, Hachette Book Group, Harper Collins, Simon and Schuster, Macmillan
+		- It used to be the “Big 6“, until Penguin and Random House merged
 - Best of Papers (Perspektive BDCC/AI):
-  - [Dynamo](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf): Amazon’s Highly Available Key-value Store
-  - [GFS](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf): The Google File System
-  - [MapReduce](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/16cb30b4b92fd4989b8619a61752a2387c6dd474.pdf): Simplified Data Processing on Large Clusters
-  - [Memcache](https://research.facebook.com/file/839620310074473/scaling-memcache-at-facebook.pdf): Scaling Memcache at Facebook
-  - [BigTable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf): A Distributed Storage System for Structured Data
-  - [Kubernetes](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43438.pdf): Large-scale cluster management at Google with Borg
-  - [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf): A Decentralized Structured Storage System
-  - [Transformer](https://arxiv.org/abs/1706.03762): Attention Is All You Need
-  - [Kafka](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf): A Distributed Messaging System for Log Processing
-  - [FoundationDB](https://www.foundationdb.org/files/fdb-paper.pdf): A Distributed Unbundled Transactional Key Value Store
-  - [Aurora](https://web.stanford.edu/class/cs245/readings/aurora.pdf): Design Considerations for High Throughput Cloud-Native Relational Databases
-  - [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf): Google’s Globally-Distributed Database
-  - [ShardManager](https://dl.acm.org/doi/pdf/10.1145/3477132.3483546): A Generic Shard Management Framework for Geo-distributed Applications
-  - [Dapper](https://static.googleusercontent.com/media/research.google.com/en//archive/papers/dapper-2010-1.pdf): A Large-Scale Distributed Systems Tracing Infrastructure
-  - [Flink](https://www.researchgate.net/publication/308993790_Apache_Flink_Stream_and_Batch_Processing_in_a_Single_Engine): Stream and Batch Processing in a Single Engine
-  - [Vector Databases](https://arxiv.org/pdf/2310.11703.pdf): A Comprehensive Survey on Vector Database – Storage and Retrieval Technique, Challenge
-  - [Zanzibar](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/10683a8987dbf0c6d4edcafb9b4f05cc9de5974a.pdf): Google’s Consistent, Global Authorization System
-  - [Monarch](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/d84ab6c93881af998de877d0070a706de7bec6d8.pdf): Google’s Planet-Scale In-Memory Time Series Database
-  - [Thrift](https://thrift.apache.org/static/files/thrift-20070401.pdf): Scalable Cross-Language Services Implementation
-  - [Bitcoin](https://bitcoin.org/bitcoin.pdf): A Peer-to-Peer Electronic Cash System
-  - [WTF](https://web.stanford.edu/~rezab/papers/wtf_overview.pdf): The Who to Follow Service at Twitter
-  - [MyRocks](https://www.vldb.org/pvldb/vol13/p3217-matsunobu.pdf): LSM-Tree Database Storage Engine Serving Facebook's Social Graph
-  - [Structured Programming](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf): Go To Statement Considered Harmful
-  - [Raft](https://raft.GitHub.io/raft.pdf): In Search of an Understandable Consensus Algorithm
-  - [Lamport Clocks](https://lamport.azurewebsites.net/pubs/time-clocks.pdf): Time Clocks and Ordering of Events in Distributed Systems
-  - Weiterführende Referenzen: [Awesome **Historical Computer Science** articles](https://github.com/francoatmega/historical-computer-science-articles) | [List of important publications in computer science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)
+	- [Dynamo](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf): Amazon’s Highly Available Key-value Store
+	- [GFS](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf): The Google File System
+	- [MapReduce](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/16cb30b4b92fd4989b8619a61752a2387c6dd474.pdf): Simplified Data Processing on Large Clusters
+	- [Memcache](https://research.facebook.com/file/839620310074473/scaling-memcache-at-facebook.pdf): Scaling Memcache at Facebook
+	- [BigTable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf): A Distributed Storage System for Structured Data
+	- [Kubernetes](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43438.pdf): Large-scale cluster management at Google with Borg
+	- [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf): A Decentralized Structured Storage System
+	- [Transformer](https://arxiv.org/abs/1706.03762): Attention Is All You Need
+	- [Kafka](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf): A Distributed Messaging System for Log Processing
+	- [FoundationDB](https://www.foundationdb.org/files/fdb-paper.pdf): A Distributed Unbundled Transactional Key Value Store
+	- [Aurora](https://web.stanford.edu/class/cs245/readings/aurora.pdf): Design Considerations for High Throughput Cloud-Native Relational Databases
+	- [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf): Google’s Globally-Distributed Database
+	- [ShardManager](https://dl.acm.org/doi/pdf/10.1145/3477132.3483546): A Generic Shard Management Framework for Geo-distributed Applications
+	- [Dapper](https://static.googleusercontent.com/media/research.google.com/en//archive/papers/dapper-2010-1.pdf): A Large-Scale Distributed Systems Tracing Infrastructure
+	- [Flink](https://www.researchgate.net/publication/308993790_Apache_Flink_Stream_and_Batch_Processing_in_a_Single_Engine): Stream and Batch Processing in a Single Engine
+	- [Vector Databases](https://arxiv.org/pdf/2310.11703.pdf): A Comprehensive Survey on Vector Database – Storage and Retrieval Technique, Challenge
+	- [Zanzibar](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/10683a8987dbf0c6d4edcafb9b4f05cc9de5974a.pdf): Google’s Consistent, Global Authorization System
+	- [Monarch](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/d84ab6c93881af998de877d0070a706de7bec6d8.pdf): Google’s Planet-Scale In-Memory Time Series Database
+	- [Thrift](https://thrift.apache.org/static/files/thrift-20070401.pdf): Scalable Cross-Language Services Implementation
+	- [Bitcoin](https://bitcoin.org/bitcoin.pdf): A Peer-to-Peer Electronic Cash System
+	- [WTF](https://web.stanford.edu/~rezab/papers/wtf_overview.pdf): The Who to Follow Service at Twitter
+	- [MyRocks](https://www.vldb.org/pvldb/vol13/p3217-matsunobu.pdf): LSM-Tree Database Storage Engine Serving Facebook's Social Graph
+	- [Structured Programming](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf): Go To Statement Considered Harmful
+	- [Raft](https://raft.GitHub.io/raft.pdf): In Search of an Understandable Consensus Algorithm
+	- [Lamport Clocks](https://lamport.azurewebsites.net/pubs/time-clocks.pdf): Time Clocks and Ordering of Events in Distributed Systems
+	- Weiterführende Referenzen: [Awesome **Historical Computer Science** articles](https://github.com/francoatmega/historical-computer-science-articles) | [List of important publications in computer science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)
 - Best of \_:
-  - [List of unsolved problems in computer science](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science) | [Millennium Prize Problems](https://www.claymath.org/millennium-problems/)
-  - Computer science institutions around the world: [DE](https://csrankings.org/#/index?all&de) | [US](https://csrankings.org/#/index?all&us)
-  - Meister:
-    - DBS / Big Data: [Michael Stonebraker](https://www.csail.mit.edu/person/michael-stonebraker), [Jennifer Widom](https://cs.stanford.edu/people/widom/) | DE: [Alfons Kemper](https://db.in.tum.de/~kemper/), [Gunter Saake](https://www.dbse.ovgu.de/Mitarbeiter/Gunter+Saake.html), [Thomas Neumann](https://db.in.tum.de/~neumann/), [Wolfgang Lehner](https://wwwdb.inf.tu-dresden.de/our-group/team/wolfgang-lehner/)
-    - Cloud: [Ian Foster](https://cs.uchicago.edu/people/ian-foster/) | DE: [Frank Leymann](https://www.iaas.uni-stuttgart.de/en/institute/team/Leymann/)
-    - DevOps: [Brian Fitzgerald](https://www.brian-fitzgerald.com/) | DE: [Ingo Weber](http://imweber.de/)
-    - SWE: [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/), [Bertrand Meyer](https://se.inf.ethz.ch/~meyer/), [David Parnas](https://ieeexplore.ieee.org/author/37351904800), [Frederick P. Brooks, Jr.](https://www.cs.unc.edu/~brooks/), [Gregor Kiczales](https://www.cs.ubc.ca/~gregor/), [Barbara Liskov](https://pmg.csail.mit.edu/~liskov/), [Bill Curtis](https://dl.acm.org/profile/81332495004) | DE: [Ernst Denert](https://www.professoren.tum.de/honorarprofessoren/d/denert-ernst), [August-Wilhelm Scheer](https://www.august-wilhelm-scheer.com/), [Sven Apel](https://www.se.cs.uni-saarland.de/apel/), [Ralf Reussner](https://dsis.kastel.kit.edu/staff_ralf_reussner.php)
-      - Praktiker: [Martin Fowler](https://martinfowler.com/), [Gregor Hohpe](https://architectelevator.com/), [Robert C. „Uncle Bob“ Martin](http://cleancoder.com/), [Scott Ambler](https://agiledata.org/), Grace Hopper, Dennis Ritchie, Richard M. Stallman, Linus Torvalds
-    - AI: [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/), [Andrew Ng](https://www.andrewng.org/), [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Andrej Karpathy](https://karpathy.ai/) | DE: [DFKI-Forscher](https://scholar.google.de/citations?view_op=view_org&hl=de&org=15965982471849061583)
+	- [List of unsolved problems in computer science](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science) | [Millennium Prize Problems](https://www.claymath.org/millennium-problems/)
+	- Computer science institutions around the world: [DE](https://csrankings.org/#/index?all&de) | [US](https://csrankings.org/#/index?all&us)
+	- Meister:
+		- DBS / Big Data: [Michael Stonebraker](https://www.csail.mit.edu/person/michael-stonebraker), [Jennifer Widom](https://cs.stanford.edu/people/widom/) | DE: [Alfons Kemper](https://db.in.tum.de/~kemper/), [Gunter Saake](https://www.dbse.ovgu.de/Mitarbeiter/Gunter+Saake.html), [Thomas Neumann](https://db.in.tum.de/~neumann/), [Wolfgang Lehner](https://wwwdb.inf.tu-dresden.de/our-group/team/wolfgang-lehner/)
+		- Cloud: [Ian Foster](https://cs.uchicago.edu/people/ian-foster/) | DE: [Frank Leymann](https://www.iaas.uni-stuttgart.de/en/institute/team/Leymann/)
+		- DevOps: [Brian Fitzgerald](https://www.brian-fitzgerald.com/) | DE: [Ingo Weber](http://imweber.de/)
+		- SWE: [Donald E. Knuth](https://www-cs-faculty.stanford.edu/~knuth/), [Bertrand Meyer](https://se.inf.ethz.ch/~meyer/), [David Parnas](https://ieeexplore.ieee.org/author/37351904800), [Frederick P. Brooks, Jr.](https://www.cs.unc.edu/~brooks/), [Gregor Kiczales](https://www.cs.ubc.ca/~gregor/), [Barbara Liskov](https://pmg.csail.mit.edu/~liskov/), [Bill Curtis](https://dl.acm.org/profile/81332495004) | DE: [Ernst Denert](https://www.professoren.tum.de/honorarprofessoren/d/denert-ernst), [August-Wilhelm Scheer](https://www.august-wilhelm-scheer.com/), [Sven Apel](https://www.se.cs.uni-saarland.de/apel/), [Ralf Reussner](https://dsis.kastel.kit.edu/staff_ralf_reussner.php)
+			- Praktiker: [Martin Fowler](https://martinfowler.com/), [Gregor Hohpe](https://architectelevator.com/), [Robert C. „Uncle Bob“ Martin](http://cleancoder.com/), [Scott Ambler](https://agiledata.org/), Grace Hopper, Dennis Ritchie, Richard M. Stallman, Linus Torvalds
+		- AI: [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/), [Andrew Ng](https://www.andrewng.org/), [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), [Andrej Karpathy](https://karpathy.ai/) | DE: [DFKI-Forscher](https://scholar.google.de/citations?view_op=view_org&hl=de&org=15965982471849061583)
 
 ## Forschungsdatenmanagement
 
@@ -1865,234 +1871,234 @@ Internet Ikonen:
 - Stanford **[Data best practices and case studies](https://guides.library.stanford.edu/data-best-practices)**
 - Werkzeuge: siehe [Schwesterseite zum Thema](https://www.oth-aw.de/neumann/tools-faculty/#forschungsdatenmanagement)
 - Grundlagen, auch für Non-Technical Readers:
-  - [Forschungsdatenmanagement **Glossar**](https://forschungsdaten.info/praxis-kompakt/glossar/#c269836)
-  - [**FAIR** Prinzipien](https://www.go-fair.org/fair-principles/)
-  - Video [**Forschungsdaten** leben länger](https://www.youtube.com/watch?v=YrKg26XWBRk)
-  - [Langfristig geeignete **Dateiformate**](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/)
-  - Videos: **[Data Literacy](https://www.cedis.fu-berlin.de/services/e-learning/dataliteracy/lehrvideos/intro-data-literacy/index.html)** | **[Datenorganisation](https://www.cedis.fu-berlin.de/services/e-learning/dataliteracy/lehrvideos/daten-organisation/index.html)**
-  - Stanford [**File Naming** Handout](https://guides.library.stanford.edu/data-best-practices) (als Bestandteil obiger Best-Practice-Sammlung)
+	- [Forschungsdatenmanagement **Glossar**](https://forschungsdaten.info/praxis-kompakt/glossar/#c269836)
+	- [**FAIR** Prinzipien](https://www.go-fair.org/fair-principles/)
+	- Video [**Forschungsdaten** leben länger](https://www.youtube.com/watch?v=YrKg26XWBRk)
+	- [Langfristig geeignete **Dateiformate**](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/)
+	- Videos: **[Data Literacy](https://www.cedis.fu-berlin.de/services/e-learning/dataliteracy/lehrvideos/intro-data-literacy/index.html)** | **[Datenorganisation](https://www.cedis.fu-berlin.de/services/e-learning/dataliteracy/lehrvideos/daten-organisation/index.html)**
+	- Stanford [**File Naming** Handout](https://guides.library.stanford.edu/data-best-practices) (als Bestandteil obiger Best-Practice-Sammlung)
 - Research Data Repositories: [**r3data**.org](https://www.re3data.org)
-  - CERN **[Zenodo](https://zenodo.org/)**
-  - European [Open Science Cloud (**EOSC**)](https://eosc-portal.eu/)
+	- CERN **[Zenodo](https://zenodo.org/)**
+	- European [Open Science Cloud (**EOSC**)](https://eosc-portal.eu/)
 - Datenmanagementplan (DMP)
-  - [Einführung **Datenmanagementplan**](https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/)
-  - [**DMP Leitfaden** der Science Europe](https://zenodo.org/record/4915862)
-  - Werkzeuge? vgl. meine Schwesterseite [Dozenten-Werzeuge](https://www.oth-aw.de/neumann/tools-faculty/#forschungsdatenmanagement)
+	- [Einführung **Datenmanagementplan**](https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/)
+	- [**DMP Leitfaden** der Science Europe](https://zenodo.org/record/4915862)
+	- Werkzeuge? vgl. meine Schwesterseite [Dozenten-Werzeuge](https://www.oth-aw.de/neumann/tools-faculty/#forschungsdatenmanagement)
 - Globally unique and persistent identifiers
-  - Einsteigerfreundliches Video [Persistent Identifier (**PID**)](https://www.youtube.com/watch?v=uVq7IuDCTFw)
-  - [**Handle**.Net Registry (**HNR**)](https://www.handle.net/) by CNRI
-  - **[DONA](https://www.dona.net/)**: [Digital Object Architecture](https://www.dona.net/digitalobjectarchitecture) and [**DO-IRP** Identifier Resolution Protocol](https://www.dona.net/specsandsoftware)
+	- Einsteigerfreundliches Video [Persistent Identifier (**PID**)](https://www.youtube.com/watch?v=uVq7IuDCTFw)
+	- [**Handle**.Net Registry (**HNR**)](https://www.handle.net/) by CNRI
+	- **[DONA](https://www.dona.net/)**: [Digital Object Architecture](https://www.dona.net/digitalobjectarchitecture) and [**DO-IRP** Identifier Resolution Protocol](https://www.dona.net/specsandsoftware)
 - Elektronische Laborbücher / Electronic Laboratory Notebooks (ELN)
-  - Publisso [ELN-**Wegweiser**](https://www.publisso.de/forschungsdatenmanagement/fd-dokumentieren/) \[[PDF](https://www.publisso.de/fileadmin/user_upload/PUBLISSO/PUBLISSO_ELN-Wegweiser_2020-10-05_view.pdf)\]
-  - Video-Playlist **[ELN-Tutorials](https://www.youtube.com/playlist?list=PLJYlS0FDTMq17tvYMeuI2Ct5XtykRFy0K)**
+	- Publisso [ELN-**Wegweiser**](https://www.publisso.de/forschungsdatenmanagement/fd-dokumentieren/) \[[PDF](https://www.publisso.de/fileadmin/user_upload/PUBLISSO/PUBLISSO_ELN-Wegweiser_2020-10-05_view.pdf)\]
+	- Video-Playlist **[ELN-Tutorials](https://www.youtube.com/playlist?list=PLJYlS0FDTMq17tvYMeuI2Ct5XtykRFy0K)**
 - Forschungsanträge
-  - [Datenmanagementplan-**Beispiele**](https://dmponline.dcc.ac.uk/public_plans)
-  - [Forschungsanträge: **Tipps**](https://gitlab.rrze.fau.de/cdi/admin/policies-working-paper/-/blob/master/workingpaper/proposals.md) der FAU
+	- [Datenmanagementplan-**Beispiele**](https://dmponline.dcc.ac.uk/public_plans)
+	- [Forschungsanträge: **Tipps**](https://gitlab.rrze.fau.de/cdi/admin/policies-working-paper/-/blob/master/workingpaper/proposals.md) der FAU
 - FAU als Vorbild/Vorlage
-  - [FAU **Forschungsdatenpolicy**](https://doi.org/10.5281/zenodo.5095730)
-  - [FAU **Open Science Policy**](https://doi.org/10.5281/zenodo.5602559)
-  - [FAU **FDM-Checkliste**](https://pad.gwdg.de/LKo70Af6S1ihYZwzLTzFeQ)
+	- [FAU **Forschungsdatenpolicy**](https://doi.org/10.5281/zenodo.5095730)
+	- [FAU **Open Science Policy**](https://doi.org/10.5281/zenodo.5602559)
+	- [FAU **FDM-Checkliste**](https://pad.gwdg.de/LKo70Af6S1ihYZwzLTzFeQ)
 - Forschungsinformationssysteme
-  - FAU **[CRIS](https://cris.fau.de/converis/portal)**
-  - FIZ Karlsruhe **[RADAR](https://www.radar-service.eu/radar/de/home)**
-  - [Nationale Forschungsdateninfrastruktur (**NFDI**)](https://www.nfdi.de/)
+	- FAU **[CRIS](https://cris.fau.de/converis/portal)**
+	- FIZ Karlsruhe **[RADAR](https://www.radar-service.eu/radar/de/home)**
+	- [Nationale Forschungsdateninfrastruktur (**NFDI**)](https://www.nfdi.de/)
 - Eigenes Publishing
-  - [Deutsche **OJS** Community](https://ojs-de.net/support#): bspw. [Anleitung ein eigenes Journal zu gründen](https://ojs-de.net/support/eine-zeitschrift-gruenden) / [Checkliste](https://zenodo.org/records/57054)
+	- [Deutsche **OJS** Community](https://ojs-de.net/support#): bspw. [Anleitung ein eigenes Journal zu gründen](https://ojs-de.net/support/eine-zeitschrift-gruenden) / [Checkliste](https://zenodo.org/records/57054)
 
 ## Vor einer Post-Doc-Phase oder Professur
 
 \[ Ohne Anspruch auf Vollständigkeit. \]
 
 - Berufliche Wegfindung / Akademische Karriere
-  - **[Der Postdoc-Ratgeber](https://www.academics.de/themen/postdoc)** von academics.de (auch als Buch ⭐ [Auf dem Weg zur Professur: Die **Postdoc-Fibel**](https://www.amazon.de/dp/3981701526/) von 2016)
-    - Google Search: [„Wege zur Professur“](https://www.google.com/search?q=wege+zur+professur)
-    - Amazon Search: [„Postdoc“](https://www.amazon.de/s?k=postdoc)
-  - Ein paar grundlegende Aspekte (Sicht Bayern; Sicht Informatik/KI/MINT):
-    - Altersgrenze für die Berufung in das Beamtenverhältnis:
-      - Professoren: **52 Jahre** nach [Art. 60 Abs. 3 BayHIG](https://www.gesetze-bayern.de/Content/Document/BayHIG-60) (danach staatliche Professur noch als Angestellte:r möglich)
-      - Normale Beamte wie akademische Räte: 45 Jahre nach [Bayerisches Beamtengesetz](https://www.gesetze-bayern.de/Content/Document/BayBG-23) (?)
-    - [Formelle Einstellungsvoraussetzungen](https://www.gesetze-bayern.de/Content/Document/BayHIG-57):
-      - Immer (Uni und FH): Hochschulstudim, pädagogische Eignung, (hochwertige) **Promotion**
-      - Uni: ... darüber hinaus "zusätzliche **wissenschaftliche Leistungen**" (Grobe Einordnung des Umfangs für Laien: **Habil** i.S.v. Publikationsumfang nach gängigen Habilitationsvereinbarungen bzw. Post-Doc-Phase; Ausnahmen bilden W1-Juniorprofessuren, etc. pp.)
-      - FH: ... darüber hinaus "mindestens **fünfjährige beruflichen Praxis**, die nach Abschluss des Hochschulstudiums erworben sein muss und von der mindestens **drei Jahre außerhalb des Hochschulbereichs** ausgeübt worden sein müssen"
-    - Lehrverpflichtung
-      - Terminologie: Die Lehrverpflichtungseinheit LVS und SWS sind synonym und meinen an Hochschulen eine class hour von 45 Minuten (unten nochmal eine formellere Referenz dazu)
-      - Karrierepfade
-        - Lehrverpflichtung eines [**Uni**-Professors](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-3): **9 LVS** pro Semester
-          - Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "Geht man von Universitätsprofessoren davon aus, eine Lehrverpflichtung von 8 LVS beanspruche etwa die Hälfte der regelmäßigen Arbeitszeit \[...\]"
-        - Lehrverpflichtung eines [**FH**-Professors](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-4): **18 LVS** pro Semester (doppelt so hoch wie ein Uni-Prof)
-          - Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "so gilt bei einem Fachhochschulprofessor mit 18 SWS Lehrverpflichtung, dass er 20 bis 25 % für Forschungs- und sonstige Aufgaben erübrigen muss"
-          - Anders als Informatik/KI-Profs an der Uni halten Professoren an der FH auch selbst häufig die Übungsveranstaltungen (Übungen an Unis: häufig durch WissMAs und ggf. auch Lehr-HiWis übernommen)
-        - Lehrverpflichtung eines akademischen Rats (A13; an Universitäten; als Beamte auf Lebenszeit): [das kommt darauf an](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-3)
-        - Privathochschulprofessur? (Studiengänge/Hochschule akkreditiert, aber privater Trägerschaft)
-          - FH-Niveau wie [IU](https://www.iu-careers.com/) oder [FOM](https://karriere.fom.de/): Mir nicht genau bekannt, mutmaßlich an 18 LVS orientiert
-          - Uni-Niveau wie [Fernuni Hagen](https://jobs.fernuni-hagen.de/): Mir gänzlich unbekannt
-        - \[Der Vollständigkeit halber:\] Forschungseinrichtungun wie [Fraunhofer-Institute](https://www.fraunhofer.de/en/jobs-and-career.html) oder [NIM](https://www.nim.org/jobs) in Nürnberg: Keine Lehre, reine Forschung.
-      - An der OTH-AW ist die [Leitlinie Globaldeputat](https://www.oth-aw.de/files/oth-aw/Formalia/Gesetze-Verordnungen/Satzungen/Leitlinie_Globallehrdeputat_gezeichnet_mit_Bekanntmachungsvermerk.pdf) der Nachfolger der LUFV, gemeinsam mit dem [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-4)
-        - (Nennenswert: Die langjährige [LUFV](https://www.hof.uni-halle.de/daten/lvv_gesetze/lvvo_by.pdf) ist seit Okt. 2024 ungültig, eben ersetzt durch das [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-G1_2) und hochschulindividuelle Leitlinien)
-      - Professoren haben formell keinen Urlaub, der Anspruch auf Urlaub gilt mit der vorlesungsfreien Zeit als abgegolten
-      - Aus der Leitlinie Globaldeputat an der OTH-AW: "Eine Lehrveranstaltungsstunde bildet dabei den Aufwand ab, den eine ordnungsgemäß vor- und nachbereitete 45-minütige Präsenzvorlesung regelmäßig erfordert. Eine Lehrveranstaltungsstunde entspricht bei Professuren drei Arbeitsstunden." (nicht 3h/w sondern total-cost, also auf Gesamtjahresebene)
-        - Jedes Semester hat ca. 15 Wochen: (2x18x15x3h)/a = 1620h/a
-        - Gegenrechnung: 46 w/a á 40h/w = 1840h/w; Auslastungsfaktor durch 18 LVS dann: 88% (= 1620/1840)
-      - Welchen Arbeitsaufwand 1 LVS/SWS rechtlich repräsentiert ist schwankend!
-        - (Die folgenden Rechnung aus Sicht einer FH)
-        - Nach der Aussage von Max-Emanuel Geis würde 1 LVS während des Semesters regelmäßig 1,66 h/w entsprechen (75% von 40 h/w), unter der Annahme, dass dann die vorlesungsfreie Zeit für Urlaub, akademische Selbstverwaltung, Forschung, Transfer und Infrastruktur zur Verfügung stehen
-        - Nach der Aussage der Leitlinie Globaldeputat, unter der zu falsifizierenden Annahme, dass die 3h rein in der VL-Zeit anfallen, wären 18 LVS = 18 x 3 h/w = 54 h/w, was aufzeigt, dass diese Arbeitsstunden offensichtlich auch in der VL-freien Zeit anfallen müssen, bspw. zur Pflege der Lehrveranstaltung
-        - Welchen nominellen Anteil die Lehre an Fachhochschulen hat, schwankt also mindestens zwischen 75 % (Min-Angabe von Max-Emanuel Geis) und 88 % (Implikation der Leitlinie Globaldeputat)
-        - Für akademische Selbstverwaltung, Forschung, Transfer und Infrastruktur bleiben nominell zw. 25 % (10 h/w) bis 12 % (4,8 h/w)
-        - Zwar eine [Studie für Österreich](https://www.gew.de/aktuelles/detailseite/zeitdruck-an-unis), aber dennoch nennenswert: "Heute liegt der Anteil akademischer Selbstverwaltung bei 16 %"
-        - Wer alle Puzzleteile im Kopf miteinander verbindet, kann sich den nominell verbleibenden Anteil einer klassischen FH-(Lehr)-Professur für Forschung, Transfer und Infrastruktur per Grundschulmathematik ausrechnen und kommt mutmaßlich zur Beobachtung, dass an der FH die Forschung eher Freizeit sein könnte
-          - (selbstverständlich: Forschungsprofessuren an der FH gibt es mittlerweile; diese können die Lehrverpflichtung senken, sind aber nicht die Regel)
-    - Besoldung
-      - Uni: W2 (weisungsfrei) und i.d.R. mit Leistungsbezügen (auch bei Erstberufung); außerdem Option auf W3-Professuren
-      - FH: [W2](https://oeffentlicher-dienst.info/beamte/by/) (weisungsfrei) aber i.d.R. ohne Leistungsbezüge (auf jeden Fall eher nicht bei Erstberufung); epsilontisch wenige W3-Professuren an FHs
-      - Akademischer Rat: [A13](https://oeffentlicher-dienst.info/beamte/by/) (nicht weisungsfrei; normaler Beamter); Option auf akadem. Oberrat mit A14
-      - Privathochschulprofessur: Keine Verbeamtung, Angestelltenverhältnis; Gehalt ist orientiert an W2-Besoldung, vgl. Kununu
-      - Forschungseinrichtungen (bspw. wie [Fraunhofer-Institute](https://www.fraunhofer.de/en/jobs-and-career.html) oder [NIM](https://www.nim.org/jobs) in Nürnberg): Angestelltenverhältnis; vgl. Kununu
+	- **[Der Postdoc-Ratgeber](https://www.academics.de/themen/postdoc)** von academics.de (auch als Buch ⭐ [Auf dem Weg zur Professur: Die **Postdoc-Fibel**](https://www.amazon.de/dp/3981701526/) von 2016)
+		- Google Search: [„Wege zur Professur“](https://www.google.com/search?q=wege+zur+professur)
+		- Amazon Search: [„Postdoc“](https://www.amazon.de/s?k=postdoc)
+	- Ein paar grundlegende Aspekte (Sicht Bayern; Sicht Informatik/KI/MINT):
+		- Altersgrenze für die Berufung in das Beamtenverhältnis:
+			- Professoren: **52 Jahre** nach [Art. 60 Abs. 3 BayHIG](https://www.gesetze-bayern.de/Content/Document/BayHIG-60) (danach staatliche Professur noch als Angestellte:r möglich)
+			- Normale Beamte wie akademische Räte: 45 Jahre nach [Bayerisches Beamtengesetz](https://www.gesetze-bayern.de/Content/Document/BayBG-23) (?)
+		- [Formelle Einstellungsvoraussetzungen](https://www.gesetze-bayern.de/Content/Document/BayHIG-57):
+			- Immer (Uni und FH): Hochschulstudim, pädagogische Eignung, (hochwertige) **Promotion**
+			- Uni: ... darüber hinaus "zusätzliche **wissenschaftliche Leistungen**" (Grobe Einordnung des Umfangs für Laien: **Habil** i.S.v. Publikationsumfang nach gängigen Habilitationsvereinbarungen bzw. Post-Doc-Phase; Ausnahmen bilden W1-Juniorprofessuren, etc. pp.)
+			- FH: ... darüber hinaus "mindestens **fünfjährige beruflichen Praxis**, die nach Abschluss des Hochschulstudiums erworben sein muss und von der mindestens **drei Jahre außerhalb des Hochschulbereichs** ausgeübt worden sein müssen"
+		- Lehrverpflichtung
+			- Terminologie: Die Lehrverpflichtungseinheit LVS und SWS sind synonym und meinen an Hochschulen eine class hour von 45 Minuten (unten nochmal eine formellere Referenz dazu)
+			- Karrierepfade
+				- Lehrverpflichtung eines [**Uni**-Professors](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-3): **9 LVS** pro Semester
+					- Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "Geht man von Universitätsprofessoren davon aus, eine Lehrverpflichtung von 8 LVS beanspruche etwa die Hälfte der regelmäßigen Arbeitszeit \[...\]"
+				- Lehrverpflichtung eines [**FH**-Professors](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-4): **18 LVS** pro Semester (doppelt so hoch wie ein Uni-Prof)
+					- Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "so gilt bei einem Fachhochschulprofessor mit 18 SWS Lehrverpflichtung, dass er 20 bis 25 % für Forschungs- und sonstige Aufgaben erübrigen muss"
+					- Anders als Informatik/KI-Profs an der Uni halten Professoren an der FH auch selbst häufig die Übungsveranstaltungen (Übungen an Unis: häufig durch WissMAs und ggf. auch Lehr-HiWis übernommen)
+				- Lehrverpflichtung eines akademischen Rats (A13; an Universitäten; als Beamte auf Lebenszeit): [das kommt darauf an](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-3)
+				- Privathochschulprofessur? (Studiengänge/Hochschule akkreditiert, aber privater Trägerschaft)
+					- FH-Niveau wie [IU](https://www.iu-careers.com/) oder [FOM](https://karriere.fom.de/): Mir nicht genau bekannt, mutmaßlich an 18 LVS orientiert
+					- Uni-Niveau wie [Fernuni Hagen](https://jobs.fernuni-hagen.de/): Mir gänzlich unbekannt
+				- \[Der Vollständigkeit halber:\] Forschungseinrichtungun wie [Fraunhofer-Institute](https://www.fraunhofer.de/en/jobs-and-career.html) oder [NIM](https://www.nim.org/jobs) in Nürnberg: Keine Lehre, reine Forschung.
+			- An der OTH-AW ist die [Leitlinie Globaldeputat](https://www.oth-aw.de/files/oth-aw/Formalia/Gesetze-Verordnungen/Satzungen/Leitlinie_Globallehrdeputat_gezeichnet_mit_Bekanntmachungsvermerk.pdf) der Nachfolger der LUFV, gemeinsam mit dem [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-4)
+				- (Nennenswert: Die langjährige [LUFV](https://www.hof.uni-halle.de/daten/lvv_gesetze/lvvo_by.pdf) ist seit Okt. 2024 ungültig, eben ersetzt durch das [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-G1_2) und hochschulindividuelle Leitlinien)
+			- Professoren haben formell keinen Urlaub, der Anspruch auf Urlaub gilt mit der vorlesungsfreien Zeit als abgegolten
+			- Aus der Leitlinie Globaldeputat an der OTH-AW: "Eine Lehrveranstaltungsstunde bildet dabei den Aufwand ab, den eine ordnungsgemäß vor- und nachbereitete 45-minütige Präsenzvorlesung regelmäßig erfordert. Eine Lehrveranstaltungsstunde entspricht bei Professuren drei Arbeitsstunden." (nicht 3h/w sondern total-cost, also auf Gesamtjahresebene)
+				- Jedes Semester hat ca. 15 Wochen: (2x18x15x3h)/a = 1620h/a
+				- Gegenrechnung: 46 w/a á 40h/w = 1840h/w; Auslastungsfaktor durch 18 LVS dann: 88% (= 1620/1840)
+			- Welchen Arbeitsaufwand 1 LVS/SWS rechtlich repräsentiert ist schwankend!
+				- (Die folgenden Rechnung aus Sicht einer FH)
+				- Nach der Aussage von Max-Emanuel Geis würde 1 LVS während des Semesters regelmäßig 1,66 h/w entsprechen (75% von 40 h/w), unter der Annahme, dass dann die vorlesungsfreie Zeit für Urlaub, akademische Selbstverwaltung, Forschung, Transfer und Infrastruktur zur Verfügung stehen
+				- Nach der Aussage der Leitlinie Globaldeputat, unter der zu falsifizierenden Annahme, dass die 3h rein in der VL-Zeit anfallen, wären 18 LVS = 18 x 3 h/w = 54 h/w, was aufzeigt, dass diese Arbeitsstunden offensichtlich auch in der VL-freien Zeit anfallen müssen, bspw. zur Pflege der Lehrveranstaltung
+				- Welchen nominellen Anteil die Lehre an Fachhochschulen hat, schwankt also mindestens zwischen 75 % (Min-Angabe von Max-Emanuel Geis) und 88 % (Implikation der Leitlinie Globaldeputat)
+				- Für akademische Selbstverwaltung, Forschung, Transfer und Infrastruktur bleiben nominell zw. 25 % (10 h/w) bis 12 % (4,8 h/w)
+				- Zwar eine [Studie für Österreich](https://www.gew.de/aktuelles/detailseite/zeitdruck-an-unis), aber dennoch nennenswert: "Heute liegt der Anteil akademischer Selbstverwaltung bei 16 %"
+				- Wer alle Puzzleteile im Kopf miteinander verbindet, kann sich den nominell verbleibenden Anteil einer klassischen FH-(Lehr)-Professur für Forschung, Transfer und Infrastruktur per Grundschulmathematik ausrechnen und kommt mutmaßlich zur Beobachtung, dass an der FH die Forschung eher Freizeit sein könnte
+					- (selbstverständlich: Forschungsprofessuren an der FH gibt es mittlerweile; diese können die Lehrverpflichtung senken, sind aber nicht die Regel)
+		- Besoldung
+			- Uni: W2 (weisungsfrei) und i.d.R. mit Leistungsbezügen (auch bei Erstberufung); außerdem Option auf W3-Professuren
+			- FH: [W2](https://oeffentlicher-dienst.info/beamte/by/) (weisungsfrei) aber i.d.R. ohne Leistungsbezüge (auf jeden Fall eher nicht bei Erstberufung); epsilontisch wenige W3-Professuren an FHs
+			- Akademischer Rat: [A13](https://oeffentlicher-dienst.info/beamte/by/) (nicht weisungsfrei; normaler Beamter); Option auf akadem. Oberrat mit A14
+			- Privathochschulprofessur: Keine Verbeamtung, Angestelltenverhältnis; Gehalt ist orientiert an W2-Besoldung, vgl. Kununu
+			- Forschungseinrichtungen (bspw. wie [Fraunhofer-Institute](https://www.fraunhofer.de/en/jobs-and-career.html) oder [NIM](https://www.nim.org/jobs) in Nürnberg): Angestelltenverhältnis; vgl. Kununu
 - Berufungsverfahren
-  - [**Handbuch** Studentische Mitwirkung in **Berufungskommissionen**](https://file.komapedia.org/Bkhandbuch_v2.pdf), v2, des Fachschaftsrat Mathematik an der TU Chemnitz
+	- [**Handbuch** Studentische Mitwirkung in **Berufungskommissionen**](https://file.komapedia.org/Bkhandbuch_v2.pdf), v2, des Fachschaftsrat Mathematik an der TU Chemnitz
 - Stellenanzeigen
-  - (für Hochschul-Jobs und Professuren)
-  - [**academics**.de](https://www.academics.de/stellenanzeigen) (\<=> Die Zeit)
-  - [**universitoxy**.com](https://universitoxy.com/)
-  - [**akademischestellen**.com](https://akademischestellen.com/)
-  - ([**GI** Stellenanzeigen](https://www.academics.de/stellenanzeigen))
+	- (für Hochschul-Jobs und Professuren)
+	- [**academics**.de](https://www.academics.de/stellenanzeigen) (\<=> Die Zeit)
+	- [**universitoxy**.com](https://universitoxy.com/)
+	- [**akademischestellen**.com](https://akademischestellen.com/)
+	- ([**GI** Stellenanzeigen](https://www.academics.de/stellenanzeigen))
 - Verbände
-  - (für Professoren und Post-Docs)
-  - [**hochschulverband**.de](https://www.hochschulverband.de/) = Deutschen Hochschulverband (DHV), v.a. Universitätsprofessoren aber auch Habilitierte
-  - [**hlb**.de](https://www.hlb.de/) = Hochschullehrerbund (HLB), v.a. Fachhochschulprofessoren
+	- (für Professoren und Post-Docs)
+	- [**hochschulverband**.de](https://www.hochschulverband.de/) = Deutschen Hochschulverband (DHV), v.a. Universitätsprofessoren aber auch Habilitierte
+	- [**hlb**.de](https://www.hlb.de/) = Hochschullehrerbund (HLB), v.a. Fachhochschulprofessoren
 - Statistiken
-  - Von [**Destatis** zu den **Hochschulen** in Deutschland](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Hochschulen/_inhalt.html)
+	- Von [**Destatis** zu den **Hochschulen** in Deutschland](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Hochschulen/_inhalt.html)
 - Recht
-  - (€:) Buch [**Hochschulrecht im Freistaat Bayern**: Ein Handbuch für Wissenschaft und Praxis](https://www.amazon.de/dp/3811440683/) (2017) ⭐ von Max-Emanuel Geis (Hrsg.)
+	- (€:) Buch [**Hochschulrecht im Freistaat Bayern**: Ein Handbuch für Wissenschaft und Praxis](https://www.amazon.de/dp/3811440683/) (2017) ⭐ von Max-Emanuel Geis (Hrsg.)
 - Lehre
-  - Lehrmethoden: (€:)
-    - Kartenset **[Methoden to go](https://constructif.de/lehrideen/methoden-to-go/)** von constructif ⭐
-      - Sowie deren **[Methodenpool](https://constructif.de/lehrideen/methodenpool/)** und [**Kognitive Landkarte** als visualisierte Wissensnetze](https://constructif.de/wp-content/uploads/2021/03/constructif-konfigurator-Struktur-768x442.jpg.webp)
-    - Übersicht [**Methoden-Kiste** – Methoden für Schule und Bildungsarbeit](https://www.bildung-lsa.de/files/219b51620fe38c50f166629b8bc0aeaa/methodenkiste_bpb.pdf) (2010) von Lothar Scholz
-  - Videos von **[Vera Birkenbiehl](https://www.youtube.com/results?search_query=vera+birkenbihl+lehren)**
-  - [Kurzleitfaden: **Kompetenzformulierung**](https://www.uni-wuerzburg.de/fileadmin/39030000/ZiLS/Material/Kompetenzorientierung/Kurzleitfaden_Kompetenzformulierung.pdf) der Uni Würzburg
-  - Konfuzianische Weisheit: „Sage es mir, und ich werde es vergessen. Zeige es mir, und ich werde es vielleicht behalten. Lass es mich tun, und ich werde es können.“
-    - [Lernpyramide](https://en.wikipedia.org/wiki/Learning_pyramid) (Die enthaltenen Retention-Rate-Zahlen basieren auf einer damals seriösen, aber heute teils methodisch fragwürdigen Studie aus den 1960er Jahren. Kritiker raten von einer Weiterverbreitung ab. Dennoch: Es steckt plakative Demut in ihr und dieselbe konfuzianische Weisheit wie oben.)
-  - Didaktische Modelle
-    - [Inquiry-based Learning](https://courses.lumenlearning.com/olemiss-education/chapter/inquiry-based-learning/) / [Wikipedia](https://en.wikipedia.org/wiki/Inquiry-based_learning)
-    - [Experiential Learning](https://infed.org/mobi/david-a-kolb-on-experiential-learning/) / [Wikipedia](https://en.wikipedia.org/wiki/Experiential_learning)
-    - [Inverted Classroom](https://www.e-teaching.org/lehrszenarien/vorlesung/inverted_classroom) bzw. [Flipped Classroom](https://cft.vanderbilt.edu/guides-sub-pages/flipping-the-classroom/) / [Wikipedia](https://en.wikipedia.org/wiki/Flipped_classroom)
-      - Artikel: [Flipped oder Flopped? Inverted Classroom in der Hochschullehre](https://lehrblick.de/inverted-classroom-in-der-hochschullehre/)
+	- Lehrmethoden: (€:)
+		- Kartenset **[Methoden to go](https://constructif.de/lehrideen/methoden-to-go/)** von constructif ⭐
+			- Sowie deren **[Methodenpool](https://constructif.de/lehrideen/methodenpool/)** und [**Kognitive Landkarte** als visualisierte Wissensnetze](https://constructif.de/wp-content/uploads/2021/03/constructif-konfigurator-Struktur-768x442.jpg.webp)
+		- Übersicht [**Methoden-Kiste** – Methoden für Schule und Bildungsarbeit](https://www.bildung-lsa.de/files/219b51620fe38c50f166629b8bc0aeaa/methodenkiste_bpb.pdf) (2010) von Lothar Scholz
+	- Videos von **[Vera Birkenbiehl](https://www.youtube.com/results?search_query=vera+birkenbihl+lehren)**
+	- [Kurzleitfaden: **Kompetenzformulierung**](https://www.uni-wuerzburg.de/fileadmin/39030000/ZiLS/Material/Kompetenzorientierung/Kurzleitfaden_Kompetenzformulierung.pdf) der Uni Würzburg
+	- Konfuzianische Weisheit: „Sage es mir, und ich werde es vergessen. Zeige es mir, und ich werde es vielleicht behalten. Lass es mich tun, und ich werde es können.“
+		- [Lernpyramide](https://en.wikipedia.org/wiki/Learning_pyramid) (Die enthaltenen Retention-Rate-Zahlen basieren auf einer damals seriösen, aber heute teils methodisch fragwürdigen Studie aus den 1960er Jahren. Kritiker raten von einer Weiterverbreitung ab. Dennoch: Es steckt plakative Demut in ihr und dieselbe konfuzianische Weisheit wie oben.)
+	- Didaktische Modelle
+		- [Inquiry-based Learning](https://courses.lumenlearning.com/olemiss-education/chapter/inquiry-based-learning/) / [Wikipedia](https://en.wikipedia.org/wiki/Inquiry-based_learning)
+		- [Experiential Learning](https://infed.org/mobi/david-a-kolb-on-experiential-learning/) / [Wikipedia](https://en.wikipedia.org/wiki/Experiential_learning)
+		- [Inverted Classroom](https://www.e-teaching.org/lehrszenarien/vorlesung/inverted_classroom) bzw. [Flipped Classroom](https://cft.vanderbilt.edu/guides-sub-pages/flipping-the-classroom/) / [Wikipedia](https://en.wikipedia.org/wiki/Flipped_classroom)
+			- Artikel: [Flipped oder Flopped? Inverted Classroom in der Hochschullehre](https://lehrblick.de/inverted-classroom-in-der-hochschullehre/)
 - Forschung
-  - Promotionsrecht an FHs
-    - Klassische **Kooperative Promotion** mit einer Universität
-    - Auch FH-Professoren können ein **eigenes Promotionsrecht** erhalten (vgl. **[§ 13 (2) BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-13)**), organisiert wird das derzeit an den FHs in sog. **Promotionszentren**
+	- Promotionsrecht an FHs
+		- Klassische **Kooperative Promotion** mit einer Universität
+		- Auch FH-Professoren können ein **eigenes Promotionsrecht** erhalten (vgl. **[§ 13 (2) BayHIG](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-13)**), organisiert wird das derzeit an den FHs in sog. **Promotionszentren**
 - **Hochschulverständnis** ⭐
-  - Allgemeine Aufgaben von Hochschulen (Universitäten und FHs/HAWs) in Bayern: [Art. 2 BayHIG](https://www.gesetze-bayern.de/Content/Document/BayHIG-2)
-  - **Universitäten**
-    - DE: [Profilelemente von Universitäten und Fachhochschulen](https://www.hrk.de/positionen/beschluss/detail/profilelemente-von-universitaeten-und-fachhochschulen/) (**1997**) der Hochschulrektorenkonferenz, vgl. Abschnitt B.II: 1. **Forschung** als erkenntnis- und anwendungsorientierte **Grundlagenforschung** 2. Universitäre **Lehre** ist **durchweg wissenschaftlich geprägt** und führt die Studenten an die Forschung heran 3. Ausbildung und Förderung des wissenschaftlichen Nachwuchses 4. Wissenschaftliche Weiterbildung (postgraduale Studiengänge)
-    - BY: [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayHIG-3) (**2022**), vgl. Art. 3:
-      - „Den Universitäten obliegen die Pflege und Weiterentwicklung der Wissenschaften durch Grundlagenforschung und anwendungsbezogene Forschung und die wissenschaftlich basierte Lehre. Beides soll sich an den höchsten internationalen Maßstäben ausrichten. Ziel der Ausbildung ist die Befähigung zur selbstständigen Entwicklung und Anwendung wissenschaftlicher Methoden und Erkenntnisse in Wissenschaft und beruflicher Praxis.“
-  - **Fachhochschulen / Hochschulen für angewandte Wissenschaften**:
-    - [Hintergrund](https://de.wikipedia.org/wiki/Fachhochschule#Geschichte_und_Definition): studentische Demonstrationen von 1968 für den [Erhalt der Anerkennung als Ingenieur-Abschluss (und nicht nur als Techniker)](http://web.archive.org/web/20141106134720/http://www.stiftung-sozialgeschichte.de/joomla/index.php/de/component/content/article/95-zeitschrift-archiv/sozial-geschichte-extra/beitraege/183-vergessene-aktionen), dafür werden die **Eingangsvoraussetzungen** erhöht und die Fachhochschulen in Richtung einer **wissenschaftlichen Einrichtung** aufgewertet
-    - Ursprung: [Abkommen zwischen den Ländern der Bundesrepublik zur Vereinheitlichung auf dem Gebiet des Fachhochschulwesens](https://recht.nrw.de/lmi/owa/br_bes_text?anw_nr=1&gld_nr=%202&bes_id=2477) (**1968** auf Bundesebene; im Anschluss folgten die einzelnen Abkommen der Bundesländer, bspw. 1969 in NRW), vgl. Artikel I: 1. „\[Fachhochschulen\] vermitteln eine **auf wissenschaftlicher Grundlage** beruhende Bildung \[…\] und zu **selbständiger** Tätigkeit im Beruf befähigt.“\
-      (Damals war Forschung an FHs in den Hochschulgesetzen noch nicht vorgesehen.)
-    - DE: [Profilelemente von Universitäten und Fachhochschulen](https://www.hrk.de/positionen/beschluss/detail/profilelemente-von-universitaeten-und-fachhochschulen/) (**1997**) der Hoschulrektorenkonferenz, vgl. Abschnitt C.I: 1. **Anwendungsorientierte wissenschaftliche** Ausbildungsgänge - **Primat der Lehre** mit einem relativ hohen Lehrdeputat der Professoren (Anmerkung: Anders als an Universitäten richtet sich der Forschungsauftrag an FHs bzw. HAWs richtet sich nicht an jeden Professor, sondern an die Hochschule insgesamt! Das Lehrdeputat an FH/HAW ist meist doppelt so hoch wie an der Universität.) - An **Berufsfeldern** orientiertes Fächerspektrum 2. Neue Studiengangskonzeptionen (z.B. zu berufsintegrierten Studienangeboten) 3. Kurze Studienzeiten, Wortwörtlich „günstiges Preis-Leistungs-Verhältnis“ (in Gegenüberstellung zur Universität)
-    - DE: [Bundesverfassungsgericht mit Urteil am 13. April **2010**](https://www.bundesverfassungsgericht.de/entscheidungen/rs20100413_1bvr021607.html):
-      - Das BVerfG stellt fest, dass die FH-Professoren den Uni-Professoren hinsichtlich der grundgesetzlichen Freiheiten gleichgestellt sind.
-      - (Relevant weil? Die in den 80ern vom BVerfG noch getroffene **Unterscheidung** zwischen wissenschaftlichen Ausbildungszielen an Universitäten und der Vorbereitung auf eine berufliche Tätigkeit durch anwendungsbezogene Lehre an den Fachhochschulen hatte das BVerfG damit **verworfen**.)
-      - (Gesellschaftlicher Kontext: Zehn Jahre zuvor, seit 2000, begann in Deutschland der Bologna-Prozess.)
-    - BY: [BayHIG – Bayerisches Hochschulinnovationsgesetz](https://www.gesetze-bayern.de/Content/Document/BayHIG-3) (**2022**), vgl. Art. 3:
-      - „Die Hochschulen für angewandte Wissenschaften vermitteln durch anwendungsbezogene Lehre eine Qualifizierung, die zur selbstständigen Anwendung und Weiterentwicklung wissenschaftlicher Methoden und künstlerischer Tätigkeiten in der Berufspraxis befähigt. Sie betreiben anwendungsbezogene Forschung und Entwicklung.“
-  - Zum **Bologna-Prozess**, eine europaweite Studienreform:
-    - Europäische **[Bologna Declaration](https://www.ehea.info/page-ministerial-conference-bologna-1999)** (1999)
-    - Daraus abgeleitete deutsche **[Bologna-Prozess](https://www.bmbf.de/bmbf/de/bildung/studium/bologna-prozess/bologna-prozess_node.html)**
-  - **Ausbildungen** (vgl. zum Fachinformatiker die „[Verordnung über die Berufsausbildung im Bereich der Informations- und Telekommunikationstechnik](https://www.bundesarchiv.de/DE/Content/Downloads/Beruf-Karriere/ausbildungsrahmenplan-fachinformatiker.pdf?__blob=publicationFile)“ (**1997**) aus dem Bundesgesetzblatt): 1. Fertigkeiten und Kenntnisse für eine **Berufstätigkeit** - „\[…\] zur Ausübung einer **qualifizierten beruflichen Tätigkeit** befähigt“ \[Informatik als **Handwerk** / das **Werkzeug** im Vordergrund\] - „\[…\] insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang“ \[**Verwaltung**\] 2. Keine gesetzlich vorgeschriebenen Eingangsvoraussetzungen 3. Im **dualen System** = Ausbildungsbetrieb + Berufsschule / 3a / vergütet 4. Zuständig: Industrie- und Handelskammer (**IHK**)
+	- Allgemeine Aufgaben von Hochschulen (Universitäten und FHs/HAWs) in Bayern: [Art. 2 BayHIG](https://www.gesetze-bayern.de/Content/Document/BayHIG-2)
+	- **Universitäten**
+		- DE: [Profilelemente von Universitäten und Fachhochschulen](https://www.hrk.de/positionen/beschluss/detail/profilelemente-von-universitaeten-und-fachhochschulen/) (**1997**) der Hochschulrektorenkonferenz, vgl. Abschnitt B.II: 1. **Forschung** als erkenntnis- und anwendungsorientierte **Grundlagenforschung** 2. Universitäre **Lehre** ist **durchweg wissenschaftlich geprägt** und führt die Studenten an die Forschung heran 3. Ausbildung und Förderung des wissenschaftlichen Nachwuchses 4. Wissenschaftliche Weiterbildung (postgraduale Studiengänge)
+		- BY: [BayHIG](https://www.gesetze-bayern.de/Content/Document/BayHIG-3) (**2022**), vgl. Art. 3:
+			- „Den Universitäten obliegen die Pflege und Weiterentwicklung der Wissenschaften durch Grundlagenforschung und anwendungsbezogene Forschung und die wissenschaftlich basierte Lehre. Beides soll sich an den höchsten internationalen Maßstäben ausrichten. Ziel der Ausbildung ist die Befähigung zur selbstständigen Entwicklung und Anwendung wissenschaftlicher Methoden und Erkenntnisse in Wissenschaft und beruflicher Praxis.“
+	- **Fachhochschulen / Hochschulen für angewandte Wissenschaften**:
+		- [Hintergrund](https://de.wikipedia.org/wiki/Fachhochschule#Geschichte_und_Definition): studentische Demonstrationen von 1968 für den [Erhalt der Anerkennung als Ingenieur-Abschluss (und nicht nur als Techniker)](http://web.archive.org/web/20141106134720/http://www.stiftung-sozialgeschichte.de/joomla/index.php/de/component/content/article/95-zeitschrift-archiv/sozial-geschichte-extra/beitraege/183-vergessene-aktionen), dafür werden die **Eingangsvoraussetzungen** erhöht und die Fachhochschulen in Richtung einer **wissenschaftlichen Einrichtung** aufgewertet
+		- Ursprung: [Abkommen zwischen den Ländern der Bundesrepublik zur Vereinheitlichung auf dem Gebiet des Fachhochschulwesens](https://recht.nrw.de/lmi/owa/br_bes_text?anw_nr=1&gld_nr=%202&bes_id=2477) (**1968** auf Bundesebene; im Anschluss folgten die einzelnen Abkommen der Bundesländer, bspw. 1969 in NRW), vgl. Artikel I: 1. „\[Fachhochschulen\] vermitteln eine **auf wissenschaftlicher Grundlage** beruhende Bildung \[…\] und zu **selbständiger** Tätigkeit im Beruf befähigt.“\
+			(Damals war Forschung an FHs in den Hochschulgesetzen noch nicht vorgesehen.)
+		- DE: [Profilelemente von Universitäten und Fachhochschulen](https://www.hrk.de/positionen/beschluss/detail/profilelemente-von-universitaeten-und-fachhochschulen/) (**1997**) der Hoschulrektorenkonferenz, vgl. Abschnitt C.I: 1. **Anwendungsorientierte wissenschaftliche** Ausbildungsgänge - **Primat der Lehre** mit einem relativ hohen Lehrdeputat der Professoren (Anmerkung: Anders als an Universitäten richtet sich der Forschungsauftrag an FHs bzw. HAWs richtet sich nicht an jeden Professor, sondern an die Hochschule insgesamt! Das Lehrdeputat an FH/HAW ist meist doppelt so hoch wie an der Universität.) - An **Berufsfeldern** orientiertes Fächerspektrum 2. Neue Studiengangskonzeptionen (z.B. zu berufsintegrierten Studienangeboten) 3. Kurze Studienzeiten, Wortwörtlich „günstiges Preis-Leistungs-Verhältnis“ (in Gegenüberstellung zur Universität)
+		- DE: [Bundesverfassungsgericht mit Urteil am 13. April **2010**](https://www.bundesverfassungsgericht.de/entscheidungen/rs20100413_1bvr021607.html):
+			- Das BVerfG stellt fest, dass die FH-Professoren den Uni-Professoren hinsichtlich der grundgesetzlichen Freiheiten gleichgestellt sind.
+			- (Relevant weil? Die in den 80ern vom BVerfG noch getroffene **Unterscheidung** zwischen wissenschaftlichen Ausbildungszielen an Universitäten und der Vorbereitung auf eine berufliche Tätigkeit durch anwendungsbezogene Lehre an den Fachhochschulen hatte das BVerfG damit **verworfen**.)
+			- (Gesellschaftlicher Kontext: Zehn Jahre zuvor, seit 2000, begann in Deutschland der Bologna-Prozess.)
+		- BY: [BayHIG – Bayerisches Hochschulinnovationsgesetz](https://www.gesetze-bayern.de/Content/Document/BayHIG-3) (**2022**), vgl. Art. 3:
+			- „Die Hochschulen für angewandte Wissenschaften vermitteln durch anwendungsbezogene Lehre eine Qualifizierung, die zur selbstständigen Anwendung und Weiterentwicklung wissenschaftlicher Methoden und künstlerischer Tätigkeiten in der Berufspraxis befähigt. Sie betreiben anwendungsbezogene Forschung und Entwicklung.“
+	- Zum **Bologna-Prozess**, eine europaweite Studienreform:
+		- Europäische **[Bologna Declaration](https://www.ehea.info/page-ministerial-conference-bologna-1999)** (1999)
+		- Daraus abgeleitete deutsche **[Bologna-Prozess](https://www.bmbf.de/bmbf/de/bildung/studium/bologna-prozess/bologna-prozess_node.html)**
+	- **Ausbildungen** (vgl. zum Fachinformatiker die „[Verordnung über die Berufsausbildung im Bereich der Informations- und Telekommunikationstechnik](https://www.bundesarchiv.de/DE/Content/Downloads/Beruf-Karriere/ausbildungsrahmenplan-fachinformatiker.pdf?__blob=publicationFile)“ (**1997**) aus dem Bundesgesetzblatt): 1. Fertigkeiten und Kenntnisse für eine **Berufstätigkeit** - „\[…\] zur Ausübung einer **qualifizierten beruflichen Tätigkeit** befähigt“ \[Informatik als **Handwerk** / das **Werkzeug** im Vordergrund\] - „\[…\] insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang“ \[**Verwaltung**\] 2. Keine gesetzlich vorgeschriebenen Eingangsvoraussetzungen 3. Im **dualen System** = Ausbildungsbetrieb + Berufsschule / 3a / vergütet 4. Zuständig: Industrie- und Handelskammer (**IHK**)
 - **Hochschulabschlüsse und Abschlussbezeichnungen**
-  - Maßgeblich ist hier **[§ 6 BayStudAkkV](https://www.gesetze-bayern.de/Content/Document/BayStudAkkV-6)** (Absatz 2 Satz 1 Nr. 1 bis 7): **B.A. / B.Sc. / B.Eng.** / LL.B. / B.F.A. / B.Mus. / B.Ed. (sowie zugehörige Master)
-    - Zzgl. Dokument [**Begründung** BayStudAkkV (vgl. „**Zu § 6**“, insb. zu „**Absatz 2**“)](https://www.akkreditierungsrat.de/sites/default/files/downloads/2019/Begruendung_zur_BayStudAkkV_vom_13._April_2018__GVBl._S._264_.pdf): Für Studiengänge, die nicht eindeutig einer der in [§ 6 BayStudAkkV Absatz 2 Satz 1 Nr. 1 bis 7](https://www.gesetze-bayern.de/Content/Document/BayStudAkkV-6) genannten Fächergruppen zugeordnet werden können, richtet sich die Abschlussbezeichnung nach dem fachlichen Schwerpunkt des Studiengangs; dies gilt für interdisziplinäre und Kombinationsstudiengänge
-    - Nach der Erfahrung von QM gab es von Seiten des Ministeriums hierzu wiederholt Nachfragen, deswegen muss die Wahl der Abschlussbezeichnung gut begründet sein
-  - Zusätzlich: Taxonomie von [Qualifikation-**Niveaustufen**](https://www.dqr.de/dqr/de/der-dqr/dqr-niveaus/dqr-niveaus_node.html) nach DQR (Stufen 1 bis 8)
-    - Kurzinfo: [Bachelor i.d.R. **Stufe 6**](https://www.dqr.de/dqr/de/der-dqr/dqr-niveaus/niveau-6/niveau-6_node.html) und [Master i.d.R. **Stufe 7**](https://www.dqr.de/dqr/de/der-dqr/dqr-niveaus/niveau-7/niveau-7_node.html)
-      - (Anmerkung: Der staatliche anerkannte Ausbildungsberuf [Fachinformatiker](https://web.arbeitsagentur.de/berufenet/beruf/7847) entspricht dem Niveau 5 nach DQR. Ein Meister, Fachwirt und Fachabschlüsse wie der staatlich geprüfte [Techniker](https://web.arbeitsagentur.de/berufenet/beruf/58469) entsprechen dem Niveau 6 nach DQR, das auch dem Bachelorabschluss entspricht. Jedoch garantiert das Erreichen dieses Niveaus nicht automatisch den Zugang zum nächsten Bildungslevel. Das heißt, während man mit einem Techniker in der Regel für ein Bachelorstudium zugelassen ist, ermöglicht ein Techniker nicht unbedingt den Zugang zu einem Masterstudium an einer Universität oder einer anderen Hochschule. Der staatlich geprüfte Techniker ist übrigens auch kein akademischer Titel oder akademischer Abschluss.)
-    - Hintergrund
-      - Auf europäischer Ebene:
-        - [European Qualifications Framework (**EQF**)](https://europa.eu/europass/en/description-eight-eqf-levels) mit DQR-äquivalenten Stufen 1 bis 8
-        - Qualifications Framework for the European Higher Education Area (QF-EHEA): **[three-cycle system](https://www.ehea.info/page-qualification-frameworks)**, wobei diese drei Zyklen dem (1) Bachelor \[EQF/DQR St. 6\], (2) Master \[EQF/DQR St. 7\] und der (3) Promotion \[EQF/DQR St. 8\] entsprechen
-      - Aus der Lerntheorie: Sechsstufige **[Bloom’sche Taxonomie der Lernziele](https://www.bloomstaxonomy.net/)** im kognitiven Bereich
-  - **Hochstapelei**
-    - Unbefugtes Tragen von akademischen Graden ist **strafbar** nach [**§ 132a** STGB](https://www.gesetze-im-internet.de/stgb/__132a.html)
-      - Obacht: Nach **Absatz (2)** des [§ 132a](https://www.gesetze-im-internet.de/stgb/__132a.html) [STGB](https://www.gesetze-im-internet.de/stgb/__132a.html) gilt das genauso für Titel, die akademischen Graden zum Verwechseln ähnlich sind
-    - Darf ich **international** erworbene Grade tragen? Obacht! **No cheating**!
-      - Wie kann ich rausfinden, ob ein internationaler Studiengang, insb. Master, in Deutschland staatlich anerkannt ist?\
-        Am leichtesten wenn ein vorhandener **[anabin](https://anabin.kmk.org/no_cache/filter/hochschulabschluesse.html)-Eintrag für die Institution mit Wertung [H+](https://de.wikipedia.org/wiki/Anabin)** ⭐ existiert!
-        - Internationale Institutionen: öffentliche Datenbank **[anabin](https://anabin.kmk.org/no_cache/filter/institutionen.html)** der KMK, Abschnitt Institutionen
-        - Internationale Hochschulabschlüsse: öffentliche Datenbank **[anabin](https://anabin.kmk.org/no_cache/filter/hochschulabschluesse.html)** der KMK, Abschnitt Hochschulabschlüsse
-      - Insbesondere bei „Master“-Titeln und „Dipl.“-Titeln gibt es Wildwuchs!
-        - Positiv: Ein deutscher MBA ist sicherlich akkreditiert und ein int'l MBA ist hoffentlich per anabin anerkannt.
-        - Negativ: Der Begriff „Akademie“ ist in Deutschland nicht geschützt! Es tauchen regelmäßig „Akademien“ auf, die vorgebliche „Master“- oder „Dipl.“-Titel anbieten. Das können Sie strafrechtlich zur Anzeige bringen, aber machen Sie bitte dort keinen Abschluss um Ihren Lebenslauf zu verschönern. Nochmal: Wenn Sie Bullshit-Titel führen, die einem akademischen Grad ähneln, machen Sie sich strafbar. ⚠️
+	- Maßgeblich ist hier **[§ 6 BayStudAkkV](https://www.gesetze-bayern.de/Content/Document/BayStudAkkV-6)** (Absatz 2 Satz 1 Nr. 1 bis 7): **B.A. / B.Sc. / B.Eng.** / LL.B. / B.F.A. / B.Mus. / B.Ed. (sowie zugehörige Master)
+		- Zzgl. Dokument [**Begründung** BayStudAkkV (vgl. „**Zu § 6**“, insb. zu „**Absatz 2**“)](https://www.akkreditierungsrat.de/sites/default/files/downloads/2019/Begruendung_zur_BayStudAkkV_vom_13._April_2018__GVBl._S._264_.pdf): Für Studiengänge, die nicht eindeutig einer der in [§ 6 BayStudAkkV Absatz 2 Satz 1 Nr. 1 bis 7](https://www.gesetze-bayern.de/Content/Document/BayStudAkkV-6) genannten Fächergruppen zugeordnet werden können, richtet sich die Abschlussbezeichnung nach dem fachlichen Schwerpunkt des Studiengangs; dies gilt für interdisziplinäre und Kombinationsstudiengänge
+		- Nach der Erfahrung von QM gab es von Seiten des Ministeriums hierzu wiederholt Nachfragen, deswegen muss die Wahl der Abschlussbezeichnung gut begründet sein
+	- Zusätzlich: Taxonomie von [Qualifikation-**Niveaustufen**](https://www.dqr.de/dqr/de/der-dqr/dqr-niveaus/dqr-niveaus_node.html) nach DQR (Stufen 1 bis 8)
+		- Kurzinfo: [Bachelor i.d.R. **Stufe 6**](https://www.dqr.de/dqr/de/der-dqr/dqr-niveaus/niveau-6/niveau-6_node.html) und [Master i.d.R. **Stufe 7**](https://www.dqr.de/dqr/de/der-dqr/dqr-niveaus/niveau-7/niveau-7_node.html)
+			- (Anmerkung: Der staatliche anerkannte Ausbildungsberuf [Fachinformatiker](https://web.arbeitsagentur.de/berufenet/beruf/7847) entspricht dem Niveau 5 nach DQR. Ein Meister, Fachwirt und Fachabschlüsse wie der staatlich geprüfte [Techniker](https://web.arbeitsagentur.de/berufenet/beruf/58469) entsprechen dem Niveau 6 nach DQR, das auch dem Bachelorabschluss entspricht. Jedoch garantiert das Erreichen dieses Niveaus nicht automatisch den Zugang zum nächsten Bildungslevel. Das heißt, während man mit einem Techniker in der Regel für ein Bachelorstudium zugelassen ist, ermöglicht ein Techniker nicht unbedingt den Zugang zu einem Masterstudium an einer Universität oder einer anderen Hochschule. Der staatlich geprüfte Techniker ist übrigens auch kein akademischer Titel oder akademischer Abschluss.)
+		- Hintergrund
+			- Auf europäischer Ebene:
+				- [European Qualifications Framework (**EQF**)](https://europa.eu/europass/en/description-eight-eqf-levels) mit DQR-äquivalenten Stufen 1 bis 8
+				- Qualifications Framework for the European Higher Education Area (QF-EHEA): **[three-cycle system](https://www.ehea.info/page-qualification-frameworks)**, wobei diese drei Zyklen dem (1) Bachelor \[EQF/DQR St. 6\], (2) Master \[EQF/DQR St. 7\] und der (3) Promotion \[EQF/DQR St. 8\] entsprechen
+			- Aus der Lerntheorie: Sechsstufige **[Bloom’sche Taxonomie der Lernziele](https://www.bloomstaxonomy.net/)** im kognitiven Bereich
+	- **Hochstapelei**
+		- Unbefugtes Tragen von akademischen Graden ist **strafbar** nach [**§ 132a** STGB](https://www.gesetze-im-internet.de/stgb/__132a.html)
+			- Obacht: Nach **Absatz (2)** des [§ 132a](https://www.gesetze-im-internet.de/stgb/__132a.html) [STGB](https://www.gesetze-im-internet.de/stgb/__132a.html) gilt das genauso für Titel, die akademischen Graden zum Verwechseln ähnlich sind
+		- Darf ich **international** erworbene Grade tragen? Obacht! **No cheating**!
+			- Wie kann ich rausfinden, ob ein internationaler Studiengang, insb. Master, in Deutschland staatlich anerkannt ist?\
+				Am leichtesten wenn ein vorhandener **[anabin](https://anabin.kmk.org/no_cache/filter/hochschulabschluesse.html)-Eintrag für die Institution mit Wertung [H+](https://de.wikipedia.org/wiki/Anabin)** ⭐ existiert!
+				- Internationale Institutionen: öffentliche Datenbank **[anabin](https://anabin.kmk.org/no_cache/filter/institutionen.html)** der KMK, Abschnitt Institutionen
+				- Internationale Hochschulabschlüsse: öffentliche Datenbank **[anabin](https://anabin.kmk.org/no_cache/filter/hochschulabschluesse.html)** der KMK, Abschnitt Hochschulabschlüsse
+			- Insbesondere bei „Master“-Titeln und „Dipl.“-Titeln gibt es Wildwuchs!
+				- Positiv: Ein deutscher MBA ist sicherlich akkreditiert und ein int'l MBA ist hoffentlich per anabin anerkannt.
+				- Negativ: Der Begriff „Akademie“ ist in Deutschland nicht geschützt! Es tauchen regelmäßig „Akademien“ auf, die vorgebliche „Master“- oder „Dipl.“-Titel anbieten. Das können Sie strafrechtlich zur Anzeige bringen, aber machen Sie bitte dort keinen Abschluss um Ihren Lebenslauf zu verschönern. Nochmal: Wenn Sie Bullshit-Titel führen, die einem akademischen Grad ähneln, machen Sie sich strafbar. ⚠️
 - **Anerkennung / Durchlässigkeit**
-  - Einstieg: Video [MODUS **Anerkennung: Inhaltliche Prüfung**](https://www.youtube.com/watch?v=4_id5f-XAR8) (und weitere [Erklärvideos](https://www.hrk-modus.de/ressourcen/videos/erklaerfilme/) des Projekts MODUS der HRK)
-    - Wichtige Elemente: „**Beweislastumkehr**“ und „**Wesentlicher Unterschied**“
-    - Anerkennungsgranularität: Einzelne **Module**
-    - Der **Umfang** der möglichen Anerkennung ist **begrenzt**: i.d.R. **max. 50% des Studiums**
-  - Wichtiges Grundprinzip bei der Anerkennung von Modulen aus einem Studiengang in einem anderen Studiengang, das nicht allseits bekannt ist:\
-    „**Doppelanerkennungen sind zulässig**!“ (Auch Mehrfachanerkennung! Dreifach, vierfach, …, Kein Limit!)
-  - Zur Ersteinschätzung dient (wie oben bei Hochstapelei) die Datenbank **[anabin](https://de.wikipedia.org/wiki/Anabin)**:
-    - Internationale Institutionen (insb. Wertung **[H+](https://de.wikipedia.org/wiki/Anabin)**): öffentliche Datenbank **[anabin](https://anabin.kmk.org/no_cache/filter/institutionen.html)** der KMK, Abschnitt Institutionen
-    - Internationale Hochschulabschlüsse: öffentliche Datenbank **[anabin](https://anabin.kmk.org/no_cache/filter/hochschulabschluesse.html)** der KMK, Abschnitt Hochschulabschlüsse
-    - Internationale Schulnoten: Notensysteme je Land per Datenbank **[anabin](https://anabin.kmk.org/no_cache/filter/bildungswesen.html)** der KMK => Abschnitt Bildungswesen
+	- Einstieg: Video [MODUS **Anerkennung: Inhaltliche Prüfung**](https://www.youtube.com/watch?v=4_id5f-XAR8) (und weitere [Erklärvideos](https://www.hrk-modus.de/ressourcen/videos/erklaerfilme/) des Projekts MODUS der HRK)
+		- Wichtige Elemente: „**Beweislastumkehr**“ und „**Wesentlicher Unterschied**“
+		- Anerkennungsgranularität: Einzelne **Module**
+		- Der **Umfang** der möglichen Anerkennung ist **begrenzt**: i.d.R. **max. 50% des Studiums**
+	- Wichtiges Grundprinzip bei der Anerkennung von Modulen aus einem Studiengang in einem anderen Studiengang, das nicht allseits bekannt ist:\
+		„**Doppelanerkennungen sind zulässig**!“ (Auch Mehrfachanerkennung! Dreifach, vierfach, …, Kein Limit!)
+	- Zur Ersteinschätzung dient (wie oben bei Hochstapelei) die Datenbank **[anabin](https://de.wikipedia.org/wiki/Anabin)**:
+		- Internationale Institutionen (insb. Wertung **[H+](https://de.wikipedia.org/wiki/Anabin)**): öffentliche Datenbank **[anabin](https://anabin.kmk.org/no_cache/filter/institutionen.html)** der KMK, Abschnitt Institutionen
+		- Internationale Hochschulabschlüsse: öffentliche Datenbank **[anabin](https://anabin.kmk.org/no_cache/filter/hochschulabschluesse.html)** der KMK, Abschnitt Hochschulabschlüsse
+		- Internationale Schulnoten: Notensysteme je Land per Datenbank **[anabin](https://anabin.kmk.org/no_cache/filter/bildungswesen.html)** der KMK => Abschnitt Bildungswesen
 - Internationalisierung
-  - Technical Documentation
-    - Simplified Technical English (STE): [Wikipedia](https://en.m.wikipedia.org/wiki/Simplified_Technical_English), Spec [ASD-STE100](http://www.asd-ste100.org/) \[[PDF](https://technicalwritingexpert.com/wp-content/uploads/2021/11/ASD-STE100-ISSUE-8.pdf)\]
-      - Werkzeuge: [TechScribe](https://www.simplified-english.co.uk/) (basierend auf LanguageTool), [HyperSTE](https://simplifiedenglish.net/asd-ste100/), [Congree STE Checker](https://www.congree.com/en/ste-simplified-technical-english),
-    - [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
+	- Technical Documentation
+		- Simplified Technical English (STE): [Wikipedia](https://en.m.wikipedia.org/wiki/Simplified_Technical_English), Spec [ASD-STE100](http://www.asd-ste100.org/) \[[PDF](https://technicalwritingexpert.com/wp-content/uploads/2021/11/ASD-STE100-ISSUE-8.pdf)\]
+			- Werkzeuge: [TechScribe](https://www.simplified-english.co.uk/) (basierend auf LanguageTool), [HyperSTE](https://simplifiedenglish.net/asd-ste100/), [Congree STE Checker](https://www.congree.com/en/ste-simplified-technical-english),
+		- [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
 
 ### Bonusliste
 
 - Wissenschaftsrat (2020): [Stellungnahme zum Konzept zur Gründung der Technischen Universität Nürnberg](https://www.wissenschaftsrat.de/download/2020/8254-20.html); Berlin.
-  - (Erste Neugründung einer staatlichen Universität in Bayern seit 1978.)
+	- (Erste Neugründung einer staatlichen Universität in Bayern seit 1978.)
 - Gehälter in der Tech-Branche
-  - [Fachhochschulprofessor: W2, in BY](https://oeffentlicher-dienst.info/c/t/rechner/beamte/by?id=beamte-bayern-2023&g=W_2) ([Übersicht aller Beamtenbesoldungen in BY](https://oeffentlicher-dienst.info/c/t/rechner/beamte/by?id=beamte-bayern-2023&matrix=12)) ⇒ [Brutto vs. Netto sowie Zugschläge](https://www.academics.de/ratgeber/haw-fh-professor-gehalt-w-besoldung)
-  - [C-Level-Führungskräfte](https://t3n.de/news/gehaelter-techbranche-fuehrungskraefte-c-level-1557641/)
+	- [Fachhochschulprofessor: W2, in BY](https://oeffentlicher-dienst.info/c/t/rechner/beamte/by?id=beamte-bayern-2023&g=W_2) ([Übersicht aller Beamtenbesoldungen in BY](https://oeffentlicher-dienst.info/c/t/rechner/beamte/by?id=beamte-bayern-2023&matrix=12)) ⇒ [Brutto vs. Netto sowie Zugschläge](https://www.academics.de/ratgeber/haw-fh-professor-gehalt-w-besoldung)
+	- [C-Level-Führungskräfte](https://t3n.de/news/gehaelter-techbranche-fuehrungskraefte-c-level-1557641/)
 - Diversity und Frauenförderung
-  - (= Anti-Sexismus, Anti-Chauvinismus, Anti-Rassismus)
-  - Verschiedene gesellschaftlich wirksame Differenzierungskategorien: **[Power Flower](https://zfl-lernen.de/wp-content/uploads/2020/06/8i-Power-Flower-5.png)** \[[PDF](https://www.mangoes-and-bullets.org/wp-content/uploads/2015/02/8i-Power-Flower.pdf)\] ⚠️
-    - Innere Blütenblätter: (in DE) strukturell privilegiertere Gruppen
-    - Äußere Blütenblätter: (in DE) tendenziell deprivilegierte Gruppen
-  - Geschlechtersensible Formulierungen: OTH **[Fair formuliert](https://www.oth-aw.de/files/oth-aw/Services/Schreibwerkstatt/Leitfaden_Fair_Formuliert.pdf)** | **[geschickt gendern](https://geschicktgendern.de/)** ⭐
-  - [Praxisleitfaden](https://www.charta-der-vielfalt.de/fileadmin/user_upload/Studien_Publikationen_Charta/Charta_der_Vielfalt_-_KMU-Brosch%C3%BCre_2020.pdf) für Diversity in der Arbeitswelt ⭐
-    - Maßnahmenkataloge: [Großunternehmen](https://www.charta-der-vielfalt.de/fileadmin/user_upload/Studien_Publikationen_Charta/Ma%C3%9Fnahmen_Diversity_Management_Gro%C3%9Funternehmen.pdf), [KMUs](https://www.charta-der-vielfalt.de/fuer-organisationen/diversity-management/kleine-und-mittelstaendische-unternehmen/), [Öffentlicher Sektor](https://www.charta-der-vielfalt.de/fuer-organisationen/diversity-management/oeffentlicher-sektor/), [Vereine](https://www.charta-der-vielfalt.de/fuer-organisationen/diversity-management/vereine-verbaende-und-stiftungen/)
-    - Basis-Werkzeuge: [Vielfaltskalender](https://www.charta-der-vielfalt.de/aktivitaeten/publikationen-und-handlungsmassnahmen/) ⭐
-    - Inklusive Formulierungen: ACM [Alternatives List for Charged Terminology in the Computing Profession](https://www.acm.org/diversity-inclusion/words-matter)
-  - Privilegien
-    - Publikation [White Privilege: Unpacking the Invisible Knapsack](https://www.ntlegislativeassembly.ca/sites/default/files/legacy/td_135-192.pdf) ⭐ (Original von 1989) von [Peggy McIntosh](https://en.wikipedia.org/wiki/Peggy_McIntosh)
-    - Deutscher Artikel [Wie privilegiert bin ich eigentlich?](https://www.niemblog.de/bewusstsein-fuer-privileg/) ⭐ sowie [Hilfe, ich bin privilegiert! Was nun?](https://www.niemblog.de/privilegien-abbauen/)
-      - Weitere englische Selbsttests: [White Privilege](https://www.leicspart.nhs.uk/wp-content/uploads/2021/05/Check-yourself-the-White-Privilege-Test.pdf) Test, [How priviledged Are You?](https://www.buzzfeed.com/regajha/how-privileged-are-you), [White Fragility](https://thebridgesweburn.com/white-fragility-self-test/) Self-Test, …
-    - Gehalt: [WID Income Comparator](https://wid.world/income-comparator/)
-      - DE: [Wie wohlhabend bin ich im Vergleich](https://www.iwkoeln.de/fileadmin/user_upload/HTML/2022/Einkommensrechner/index.html)
-      - DE: Einkommensgrenzen nach Haushaltstyp als [Grenzen der Mittelschicht](https://www.arm-und-reich.de/verteilung/mittelschicht/) (zzgl. [Wahrnehmungsverzerrung in DE u. in USA](https://www.arm-und-reich.de/verteilung/wahrnehmung/))
-  - Weiterführende Quellen: [Charta der Vielfalt – Links](https://www.charta-der-vielfalt.de/ueber-uns/mediathek/weiterfuehrende-links/), [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity)
+	- (= Anti-Sexismus, Anti-Chauvinismus, Anti-Rassismus)
+	- Verschiedene gesellschaftlich wirksame Differenzierungskategorien: **[Power Flower](https://zfl-lernen.de/wp-content/uploads/2020/06/8i-Power-Flower-5.png)** \[[PDF](https://www.mangoes-and-bullets.org/wp-content/uploads/2015/02/8i-Power-Flower.pdf)\] ⚠️
+		- Innere Blütenblätter: (in DE) strukturell privilegiertere Gruppen
+		- Äußere Blütenblätter: (in DE) tendenziell deprivilegierte Gruppen
+	- Geschlechtersensible Formulierungen: OTH **[Fair formuliert](https://www.oth-aw.de/files/oth-aw/Services/Schreibwerkstatt/Leitfaden_Fair_Formuliert.pdf)** | **[geschickt gendern](https://geschicktgendern.de/)** ⭐
+	- [Praxisleitfaden](https://www.charta-der-vielfalt.de/fileadmin/user_upload/Studien_Publikationen_Charta/Charta_der_Vielfalt_-_KMU-Brosch%C3%BCre_2020.pdf) für Diversity in der Arbeitswelt ⭐
+		- Maßnahmenkataloge: [Großunternehmen](https://www.charta-der-vielfalt.de/fileadmin/user_upload/Studien_Publikationen_Charta/Ma%C3%9Fnahmen_Diversity_Management_Gro%C3%9Funternehmen.pdf), [KMUs](https://www.charta-der-vielfalt.de/fuer-organisationen/diversity-management/kleine-und-mittelstaendische-unternehmen/), [Öffentlicher Sektor](https://www.charta-der-vielfalt.de/fuer-organisationen/diversity-management/oeffentlicher-sektor/), [Vereine](https://www.charta-der-vielfalt.de/fuer-organisationen/diversity-management/vereine-verbaende-und-stiftungen/)
+		- Basis-Werkzeuge: [Vielfaltskalender](https://www.charta-der-vielfalt.de/aktivitaeten/publikationen-und-handlungsmassnahmen/) ⭐
+		- Inklusive Formulierungen: ACM [Alternatives List for Charged Terminology in the Computing Profession](https://www.acm.org/diversity-inclusion/words-matter)
+	- Privilegien
+		- Publikation [White Privilege: Unpacking the Invisible Knapsack](https://www.ntlegislativeassembly.ca/sites/default/files/legacy/td_135-192.pdf) ⭐ (Original von 1989) von [Peggy McIntosh](https://en.wikipedia.org/wiki/Peggy_McIntosh)
+		- Deutscher Artikel [Wie privilegiert bin ich eigentlich?](https://www.niemblog.de/bewusstsein-fuer-privileg/) ⭐ sowie [Hilfe, ich bin privilegiert! Was nun?](https://www.niemblog.de/privilegien-abbauen/)
+			- Weitere englische Selbsttests: [White Privilege](https://www.leicspart.nhs.uk/wp-content/uploads/2021/05/Check-yourself-the-White-Privilege-Test.pdf) Test, [How priviledged Are You?](https://www.buzzfeed.com/regajha/how-privileged-are-you), [White Fragility](https://thebridgesweburn.com/white-fragility-self-test/) Self-Test, …
+		- Gehalt: [WID Income Comparator](https://wid.world/income-comparator/)
+			- DE: [Wie wohlhabend bin ich im Vergleich](https://www.iwkoeln.de/fileadmin/user_upload/HTML/2022/Einkommensrechner/index.html)
+			- DE: Einkommensgrenzen nach Haushaltstyp als [Grenzen der Mittelschicht](https://www.arm-und-reich.de/verteilung/mittelschicht/) (zzgl. [Wahrnehmungsverzerrung in DE u. in USA](https://www.arm-und-reich.de/verteilung/wahrnehmung/))
+	- Weiterführende Quellen: [Charta der Vielfalt – Links](https://www.charta-der-vielfalt.de/ueber-uns/mediathek/weiterfuehrende-links/), [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity)
 
 ## China-Aufenthalt
 
 \[bspw. im Rahmen einer chinesischen Gastprofessur\]
 
-  - iPhone ist besser als ein Android (Stand 2025, u.a. wegen Sperrungen)
-  - Chinesische Apps
-    - (Anmerkung: Suche nach App mit lateinischen Buchstaben möglich, Apps selbst i.d.R. mit chinesischen Symbolen im Logo und ggf. auch in der Betitelung)
-    - **WeChat**: wie WhatsApp, aber gesellschaftlich viel integrierter, bspw. auch zum Bezahlen auf der Straße, bspw. verknüpft mit AliPay
-    - **AliPay**: wie PayPal, aber gesellschaftlich viel integrierter
-    - **Didi**: Taxi App
-    - **Gaode**: wie Google Maps, aber in chinesischen Städten viel präziser
-    - **Baidu**: wie Google Search
-    - **JD**: wie Mediamarkt
-    - **Taobao**: wie Amazon
-    - **12306**: wie die Bahn (wirklich gute App!)
-    - **Dianping**: wie TripAdvisor, um Restaurants zu finden und zu reservieren
-    - **China Mobile**: falls man von China Mobile die SIM-Karte hat
-  - Internationale Apps:
-    - **WISE**: ggf. für internationalen Geldtransfer
-    - **Trip.com**: ggf. für Flugbuchungen (oder über Airlines direkt)
-  - Stromadapter: [**Typ I** (dreipolig)](https://www.amazon.de/s?k=stromadapter+china)
-    - bspw. von Tessan oder Brennenstuhl, bzw. auch die sehr teuren schweizer SKROSS
-    - auch als australisch/chinesisches Stecksystem bezeichnet
+	- iPhone ist besser als ein Android (Stand 2025, u.a. wegen Sperrungen)
+	- Chinesische Apps
+		- (Anmerkung: Suche nach App mit lateinischen Buchstaben möglich, Apps selbst i.d.R. mit chinesischen Symbolen im Logo und ggf. auch in der Betitelung)
+		- **WeChat**: wie WhatsApp, aber gesellschaftlich viel integrierter, bspw. auch zum Bezahlen auf der Straße, bspw. verknüpft mit AliPay
+		- **AliPay**: wie PayPal, aber gesellschaftlich viel integrierter
+		- **Didi**: Taxi App
+		- **Gaode**: wie Google Maps, aber in chinesischen Städten viel präziser
+		- **Baidu**: wie Google Search
+		- **JD**: wie Mediamarkt
+		- **Taobao**: wie Amazon
+		- **12306**: wie die Bahn (wirklich gute App!)
+		- **Dianping**: wie TripAdvisor, um Restaurants zu finden und zu reservieren
+		- **China Mobile**: falls man von China Mobile die SIM-Karte hat
+	- Internationale Apps:
+		- **WISE**: ggf. für internationalen Geldtransfer
+		- **Trip.com**: ggf. für Flugbuchungen (oder über Airlines direkt)
+	- Stromadapter: [**Typ I** (dreipolig)](https://www.amazon.de/s?k=stromadapter+china)
+		- bspw. von Tessan oder Brennenstuhl, bzw. auch die sehr teuren schweizer SKROSS
+		- auch als australisch/chinesisches Stecksystem bezeichnet
 
 ## Informatik-Nachrichten
 
@@ -2114,9 +2120,9 @@ Internet Ikonen:
 - Unternehmenskultur bzw. Management Training: **[intrinsify](https://intrinsify.de/)** von Lars Vollmer und Mark Poppenborg, **[Chris Croft](https://www.chriscroft.co.uk/)**
 - Venture Capitalists: **[Andreessen Horowitz](https://a16z.com/news-content/)**, …
 - Informatik-Trends:
-  - Business [**Gartner** Top Strategic Technology Trends](https://www.gartner.com/en/information-technology/insights/top-technology-trends) (Gartner kostenlos per Google [Image Search](https://www.google.com/search?q=Gartner+Top+Strategic+Technology+Trends&tbm=isch)), [ToughtWorks **Technology Radar**](https://www.thoughtworks.com/radar), [**InfoQ** Trends Report](https://www.infoq.com/infoq-trends-report/)
-  - Wissenschaft: [GI **Grand Challenges** der Informatik](https://gi.de/grand-challenges), [**Fraunhofer** Institute for Technological Trend Analysis (**INT**)](https://www.int.fraunhofer.de), [Forschungs- und Technologiepolitik **Bayern**](https://www.stmwi.bayern.de/wirtschaft/forschung-technologie/) (zzgl. [bayern-innovativ](https://www.bayern-innovativ.de/))
-  - Pädagogik: [Trendscouting der PH Bern](https://ttim.phbern.ch/blog-2/)
+	- Business [**Gartner** Top Strategic Technology Trends](https://www.gartner.com/en/information-technology/insights/top-technology-trends) (Gartner kostenlos per Google [Image Search](https://www.google.com/search?q=Gartner+Top+Strategic+Technology+Trends&tbm=isch)), [ToughtWorks **Technology Radar**](https://www.thoughtworks.com/radar), [**InfoQ** Trends Report](https://www.infoq.com/infoq-trends-report/)
+	- Wissenschaft: [GI **Grand Challenges** der Informatik](https://gi.de/grand-challenges), [**Fraunhofer** Institute for Technological Trend Analysis (**INT**)](https://www.int.fraunhofer.de), [Forschungs- und Technologiepolitik **Bayern**](https://www.stmwi.bayern.de/wirtschaft/forschung-technologie/) (zzgl. [bayern-innovativ](https://www.bayern-innovativ.de/))
+	- Pädagogik: [Trendscouting der PH Bern](https://ttim.phbern.ch/blog-2/)
 - Hochschule: [DUZ-Magazin](https://www.duz.de/service/newsletter/), [Zeit Campus](https://www.zeit.de/campus/index) [Unicum](https://www.unicum.de/), [aud!max](https://www.audimax.de/)
 - Gesellschaft: [Cory Doctorow](https://mail.flarn.com/mailman/listinfo/plura-list/) (= plura-list)
 
@@ -2140,50 +2146,50 @@ Podcasts:
 Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 
 - Bösartige KIs:
-  - TRON (Master Control Program)
-  - 2001: A Space Odyssey (HAL)
-  - Battlestar Galactica (Cylons)
-  - Alien (Android Ash by Weyland-Yutani Corporation)
-  - The Terminator (SkyNet by Cyberdyne Systems)
-  - The Matrix (Agent Smith)
-  - I, Robot (VIKI by U.S. Robotics)
-  - Resident Evil (Red Queen by Umbrella Corporation)
-  - Ex Machina (Eva by Blue Book)
-  - Transcendence (Will by A.I. laboratories)
-  - Superintelligence (A.I.)
-  - Westworld (Rehoboam)
+	- TRON (Master Control Program)
+	- 2001: A Space Odyssey (HAL)
+	- Battlestar Galactica (Cylons)
+	- Alien (Android Ash by Weyland-Yutani Corporation)
+	- The Terminator (SkyNet by Cyberdyne Systems)
+	- The Matrix (Agent Smith)
+	- I, Robot (VIKI by U.S. Robotics)
+	- Resident Evil (Red Queen by Umbrella Corporation)
+	- Ex Machina (Eva by Blue Book)
+	- Transcendence (Will by A.I. laboratories)
+	- Superintelligence (A.I.)
+	- Westworld (Rehoboam)
 - Gutartige KIs:
-  - Wall-E
-  - Star Wars (R2D2 by Industrial Automaton, C-3PO by Cybot Galactica)
-  - Star Trek (Data by Dr. Noonien Soong)
-  - Knight Rider (K.I.T.T. by Knight Industries)
-  - Transformers (Optimus Prime, Bumblebee)
-  - Blade Runner (Nexus-6 replicant Roy Batty by Tyrell Corporation)
-  - A.I. Artificial Intelligence (David)
-  - Real Humans (Bea)
-  - Her (Samantha)
-  - Finch (Jeff)
-  - Altered Carbon (Poe = The Raven Hotel)
+	- Wall-E
+	- Star Wars (R2D2 by Industrial Automaton, C-3PO by Cybot Galactica)
+	- Star Trek (Data by Dr. Noonien Soong)
+	- Knight Rider (K.I.T.T. by Knight Industries)
+	- Transformers (Optimus Prime, Bumblebee)
+	- Blade Runner (Nexus-6 replicant Roy Batty by Tyrell Corporation)
+	- A.I. Artificial Intelligence (David)
+	- Real Humans (Bea)
+	- Her (Samantha)
+	- Finch (Jeff)
+	- Altered Carbon (Poe = The Raven Hotel)
 
 ## Humor
 
 - Informatiker-Humor
-  - [Aprilscherz **RFCs**](https://www.cs.hmc.edu/~awooster/joke_rfcs.html)
-  - Mozilla-Antrag: [Add Honest Achmed's root certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
+	- [Aprilscherz **RFCs**](https://www.cs.hmc.edu/~awooster/joke_rfcs.html)
+	- Mozilla-Antrag: [Add Honest Achmed's root certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
 - Office-Kultur
-  - TV-Serie **[Better Off Ted](https://www.imdb.com/title/tt1235547/)** (2009) ⭐
-  - Videos von **[Mirko Seifert](https://www.youtube.com/@DevBoost)** bei [DevBoost](https://devboost.com/blog) ⭐
-  - Videos **[Let's Skip the Bla](https://www.tiktok.com/@as_dialoggroup)** mit der Figur des Dr. Bauer aka [IT-Wikinger](https://shop.as-dialoggroup.de/#!/) ⭐
-  - TV-Serie **[Office Space](https://www.imdb.com/title/tt0151804/)** (1999)
-  - TV-Serie **[The IT Crowd](https://www.imdb.com/title/tt0151804/)** (2006)
+	- TV-Serie **[Better Off Ted](https://www.imdb.com/title/tt1235547/)** (2009) ⭐
+	- Videos von **[Mirko Seifert](https://www.youtube.com/@DevBoost)** bei [DevBoost](https://devboost.com/blog) ⭐
+	- Videos **[Let's Skip the Bla](https://www.tiktok.com/@as_dialoggroup)** mit der Figur des Dr. Bauer aka [IT-Wikinger](https://shop.as-dialoggroup.de/#!/) ⭐
+	- TV-Serie **[Office Space](https://www.imdb.com/title/tt0151804/)** (1999)
+	- TV-Serie **[The IT Crowd](https://www.imdb.com/title/tt0151804/)** (2006)
 - Comics:
-  - **[xkcd](https://xkcd.com)**
-  - **[Dilbert](https://dilbert.com)**
-  - **[MonkeyUser](https://www.monkeyuser.com/)**
-  - **[PhD Comics](https://phdcomics.com/comics/)**
+	- **[xkcd](https://xkcd.com)**
+	- **[Dilbert](https://dilbert.com)**
+	- **[MonkeyUser](https://www.monkeyuser.com/)**
+	- **[PhD Comics](https://phdcomics.com/comics/)**
 - Hörspiele
-  - **[Professor van Dusen](https://www.hoerspielundfeature.de/van-dusen-krimis-100.html)** von Michael Koser ⭐
-  - **[Jonas - Der letzte Detektiv](http://pirg.bplaced.net/pvd/dld/)** von Michael Koser ⭐ / [Jonas. Nur Jonas. Und Sam.](https://www.jonas-nur-jonas-und-sam.de/) von Kanzlei Dr. Bahr
+	- **[Professor van Dusen](https://www.hoerspielundfeature.de/van-dusen-krimis-100.html)** von Michael Koser ⭐
+	- **[Jonas - Der letzte Detektiv](http://pirg.bplaced.net/pvd/dld/)** von Michael Koser ⭐ / [Jonas. Nur Jonas. Und Sam.](https://www.jonas-nur-jonas-und-sam.de/) von Kanzlei Dr. Bahr
 
 ## Kultur
 
@@ -2195,26 +2201,26 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 ## State Actors
 
 - Einstieg
-  - Wikipedia: [Medienmanipulation](https://de.wikipedia.org/wiki/Medienmanipulation))
-  - Wikipedia: [Techniken der Propaganda und Manipulation](https://de.wikipedia.org/wiki/Techniken_der_Propaganda_und_Manipulation)
+	- Wikipedia: [Medienmanipulation](https://de.wikipedia.org/wiki/Medienmanipulation))
+	- Wikipedia: [Techniken der Propaganda und Manipulation](https://de.wikipedia.org/wiki/Techniken_der_Propaganda_und_Manipulation)
 - Int'l
-  - 1990: [Operation Sundevil and the Birth of the EFF](https://en.wikipedia.org/wiki/Operation_Sundevil) ([MIT transcript](https://www.mit.edu/hacker/part3.html))
-  - 2010: [Wikileaks](https://wikileaks.org/) / The case of [Julian Assange](https://www.amnesty.de/julian-assange-wikileaks-gruender-in-freiheit)
-  - 2011: [Revealed: US spy operation that manipulates social media](https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks)
-  - 2013: [Global Surveillance Disclosures](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>) von [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
-  - 2016: [Panama Papers](https://www.icij.org/investigations/panama-papers/)
-  - 2021: [Pandora Papers](https://www.icij.org/investigations/pandora-papers/)
-  - 2021: [Israeli Pegasus Project](https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus)
-  - 2023: [Latin America Narco Files](https://www.occrp.org/en/project/narcofiles-the-new-criminal-order)
+	- 1990: [Operation Sundevil and the Birth of the EFF](https://en.wikipedia.org/wiki/Operation_Sundevil) ([MIT transcript](https://www.mit.edu/hacker/part3.html))
+	- 2010: [Wikileaks](https://wikileaks.org/) / The case of [Julian Assange](https://www.amnesty.de/julian-assange-wikileaks-gruender-in-freiheit)
+	- 2011: [Revealed: US spy operation that manipulates social media](https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks)
+	- 2013: [Global Surveillance Disclosures](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>) von [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
+	- 2016: [Panama Papers](https://www.icij.org/investigations/panama-papers/)
+	- 2021: [Pandora Papers](https://www.icij.org/investigations/pandora-papers/)
+	- 2021: [Israeli Pegasus Project](https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus)
+	- 2023: [Latin America Narco Files](https://www.occrp.org/en/project/narcofiles-the-new-criminal-order)
 - EU:
-  - 2014: [Die Anstalt, ZDF, Folge 3 vom 29.04.2014](https://www.youtube.com/watch?v=VXjq9szanXA&t=2170) (Ukraine-Krise, Annexion der Krim)
-  - 2022: [Suisse Secrets](https://www.sueddeutsche.de/thema/Suisse_Secrets)
-  - 2023: [Cyprus Confidential](https://www.icij.org/investigations/cyprus-confidential/)
+	- 2014: [Die Anstalt, ZDF, Folge 3 vom 29.04.2014](https://www.youtube.com/watch?v=VXjq9szanXA&t=2170) (Ukraine-Krise, Annexion der Krim)
+	- 2022: [Suisse Secrets](https://www.sueddeutsche.de/thema/Suisse_Secrets)
+	- 2023: [Cyprus Confidential](https://www.icij.org/investigations/cyprus-confidential/)
 - DE:
-  - 1989: [Karl Koch](https://www.spiegel.de/geschichte/karl-koch-alias-hagbard-celine-tod-eines-hackers-a-1268203.html)
-  - 1998: [Tron](https://de.wikipedia.org/wiki/Tron_(Hacker))
-  - 2013: [USA spähten Angela Merkels Handy mit Hilfe von Dänemark aus](https://www.focus.de/politik/neue-hintergruende-zum-nsa-skandal-vertrauensbruch-unter-verbuendeten-usa-spaehten-angela-merkels-handy-mit-hilfe-von-daenemark-aus_id_13346306.html)
-  - 2013: Dissertation [Meinungsmacht](https://www.amazon.de/dp/3869620706) von [Uwe Krüger](https://de.wikipedia.org/wiki/Uwe_Krüger): Der Einfluss von Eliten auf Leitmedien und Alpha-Journalisten
+	- 1989: [Karl Koch](https://www.spiegel.de/geschichte/karl-koch-alias-hagbard-celine-tod-eines-hackers-a-1268203.html)
+	- 1998: [Tron](https://de.wikipedia.org/wiki/Tron_(Hacker))
+	- 2013: [USA spähten Angela Merkels Handy mit Hilfe von Dänemark aus](https://www.focus.de/politik/neue-hintergruende-zum-nsa-skandal-vertrauensbruch-unter-verbuendeten-usa-spaehten-angela-merkels-handy-mit-hilfe-von-daenemark-aus_id_13346306.html)
+	- 2013: Dissertation [Meinungsmacht](https://www.amazon.de/dp/3869620706) von [Uwe Krüger](https://de.wikipedia.org/wiki/Uwe_Krüger): Der Einfluss von Eliten auf Leitmedien und Alpha-Journalisten
 
 
 ## KI im Alltag
@@ -2224,15 +2230,15 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 - E-Mail Spam-Filter
 - Musikstreaming (Musikauswahl)
 - Sprachassistenten
-  - Alexa, Siri, Google Assistant, …
+	- Alexa, Siri, Google Assistant, …
 - Smart Home
-  - Bspw. Beleuchtung, Temperatur, Rollläden, Kaffee kochen?, …
+	- Bspw. Beleuchtung, Temperatur, Rollläden, Kaffee kochen?, …
 - Sprachübersetzung
-  - Google Translate, DeepL, …
-  - Bspw. im Urlaub oder für Betriebsanleitungen
+	- Google Translate, DeepL, …
+	- Bspw. im Urlaub oder für Betriebsanleitungen
 - Recommender: Facebook-Feeds / Twitter-Feeds / News-Feeds / YouTube-Feeds / …
 - Bilderstellung/-erkennung
-  - Bspw. Google Lens, ImageAnalysisToolkit (IAT), PictureThis Pflanzen, …
+	- Bspw. Google Lens, ImageAnalysisToolkit (IAT), PictureThis Pflanzen, …
 - Assistiertes Fahren / teilautonomes Fahren
 - Social Media Hate-Filter
 - …
@@ -2247,17 +2253,17 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 
 - Artikel über **[Technical Interviews](https://learntocodewith.me/posts/technical-interview/)**
 - Hiring Guides + Interview Questions: [18 **Coding Questions** with Solutions](https://www.designgurus.io/blog/Amazon-Top-Coding-Interview-Questions) | **[Toptal Resources](https://www.toptal.com/resources)** | **[Awesome Interviews Questions](https://github.com/DopplerHQ/awesome-interview-questions)** | [**InterviewBit** Technical Interview Questions](https://www.interviewbit.com/technical-interview-questions/)
-  - Hintergrund: [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/) von Coding Horror, mit weiterführenden Links (u.a. [Imran On Tech](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/): „I've discovered that people who struggle to code don't just struggle on big problems, or even smallish problems (i.e. write a implementation of a linked list). They struggle with tiny problems.“)
+	- Hintergrund: [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/) von Coding Horror, mit weiterführenden Links (u.a. [Imran On Tech](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/): „I've discovered that people who struggle to code don't just struggle on big problems, or even smallish problems (i.e. write a implementation of a linked list). They struggle with tiny problems.“)
 - Klassiker: **[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)** (Buch)
 - Google Interview Prep: **[Tech Dev Guide](https://techdevguide.withgoogle.com/paths/interview/)**
 - Coding-Practice
-  - Data Science: **[DataScratch](https://www.stratascratch.com/)** (SQL und Python), [SQLPad](https://sqlpad.io/playground/)
-  - Algorithmik: **[Codewars](https://www.codewars.com/)**, [CodinGame](https://www.codingame.com/start), [LeetCode](https://leetcode.com/), [SPOJ](https://www.spoj.com/), [HackerRank](https://www.hackerrank.com/), [Project Euler](https://projecteuler.net/ "Project Euler Homepage"), [GeeksforGeeks](https://www.geeksforgeeks.org/ "GeeksforGeeks Homepage"), [CoderByte](https://coderbyte.com/ "Coderbyte Homepage"), [AlgoMonster](https://algo.monster/), [Interview Cake](https://www.interviewcake.com/table-of-contents), uvm.
-  - Über Mitarbeit an Open Source Projekten (ein Issue pro Tag): **[CodeTriage](https://www.codetriage.com/)**
+	- Data Science: **[DataScratch](https://www.stratascratch.com/)** (SQL und Python), [SQLPad](https://sqlpad.io/playground/)
+	- Algorithmik: **[Codewars](https://www.codewars.com/)**, [CodinGame](https://www.codingame.com/start), [LeetCode](https://leetcode.com/), [SPOJ](https://www.spoj.com/), [HackerRank](https://www.hackerrank.com/), [Project Euler](https://projecteuler.net/ "Project Euler Homepage"), [GeeksforGeeks](https://www.geeksforgeeks.org/ "GeeksforGeeks Homepage"), [CoderByte](https://coderbyte.com/ "Coderbyte Homepage"), [AlgoMonster](https://algo.monster/), [Interview Cake](https://www.interviewcake.com/table-of-contents), uvm.
+	- Über Mitarbeit an Open Source Projekten (ein Issue pro Tag): **[CodeTriage](https://www.codetriage.com/)**
 - Kostenlose Zertifikate: freeCodeCamp [1000+ **Free Developer Certifications**](https://www.freecodecamp.org/news/free-certificates/)
 - Arbeitgeber-Übersichtslisten?
-  - Glassdoor: [Best Places to Work 2023 (USA; Top Large)](https://www.glassdoor.com/Award/Best-Places-to-Work-LST_KQ0,19.htm) bzw. [Beste Arbeitgeber 2023 (Germany)](https://www.glassdoor.com/Award/Beste-Arbeitgeber-Deutschland-LST_KQ0,29.htm)
-  - Kununu: [Einstiegsseite **Rankings**](https://news.kununu.com/ranking/) bzw. in Kooperation mit der ZEIT auch [Beste Arbeitgeber Deutschlands 2022](https://news.kununu.com/beste-arbeitgeber-deutschland/) („[Most Wanted Employer](https://www.zeit.de/angebote/most-wanted-employer-2022/index)“)
+	- Glassdoor: [Best Places to Work 2023 (USA; Top Large)](https://www.glassdoor.com/Award/Best-Places-to-Work-LST_KQ0,19.htm) bzw. [Beste Arbeitgeber 2023 (Germany)](https://www.glassdoor.com/Award/Beste-Arbeitgeber-Deutschland-LST_KQ0,29.htm)
+	- Kununu: [Einstiegsseite **Rankings**](https://news.kununu.com/ranking/) bzw. in Kooperation mit der ZEIT auch [Beste Arbeitgeber Deutschlands 2022](https://news.kununu.com/beste-arbeitgeber-deutschland/) („[Most Wanted Employer](https://www.zeit.de/angebote/most-wanted-employer-2022/index)“)
 
 ## Appendix: Course Recommendations & Repos
 
