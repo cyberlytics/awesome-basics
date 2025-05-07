@@ -405,14 +405,8 @@ Werkzeuge:
 
 ### Bachelor Informatik/KI
 
-- Philosophie, Wissenschaftstheorie und Logik
-	- MOOC-Kurse:
-		- Standford: [Language, Proof and Logic](https://www.edx.org/learn/logic/stanford-university-language-proof-and-logic) und [Semantics of First-Order Logic
-](https://www.edx.org/learn/logic/stanford-university-semantics-of-first-order-logic)
-		- MIT: [Logic I & II](https://www.google.com/search?q=MIT+OpenCourseWare+Logic+Philosophy)
-	- [Logische Fehlschlüsse](https://en.wikipedia.org/wiki/The_Demon-Haunted_World#Logical_fallacies) (engl. Logical Fallacies) [Wiki](https://de.wikipedia.org/wiki/Typen_von_Argumenten#Fehlschluss-_und_andere_problematische_Argumente)
+- Philosophie und Wissenschaftstheorie
 	- (€:) Buch **[Enzyklopädie Philosophie und Wissenschaftstheorie](https://www.amazon.de/dp/3476020126/)** (2004), genannt „Der Mittelstraß“ ⭐
-	- (€:) Buch [A New Introduction to Modal Logic](https://www.amazon.de/dp/0415126002/) (1996) von Hughes & Cresswell
 - Mathematik: **[OMB+](https://www.ombplus.de/)** (wie oben)
 	- (€:) Buch [**Mathematik für Informatiker** (Band 1) - Diskrete Mathematik und Lineare Algebra](https://www.amazon.de/dp/3642379710/) (2013) und [(Band 2) - Analysis und Statistik](https://www.amazon.de/dp/3642542735/) (2014) von Teschl & Teschl
 	- Statistik:
@@ -420,6 +414,36 @@ Werkzeuge:
 		- William Chen's **[Probability Cheatsheet 2.0](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)**
 	- Weitere Quellen: freeCodeCamp [120 Free Online Math Courses from the World’s Top Universities](https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/) | [**WolframAlpha** University Free Interactive Courses](https://www.wolfram.com/wolfram-u/courses/catalog/?f_format%5B%5D=interactive-course&q=&f_button=filters)
 		- Wolfram [**Mathematica** Webinare](https://www.additive-net.de/de/training/webinare/wolfram)
+- Logik:
+	- Grundlegende MOOC-Kurse:
+		- Stanford: [Language, Proof and Logic](https://www.edx.org/learn/logic/stanford-university-language-proof-and-logic)
+		- MIT: [Logic I & II](https://www.google.com/search?q=MIT+OpenCourseWare+Logic+Philosophy)
+	- [Logische Fehlschlüsse](https://en.wikipedia.org/wiki/The_Demon-Haunted_World#Logical_fallacies) (engl. Logical Fallacies) [Wiki](https://de.wikipedia.org/wiki/Typen_von_Argumenten#Fehlschluss-_und_andere_problematische_Argumente)
+	- Modallogik
+		- (€:) Buch [A New Introduction to Modal Logic](https://www.amazon.de/dp/0415126002/) (1996) von Hughes & Cresswell
+	- Prädikatenlogik erster Stufe/Ordnung:
+		- [Semantics of First-Order Logic](https://www.edx.org/learn/logic/stanford-university-semantics-of-first-order-logic)
+	- Logik höherer Stufe:
+		- [Introduction To Higher Order Categorical Logic](https://web.archive.org/web/20070705125337/http://www.andrew.cmu.edu/user/cebrown/notes/lambekscott.html)
+- Logikprogrammierung und Maschinengestütztes Beweisen
+	- Logikprogrammierung: Prolog
+		- Kostenloses [SWI-Prolog](https://www.swi-prolog.org/)
+		- Weiterführende Referenz: [Awesome Prolog](https://github.com/klaudiosinani/awesome-prolog)
+	- Typisiertes [Lambda-Kalkül](https://de.wikipedia.org/wiki/Lambda-Kalkül)
+		- vgl. (€) Buch **[Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)** (SICP) von Abelson & Sussman
+		- vgl. [Dependent Type Theory](https://lean-lang.org/theorem_proving_in_lean4/dependent_type_theory.html)
+	- Maschinengestütztes Beweisen
+		- Hinleitung: [Wikipedia](https://de.wikipedia.org/wiki/Maschinengestütztes_Beweisen)
+		- Vorlesungsskript [The Hitchhiker's Guide to Logical Verification](https://github.com/blanchette/interactive_theorem_proving_2024/blob/main/hitchhikers_guide_2024_lmu_desktop.pdf) der LMU
+		- Online-Buch [Theorem Proving in Lean 4](https://lean-lang.org/theorem_proving_in_lean4/introduction.html)
+		- Weitere relevante [Vorlesungen](https://leanprover-community.github.io/teaching/courses.html)
+		- Übersicht [SAT/SMT Logiken](https://smt-lib.org/logics.shtml)
+	- Automatische Theorembeweiser: derzeit [LEAN](https://github.com/leanprover/lean4) und früher bspw. auch [Z3](https://github.com/Z3Prover/z3) ([Tutorials](https://github.com/Z3Prover/z3/wiki#background))
+		- LEAN-Tutorials: Learning Games per [Lean Game Server](https://adam.math.hhu.de/)
+		- [LEAN-Entwicklerteam](https://lean-fro.org/team/) (u.a. [Leo de Moura](https://leodemoura.github.io/) bei AWS, der auch maßgeblich an Z3 bei Microsoft beteiligt war)
+		- Nennenswerte LEAN-Anwender: [Terence Tao](https://www.google.com/search?q=terence+tao)
+		- LEAN-Components-off-the-Shelf: [LEAN Mathlib](https://leanprover-community.github.io/mathlib4_docs/Mathlib.html)
+		- LEAN-basierte Applikationen: [AWS Cedar](https://www.cedarpolicy.com/) und [SampCert](https://github.com/leanprover/SampCert)
 - Theoretische Informatik: **[FLACI](https://flaci.com/)**
 	- Reguläre Ausdrücke ⭐: [**RegEx**: Einführung in reguläre Ausdrücke](https://www.webmasterpro.de/coding/einfuehrung-in-regular-expressions/) | freeCodeCamp [The **Regular Expressions Book** – RegEx for JavaScript Developers](https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/)
 		- Minimaleinstieg: Video [Regex in 100 seconds](https://www.youtube.com/watch?v=sXQxhojSdZM)
@@ -454,6 +478,7 @@ Werkzeuge:
 	- Abstrakte Datentypen:
 		- [B. Liskov. **The Power of Abstraction**. OOPSLA Keynote. 2013. (Hosted by InfoQ; with Video)](https://www.infoq.com/presentations/programming-abstraction-liskov/)
 		- [John V. Guttag (Video): **Abstrakte Datentypen**](https://www.software-pioneers.com/videos/john-v-guttag)
+		- [Dependent Type Theory](https://lean-lang.org/theorem_proving_in_lean4/dependent_type_theory.html)
 	- roadmap.sh [Computer Science Roadmap](https://roadmap.sh/computer-science)
 	- Visualisierungen von AuD: [visualgo.net](https://visualgo.net/)
 	- **Code-Referenzen** für Data Structures and Algorithms:
@@ -975,7 +1000,9 @@ Werkzeuge:
 	- Text-zu-Bild: [The Ultimate **Stable Diffusion Prompt Guide**](https://prompthero.com/stable-diffusion-prompt-guide) von PromptHero | [Prompting **Adobe Firefly**](https://torybarber.com/prompting-adobe-firefly/) (2023) von Tory Barber
 		- Webartikel [How to Use ChatGPT to Write Prompts & Prompt Templates for Adobe Firefly & Midjourney](https://www.downloadsource.net/how-to-use-chatgpt-to-write-prompts-prompt-templates-for-adobe-firefly-midjourney/n/22511/) (2023) von Jascha Luca | analog [Adobe Firefly prompt generator](https://flowgpt.com/prompt/UjVmU4bSLor1cpBxx5veq) Vorlage für GPT
 	- Weiterführende Quellen: [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | reddit-Liste [Useful Prompt Engineering tools and resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) | lablab [AI Tutorials](https://lablab.ai/t) | [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
-- (AI:) Symbolische Künstliche Intelligenz
+- (AI:) Symbolische Künstliche Intelligenz (Klassische KI)
+	- vgl. Abschnitte oben "Logik" sowie "Logikprogrammierung und Maschinengestütztes Beweisen"
+	- vgl. Abschnitt oben "Semantic Web / Wissensrepräsentation" (u.a. Ontologien, Knowledge Graphs)
 	- Umfassende Referenz: **[AI-Vorlesungsskript](https://kwarc.info/teaching/AI/notes.pdf)** von Prof. Michael Kohlhase (FAU)
 - Robotik
 	- Umfassende Referenzen:
@@ -1546,10 +1573,12 @@ Internet Ikonen:
 
 \[ Relevant sind besonders die obigen Abschnitte aus einem Master Informatik/KI zu **In-Memory-Computing**, **Implementierung von Datenbanksystemen**, **Nebenläufige Programmierung** und **Verteilte Systeme**. Nicht zu jedem fortgeschritten Thema sind kostenlose Lernmaterialien oder Bücher verfügbar. Entsprechend erfolgen hier nur selektive und unvollständige Ergänzungen zu meiner obigen Basisliste **B.Sc.: Big Data und Cloud-Computing für KI**. Meinen Abschlussarbeitern und Abschlussarbeiterinnen stelle ich daher zusätzlich einen Foliensatz „Notbuch: Big Data und Cloud-Computing für KI“ zur Verfügung. \]
 
+#### Big Data
+
 - Datenschutz
 	- Aus dem Umfeld TensorFlow Privacy: Paper [Enabling Fast **Differentially Private** SGD via Just-in-Time Compilation and Vectorization](https://arxiv.org/abs/2010.09063) (2020) von Subramani et al.
 	- Weiterführende Quellen: [Awesome GDPR](https://github.com/bakke92/awesome-gdpr) | [Awesome Privacy](https://github.com/pluja/awesome-privacy)
-- Big Data
+- Big Data für Fortgeschrittene
 	- [**Big Data** Disclaimer](https://motherduck.com/blog/big-data-is-dead/) (2023) von Jordan Tigani; Kernbotschaft: die meisten Unternehmen haben kein Big Data Problem (höchstens ein Smart Data oder Data Science Problem); Tigani hat mit den meisten Beobachtungen Recht (aber Obacht, er will damit auch DuckDB verkaufen)
 	- Skalierbarkeit: vgl. Abschnitt Verteilte Systeme, u. a. Video [Mind Your State for Your State of Mind](https://www.youtube.com/watch?v=V8TcEWdx2Q8) by Pat Helland ⭐
 	- Datenarchitekturen für evolutionäre und agile Informationssysteme
@@ -1567,6 +1596,9 @@ Internet Ikonen:
 	- Exasol: [A Drill-Down Into Exasol](https://www.exasol.com/resource/a-drill-down-into-exasol-2/) (2016) von Exasol
 	- SnowFlake: [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/10.1145/2882903.2903741) (2016) von Snowflake, [Design Principles of Snowflake](https://blog.det.life/i-spent-another-6-hours-understanding-the-design-principles-of-snowflake-heres-what-i-found-dea9fd74ae96) (2024) von Vu Trinh
 	- DuckDB: [Embedded Analytics](https://vutr.substack.com/p/i-made-110-in-duckdb) (2024) von Vu Trinh
+
+#### Cloud Computing
+
 - Cloud für Fortgeschrittene:
 	- Docker für Fortgeschrittene: Webartikel [The efficient way to publish **multi-arch containers** from GitHub Actions](https://actuated.dev/blog/multi-arch-docker-GitHub-actions) (2023) von Alex Ellis
 	- Kubernetes für Fortgeschrittene:
@@ -1585,12 +1617,15 @@ Internet Ikonen:
 	- Wiss. Publikationen: **[Polkadot Whitepaper](https://www.win.tue.nl/~mholende/seminar/references/ethereum_polkadot.pdf)** | [A **Survey on Blockchain Interoperability**: Past, Present, and Future Trends](https://arxiv.org/pdf/2005.14282.pdf)
 	- Ethereum ZK-Rollups: [Dev-Doku](https://ethereum.org/en/developers/docs/scaling/zk-rollups/) ([Video](https://www.youtube.com/watch?v=7pWxCklcNsU&t=406s))
 	- Weiterführende Quellen: [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain) | [Blockchain Resources](https://gist.github.com/sin2akshay/65cdfe2f7fa1f84b4914f188d49d5323)
-- Machine Learning:
+
+#### AI
+
+- Machine Learning für Fortgeschrittene:
 	- Autonomes Fahren: **[SAE J3016 Levels of Driving Automation](https://www.sae.org/binaries/content/assets/cm/content/blog/sae-j3016-visual-chart_5.3.21.pdf)** ([J3016 Details](https://www.sae.org/standards/content/j3016_202104/))
 	- Tensorflow: **[tensorflow.org Tutorials](https://www.tensorflow.org/tutorials)**
 	- Chatbots: [Understanding **Large Language Models** – A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html) (2023) mit Verweisen auf diverse wiss. Publikationen
 	- Weiterführende Quellen: [Awesome **Machine-Learning Tutorials**](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) | [Awesome **Production Machine Learning**](https://github.com/EthicalML/awesome-production-machine-learning) | [My Self-Created **Artificial Intelligence Masters Degree**](https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e?source=linkShare-dbc019e228f5-1513738324) | [Awesome AI Awesomeness](https://github.com/amusi/awesome-ai-awesomeness)
-- Data Science:
+- Data Science für Fortgeschrittene:
 	- Spark: **[Learn Spark from Experts](https://intellipaat.com/blog/tutorial/spark-tutorial/)** | **[Apache Spark in Python: Beginner's Guide](https://www.datacamp.com/tutorial/apache-spark-python#gs.fMIIqxM)** | datacamp [Getting Started with **Pyspark**](https://www.datacamp.com/tutorial/pyspark-tutorial-getting-started-with-pyspark#gs.fMIIqxM)
 	- R-Programmierung für Fortgeschrittene: **[R for Data Science](https://r4ds.had.co.nz/)**
 	- Weiterführende Quellen: [Awesome **Data Science #1**](https://github.com/academic/awesome-datascience) | [Awesome **Data Science #2**](https://awesomerank.GitHub.io/lists/bulutyazilim/awesome-datascience.html)
