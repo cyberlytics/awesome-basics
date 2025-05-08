@@ -25,6 +25,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - [Orientierung](#orientierung)
   - [Schulischer Informatik- und KI-Stoff](#schulischer-informatik--und-ki-stoff)
   - [Handwerkszeug](#handwerkszeug)
+  - [Bonusliste](#bonusliste)
 - [Vor einer wiss. Abschlussarbeit (Informatik/KI)](#vor-einer-wiss-abschlussarbeit-informatikki)
   - [Handwerkszeug: Schreiben](#handwerkszeug-schreiben)
   - [Handwerkszeug: Getting Sh\*t Done](#handwerkszeug-getting-sht-done)
@@ -48,7 +49,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - [Vor einer PhD-Phase](#vor-einer-phd-phase)
 - [Forschungsdatenmanagement](#forschungsdatenmanagement)
 - [Vor einer Post-Doc-Phase oder Professur](#vor-einer-post-doc-phase-oder-professur)
-  - [Bonusliste](#bonusliste)
+  - [Bonusliste](#bonusliste-1)
 - [China-Aufenthalt](#china-aufenthalt)
 - [Informatik-Nachrichten](#informatik-nachrichten)
   - [Regionale Gruppen](#regionale-gruppen)
@@ -273,6 +274,16 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Schauen Sie auf meine **[Tools](https://github.com/cyberlytics/awesome-thesis-tools#schreiben)**-Seite zwecks Typing Tutor Software
 - \[OTH Amberg-Weiden:\] **[Fit-ins-Studium](https://www.oth-aw.de/studium/im-studium/infos-fuer-erstsemester/fit-ins-studium/)** (Zeitmanagement, Recherchieren, …)
 - \[OTH Amberg-Weiden:\] **Brückenkurs Mathematik** (Prä-WiSe) | **Brückenkurs Mathematik** (Prä-SoSe)
+
+### Bonusliste
+- Darknet: 
+	- [Elternwissen](https://www.elternwissen.com/erziehung-entwicklung/pubertaet/deep-web-darknet-dunkle-seiten-des-internets-gefaehrden-ihr-kind/)
+	- BSI zu [Darknet und Deep Web – wir bringen Licht ins Dunkle](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Darknet-und-Deep-Web/darknet-und-deep-web_node.html)
+	- [r/deepweb » FAQ](https://www.reddit.com/r/deepweb/wiki/faq/)
+	- Begriff Onions: "You might not always like what you see down here."
+	- [Tools](https://github.com/shadawck/awesome-darknet)
+	- Onions-Listen: u.a. [github](https://github.com/MTXPr0ject/Dark-Web-Links) oder [reddit](https://www.reddit.com/r/onions/)
+- Usenet: [Einsteiger Guide](https://github.com/PCJones/usenet-guide)
 
 ## Vor einer wiss. Abschlussarbeit (Informatik/KI)
 
@@ -1484,7 +1495,7 @@ Internet Ikonen:
 		- Mobile Usability: Google **[Mobile Sites Optimization](https://developers.google.com/search/mobile-sites/get-started)**
 		- Micro Frontends: Webartikel **[Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)** (2019) von Cam Jackson auf Martin Fowlers Blog | **[micro-frondends.org](https://micro-frontends.org/)** | [Awesome Micro-Frontends](https://github.com/rajasegar/awesome-micro-frontends) | [Awesome Micro-Frontend](https://awesome-architecture.com/micro-frontend/)
 	- Back-End:
-		- Kostenloses Buch [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook)
+		- Kostenloses Buch [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook) sowie [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook) fürs Hardening
 		- Sowie alle Aspekte über fortgeschrittene SW-Architektur, SW-Engineering, DevOps, Datenbanksysteme, etc.
 - Workflow-Management: Kurs [**BPMN Meets DMN**: Business Process and Decision Modeling](https://open.hpi.de/courses/bpm2016?locale=de) | Kurs [**Business Processes**: Modeling, Simulation, Execution](https://open.hpi.de/courses/bpm2019)
 	- (€:) Buch **[BPMN 2.0](https://www.amazon.de/dp/375043526X/)** von Thomas Allweyer
