@@ -964,7 +964,11 @@ Werkzeuge:
 
 #### AI
 
-- (AI:) Machine Learning / Subsymbolische Künstliche Intelligenz
+- **Symbolische** Künstliche Intelligenz {Klassische KI}
+	- vgl. Abschnitte oben "Logik" sowie "Logikprogrammierung und Maschinengestütztes Beweisen"
+	- vgl. Abschnitt oben "Semantic Web / Wissensrepräsentation" (u.a. Ontologien, Knowledge Graphs)
+	- Umfassende Referenz: **[AI-Vorlesungsskript](https://kwarc.info/teaching/AI/notes.pdf)** von Prof. Michael Kohlhase (FAU)
+- Machine Learning / **Sub**symbolische Künstliche Intelligenz
 	- Grundlegendes: Starke vs. schwache KI vs. (Technological) Singularity: [**Artificial General Intelligence** (AGI)](https://en.wikipedia.org/wiki/Artificial_general_intelligence) auf Wikipedia
 	- Machine Learning
 		- Kurs **[Stanford ML](https://www.coursera.org/learn/machine-learning)**
@@ -1005,6 +1009,7 @@ Werkzeuge:
 		- Einstieg: KDnuggets [ChatGPT: Everything You **Need to Know**](https://www.kdnuggets.com/2023/01/chatgpt-everything-need-know.html) | KDnuggets [ChatGPT as a **Python Programming Assistant**](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html)
 		- Webartikel: **[GPT-3's family tree](https://www.truthm.com/gpt-3s-family-tree/)** | Paper **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** (2017) von Vasvani et al. (auch als das [**Transformer**-Paper von Google](https://arxiv.org/abs/1706.03762) bekannt)
 		- Zulässigkeit von Generative AI als Werkzeug zur Erstellung wiss. Publikationen? vgl. **[ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship)**
+		- **LLM-Evaluation**: [LLM Evaluation Metrics: The Ultimate LLM Evaluation Guide](https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)
 		- Text-to-Code: [Top Open Source (Free) Text to Code Generator models on the market](https://www.edenai.co/post/top-free-code-generation-tools-apis-and-open-source-models)
 		- Weiterführende Referenz: [Awesome OpenAI](https://github.com/Jaykef/awesome-openAI)
 	- Image Generator: [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
@@ -1022,10 +1027,6 @@ Werkzeuge:
 	- Text-zu-Bild: [The Ultimate **Stable Diffusion Prompt Guide**](https://prompthero.com/stable-diffusion-prompt-guide) von PromptHero | [Prompting **Adobe Firefly**](https://torybarber.com/prompting-adobe-firefly/) (2023) von Tory Barber
 		- Webartikel [How to Use ChatGPT to Write Prompts & Prompt Templates for Adobe Firefly & Midjourney](https://www.downloadsource.net/how-to-use-chatgpt-to-write-prompts-prompt-templates-for-adobe-firefly-midjourney/n/22511/) (2023) von Jascha Luca | analog [Adobe Firefly prompt generator](https://flowgpt.com/prompt/UjVmU4bSLor1cpBxx5veq) Vorlage für GPT
 	- Weiterführende Quellen: [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | reddit-Liste [Useful Prompt Engineering tools and resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) | lablab [AI Tutorials](https://lablab.ai/t) | [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
-- (AI:) Symbolische Künstliche Intelligenz (Klassische KI)
-	- vgl. Abschnitte oben "Logik" sowie "Logikprogrammierung und Maschinengestütztes Beweisen"
-	- vgl. Abschnitt oben "Semantic Web / Wissensrepräsentation" (u.a. Ontologien, Knowledge Graphs)
-	- Umfassende Referenz: **[AI-Vorlesungsskript](https://kwarc.info/teaching/AI/notes.pdf)** von Prof. Michael Kohlhase (FAU)
 - Robotik
 	- Umfassende Referenzen:
 		- Buch (€€) Springer **[Handbook of Robotics](https://www.amazon.de/dp/3319325507/)** (2016) von Sicilano & Khatib \[EN\] ⭐
@@ -1830,7 +1831,7 @@ Internet Ikonen:
 		- Den [Scan des Inhaltsverzeichnissen von 2006](https://www.cyberlytics.eu/img/informatik/) \[[PDF](https://www.cyberlytics.eu/img/informatik/Informatik_Taxonomie_Stand2006.pdf)\] ⭐
 	- Er charakterisiert vier Teilgebiete der Informatik: 1. **Theoretische Informatik** 2. **Technische Informatik** 3. **Praktische Informatik** 4. **Angewandte Informatik**
 	- Als Überbegriff wurde neben (schlicht) **Informatik** auch regelmäßig **Kerninformatik** verwendet
-		- Bspw. in jahrzehntelanger Abgrenzung zur **Wirtschaftsinformatik** oder später auch zur **Bioinformatik** und weiteren Teilgebieten, die sich zu eigenen Wissenschaften entwickelt haben, und i.d.R. heute nicht (mehr) unter angewandte Informatik subsumiert werden
+		- Bspw. in jahrzehntelanger Abgrenzung zur **Wirtschaftsinformatik** oder später auch zur **Bioinformatik** und weiteren Teilgebieten, die sich zu eigenen Wissenschaften entwickelt haben, und i.d.R. heute nicht (mehr) unter Kerninformatik subsumiert werden
 		- **Künstliche Intelligenz** und **Data Science** fällt (in Deutschland) klar unter die Kerninformatik, genauer in das Teilgebiet Angewandte Informatik; vgl. u.a. [Geschichte der Gesellschaft der Informatik](https://gi.de/fileadmin/GI/Hauptseite/Themen/geschichte-der-gi.pdf)
 - Eigene wiss. Publikationen planen: ⭐
 	- Hintergrund: [**Peer Review** – A Historical Perspective](https://mitcommlab.mit.edu/broad/commkit/peer-review-a-historical-perspective/) von Rosy Hoskin
