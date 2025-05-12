@@ -209,6 +209,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Gute Präsentationen halten? Buch (€) [Präsentieren können: Das neue Handbuch für authentische Präsentationen](http://www.amazon.de/dp/3836292912/)
 - PowerPoint-Kenntnisse: **[PowerPoint](https://edu.gcfglobal.org/en/powerpoint/)** (insb. ändern der Kopf- und Fußzeile sowie Ansicht Folienmaster) ⭐
 	- **[Tastaturkürzel](https://www.presentationload.de/blog/powerpoint-shortcuts/)** (mind. **F5** und **Shift-F5**⭐ sowie das **numerische Springen zu einer Foliennummer**)
+	- Grundkenntnisse zur eingebauten **AutoKorrektur** (z.B. Eingabe von "==>" wird zu "➜" transformiert)
 	- zzgl. [Editier-**Tastaturkürzel und Maus**-Kombinationen](https://www.ionos.de/digitalguide/online-marketing/verkaufen-im-internet/powerpoint-shortcuts/)
 	- PowerPoint-Vorlagen
 		- Einstieg in die [verschiedenen **Template**-Aspekte](https://www.brightcarbon.com/blog/how-to-create-powerpoint-templates/) in PowerPoint
@@ -1736,6 +1737,14 @@ Internet Ikonen:
 		- "A computer can never be held accountable. Therefore, a computer must never make management decisions." ([1979 internal presentation at IBM](https://werd.io/2024/a-computer-can-never-be-held-accountable))
 - Taktische Steuerung / KPIs
 	- Webartikel [The **engineering KPIs** that actually matter](https://getdx.com/blog/engineering-kpis/)
+- Logische Fehlschlüsse im Management
+	- [Sunk-Cost fallacy](https://thedecisionlab.com/biases/the-sunk-cost-fallacy) (aka concorde fallacy, finish the job fallacy): people continue investing in a failing project or decision due to past investments
+	- [Base-Rate Fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy): ignoring statistical information
+	- [Planning Fallacy](https://en.wikipedia.org/wiki/Planning_fallacy): underestimating time needed
+	- [Escalation of Commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment): further investing in a failing decision
+	- [Asymmetrically Dominated Choice](https://thedecisionlab.com/reference-guide/psychology/asymmetrically-dominated-choice)
+	- [Loss Aversion](https://thedecisionlab.com/biases/loss-aversion)
+	- [Decoy Effect](https://thedecisionlab.com/biases/decoy-effect)
 - Change-Management
 	- Webartikel [10 Tipps zur wirksamen Transformation im Mittelstand](https://intrinsify.de/thema/transformation-im-mittelstand/) von Mark Poppenborg
 	- intrinsify-Leseliste
