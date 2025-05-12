@@ -1479,8 +1479,8 @@ Internet Ikonen:
 	- Secondary Indexes: [The **Adaptive Radix Tree**: ARTful Indexing for Main-Memory Databases](https://db.in.tum.de/~leis/papers/ART.pdf) (2013) von Leis et al.
 	- SQL Window Functions via Segment Tree Aggregation: [Efficient Processing of **Window Functions** in Analytical SQL Queries](https://dl.acm.org/doi/abs/10.14778/2794367.2794375) (2015) von Leis et al.
 - Web-Anwendungsentwicklung (WAE) für Fortgeschrittene
-	- Front-End:
-		- Front-End System Design by Example:
+	- Frontend für Fortgeschrittene:
+		- Frontend System Design by Example:
 			- Video: Design an asset heavy app like [Pinterest](https://www.youtube.com/watch?v=3MADCVqL534)
 			- Video: Design social media feed appl like [Facebook](https://www.youtube.com/watch?v=5vyKhm2NTfw)
 			- Video: Design video streaming app like [Netflix](https://www.youtube.com/watch?v=Tu-hZ6lqNtY)
@@ -1496,7 +1496,10 @@ Internet Ikonen:
 		- Web Accessibility Fundamentals: W3C **[Web Accessibility Initiative](https://www.w3.org/WAI/people-use-web/tools-techniques/)** (WAI) | Video **[Web Accessibility](https://www.youtube.com/watch?v=bEM9Fn9aOG8)** sowie [Web Accessibility Matters: **Why Should We Care**](https://www.youtube.com/watch?v=VIRx3RJzbZg)
 		- Mobile Usability: Google **[Mobile Sites Optimization](https://developers.google.com/search/mobile-sites/get-started)**
 		- Micro Frontends: Webartikel **[Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)** (2019) von Cam Jackson auf Martin Fowlers Blog | **[micro-frondends.org](https://micro-frontends.org/)** | [Awesome Micro-Frontends](https://github.com/rajasegar/awesome-micro-frontends) | [Awesome Micro-Frontend](https://awesome-architecture.com/micro-frontend/)
-	- Back-End:
+	- Backend für Fortgeschrittene:
+		- Backend System Design by Example:
+			- Netflix: embarc-Artikel [Teil1](https://web.archive.org/web/20201025141123/https://www.embarc.de/netflix-architektur-blogserie-teil-1-die-umgekehrte-architekturbewertung/), [Teil2](https://web.archive.org/web/20201025134844/https://www.embarc.de/netflix-architektur-blogserie-teil-2-microservices/), [Teil3](https://web.archive.org/web/20201025141202/https://www.embarc.de/netflix-architektur-blogserie-teil-3-netflix-open-source-services-oss/) (2015) von Stefan Toth
+			- ebay: [The eBay Architecture: Striking a Balance between Site Stability, Feature Velocity, Performance, and Cost](https://www.slideshare.net/RandyShoup/the-ebay-architecture-striking-a-balance-between-site-stability-feature-velocity-performance-and-cost) (2011) von Shoup & Pritchett sowie [eBay Replatforming to Kubernetes, Envoy and Kafka](https://www.infoq.com/news/2018/09/ebay-replatform-open-source/) (2018) von Daniel Bryant
 		- Kostenloses Buch [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook) sowie [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook) fürs Hardening
 		- Sowie alle Aspekte über fortgeschrittene SW-Architektur, SW-Engineering, DevOps, Datenbanksysteme, etc.
 - Workflow-Management: Kurs [**BPMN Meets DMN**: Business Process and Decision Modeling](https://open.hpi.de/courses/bpm2016?locale=de) | Kurs [**Business Processes**: Modeling, Simulation, Execution](https://open.hpi.de/courses/bpm2019)
