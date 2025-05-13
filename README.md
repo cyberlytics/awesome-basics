@@ -292,8 +292,13 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 ### Handwerkszeug: Schreiben
 
-- (s. oben: Lernen Sie **10-Finger-schreiben**)
-- Meine [**Erste-Hilfe**-Hinweise](https://www.oth-aw.de/neumann/thesis-prep/#erste-hilfe) für Abschlussarbeiten
+- Bewertungskriterien:
+	- [**Neumannscher Kriterienkatalog** für wissenschaftliche Abschlussarbeiten](https://cyberlytics.eu/theses/criteria/)
+	- [**ACM** Kriterienkatalog für wissenschaftliche Arbeiten](https://dl.acm.org/journal/dgov/reviewer-guidelines#:~:text=Decision%20criteria)
+	- [**IEEE** Kriterienkatalog für wissenschaftliche Arbeiten](https://ieeeaccess.ieee.org/about-ieee-access/announcements/reviewerbestpractices_ieeeaccess/#Whatmakesagoodqualityreview)
+- Studentische Vorab-Vorbereitungen:
+	- (s. oben: Lernen Sie **10-Finger-schreiben**)
+	- Meine [**Erste-Hilfe**-Hinweise](https://www.oth-aw.de/neumann/thesis-prep/#erste-hilfe) für Abschlussarbeiten
 - Scribbr-Einführungen zu **[Bachelorarbeiten](https://www.scribbr.de/category/anfang-abschlussarbeit/)**, **[Masterarbeiten](https://www.scribbr.de/category/masterarbeit/)**, **[Dissertationen](https://www.scribbr.de/category/dissertation-doktorarbeit/)**
 - Exposé/Anbahnung:
 	- Einführung: [**Exposé** gliedern](https://www.scribbr.de/aufbau-und-gliederung/expose-bachelorarbeit/)
@@ -757,7 +762,7 @@ Werkzeuge:
 		- Prompt Injection: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm01-prompt-injection/), [Lakera-Einführung](https://www.lakera.ai/blog/guide-to-prompt-injection) zzgl. berühmte **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8)
 		- Data Poisoning: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm042025-data-and-model-poisoning/)
 	- Nennenswerte wahre Geschichten:
-		- Whistleblower: [**Twitter**-Disclosure](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf) von [Peiter „Mudge“ Zatko](https://en.wikipedia.org/wiki/Peiter_Zatko), **[Global Surveillance Disclosures](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>)** von [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
+		- Whistleblower: [**Twitter/𝕏**-Disclosure](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf) von [Peiter „Mudge“ Zatko](https://en.wikipedia.org/wiki/Peiter_Zatko), **[Global Surveillance Disclosures](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>)** von [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
 		- Post-Mortems: [The Full Story of the Stunning **RSA Hack** Can Finally Be Told](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/) by WIRED
 		- Dramen: **[Stuxnet](https://spectrum.ieee.org/the-real-story-of-stuxnet)**, [2024 **Sony**](https://www.vox.com/2015/1/20/18089084/sony-hack-north-korea)hack, **[SolarWinds](https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack)** hack, **[Terra/Luna](https://www.nytimes.com/2022/05/18/technology/terra-luna-cryptocurrency-do-kwon.html)** crash, **[Kaseya](https://en.wikipedia.org/wiki/Kaseya_VSA_ransomware_attack)** ransomware attack, **[log4j](https://en.wikipedia.org/wiki/Log4Shell)** Vulnerability log4shell, **[FTX](https://www.zeit.de/wirtschaft/geldanlage/2022-11/ftx-kryptowaehrungen-usa-senat-bitcoin)** Insolvenz, **[xz](https://www.heise.de/hintergrund/Die-xz-Hintertuer-das-verborgene-Oster-Drama-der-IT-9673038.html)**-Hintertür
 		- Scams: [Web3 is Going Just Great](https://www.web3isgoinggreat.com) ([Leaderboard](https://www.web3isgoinggreat.com/charts/top))
@@ -1498,8 +1503,11 @@ Internet Ikonen:
 		- Micro Frontends: Webartikel **[Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)** (2019) von Cam Jackson auf Martin Fowlers Blog | **[micro-frondends.org](https://micro-frontends.org/)** | [Awesome Micro-Frontends](https://github.com/rajasegar/awesome-micro-frontends) | [Awesome Micro-Frontend](https://awesome-architecture.com/micro-frontend/)
 	- Backend für Fortgeschrittene:
 		- Backend System Design by Example:
+			[Architektur-Portraits](https://www.embarc.de/architektur-portraets/) von Stefan Zörner/embarc: [VS Code](https://www.embarc.de/architektur-portraet-visual-studio-code/), [Spring Framework](https://www.embarc.de/architektur-portraet-spring-framework/), [Corona-Warn-App](https://www.embarc.de/architektur-portraet-corona-warn-app/), [Go-Lang](https://www.embarc.de/architektur-portraet-golang/), [Neo4j](https://www.embarc.de/architektur-portraet-neo4j/), [Der statische Website-Generator Hugo](https://www.embarc.de/architektur-portraet-hugo/), [Threema](https://www.embarc.de/architektur-portraet-threema/), [Apache Maven](https://www.embarc.de/architektur-portraet-maven/), [Prometheus](https://www.embarc.de/architektur-portraet-prometheus/), [AWS Lambda](https://www.embarc.de/architektur-portraet-lambda/)
 			- Netflix: embarc-Artikel [Teil1](https://web.archive.org/web/20201025141123/https://www.embarc.de/netflix-architektur-blogserie-teil-1-die-umgekehrte-architekturbewertung/), [Teil2](https://web.archive.org/web/20201025134844/https://www.embarc.de/netflix-architektur-blogserie-teil-2-microservices/), [Teil3](https://web.archive.org/web/20201025141202/https://www.embarc.de/netflix-architektur-blogserie-teil-3-netflix-open-source-services-oss/) (2015) von Stefan Toth
 			- ebay: [The eBay Architecture: Striking a Balance between Site Stability, Feature Velocity, Performance, and Cost](https://www.slideshare.net/RandyShoup/the-ebay-architecture-striking-a-balance-between-site-stability-feature-velocity-performance-and-cost) (2011) von Shoup & Pritchett sowie [eBay Replatforming to Kubernetes, Envoy and Kafka](https://www.infoq.com/news/2018/09/ebay-replatform-open-source/) (2018) von Daniel Bryant
+			- Twitter/𝕏: [Raffi Krikorian](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/) (2012), [Curt Corginia](https://corgicorporation.medium.com/elon-musk-and-twitters-system-design-8bc2a97680e6) (2022)
+				- More architectural dives into Twitter/𝕏: [Donne Maritin](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/twitter/README.md) and [DesignGurus](https://www.designgurus.io/answers/detail/what-is-the-software-architecture-of-twitter)
 		- Kostenloses Buch [NGINX Cookbook](https://www.nginx.com/resources/library/complete-nginx-cookbook) sowie [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook) fürs Hardening
 		- Sowie alle Aspekte über fortgeschrittene SW-Architektur, SW-Engineering, DevOps, Datenbanksysteme, etc.
 - Workflow-Management: Kurs [**BPMN Meets DMN**: Business Process and Decision Modeling](https://open.hpi.de/courses/bpm2016?locale=de) | Kurs [**Business Processes**: Modeling, Simulation, Execution](https://open.hpi.de/courses/bpm2019)
@@ -2310,7 +2318,7 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 - Sprachübersetzung
 	- Google Translate, DeepL, …
 	- Bspw. im Urlaub oder für Betriebsanleitungen
-- Recommender: Facebook-Feeds / Twitter-Feeds / News-Feeds / YouTube-Feeds / …
+- Recommender: Facebook-Feeds / Twitter/𝕏-Feeds / News-Feeds / YouTube-Feeds / …
 - Bilderstellung/-erkennung
 	- Bspw. Google Lens, ImageAnalysisToolkit (IAT), PictureThis Pflanzen, …
 - Assistiertes Fahren / teilautonomes Fahren
