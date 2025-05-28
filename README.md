@@ -216,7 +216,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 		- Migrationen: [Legacy Slides – Best Practices](https://www.brandwares.com/bestpractices/2018/11/legacy-slides-brandwares-best-practices/)
 		- Farb-Paletten als [**Themes** in PowerPoint/Word/Excel](https://www.brightcarbon.com/blog/consistently-brand-powerpoint-excel-word/) (\*.thmx Dateien)
 		- Der Vollständigkeit halber: [Chart Templates](https://www.brightcarbon.com/blog/consistently-brand-graphs-and-charts/)
-	- Wegen PowerPoint-Add-Ins: siehe [Schwesterseite zu Werkzeugen](https://github.com/cyberlytics/awesome-thesis-tools#plug-ins--add-ins--extensions)
+	- Wegen PowerPoint-Add-Ins: siehe meine [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#plug-ins--add-ins--extensions)
 	- Wichtige Funktion für Textfelder zwecks deren Default-Sprache und -Schriftart: "[Als Standardtextfeld festlegen](https://www.pcs-campus.de/office/powerpoint/textfelder/)"
 	- PowerPoint hat eine [eingebaute compress pictures Funktion](https://support.microsoft.com/de-de/office/verringern-der-dateigr%C3%B6%C3%9Fe-ihrer-powerpoint-pr%C3%A4sentationen-9548ffd4-d853-41e7-8e40-b606bca036b4) (Für Fortgeschrittene: Webartikel [Reduce **PPT file size**](https://neuxpower.com/blog/why-is-my-powerpoint-so-big-and-how-can-i-reduce-the-size-of-the-ppt)) ⚠️
 - Mathematik: [Brückenkurs](https://www.ombplus.de/) **[OMB+](https://www.ombplus.de/)** ⭐
@@ -900,7 +900,7 @@ Werkzeuge:
 			- Guru99 [**Ansible Tutorial** for Beginners: Playbook, Commands & Example](https://www.guru99.com/ansible-tutorial.html)
 			- Klassische DevOps Aufgabe (DevOps-im-weitesten-Sinn als Umbrella Term und noch nicht im engeren Sinn für Hochgeschwindigkeit-IT): „**Ziehen Sie mit Ansible eine Proxmox-VM automatisiert hoch für nginx, konfiguriert für IPv4 und IPv6**“ (These: Traditionelle SysAdmins kriegen das innerhalb eines Probearbeitstags von 8h ggf. nicht gelöst 😦)
 			- Tutorials: [**Ops School** Curriculum](https://www.opsschool.org/) | [**Digital Ocean** Tutorials](https://www.digitalocean.com/community/tutorials)
-		- Werkzeuge: vgl. Schwesterseite [Tools » DevOps » SysOps/SysAdmin](https://github.com/cyberlytics/awesome-software-engineering-tools#devops)
+		- Werkzeuge: vgl. Werkzeuge-Schwesterseite [Tools » DevOps » SysOps/SysAdmin](https://github.com/cyberlytics/awesome-software-engineering-tools#devops)
 	- Basis von DevOps #2: **Build-Automatisierung** / **Dependency Management**
 		- [Monorepos](https://en.wikipedia.org/wiki/Monorepo) vs. [Polyrepos/Multirepos](https://earthly.dev/blog/monorepo-vs-polyrepo/):
 			- Pro Monorepo: [Monorepo: please do!](https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70) (2019) von Adam Jacob \[shared responsibility and visibility\]
@@ -1022,7 +1022,7 @@ Werkzeuge:
 		- Text-to-Code: [Top Open Source (Free) Text to Code Generator models on the market](https://www.edenai.co/post/top-free-code-generation-tools-apis-and-open-source-models)
 		- Weiterführende Referenz: [Awesome OpenAI](https://github.com/Jaykef/awesome-openAI)
 	- Image Generator: [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
-	- Tools für Text-to-X: [Tools auf meiner Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#generative-ki) (Text-zu-Bild, Text-zu-Video, Text-zu-Präsentation, Text-zu-Quiz, Text-zu-Sprache, Text-zu-Sound)
+	- Tools für Text-to-X: auf meiner [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#generative-ki) (Text-zu-Bild, Text-zu-Video, Text-zu-Präsentation, Text-zu-Quiz, Text-zu-Sprache, Text-zu-Sound)
 	- Europäische Ebene: **[LEAM](https://leam.ai/)**
 	- Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
 	- Weiterführende Quellen: [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art), [Awesome MVS](https://github.com/walsvid/Awesome-MVS)
@@ -1154,7 +1154,7 @@ Werkzeuge:
 		- „[**people who struggle to code** don’t just struggle on big problems](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/), or even smallish problems (i.e. write a implementation of a linked list). They struggle with tiny problems. \[like FizzBuzz\]“ (vgl. auch [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/) von Coding Horror)
 - Bewerbungsunterlagen
 	- Lebenslauf: (€) [Bücher](https://www.amazon.de/s?k=bewerbungsmappe&i=stripbooks), bspw. von [Püttjer & Schnierda](https://www.amazon.de/s?k=P%C3%BCttjer+Schnierda) oder [Hesse & Schrader](https://www.amazon.de/s?k=hesse+schrader+bewerbung)
-		- Lebenslauf-Werkzeuge für Informatiker: vgl. [Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#job-bewerbungen)
+		- Lebenslauf-Werkzeuge für Informatiker: vgl. [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#job-bewerbungen)
 	- How to write a successful cover letter? Webartikel mit [5 Tipps](https://www.lionstep.com/cover-letter-for-job-application-5-tips-to-write-the-best-cover-letter/) von Lionstep, Übersicht [Breakdown of Writing A Cover Letter That Gets Results](https://jofibostorage.blob.core.windows.net/blog/Infographic-Breakdown-of-Writing-A-Cover-Letter-That-Gets-Results.jpg) von jofido
 - Karriere
 	- Stellenbeschreibungen und Ebenen einer technischen Organisation: [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders) | [30+ Engineering Career Ladders](https://www.nidup.io/garden/engineering-career-ladders)
@@ -1954,7 +1954,7 @@ Internet Ikonen:
 \[Forschungsdatenmanagement (FDM) / Research Data Management (RDM)\]
 
 - Stanford **[Data best practices and case studies](https://guides.library.stanford.edu/data-best-practices)**
-- Werkzeuge: siehe [Schwesterseite zum Thema](https://www.oth-aw.de/neumann/tools-faculty/#forschungsdatenmanagement)
+- Werkzeuge: siehe meien [Dozenten-Werzeuge-Schwesterseite](https://www.oth-aw.de/neumann/tools-faculty/#forschungsdatenmanagement)
 - Grundlagen, auch für Non-Technical Readers:
 	- [Forschungsdatenmanagement **Glossar**](https://forschungsdaten.info/praxis-kompakt/glossar/#c269836)
 	- [**FAIR** Prinzipien](https://www.go-fair.org/fair-principles/)
@@ -1968,7 +1968,7 @@ Internet Ikonen:
 - Datenmanagementplan (DMP)
 	- [Einführung **Datenmanagementplan**](https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/)
 	- [**DMP Leitfaden** der Science Europe](https://zenodo.org/record/4915862)
-	- Werkzeuge? vgl. meine Schwesterseite [Dozenten-Werzeuge](https://www.oth-aw.de/neumann/tools-faculty/#forschungsdatenmanagement)
+	- Werkzeuge? vgl. meine [Dozenten-Werzeuge-Schwesterseite](https://www.oth-aw.de/neumann/tools-faculty/#forschungsdatenmanagement)
 - Globally unique and persistent identifiers
 	- Einsteigerfreundliches Video [Persistent Identifier (**PID**)](https://www.youtube.com/watch?v=uVq7IuDCTFw)
 	- [**Handle**.Net Registry (**HNR**)](https://www.handle.net/) by CNRI
