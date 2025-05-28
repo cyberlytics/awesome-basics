@@ -285,6 +285,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- [Tools](https://github.com/shadawck/awesome-darknet)
 	- Onions-Listen: u.a. [github](https://github.com/MTXPr0ject/Dark-Web-Links) oder [reddit](https://www.reddit.com/r/onions/)
 - Usenet: [Einsteiger Guide](https://github.com/PCJones/usenet-guide)
+- Kürzel nachschlagen (u.a. TLAs): [The Free Dictionary](https://acronyms.thefreedictionary.com/TLA)
 
 ## Vor einer wiss. Abschlussarbeit (Informatik/KI)
 
@@ -317,6 +318,8 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Schnelllesen: (€) Buch **[Speed Reading](https://www.amazon.de/dp/3868828710/)** (2017 | [Orig: 2006](https://books.google.de/books?id=HpvjGZ_Ff60C)) von Tony Buzan
 		- Training-App: [Reading Trainer](https://readingtrainer.com/)
 	- Wiss. Schreiben: **[IMRaD](https://en.wikipedia.org/wiki/IMRAD)** | [Elsevier **Einführung in wiss. Schreiben**](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously) ⭐
+		- Cheat Sheets: [Structure of a Research Paper: IMRaD Format](https://libguides.umn.edu/StructureResearchPaper), [IMRaD Cheat Sheet](https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/imrd-examples.pdf)
+		- Wiss. Publikation: [WASP (Write a Scientific Paper): Structuring a scientific paper](https://www.sciencedirect.com/science/article/pii/S0378378218305929)
 	- Wiss. Methoden: [Awesome **PhD**](https://github.com/macoj/phd) | [A three cycle view of **design science research**](https://community.mis.temple.edu/seminars/files/2009/10/Hevner-SJIS.pdf) (2007) von Alan R. Hevner (Zur DSR auch: [Wikipedia](https://en.wikipedia.org/wiki/Design_science_(methodology)))
 	- Citation Metrics: **[Impact Factor](https://en.wikipedia.org/wiki/Impact_factor)** | [Autorenmetriken (**h-Index, g-Index**, …)](http://www.harzing.com/pophelp/metrics.htm) | Paper [ISI Web of Science versus Google Scholar](http://www.int-res.com/articles/esep2008/8/e008p061.pdf)
 	- (€:) Buch [**Studienarbeiten**: Ein Leitfaden … **am Beispiel Informatik**](https://www.amazon.de/dp/3728138118/) (2017) von Marcus Deiniger et al. ⭐
@@ -1504,7 +1507,7 @@ Internet Ikonen:
 	- Backend für Fortgeschrittene:
 		- Backend System Design by Example:
 			[Architektur-Portraits](https://www.embarc.de/architektur-portraets/) von Stefan Zörner/embarc: [VS Code](https://www.embarc.de/architektur-portraet-visual-studio-code/), [Spring Framework](https://www.embarc.de/architektur-portraet-spring-framework/), [Corona-Warn-App](https://www.embarc.de/architektur-portraet-corona-warn-app/), [Go-Lang](https://www.embarc.de/architektur-portraet-golang/), [Neo4j](https://www.embarc.de/architektur-portraet-neo4j/), [Der statische Website-Generator Hugo](https://www.embarc.de/architektur-portraet-hugo/), [Threema](https://www.embarc.de/architektur-portraet-threema/), [Apache Maven](https://www.embarc.de/architektur-portraet-maven/), [Prometheus](https://www.embarc.de/architektur-portraet-prometheus/), [AWS Lambda](https://www.embarc.de/architektur-portraet-lambda/)
-			- Netflix: embarc-Artikel [Teil1](https://web.archive.org/web/20201025141123/https://www.embarc.de/netflix-architektur-blogserie-teil-1-die-umgekehrte-architekturbewertung/), [Teil2](https://web.archive.org/web/20201025134844/https://www.embarc.de/netflix-architektur-blogserie-teil-2-microservices/), [Teil3](https://web.archive.org/web/20201025141202/https://www.embarc.de/netflix-architektur-blogserie-teil-3-netflix-open-source-services-oss/) (2015) von Stefan Toth
+			- Netflix: embarc-Artikel [Teil1](https://www.embarc.de/netflix-architektur-blogserie-teil-1-die-umgekehrte-architekturbewertung/), [Teil2](https://www.embarc.de/netflix-architektur-blogserie-teil-2-microservices/), [Teil3](https://www.embarc.de/netflix-architektur-blogserie-teil-3-netflix-open-source-services-oss/) (2015) von Stefan Toth (Stefan Zörner dazu: "Die klassische Netflix-Architektur ist für Microservices sowas wie der Kölner Dom für die Gotik. Schon schlüssig, dass Studierende sich das anschauen wollen.")
 			- ebay: [The eBay Architecture: Striking a Balance between Site Stability, Feature Velocity, Performance, and Cost](https://www.slideshare.net/RandyShoup/the-ebay-architecture-striking-a-balance-between-site-stability-feature-velocity-performance-and-cost) (2011) von Shoup & Pritchett sowie [eBay Replatforming to Kubernetes, Envoy and Kafka](https://www.infoq.com/news/2018/09/ebay-replatform-open-source/) (2018) von Daniel Bryant
 			- Twitter/𝕏: [Raffi Krikorian](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/) (2012), [Curt Corginia](https://corgicorporation.medium.com/elon-musk-and-twitters-system-design-8bc2a97680e6) (2022)
 				- More architectural dives into Twitter/𝕏: [Donne Maritin](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/twitter/README.md) and [DesignGurus](https://www.designgurus.io/answers/detail/what-is-the-software-architecture-of-twitter)
@@ -2279,6 +2282,8 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 - [Open Culture](https://www.openculture.com/)
 - [Internationale Gerichte](https://www.lovefood.com/gallerylist/239469/die-leckersten-gerichte-aus-aller-welt-in-bildern)
 - [Demokratieindex](https://de.wikipedia.org/wiki/Demokratieindex_(The_Economist))
+- [Six Degees of Separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation) / Small World / [Erdos Number](https://en.wikipedia.org/wiki/Erdős_number)
+- [Dunbar's Number](https://en.wikipedia.org/wiki/Dunbar%27s_number)
 
 ## State Actors
 
