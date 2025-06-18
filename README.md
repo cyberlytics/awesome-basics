@@ -19,6 +19,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 <!-- toc -->
 
+- [MINT](#mint)
 - [Kinder und Jugendliche](#kinder-und-jugendliche)
 - [Vor Eintritt in ein Bachelorstudium](#vor-eintritt-in-ein-bachelorstudium)
 - [Vor Eintritt in ein Informatik- oder KI-Studium](#vor-eintritt-in-ein-informatik--oder-ki-studium)
@@ -68,6 +69,27 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - [License](#license)
 
 <!-- tocstop -->
+
+## MINT
+
+**Werbeblock**:
+- Pro MINT-Fächer:
+	- Artikel [Warum MINT auf dem Arbeitsmarkt gewinnt](https://www.iwd.de/artikel/warum-mint-auf-dem-arbeitsmarkt-gewinnt-653539/) (2025) der iwd
+	- Artikel [Besonders viele Azubis im MINT-Bereich](https://www.iwd.de/artikel/besonders-viele-azubis-im-mint-bereich-628354/) (2025) der iwd
+- Pro Frauen in MINT:
+	- Artikel [Wenige Frauen in MINT-Berufen](https://www.iwd.de/artikel/wenige-frauen-in-mint-berufen-588932/) (2025) der iwd
+
+**Kürzelkunde**:
+- MINT-Fächer: Mathematik, Informatik, Naturwissenschaften, Technik
+	- ≙ STEM fields: science, technology, engineering, mathematics
+- SAGE-Fächer: Soziale Arbeit, Gesundheit, Erziehung
+- Medizin?
+	- Zählt traditionell nicht zu den MINT-Fächern
+	- Aber international: STEMM fields = STEM and medicine
+	- Medizin mit anhaltenden Einordnungsschwierigkeiten: ein "M" in STEMM \[EN\] (quasi-MINT) vs. das "G" in SAGE \[DE\] (Non-MINT)?
+- Psychologie?
+	- Zählt traditionell nicht zu den MINT-Fächern
+	- Trotz Verwendung statistischer Methoden im empirischen Bereich
 
 ## Kinder und Jugendliche
 
@@ -131,6 +153,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 		- Digitalkompetenz: [ICILS](https://www.iea.nl/studies/iea/icils) (= International Computer and Information Literacy Study)
 - Informatik-Software und -Quellen für Schüler
 	- Oben erwähnter **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabensammlung](https://bwinf.de/biber/archiv/))
+	- **[openHPI in der Schule](https://open.hpi.de/pages/in-der-schule)** ⭐
 	- Objekt-orientierte Programmierung
 		- Buch [Karel the Robot](https://www.amazon.de/dp/0471597252/) ([Karel Homepage](https://www.cs.mtsu.edu/~untch/karel/index.html)) mit [Robot Karol](https://karol.arrrg.de/) als Online-Programmierumgebung
 		- [Java Karol](https://mebis.bycs.de/beitrag/java-karol): Karel Robot in Java programmieren
@@ -176,17 +199,6 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- [**Misty** Robot](https://shop.mistyrobotics.com/)
 	- [**Unitree Go** Hunderobot](https://shop.unitree.com/)
 	- [**Furhat** Robot](https://www.furhatrobotics.com/furhat-robot)
-- Kürzelkunde:
-	- MINT-Fächer: Mathematik, Informatik, Naturwissenschaften, Technik
-		- ≙ STEM fields: science, technology, engineering, mathematics
-	- SAGE-Fächer: Soziale Arbeit, Gesundheit, Erziehung
-	- Medizin?
-		- Zählt traditionell nicht zu den MINT-Fächern
-		- Aber: STEMM fields = STEM and medicine
-		- Perspektiven: \[EN\] STEMM vs. SAGE \[DE\]?
-	- Psychologie?
-		- Zählt traditionell nicht zu den MINT-Fächern
-		- Trotz Verwendung statistischer Methoden im empirischen Bereich
 - MINT-Förderungen
 	- DE:
 		- Bund: [MINT-Aktionsplan](https://www.bmbf.de/bmbf/de/bildung/digitalisierung-und-mint-bildung/mint-bildung/mint-aktionsplan_node.html)
@@ -749,6 +761,10 @@ Werkzeuge:
 		- XKCD Comic: [Password Strength](https://xkcd.com/936/)
 		- Passwort-Listen: [**SecList**-Sammlung](https://github.com/danielmiessler/SecLists) | [**SkullSecurity**-Sammlung](https://www.skullsecurity.org/wiki/Passwords) | [**haveibeenowned**-Downloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) | [weitere…](https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/)
 	- E-Mail-Verschlüsselung: [Einführung in die Funktionsweise von **OpenPGP/GnuPG**](https://www.hauke-laging.de/sicherheit/openpgp.html)
+		- (1) Grundkonzepte erfunden als PGP per [Phil Zimmermann](https://de.wikipedia.org/wiki/Pretty_Good_Privacy)
+		- (2) Kostenfrei und quelloffen durch [GnuPG](https://www.gnupg.org/) von [Werner Koch](https://taz.de/Verschluesselung-mit-GnuPG/!5020399/)
+		- (3) Massentauglich durch [ProtonMail](https://proton.me/blog/proton-100-million-accounts)
+		- [Standardisierung-Schisma](https://blog.pgpkeys.eu/critique-critique) in 2023 durch einen Modernisierungsversuch per [crypto refresh des OpenPGP-Standards](https://proton.me/blog/openpgp-crypto-refresh): IETF: [OpenPGP / RFC 9580](https://datatracker.ietf.org/doc/rfc9580/) ([Sequoia-PGP](https://sequoia-pgp.org/), [ProtonMail](https://proton.me/community/open-source): [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) und [GopenPGP](https://github.com/ProtonMail/gopenpgp)) vs. [Werner Koch](https://taz.de/Verschluesselung-mit-GnuPG/!5020399/): [LibrePGP](https://datatracker.ietf.org/doc/draft-koch-librepgp/) ([GnuPG](https://www.gnupg.org/), Thunderbird: [rnp](https://github.com/rnpgp/rnp))
 	- Cryptography: **[Crypto 101](https://www.crypto101.io/)**
 	- SSH: [Linux](https://zah.uni-heidelberg.de/it-guide/ssh-tutorial-linux) | [Windows](https://www.makeuseof.com/tag/4-easy-ways-to-use-ssh-in-windows/) (→ [EdDSA/**Ed25519**](https://ed25519.cr.yp.to/))
 	- Cryptographisches Hashing: [Baeldung Deep Dive into **Hashing**](https://www.baeldung.com/cs/hashing) (→ **[BLAKE3](https://github.com/BLAKE3-team/BLAKE3-specs/blob/master/blake3.pdf)**)
@@ -764,12 +780,15 @@ Werkzeuge:
 		- Grundlagen: **[OWASP Top-10 for LLMs](https://genai.owasp.org/llm-top-10/)** und BSI-Handreichung [Sicherer, robuster und nachvollziehbarer Einsatz von KI](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Herausforderungen_und_Massnahmen_KI.pdf) ggf. zzgl. [BSI AIC4 Kriterienkatalog](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/AIC4/AI-Cloud-Service-Compliance-Criteria-Catalogue_AIC4.pdf)
 		- Prompt Injection: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm01-prompt-injection/), [Lakera-Einführung](https://www.lakera.ai/blog/guide-to-prompt-injection) zzgl. berühmte **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8)
 		- Data Poisoning: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm042025-data-and-model-poisoning/)
-	- Nennenswerte wahre Geschichten:
+	- Nennenswerte wahre Geschichten (IT-Security / Data Privacy):
 		- Whistleblower: [**Twitter/𝕏**-Disclosure](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf) von [Peiter „Mudge“ Zatko](https://en.wikipedia.org/wiki/Peiter_Zatko), **[Global Surveillance Disclosures](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>)** von [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
 		- Post-Mortems: [The Full Story of the Stunning **RSA Hack** Can Finally Be Told](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/) by WIRED
 		- Dramen: **[Stuxnet](https://spectrum.ieee.org/the-real-story-of-stuxnet)**, [2024 **Sony**](https://www.vox.com/2015/1/20/18089084/sony-hack-north-korea)hack, **[SolarWinds](https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack)** hack, **[Terra/Luna](https://www.nytimes.com/2022/05/18/technology/terra-luna-cryptocurrency-do-kwon.html)** crash, **[Kaseya](https://en.wikipedia.org/wiki/Kaseya_VSA_ransomware_attack)** ransomware attack, **[log4j](https://en.wikipedia.org/wiki/Log4Shell)** Vulnerability log4shell, **[FTX](https://www.zeit.de/wirtschaft/geldanlage/2022-11/ftx-kryptowaehrungen-usa-senat-bitcoin)** Insolvenz, **[xz](https://www.heise.de/hintergrund/Die-xz-Hintertuer-das-verborgene-Oster-Drama-der-IT-9673038.html)**-Hintertür
 		- Scams: [Web3 is Going Just Great](https://www.web3isgoinggreat.com) ([Leaderboard](https://www.web3isgoinggreat.com/charts/top))
 		- LLM: **[PoisonGPT](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)**
+		- Privacy-Sauereien:
+			- Volkswagen: [Wir wissen, wo dein Auto steht](https://www.spiegel.de/netzwelt/web/volkswagen-konzern-datenleck-wir-wissen-wo-dein-auto-steht-a-e12d33d0-97bc-493c-96d1-aa5892861027) (zzgl. [CCC-Video](https://www.youtube.com/watch?v=iHsz6jzjbRc)) aka "Volksdaten"
+			- Meta und Yandex: [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/) aka "Local Mess"
 	- [**HTML5 Security** Cheatssheet](https://html5sec.org/) (inkl. CSS)
 	- Open Source Security: [The state of **open source security** report](https://snyk.io/reports/open-source-security/) von snyk | freeCodeCamp **[Open Source Software Security Handbook](https://www.freecodecamp.org/news/oss-security-best-practices/)**
 	- Docker Security: [**snyk** Warnhinweis](https://snyk.io/blog/top-ten-most-popular-docker-images-each-contain-at-least-30-vulnerabilities/) „Top ten most popular docker images each contain at least 30 vulnerabilities“
@@ -1130,6 +1149,8 @@ Werkzeuge:
 		- Beschreibung: [Wikipedia](https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator) sowie PDF [Der MBTI (Myers Briggs Typenindikator)](http://kosi.at/downloads/mbti.pdf) von Kalcher, Kos & Sponner
 		- Der kostenpflichtige [Original-Test](https://eu.themyersbriggs.com/de-DE/tools/MBTI/MBTI-personality-Types) besteht aus 144 bipolaren Fragen
 	- [Communication Preferences](https://www.rachelmacik.com/blog/2012/09/be-brief-be-bright-be-gone.html): [Insights® Discovery](http://www.insights.com/) (Yellow: Involve me.	Green: Show me you care.	Red: Be brief, be bright, be gone.	Blue: Give me details.)
+	- Persönlichkeit-Weisheiten:
+		- Wozniak: “Always be a good person. Even if someone is bad to you, always be good to them.” ([Referenz](https://spectrum.ieee.org/ieee-vic-summit-awards-2025))
 - Beziehungen, Ehe, Kinder
 	- Webartikel [10 Qualities for Happier Marriages](https://www.yourtango.com/love/psychologist-reveals-men-who-choose-wives-with-these-qualities-happier-marriage)
 - Jobsuche
@@ -1236,6 +1257,7 @@ Werkzeuge:
 	- Big Tech (gleichzeitig Normen/Spezifikation und Tools)
 		- Microsoft, Google, Meta, X, Apple, Amazon, Netflix …, IBM, Oracle, LinkedIn, SAP, …, Baidu, Tencent, Alibaba, Xiaomi, …
 	- [Umfassende Übersicht zu **Standardisierungsorganisationen**](https://www.w3.org/WoT/IG/wiki/How_does_W3C_compare_to_other_organizations) (aus Sicht der W3C)
+	- "Konsens"?: IETF "[rough consensus](https://www.rfc-editor.org/rfc/rfc8789.html)" and "[humming](https://www.rfc-editor.org/rfc/rfc7282.html)"
 	- [Übersicht zu **Open Source Organisationen**](https://opensource.com/resources/organizations)
 - Developer Experience (DX)
 	- Publikation [The **SPACE** of Developer Productivity](https://dl.acm.org/doi/10.1145/3454122.3454124)
@@ -1723,6 +1745,7 @@ Internet Ikonen:
 	- intrinsify-Leseliste
 		- [Eine kompakte Einführung in die Systemtheorie](https://intrinsify.de/systemtheorie-wieso-sie-fuer-moderne-unternehmensfuehrung-unverzichtbar-ist/)
 		- [Wie C-Level Funktionen Dein Führungsteam zerstören können](https://intrinsify.de/braucht-dein-unternehmen-auch-einen-chief-trust-officer/)
+		- [Was ist eine gute Strategie?](https://intrinsify.de/was-ist-eine-gute-strategie/)
 		- [Glaubenssätze in traditionellen Unternehmen](https://intrinsify.de/wp-content/uploads/Glaubenssaetze.pdf)
 		- [Welches Spiel spielt Dich?](https://intrinsify.de/video/welches-spiel-spielt-dich/)
 		- [Wie lassen sich Organisationen wirksam irritieren?](https://intrinsify.de/organisationsentwicklung-wie-lassen-sich-organisationen-wirksam-irritieren/)
@@ -1739,6 +1762,8 @@ Internet Ikonen:
 		- [Mein perfekter Chef (den ich nie hatte)](https://intrinsify.de/mein-perfekter-chef-den-ich-nie-hatte/)
 		- [Immer gegen die Wand gelaufen](https://intrinsify.de/immer-gegen-die-wand-gelaufen-bis-ich/)
 		- [Meeting-Wahnsinn: Wieso die üblichen Tipps nichts bringen](https://intrinsify.de/meeting-wahnsinn-wieso-die-ueblichen-tipps-nichts-bringen/)
+	- intrinsify-Leseliste mit Lehrbezug:
+		- **[Möge die Macht mit euch sein](https://intrinsify.de/moege-die-macht-mit-euch-sein/)** ⭐
 	- [Chris Croft](https://www.linkedin.com/learning/instructors/chris-croft)) auf LinkedIn Learning
 - Strategische Planung / Unternehmenssteuerung / Unternehmensstrategie
 	- OKR (Intel, Google, …): (€) Buch [**Objectives & Key Results (OKR)**: Das agile Betriebssystem für moderne Organisationen](https://www.amazon.de/dp/B0874PCH3H) ⭐
@@ -1843,6 +1868,8 @@ Internet Ikonen:
 			- **EU**-geförderte Projekte
 	- **Industriepromotion**: Industrieunternehmen als Geldgeber
 		- [Webartikel von **academics.de**](https://www.academics.de/ratgeber/industriepromotion)
+	- Funding für **Open Source Softwareprojekte**:
+		- Über den Prototype Fund (2016-2024) gemeinsam mit dem BMBF: [14 Mio Euro später](https://media.ccc.de/v/ds24-346-14-mio-euro-spter)
 - DAAD-Stipendienprogramme
 	- Während der Promotion und in den ersten fünf Jahren nach der Promotion ist eine Förderung einmal pro Kalenderjahr möglich, danach in jedem zweiten Kalenderjahr.\
 		Nähere Informationen: [Häufig gestellten Fragen (FAQ)](https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/im-ausland-studieren-forschen-lehren/daad_kongressreisen_faq.pdf) in Kapitel 3.
@@ -1879,7 +1906,7 @@ Internet Ikonen:
 	- Indexing:
 		- **[Scholar](https://scholar.google.de/)**: [Inclusion Guideline](https://scholar.google.com/intl/en/scholar/inclusion.html) + [Indexing](https://docs.pkp.sfu.ca/google-scholar/en/)
 		- **[DBLP](https://dblp.uni-trier.de/search/)**: [Criteria](https://dblp.org/faq/5210119.html) + [Submission Format](https://dblp.org/faq/1474621.html)
-			- **WICHTIG**: Zusätzlich Uploads von Pre-Prints auf **arXiv** (d.h. zusätzlich zu der Veröffentlichung durch den Publisher einer Konferenz) sollten sowohl zu erfolgreichen Listings unter **DBLP** ⚠️ als auch unter Scopus führen (allerdings nicht unter der ursprünglichen Konferenz, sondern gelistet zugehörig zur CoRR = Computing Research Repository = arXiv-Subset)
+			- **WICHTIG**: Zusätzlich Uploads von Pre-Prints auf **arXiv** (d.h. zusätzlich zu der Veröffentlichung durch den Publisher einer Konferenz) sollten sowohl zu erfolgreichen Listings unter **DBLP** ⚠️ als auch unter Scopus führen (allerdings nicht unter der ursprünglichen Konferenz, sondern gelistet zugehörig zur CoRR = Computing Research Repository = arXiv-Subset; mein Endorsement-Potential über [meine arXiv-Paper](https://arxiv.org/a/neumann_c_1.html))
 		- **[BASE](https://www.base-search.net/Search/Advanced)**: [OAI Interface](https://www.base-search.net/about/en/faq_oai.php)
 		- **[dissem.in](https://dissem.in/search/)**: [Data Sources](https://dissem.in/sources/) ([CrossRef.org](https://www.crossref.org/), [BASE](https://www.base-search.net/), [SHERPA/RoMEO](https://www.sherpa.ac.uk/romeo/), [Zotero](https://www.zotero.org/))
 	- Repositories: **[arXiv](https://arxiv.org)**, **[Zenodo](https://zenodo.org)**, [HAL](https://hal.science), [figshare](https://figshare.com/)
@@ -2216,6 +2243,12 @@ Podcasts:
 - DE: [Software Architektur Systeme Menschen](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx) (INNOQ), [State of Process Automation](https://open.spotify.com/show/3GZWFX72Y87hNrOOjFxoL0) (Christoph Pacher), [Künstliche Intelligenz](https://open.spotify.com/show/2e0ib9yPTdELNdzzKojhKO) (F.A.Z.), [Alternativlos](https://www.alternativlos.org/) (Frank und Fefe)
 - Int'l: [Thoughtworks](https://open.spotify.com/show/6RBb4pGRgOFTmtCDSfTWvu), [PodRocket](https://open.spotify.com/show/6oFuKu89C9X1wQ7bT0QEM2), [Software Delivery in Small Batches](https://open.spotify.com/show/6btXUSxdL6UkoeEPIgxpD1), [Coding Blocks](https://open.spotify.com/show/23WSDfrSBULg0pBNGNWPMb), [The Argument](https://open.spotify.com/show/496zr4DOSiKpB1L5fAgf5l), [goto;](https://open.spotify.com/show/1X1lCb4auIZoQKyYiC2PYM)
 
+Wissenschaftliche Mailinglisten:
+
+- Datenbanksysteme: [fg-db](https://fg-db.gi.de/weiteres/mailingliste) ([Leitungsgremium](https://fg-db.gi.de/fachgruppe/leitungsgremium))
+- Wirtschaftsinformatik: [wi des KIT-Instituts AIFB](https://www.lists.kit.edu/sympa/info/wi)
+
+
 ### Regionale Gruppen
 
 \[ Die folgende Liste erhebt keinen Anspruch auf Vollständigkeit; sie soll nur einen Impuls setzen, damit Sie ab Beginn eines Bachelorstudiums bereits an einschlägigen Communities partizipieren. \]
@@ -2357,7 +2390,8 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 - Bücher: **[FreeComputerBooks](https://freecomputerbooks.com/)** | [**Become a Programmer** \[ProgMofo\]](http://www.progmofo.com/become.html)
 - Paper: **[Papers We Love](https://github.com/papers-we-love/papers-we-love)**
 - Tutorials: **[hackr.io](https://hackr.io/)** | [**freeCodeCamp** Programming Tutorials](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
-- Vorlesungen: **[Awesome Courses](https://github.com/prakhar1989/awesome-courses)**
+- Vorlesungen: **[Edukatico » Vorlesungsvideo](https://www.edukatico.org/de/online-kurse/informatik-edv?form=2)** | [tele-TASK](https://www.tele-task.de/) des HPI | **[Awesome Courses](https://github.com/prakhar1989/awesome-courses)**
+	- Zugriffsgesichert: [FAU.tv](https://www.fau.tv/)
 - MOOCs: **[MOOC-List](https://www.mooc-list.com/)** | **[mooc.house](https://mooc.house/courses)**
 
 ## Footer
