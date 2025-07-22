@@ -53,7 +53,10 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - [Bonusliste](#bonusliste-1)
 - [China-Aufenthalt](#china-aufenthalt)
 - [Informatik-Nachrichten](#informatik-nachrichten)
+  - [Informatik-Podcasts](#informatik-podcasts)
+  - [Wissenschaftliche Mailinglisten](#wissenschaftliche-mailinglisten)
   - [Regionale Gruppen](#regionale-gruppen)
+  - [Deutsche High-Tech Unternehmen (Informtik/KI)](#deutsche-high-tech-unternehmen-informtikki)
 - [Filme und TV-Serien](#filme-und-tv-serien)
 - [Humor](#humor)
 - [Kultur](#kultur)
@@ -109,6 +112,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - IT-Notfallprinzip:
 	- EN: "Did you try to turn it off and on again?"
 	- DE: "AEG" = "Aus. Ein. Geht."
+- IT-Sicherheit für nicht-technische Personen
+	- [ESCAPE](https://www.uni-mannheim.de/informationssicherheit/sicherheitstipps/podcast/#c279240): Cyberkrimi-Podcast
+	- [SecAware.nrw](https://secaware.nrw/): Selbstlernakademie für mehr Cybersicherheit
 - KI-Spiele
 	- [Montagsmaler](https://quickdraw.withgoogle.com/?locale=de) per Google QuickDraw
 	- [Which Face is Real](http://whichfaceisreal.com/) (und als Vorbereitung: [this-person-does-not-exist](https://this-person-does-not-exist.com/de))
@@ -218,6 +224,11 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Computersicherheit-Allgemeinwissen: [**IT-Handbuch** für Fachinformatiker (2013) **Kap. 20**](https://openbook.rheinwerk-verlag.de/it_handbuch/20_001.html)
 - Büroanwendungen: **[E-Mail](https://edu.gcfglobal.org/en/email101/)**, **[PDF](https://edu.gcfglobal.org/en/basic-computer-skills/what-is-a-pdf-file/1/)**, **[Zip](https://edu.gcfglobal.org/en/techsavvy/working-with-zip-files/1/)**, **[Word](https://edu.gcfglobal.org/en/word/)**, **[Excel](https://edu.gcfglobal.org/en/excel/)** (Weitere per **[LearnFree.org](https://edu.gcfglobal.org/en/topics/)**!)
 	- Weitere Excel-Lernmaterialien: [excel-easy.com](https://www.excel-easy.com/)
+- Grafiken-Allgemeinwissen
+	- Rastergrafiken: [Dateiformate](https://www.geeksforgeeks.org/techtips/image-formats/)
+	- [Rastergrafik vs. Vektorgrafik](https://www.geeksforgeeks.org/computer-graphics/vector-vs-raster-graphics/)
+	- Druckauflösung: [PPI vs DPI: Demystifying the World of Online and Print Resolution](https://www.shutterstock.com/blog/ppi-vs-dpi-resolution-guide)
+	- RGB vs. CMYK: [Introduction to Color Management for Printing: How to Switch from RGB to CMYK](https://www.clipstudio.net/how-to-draw/archives/156866)
 - Gute Präsentationen halten? Buch (€) [Präsentieren können: Das neue Handbuch für authentische Präsentationen](http://www.amazon.de/dp/3836292912/)
 - PowerPoint-Kenntnisse: **[PowerPoint](https://edu.gcfglobal.org/en/powerpoint/)** (insb. ändern der Kopf- und Fußzeile sowie Ansicht Folienmaster) ⭐
 	- **[Tastaturkürzel](https://www.presentationload.de/blog/powerpoint-shortcuts/)** (mind. **F5** und **Shift-F5**⭐ sowie das **numerische Springen zu einer Foliennummer**)
@@ -252,10 +263,11 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- vgl. auch Schulleistungsuntersuchungen (s.o.), insb. [TIMSS](https://timss.bc.edu/timss-landing.html) wg. dessen Fokus auf Mathematik sowie den dt. [Bildungsmonitor](https://www.insm.de/insm/themen/bildung/) mit seiner Kategorie zu [Hochschule/MINT](https://www.insm-bildungsmonitor.de/2022_best_i_hochschule-mint.html)
 	- Provokant aber nennenswert: Video [**Schulmathematik: Vergleich** Indien NRW](https://www.youtube.com/watch?v=GhmEYB3Kq-o) (2023) von Prof. Dr. Bernhard Krötz, Mathematikprofessor an der Uni Paderborn
 - **[Empfehlungen der Gesellschaft für Informatik](https://gi.de/service/publikationen/empfehlungen)** (GI) für Informatik-Studium, -Ausbildung, -Fortbildung und -Weiterbildung
-	- GI-Empfehlungen: [für **Bachelor- und Masterprogramme** im Studienfach **Informatik** an Hochschulen](https://gi.de/fileadmin/GI/Hauptseite/Aktuelles/Meldungen/2016/GI-Empfehlungen_Bachelor-Master-Informatik2016.pdf) (2016) sowie dessen [Vorgänger von 2005](https://gi.de/fileadmin/GI/Hauptseite/Service/Publikationen/Empfehlungen/GI-Empfehlung_BaMa2005.pdf)
+	- GI-Empfehlungen: [für **Bachelor- und Masterprogramme** im Studienfach **Informatik** an Hochschulen](https://dl.gi.de/items/0986c100-a3b9-47c8-8173-54c16d16c24e) (2016) sowie dessen [Vorgänger von 2005](https://gi.de/fileadmin/GI/Hauptseite/Service/Publikationen/Empfehlungen/GI-Empfehlung_BaMa2005.pdf) (zzgl. darauf aufbauende [ASIIN-Empfehlung](https://www.asiin.de/files/content/kriterien/ASIIN_FEH_04_Informatik_2018-03-29.pdf))
 		- Inkl. Abschnitt „Typisierung der Studiengänge“ mit der berühmten Unterscheidung in „Typ 2“ und „Typ 3“ für interdisziplinäre Informatik-Studiengänge ⭐
+	- GI-Empfehlungen: [für **Wirtschaftsinformatik**](https://wirtschaftsinformatik.de/uploads/Rahmenempfehlung%20f%C3%BCr%20Studieng%C3%A4nge%20in%20Wirtschaftsinformatik_09_20.pdf) (zzgl. darauf aufbauende [ASIIN-Empfehlung](https://www.asiin.de/files/content/kriterien/ASIIN_FEH_07_Wirtschaftsinformatik_2017-12-08.pdf))
+		- Obacht: Die Wirtschaftsinformatik ist keine Typ-3-Informatik und ist damit regulatorisch kein interdisziplinärer Informatik-Studiengang mehr; in Proportionen und Gewichtungen haben die akkreditierungsrelevanten Vorgaben für Wirtschaftsinformatik eine substanziell eigene Sicht! (quasi „Typ 4“)
 	- GI-Empfehlungen: [für **Masterstudiengänge Data Science** – Auf Basis eines Bachelors in (Wirtschafts-)Informatik oder Mathematik](https://gi.de/fileadmin/GI/Hauptseite/Service/Publikationen/Empfehlungen/Empfehlungen_Masterstdiengaenge_DataScience_2021.pdf) (2021)
-
 ### Schulischer Informatik- und KI-Stoff
 
 - \[Vorab: ISB = Staatsinstitut für Schulqualität und Bildungsforschung München\]
@@ -780,6 +792,7 @@ Werkzeuge:
 		- Grundlagen: **[OWASP Top-10 for LLMs](https://genai.owasp.org/llm-top-10/)** und BSI-Handreichung [Sicherer, robuster und nachvollziehbarer Einsatz von KI](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Herausforderungen_und_Massnahmen_KI.pdf) ggf. zzgl. [BSI AIC4 Kriterienkatalog](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/AIC4/AI-Cloud-Service-Compliance-Criteria-Catalogue_AIC4.pdf)
 		- Prompt Injection: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm01-prompt-injection/), [Lakera-Einführung](https://www.lakera.ai/blog/guide-to-prompt-injection) zzgl. berühmte **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8)
 		- Data Poisoning: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm042025-data-and-model-poisoning/)
+	- Leaked System-Prompts: [https://github.com/jujumilk3/leaked-system-prompts]()
 	- Nennenswerte wahre Geschichten (IT-Security / Data Privacy):
 		- Whistleblower: [**Twitter/𝕏**-Disclosure](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf) von [Peiter „Mudge“ Zatko](https://en.wikipedia.org/wiki/Peiter_Zatko), **[Global Surveillance Disclosures](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>)** von [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
 		- Post-Mortems: [The Full Story of the Stunning **RSA Hack** Can Finally Be Told](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/) by WIRED
@@ -2216,38 +2229,37 @@ Internet Ikonen:
 
 \[ Die folgende Liste erhebt keinen Anspruch auf Vollständigkeit; sie soll nur einen Impuls setzen, damit Sie ab Beginn eines Bachelorstudiums bereits entsprechende Nachrichten mitverfolgen. \]
 
-- News: **[InfoQ](https://www.infoq.com)**, [**Heise** Newsticker](https://www.heise.de/newsticker/classic/), **[GeeksforGeeks](https://www.geeksforgeeks.org/trending/)**, … ⭐
-- Newsletter Software-Engineering: [System Design Newsletter](https://newsletter.systemdesign.one/), [Hungry Minds](https://hungrymindsdev.substack.com/), [Tech World With Milan](https://newsletter.techworld-with-milan.com/), [Plato](https://platocommunity.substack.com/), [Coding](https://codingchallenges.substack.com/) [Challenges](https://codingchallenges.substack.com/), …
-- [**Microsoft Learn**: Shows](https://docs.microsoft.com/de-de/shows/) (Darin aufgegangen: [Channel9](https://channel9.msdn.com/). Leider ist dieser Kultkanal nicht mehr eigenständig.)
-- Blogs: [**Fefe**s Blog](https://blog.fefe.de), **[Coding Horror](https://blog.codinghorror.com/)**, …
+- IT-News ⭐: **[InfoQ](https://www.infoq.com)**, [**Heise** Newsticker](https://www.heise.de/newsticker/classic/), **[GeeksforGeeks](https://www.geeksforgeeks.org/trending/)**, [golem](https://www.golem.de/microsite/newsletter/index.html), …
+	- IT-Blogs: [**Fefe**s Blog](https://blog.fefe.de), **[Coding Horror](https://blog.codinghorror.com/)**, …
+- Management und Unternehmenskultur ⭐: **[intrinsify](https://intrinsify.de/)** von Lars Vollmer und Mark Poppenborg, **[Chris Croft](https://www.chriscroft.co.uk/)**, golem [Chefs von Devs](https://www.golem.de/specials/chefsvondevs/), …
+- Informatik-Trends ⭐:
+	- Business [**Gartner** Top Strategic Technology Trends](https://www.gartner.com/en/information-technology/insights/top-technology-trends) (Gartner kostenlos per Google [Image Search](https://www.google.com/search?q=Gartner+Top+Strategic+Technology+Trends&tbm=isch)), [ToughtWorks **Technology Radar**](https://www.thoughtworks.com/radar), [**InfoQ** Trends Report](https://www.infoq.com/infoq-trends-report/)
+	- Wissenschaft: [GI **Grand Challenges** der Informatik](https://gi.de/grand-challenges), [**Fraunhofer** Institute for Technological Trend Analysis (**INT**)](https://www.int.fraunhofer.de), [Forschungs- und Technologiepolitik **Bayern**](https://www.stmwi.bayern.de/wirtschaft/forschung-technologie/) (zzgl. [bayern-innovativ](https://www.bayern-innovativ.de/))
+	- Pädagogik: [Trendscouting der PH Bern](https://ttim.phbern.ch/blog-2/)
+- SW-Engineering: [System Design Newsletter](https://newsletter.systemdesign.one/), [Hungry Minds](https://hungrymindsdev.substack.com/), [Tech World With Milan](https://newsletter.techworld-with-milan.com/), [Plato](https://platocommunity.substack.com/), [Coding](https://codingchallenges.substack.com/) [Challenges](https://codingchallenges.substack.com/), …
+	- SW-Engineering Blogs: [Netflix](https://netflixtechblog.com/) TechBlog, [Uber](https://www.uber.com/blog/engineering/) Blog, [Cloudflare](https://blog.cloudflare.com/) Blog, Engineering at [Meta](https://engineering.fb.com/), [LinkedIn](https://engineering.linkedin.com/) Engineering, [Discord](https://discord.com/blog/) Blog, [AWS](https://aws.amazon.com/blogs/architecture/) Architecture, [Slack](https://slack.engineering/) Engineering, [Stripe](https://stripe.com/blog) Blog, [Airbnb](https://medium.com/airbnb-engineering) Tech Blog, [Pinterest](https://medium.com/@Pinterest_Engineering) Engineering, [Lyft](https://eng.lyft.com/) Engineering, [Canva](https://www.canva.dev/blog/engineering/) Engineering Blog, [DoorDash](https://doordash.engineering/) Engineering, uvm.
+	- [**Microsoft Learn**: Shows](https://docs.microsoft.com/de-de/shows/) (Darin aufgegangen: [Channel9](https://channel9.msdn.com/). Leider ist dieser Kultkanal nicht mehr eigenständig.)
 - (€:) Fachmagazine ⭐: **[c’t](https://www.heise.de/ct/)**, **[iX](https://www.heise.de/ix/)**, **[Linux Magazin](https://www.linux-magazin.de/)**, **[Die Datenschleuder](https://ds.ccc.de/download.html)**, **[XRDS](https://xrds.acm.org/)**, …
 - (€:) Wissenschaftliche Magazine: [Communications of the ACM (**CACM**)](https://dl.acm.org/magazine/cacm), **[Informatik Spektrum](https://dl.gi.de/handle/20.500.12116/26)**, …
 - Big Data und Cloud-Computing für KI: [Datafloq](https://datafloq.com) | [Data Science Central](https://www.datasciencecentral.com) | [Machine Learning Mastery](https://machinelearningmastery.com/blog/) | [Distill](https://distill.pub) | [High Scalability](http://highscalability.com/) | … | **[Unstatistik des Monats](https://www.rwi-essen.de/presse/wissenschaftskommunikation/unstatistik)** ⚠️
 - DevOps: **[Admin Magazine](https://www.admin-magazine.com/News)**, **[IT-Administrator](https://www.admin-magazin.de/News)**, **[DevOps Cube](https://devopscube.com/)**, [**DevOps**.com](https://devops.com/), **[DZone DevOps](https://dzone.com/devops-tutorials-tools-news)**, …
 - KI: [**Metaculus** Forecasts/Predictions](https://www.metaculus.com/home/), [**MIT News**: AI](https://news.mit.edu/topic/artificial-intelligence2), [**WIRED**: AI](https://www.wired.com/tag/artificial-intelligence/), …, [**Denny**’s Blog](https://dennybritz.com/), **[arg min](https://www.argmin.net/)**, …
 - IT-Security/Cloud Security: [**The Daily Swig** – Data Breach News](https://portswigger.net/daily-swig/data-breach), [infosec writeups](https://infosecwriteups.com/), [Pentester Academy Blog](https://blog.pentesteracademy.com/)
-- Engineering Blogs: [Netflix](https://netflixtechblog.com/) TechBlog, [Uber](https://www.uber.com/blog/engineering/) Blog, [Cloudflare](https://blog.cloudflare.com/) Blog, Engineering at [Meta](https://engineering.fb.com/), [LinkedIn](https://engineering.linkedin.com/) Engineering, [Discord](https://discord.com/blog/) Blog, [AWS](https://aws.amazon.com/blogs/architecture/) Architecture, [Slack](https://slack.engineering/) Engineering, [Stripe](https://stripe.com/blog) Blog, [Airbnb](https://medium.com/airbnb-engineering) Tech Blog, [Pinterest](https://medium.com/@Pinterest_Engineering) Engineering, [Lyft](https://eng.lyft.com/) Engineering, [Canva](https://www.canva.dev/blog/engineering/) Engineering Blog, [DoorDash](https://doordash.engineering/) Engineering, uvm.
 - User Experience: [Jakob Nielsen](https://www.nngroup.com/topic/psychology-and-ux/), [IDEO](https://www.ideo.com/thinking)
 - Agile: **[Mike Cohn](https://www.mountaingoatsoftware.com/blog)**
-- Unternehmenskultur bzw. Management Training: **[intrinsify](https://intrinsify.de/)** von Lars Vollmer und Mark Poppenborg, **[Chris Croft](https://www.chriscroft.co.uk/)**
 - Venture Capitalists: **[Andreessen Horowitz](https://a16z.com/news-content/)**, …
-- Informatik-Trends:
-	- Business [**Gartner** Top Strategic Technology Trends](https://www.gartner.com/en/information-technology/insights/top-technology-trends) (Gartner kostenlos per Google [Image Search](https://www.google.com/search?q=Gartner+Top+Strategic+Technology+Trends&tbm=isch)), [ToughtWorks **Technology Radar**](https://www.thoughtworks.com/radar), [**InfoQ** Trends Report](https://www.infoq.com/infoq-trends-report/)
-	- Wissenschaft: [GI **Grand Challenges** der Informatik](https://gi.de/grand-challenges), [**Fraunhofer** Institute for Technological Trend Analysis (**INT**)](https://www.int.fraunhofer.de), [Forschungs- und Technologiepolitik **Bayern**](https://www.stmwi.bayern.de/wirtschaft/forschung-technologie/) (zzgl. [bayern-innovativ](https://www.bayern-innovativ.de/))
-	- Pädagogik: [Trendscouting der PH Bern](https://ttim.phbern.ch/blog-2/)
 - Hochschule: [DUZ-Magazin](https://www.duz.de/service/newsletter/), [Zeit Campus](https://www.zeit.de/campus/index) [Unicum](https://www.unicum.de/), [aud!max](https://www.audimax.de/)
 - Gesellschaft: [Cory Doctorow](https://mail.flarn.com/mailman/listinfo/plura-list/) (= plura-list)
 
-Podcasts:
+### Informatik-Podcasts
 
 - DE: [Software Architektur Systeme Menschen](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx) (INNOQ), [State of Process Automation](https://open.spotify.com/show/3GZWFX72Y87hNrOOjFxoL0) (Christoph Pacher), [Künstliche Intelligenz](https://open.spotify.com/show/2e0ib9yPTdELNdzzKojhKO) (F.A.Z.), [Alternativlos](https://www.alternativlos.org/) (Frank und Fefe)
 - Int'l: [Thoughtworks](https://open.spotify.com/show/6RBb4pGRgOFTmtCDSfTWvu), [PodRocket](https://open.spotify.com/show/6oFuKu89C9X1wQ7bT0QEM2), [Software Delivery in Small Batches](https://open.spotify.com/show/6btXUSxdL6UkoeEPIgxpD1), [Coding Blocks](https://open.spotify.com/show/23WSDfrSBULg0pBNGNWPMb), [The Argument](https://open.spotify.com/show/496zr4DOSiKpB1L5fAgf5l), [goto;](https://open.spotify.com/show/1X1lCb4auIZoQKyYiC2PYM)
 
-Wissenschaftliche Mailinglisten:
+### Wissenschaftliche Mailinglisten
 
 - Datenbanksysteme: [fg-db](https://fg-db.gi.de/weiteres/mailingliste) ([Leitungsgremium](https://fg-db.gi.de/fachgruppe/leitungsgremium))
 - Wirtschaftsinformatik: [wi des KIT-Instituts AIFB](https://www.lists.kit.edu/sympa/info/wi)
-
 
 ### Regionale Gruppen
 
@@ -2256,6 +2268,39 @@ Wissenschaftliche Mailinglisten:
 - [Digital Craftsmanship Nordoberpfalz](https://www.meetup.com/digital-craftsmanship-nordoberpfalz/) (v.a. Weiden)
 - [JUG Oberpfalz](https://www.meetup.com/jug-oberpfalz/) (v.a. Weiden)
 - [Agile Monday Nürnberg](https://www.meetup.com/agile-monday-nurnberg/) (v.a. Nürnberg)
+
+### Deutsche High-Tech Unternehmen (Informtik/KI)
+
+\[ Die folgende Liste erhebt keinen Anspruch auf Vollständigkeit; sie soll nur einen Impuls setzen. \]
+
+- Biggies (bspw. DAX): Infineon Technologies (Neubiberg), SAP (Walldorf), Deutsche Telekom AG (Bonn), …
+	- MDAX/SDAX: SUSE (Nürnberg), TeamViewer (Göppingen), Software AG (Darmstadt), …
+	- Nicht-börsennotiert: DATEV eG (Nürnberg)
+	- Internationale mit deutschem Standort: Microsoft Deutschland (München), Google Germany (München), IBM Deutschland (bei Stuttgart), …
+- Big Data / Datenmanagement: Exasol (Nürnberg), Celonis (München), ArangoDB (Köln), Blue Yonder (Karlsruhe), Seerene (Potsdam), b.telligent (München), …
+	- Internationale mit deutschem Standort: Talend Germany (München)
+- Cloud: Hetzner, noris network AG (Nürnberg), IONOS (Montabaur), …
+	- Internationale mit deutschem Standort: Cloudera Germany (Frankfurt) sowie Microsoft und Google
+- KI: DeepL (Köln), Aleph Alpha (Heidelberg), …
+- IT-Security: Rohde & Schwarz Cybersecurity (München), G Data CyberDefense AG (Bochum), …
+- IT-Beratung/Custom Software Development: msg systems AG (Ismaning), adesso SE (Dortmund), iteratec GmbH (München), codecentric AG (Solingen), …
+	- Internationale mit deutschem Standort: Capgemini (Frankreich), Accenture (Irland), Cognizant (USA), ThoughtWorks Deutschland (USA)
+- E-Commerce: Zalando (Berlin), About You (Hamburg), Thomann (Burgebrach, Bayern), …
+- Banken/FinTech: N26 (Berlin), Solaris (Berlin), …
+	- Bitcoin: Trade Republic (Berlin), …
+
+Metropolregionen Nürnberg/Erlangen und Amberg/Weiden:
+
+- Biggies: DATEV eG (Nürnberg), Siemens (Erlangen/Nürnberg/Amberg), SUSE (Nürnberg)
+- Big Data / Datenmanagement: Exasol (Nürnberg), Prodato (Nürnberg)
+- Cloud: noris network AG (Nürnberg)
+- KI: (mir ist kein Schwerpunkt-Unternehmen bekannt, aber vorhanden als Teil von Prodato, DATEV, den IT-Beratern, etc. pp.)
+- IT-Security: SySS GmbH (Niederlassung Nürnberg)
+- IT-Beratung/Custom Software Development: Astrum IT GmbH (Erlangen), infoteam (Erlangen), Method Park (Erlangen)
+	- Testing/QMS: sepp.med (Niederlassung Erlangen)
+- E-Commerce: Zalando (Berlin), About You (Hamburg), Thomann (Burgebrach, Bayern)
+- Banken/FinTech: TeamBank AG (Nürnberg)
+- Innovationsnetzwerke: Zollhof Tech Incubator (Nürnberg), Cluster MedTech, Automation Valley Nordbayern, NIK (Netzwerk der Digitalwirtschaft)
 
 ## Filme und TV-Serien
 
