@@ -220,7 +220,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 - Computer-Allgemeinwissen: [**Einführungsartikel** zu Windows, macOS und Linux](https://www.freecodecamp.org/news/an-introduction-to-operating-systems/)
 	- Windows-Allgemeinwissen: [**Windows** Basics](https://edu.gcfglobal.org/en/windowsbasics/) | [Windows **Explorer & Files**](https://edu.gcfglobal.org/en/windowsbasics/working-with-files/1/)
-	- Linux-Allgemeinwissen: [**Linux** Basics](https://www.makeuseof.com/tag/linux-beginners-guide/) | [Linux **Command-Line**](https://www.freecodecamp.org/news/command-line-for-beginners/)
+	- Linux-Allgemeinwissen: [**Linux** Basics](https://www.makeuseof.com/tag/linux-beginners-guide/) | freeCodeCamp [Linux **Command-Line**](https://www.freecodecamp.org/news/command-line-for-beginners/) | Buch [The Linux Command Line](https://www.linuxcommand.org/tlcl.php) by William Shotts
 	- Computersicherheit-Allgemeinwissen: [**IT-Handbuch** für Fachinformatiker (2013) **Kap. 20**](https://openbook.rheinwerk-verlag.de/it_handbuch/20_001.html)
 - Büroanwendungen: **[E-Mail](https://edu.gcfglobal.org/en/email101/)**, **[PDF](https://edu.gcfglobal.org/en/basic-computer-skills/what-is-a-pdf-file/1/)**, **[Zip](https://edu.gcfglobal.org/en/techsavvy/working-with-zip-files/1/)**, **[Word](https://edu.gcfglobal.org/en/word/)**, **[Excel](https://edu.gcfglobal.org/en/excel/)** (Weitere per **[LearnFree.org](https://edu.gcfglobal.org/en/topics/)**!)
 	- Weitere Excel-Lernmaterialien: [excel-easy.com](https://www.excel-easy.com/)
@@ -1164,7 +1164,8 @@ Werkzeuge:
 	- [Communication Preferences](https://www.rachelmacik.com/blog/2012/09/be-brief-be-bright-be-gone.html): [Insights® Discovery](http://www.insights.com/) (Yellow: Involve me.	Green: Show me you care.	Red: Be brief, be bright, be gone.	Blue: Give me details.)
 	- Persönlichkeit-Weisheiten:
 		- Wozniak: “Always be a good person. Even if someone is bad to you, always be good to them.” ([Referenz](https://spectrum.ieee.org/ieee-vic-summit-awards-2025))
-- Beziehungen, Ehe, Kinder
+- Life Hacks, Beziehungen, Ehe, Kinder
+	- Webartikel [17 Life Hacks](https://www.upworthy.com/17-secret-life-hacks-ex1)
 	- Webartikel [10 Qualities for Happier Marriages](https://www.yourtango.com/love/psychologist-reveals-men-who-choose-wives-with-these-qualities-happier-marriage)
 - Jobsuche
 	- **Kununu**: [Einstiegsseite **Rankings**](https://news.kununu.com/ranking/) bzw. in Kooperation mit der ZEIT auch [Beste Arbeitgeber Deutschlands 2022](https://news.kununu.com/beste-arbeitgeber-deutschland/)
@@ -1213,6 +1214,10 @@ Werkzeuge:
 		- Buch (€) [Handelsblatt **Management Bibliothek**. Kompaktes Wirtschafts- und Managementwissen in 12 Bänden](https://www.amazon.de/dp/3593378280) (2005)
 	- Online-Buch [The Startup **CTO's Handbook**](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md) von Zach Goldberg
 	- Weiterführende Quellen: [Awesome Startup](https://github.com/KrishMunot/awesome-startup)
+- Industriekonferenzen
+	- [zu Big Data](https://www.perplexity.ai/search/new?q=Was+sind+die+renommiertesten+Industriekonferenzen+zu+Big+Data+in+der+Praxis%3F+Sowohl+in+Deutschland+als+auch+International) in der Praxis
+	- [zu Cloud Computing](https://www.perplexity.ai/search/new?q=Was+sind+die+renommiertesten+Industriekonferenzen+zu+Cloud+Computing+in+der+Praxis%3F+Sowohl+in+Deutschland+als+auch+International) in der Praxis
+	- [zu KI/ML](https://www.perplexity.ai/search/new?q=Was+sind+die+renommiertesten+Industriekonferenzen+zu+Machine+Learning+und+KI+in+der+Praxis%3F+Sowohl+in+Deutschland+als+auch+International) in der Praxis
 - Selbst-Achtsamkeit
 	- Yale’s [The Science of **Well-Being**](https://www.coursera.org/learn/the-science-of-well-being) by Prof. Laurie Santos (Es gibt einen unabh. [Blog-Beitrag](https://www.linkedin.com/pulse/my-takeaways-from-science-well-being-course-imroze-aslam-malik) mit zusammenfassenden Aspekten)
 	- Weiterführende Quellen: [Awesome **Mental Health**](https://github.com/dreamingechoes/awesome-mental-health) #1 (Tech-Branche-orientiert) | [Awesome **Mental Health**](https://github.com/benstew/awesome-mental-health) #2 (generell)
@@ -2467,6 +2472,8 @@ Thank you to all our supporters! 🙏
 _Please, consider supporting my work as a lot of effort takes place to generate this list! Thanks a lot._
 
 [![Buy Me A Coffee please!](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/cyberpetaneuron)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=QTDJ2JA58ZM9L)
+[![Support on Ko‑fi](https://img.shields.io/badge/Support-Ko–fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cyberlytics)
 
 ### License
 
