@@ -222,6 +222,14 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 \[ Für jeden und vor jedem Studiengang \]
 
+- Nützliche Glaubenssätze:
+	- „Vertraue nicht auf Talent, vertraue auf Fleiß.“ → Erfolg im Studium basiert meist auf Ausdauer, nicht Genialität
+	- „Ich lerne für mich, nicht für die Prüfungen.“ → Fokus auf nachhaltiges Wissen statt kurzfristiges Bulimie-Lernen
+	- „Fragen zu stellen ist ein Zeichen von Stärke, nicht Schwäche.“ → Neugier ist der Treibstoff echter Bildung
+	- „Kleine Schritte führen weiter als große Vorsätze.“ → Täglich 30 Minuten sind besser als einmal im Monat 10 Stunden
+	- „Ich bin nicht allein – viele kämpfen mit denselben Herausforderungen.“ → Austausch und Gemeinschaft helfen mehr als Einzelkämpfertum (Lerngruppen!)
+	- „Google ist kein Ersatz für Verstehen – aber ein guter Anfang.“ → Recherchieren ist eine Kompetenz, kein Trick \[Obacht: Internet teils digitale Müllhalde\]
+	- „LLMs als KI-Lerntutoren sind kein Ersatz für Verstehen – aber ein guter Anfang.“ → Prompting ist eine Kompetenz, kein Trick \[Obacht: LLMs teils mit Halluzinationen und Bias\] (Recherche für Faktencheck weiterhin benötigt)
 - Computer-Allgemeinwissen: [**Einführungsartikel** zu Windows, macOS und Linux](https://www.freecodecamp.org/news/an-introduction-to-operating-systems/)
 	- Windows-Allgemeinwissen: [**Windows** Basics](https://edu.gcfglobal.org/en/windowsbasics/) | [Windows **Explorer & Files**](https://edu.gcfglobal.org/en/windowsbasics/working-with-files/1/)
 	- Linux-Allgemeinwissen: [**Linux** Basics](https://www.makeuseof.com/tag/linux-beginners-guide/) | freeCodeCamp [Linux **Command-Line**](https://www.freecodecamp.org/news/command-line-for-beginners/) | Buch [The Linux Command Line](https://www.linuxcommand.org/tlcl.php) by William Shotts
@@ -272,6 +280,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- GI-Empfehlungen: [für **Wirtschaftsinformatik**](https://wirtschaftsinformatik.de/uploads/Rahmenempfehlung%20f%C3%BCr%20Studieng%C3%A4nge%20in%20Wirtschaftsinformatik_09_20.pdf) (zzgl. darauf aufbauende [ASIIN-Empfehlung](https://www.asiin.de/files/content/kriterien/ASIIN_FEH_07_Wirtschaftsinformatik_2017-12-08.pdf))
 		- Obacht: Die Wirtschaftsinformatik ist keine Typ-3-Informatik und ist damit regulatorisch kein interdisziplinärer Informatik-Studiengang mehr; in Proportionen und Gewichtungen haben die akkreditierungsrelevanten Vorgaben für Wirtschaftsinformatik eine substanziell eigene Sicht! (quasi „Typ 4“)
 	- GI-Empfehlungen: [für **Masterstudiengänge Data Science** – Auf Basis eines Bachelors in (Wirtschafts-)Informatik oder Mathematik](https://gi.de/fileadmin/GI/Hauptseite/Service/Publikationen/Empfehlungen/Empfehlungen_Masterstdiengaenge_DataScience_2021.pdf) (2021)
+
 ### Schulischer Informatik- und KI-Stoff
 
 - \[Vorab: ISB = Staatsinstitut für Schulqualität und Bildungsforschung München\]
@@ -304,7 +313,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - \[OTH Amberg-Weiden:\] **[Fit-ins-Studium](https://www.oth-aw.de/studium/im-studium/infos-fuer-erstsemester/fit-ins-studium/)** (Zeitmanagement, Recherchieren, …)
 - \[OTH Amberg-Weiden:\] **Brückenkurs Mathematik** (Prä-WiSe) | **Brückenkurs Mathematik** (Prä-SoSe)
 
-### Bonusliste
+### Web-Terminologie
 - Darknet: 
 	- [Elternwissen](https://www.elternwissen.com/erziehung-entwicklung/pubertaet/deep-web-darknet-dunkle-seiten-des-internets-gefaehrden-ihr-kind/)
 	- BSI zu [Darknet und Deep Web – wir bringen Licht ins Dunkle](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Darknet-und-Deep-Web/darknet-und-deep-web_node.html)
@@ -322,7 +331,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 ### Handwerkszeug: Schreiben
 
 - Bewertungskriterien:
-	- [**Neumannscher Kriterienkatalog** für wissenschaftliche Abschlussarbeiten](https://cyberlytics.eu/theses/criteria/)
+	- [**Neumannscher Kriterienkatalog** für wissenschaftliche Abschlussarbeiten](http://www.cyberlytics.eu/theses/criteria/)
 	- [**ACM** Kriterienkatalog für wissenschaftliche Arbeiten](https://dl.acm.org/journal/dgov/reviewer-guidelines#:~:text=Decision%20criteria)
 	- [**IEEE** Kriterienkatalog für wissenschaftliche Arbeiten](https://ieeeaccess.ieee.org/about-ieee-access/announcements/reviewerbestpractices_ieeeaccess/#Whatmakesagoodqualityreview)
 - Studentische Vorab-Vorbereitungen:
@@ -796,7 +805,7 @@ Werkzeuge:
 		- Grundlagen: **[OWASP Top-10 for LLMs](https://genai.owasp.org/llm-top-10/)** und BSI-Handreichung [Sicherer, robuster und nachvollziehbarer Einsatz von KI](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Herausforderungen_und_Massnahmen_KI.pdf) ggf. zzgl. [BSI AIC4 Kriterienkatalog](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/AIC4/AI-Cloud-Service-Compliance-Criteria-Catalogue_AIC4.pdf)
 		- Prompt Injection: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm01-prompt-injection/), [Lakera-Einführung](https://www.lakera.ai/blog/guide-to-prompt-injection) zzgl. berühmte **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8)
 		- Data Poisoning: [OWASP-Einführung](https://genai.owasp.org/llmrisk/llm042025-data-and-model-poisoning/)
-	- Leaked System-Prompts: [https://github.com/jujumilk3/leaked-system-prompts]()
+	- Leaked System-Prompts: [leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts), [TheBigPromptLibrary/SystemPrompts](https://github.com/0xeb/TheBigPromptLibrary/tree/main/SystemPrompts) [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 	- Nennenswerte wahre Geschichten (IT-Security / Data Privacy):
 		- Whistleblower: [**Twitter/𝕏**-Disclosure](https://s3.documentcloud.org/documents/22186683/twitter-whistleblower-disclosure.pdf) von [Peiter „Mudge“ Zatko](https://en.wikipedia.org/wiki/Peiter_Zatko), **[Global Surveillance Disclosures](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>)** von [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
 		- Post-Mortems: [The Full Story of the Stunning **RSA Hack** Can Finally Be Told](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/) by WIRED
@@ -806,6 +815,7 @@ Werkzeuge:
 		- Privacy-Sauereien:
 			- Volkswagen: [Wir wissen, wo dein Auto steht](https://www.spiegel.de/netzwelt/web/volkswagen-konzern-datenleck-wir-wissen-wo-dein-auto-steht-a-e12d33d0-97bc-493c-96d1-aa5892861027) (zzgl. [CCC-Video](https://www.youtube.com/watch?v=iHsz6jzjbRc)) aka "Volksdaten"
 			- Meta und Yandex: [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/) aka "Local Mess"
+		- [Panama Playlists](https://panamaplaylists.com/)
 	- [**HTML5 Security** Cheatssheet](https://html5sec.org/) (inkl. CSS)
 	- Open Source Security: [The state of **open source security** report](https://snyk.io/reports/open-source-security/) von snyk | freeCodeCamp **[Open Source Software Security Handbook](https://www.freecodecamp.org/news/oss-security-best-practices/)**
 	- Docker Security: [**snyk** Warnhinweis](https://snyk.io/blog/top-ten-most-popular-docker-images-each-contain-at-least-30-vulnerabilities/) „Top ten most popular docker images each contain at least 30 vulnerabilities“
@@ -1169,7 +1179,7 @@ Werkzeuge:
 	- Persönlichkeit-Weisheiten:
 		- Wozniak: “Always be a good person. Even if someone is bad to you, always be good to them.” ([Referenz](https://spectrum.ieee.org/ieee-vic-summit-awards-2025))
 - Life Hacks, Beziehungen, Ehe, Kinder
-	- Webartikel [17 Life Hacks](https://www.upworthy.com/17-secret-life-hacks-ex1)
+	- Webartikel [17 Life Hacks](https://www.upworthy.com/17-secret-life-hacks-ex1), [42 Real-Life Cheats-Codes](https://www.boredpanda.com/some-real-life-cheat-codes-msn/)
 	- Webartikel [10 Qualities for Happier Marriages](https://www.yourtango.com/love/psychologist-reveals-men-who-choose-wives-with-these-qualities-happier-marriage)
 - Jobsuche
 	- **Kununu**: [Einstiegsseite **Rankings**](https://news.kununu.com/ranking/) bzw. in Kooperation mit der ZEIT auch [Beste Arbeitgeber Deutschlands 2022](https://news.kununu.com/beste-arbeitgeber-deutschland/)
@@ -1583,9 +1593,7 @@ Internet Ikonen:
 		- Open Data: **[wikidata.org](https://www.wikidata.org/)**, **[DBpedia](https://wiki.dbpedia.org/)**, **[WordNet](https://wordnet.princeton.edu/)**, **[Geonames](https://www.geonames.org/)**, …, **[FactGrid](https://database.factgrid.de)**, **[EoE](https://editors.eol.org/eoearth/wiki/The_Encyclopedia_of_Earth)**, …
 		- Linked Open Data: **[YAGO](https://yago-knowledge.org/)**, **[FactForge.net](http://factforge.net/)**, …, **[LOV](https://lov.linkeddata.es/dataset/lov/)**, [**Getty** Vocabularies](https://vocab.getty.edu/), …
 		- [**Google** knowledge graph](https://blog.google/products/search/introducing-knowledge-graph-things-not/), [**Amazon**’s product graph](https://www.amazon.science/blog/building-product-graphs-automatically), etc.
-		- **[northdata](https://www.northdata.de/)**: Wirtschaftsinformationen durch Firmenveröffentlichungen
 		- **[golden.com](https://golden.com/query/)**: Wirtschaftsunternehmen, Organisationen, Finanzen, uvm.
-		- [**arkham**intelligence.com](https://www.arkhamintelligence.com/): BitCoin, DeFi, …
 		- **[Notable People](https://tjukanovt.GitHub.io/notable-people)** World Map
 - Graphdatenbanksysteme
 	- Buch [**Graph Databases For Dummies**, Neo4j Special Edition](https://neo4j.com/graph-databases-for-dummies/) (2020) von Webber & van Bruggen
@@ -1629,10 +1637,15 @@ Internet Ikonen:
 	- Weiterführende Referenzen: [Awesome Concurrency](https://gitlab.com/Lipovsky/awesome-concurrency)
 	- Parallele Programmierung / Multi-Threading (⊆ Nebenläufige Programmierung):
 		- (Multi-Threading; s. oben bei Bachelor-Level)
+		- Vorlesung [Stanford CS149, Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall23/)
 		- **[Amdahl's Law](https://en.wikipedia.org/wiki/Amdahl%27s_law)**
 		- Tutorial [Introduction to **Parallel Computing Tutorial**](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial) des HPC at LLNL
 		- Vorlesung **[Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2020)** (2020) an der UC Berkeley
 		- Weiterführende Referenzen: [Awesome Parallel Computing Resources](https://github.com/taskflow/awesome-parallel-computing)
+	- GPU Programming
+		- Video aus Stanford CS149: [GPU architecture and CUDA Programming](https://www.youtube.com/watch?v=qQTDF0CBoxE) ([Folien](https://gfxcourses.stanford.edu/cs149/fall23/lecture/gpucuda/))
+		- Buch [Programming Massively Parallel Processors: A Hands-on Approach](https://www.amazon.de/dp/0128119861)
+		- Vorlesung [GPU Work Graphs](https://coburggraphicslab.github.io/workgraphs/)
 	- Asynchrone Programmierung (⊆ Nebenläufige Programmierung):
 		- C#: Stephen Clearys Artikel **[Async and Await](http://blog.stephencleary.com/2012/02/async-and-await.html)**, **[Three is no Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)**, **[Don't Block on Async Code](http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html)** sowie sein obiges Buch | CodinGame [Your **Ultimate** async / await **Tutorial** in C#](https://www.codingame.com/playgrounds/4240/your-ultimate-async-await-tutorial-in-c/introduction)
 		- JS: freeCodeCamp [Asynchronous Programming in JavaScript for Beginners](https://www.freecodecamp.org/news/asynchronism-in-javascript/)
@@ -1900,7 +1913,7 @@ Internet Ikonen:
 - Grobgliederung der Informatik:
 	- Anerkannte Autorität für die Untergliederung der Informatik ist Prof. Peter **Rechenberg**, ein deutsch-österreichischer Informatiker (TU Berlin / Uni Linz).
 		- Mainstream-Impact hat seine Einteilung erhalten durch das bereits oben aufgeführte "**[Das Informatik-Handbuch](https://www.amazon.de/dp/3446401857)**" von Peter Rechenberg (Hrsg.) & Gustav Pomberger (Hrsg.)
-		- Den [Scan des Inhaltsverzeichnissen von 2006](https://www.cyberlytics.eu/img/informatik/) \[[PDF](https://www.cyberlytics.eu/img/informatik/Informatik_Taxonomie_Stand2006.pdf)\] ⭐
+		- Den [Scan des Inhaltsverzeichnissen von 2006](http://www.cyberlytics.eu/img/informatik/) \[[PDF](http://www.cyberlytics.eu/img/informatik/Informatik_Taxonomie_Stand2006.pdf)\] ⭐
 	- Er charakterisiert vier Teilgebiete der Informatik: 1. **Theoretische Informatik** 2. **Technische Informatik** 3. **Praktische Informatik** 4. **Angewandte Informatik**
 	- Als Überbegriff wurde neben (schlicht) **Informatik** auch regelmäßig **Kerninformatik** verwendet
 		- Bspw. in jahrzehntelanger Abgrenzung zur **Wirtschaftsinformatik** oder später auch zur **Bioinformatik** und weiteren Teilgebieten, die sich zu eigenen Wissenschaften entwickelt haben, und i.d.R. heute nicht (mehr) unter Kerninformatik subsumiert werden
@@ -2184,7 +2197,7 @@ Internet Ikonen:
 			- Werkzeuge: [TechScribe](https://www.simplified-english.co.uk/) (basierend auf LanguageTool), [HyperSTE](https://simplifiedenglish.net/asd-ste100/), [Congree STE Checker](https://www.congree.com/en/ste-simplified-technical-english),
 		- [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
 
-### Bonusliste
+### Post-Doc-Bonusliste
 
 - Wissenschaftsrat (2020): [Stellungnahme zum Konzept zur Gründung der Technischen Universität Nürnberg](https://www.wissenschaftsrat.de/download/2020/8254-20.html); Berlin.
 	- (Erste Neugründung einer staatlichen Universität in Bayern seit 1978.)
@@ -2310,6 +2323,13 @@ Metropolregionen Nürnberg/Erlangen und Amberg/Weiden:
 - E-Commerce: Zalando (Berlin), About You (Hamburg), Thomann (Burgebrach, Bayern)
 - Banken/FinTech: TeamBank AG (Nürnberg)
 - Innovationsnetzwerke: Zollhof Tech Incubator (Nürnberg), Cluster MedTech, Automation Valley Nordbayern, NIK (Netzwerk der Digitalwirtschaft)
+
+Business-Recherchen:
+	- **[northdata](https://www.northdata.de/)**: Wirtschaftsinformationen durch Firmenveröffentlichungen
+	- **[golden.com](https://golden.com/query/)**: Wirtschaftsunternehmen, Organisationen, Finanzen, uvm.
+	- **[Open Corporates](https://opencorporates.com/)**
+	- [**arkham**intelligence.com](https://www.arkhamintelligence.com/): BitCoin, DeFi, …
+	- **[Notable People](https://tjukanovt.GitHub.io/notable-people)** World Map
 
 ## Filme und TV-Serien
 
