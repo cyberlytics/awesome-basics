@@ -30,7 +30,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
   - [Orientierung](#orientierung)
   - [Schulischer Informatik- und KI-Stoff](#schulischer-informatik--und-ki-stoff)
   - [Handwerkszeug](#handwerkszeug)
-  - [Bonusliste](#bonusliste)
+  - [Web-Terminologie](#web-terminologie)
 - [Vor einer wiss. Abschlussarbeit (Informatik/KI)](#vor-einer-wiss-abschlussarbeit-informatikki)
   - [Handwerkszeug: Schreiben](#handwerkszeug-schreiben)
   - [Handwerkszeug: Getting Sh\*t Done](#handwerkszeug-getting-sht-done)
@@ -54,7 +54,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - [Vor einer PhD-Phase](#vor-einer-phd-phase)
 - [Forschungsdatenmanagement](#forschungsdatenmanagement)
 - [Vor einer Post-Doc-Phase oder Professur](#vor-einer-post-doc-phase-oder-professur)
-  - [Bonusliste](#bonusliste-1)
+  - [Post-Doc-Bonusliste](#post-doc-bonusliste)
 - [China-Aufenthalt](#china-aufenthalt)
 - [Informatik-Nachrichten](#informatik-nachrichten)
   - [Informatik-Podcasts](#informatik-podcasts)
@@ -264,7 +264,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 - Artikel **[Was ist Informatik?](https://sb726cd41480af32d.jimcontent.com/download/version/1379804211/module/8062351485/name/fach-was-ist-informatik.pdf)** (2010) von Peter Rechenberg ⭐
 - [Berufe.TV zur **Informatik**](https://web.arbeitsagentur.de/berufetv/studienberufe/mathematik-naturwissenschaften/informatik)
-- **[Explain it Like I'm Five](https://dev.to/t/explainlikeimfive)** (ELI5) zu Themen der Informatik
+- Technische Konzepte in Laiensprache erklärt (ELI5): **[Explain it Like I'm Five](https://dev.to/t/explainlikeimfive)**, [Awesome ELI5](https://github.com/swapagarwal/awesome-eli5)
 - MOOC-Kurs von Stanford [CS101](https://www.edx.org/learn/computer-science/stanford-university-computer-science-101)
 - freeCodeCamp [**What is Programming?** A Handbook for Beginners](https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/)
 - ggf. Bewerbung an einer (kostenlosen) [**42** School](https://42.us.org/) (in DE: [Berlin](https://42berlin.de/), [Heilbronn](https://www.42heilbronn.de), [Wolfsburg](https://42wolfsburg.de/)) zur Orientierung durch deren Auswahlverfahren, u.a. durch deren Piscine (fr. „Schwimmbad“) bzw. dessen Online-Variante das 42 Basecamp (Die internationale und gemeinnützige Bewegung bzw. [Schule namens 42](<https://de.wikipedia.org/wiki/42_(Schule)>) bietet ein gutes Programm für Programmierkenntnisse und reine Softwareentwicklung; mindestens auf Fachinformatik-Ausbildungsniveau, aber ohne staatlich anerkannten Abschluss)
@@ -353,6 +353,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 		- Systematische Literaturrecherche: [A compendium for systematic literature searching](https://maelphes.github.io/syslitcom/), [Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA)](https://www.prisma-statement.org), [TARCIS statement](https://www.bmj.com/content/385/bmj-2023-078384)
 	- Lesetechniken: **[PQ4R](https://www.google.com/search?q=PQ4R)** (Preview, Questions, Read, Reflect, Recite, Review), bzw. deren Vorgänger **[SQ3R](https://www.teachsam.de/arb/arb_les_strat_2.htm)** (Survey, Question, Read, Recite und Review)
 	- Schnelllesen: (€) Buch **[Speed Reading](https://www.amazon.de/dp/3868828710/)** (2017 | [Orig: 2006](https://books.google.de/books?id=HpvjGZ_Ff60C)) von Tony Buzan
+		- Verwandte Konzepte:
+			- [RSVP](https://elvers.us/perception/rsvp/) (= Rapid Serial Visual Presentation) von [Prof. Marry Potter](https://web.archive.org/web/20201117020411/https://bcs.mit.edu/users/mpottermitedu))
+			- [Spritz](https://www.technology.org/2014/03/19/spritz-speed-reading-apps-prose-cons/) = RSVP + ORP (= Optimal Recognition Point) ([TED-Video](https://www.youtube.com/watch?v=j7q7s-bjIVg))
 		- Training-App: [Reading Trainer](https://readingtrainer.com/)
 	- Wiss. Schreiben: **[IMRaD](https://en.wikipedia.org/wiki/IMRAD)** | [Elsevier **Einführung in wiss. Schreiben**](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously) ⭐
 		- Cheat Sheets: [Structure of a Research Paper: IMRaD Format](https://libguides.umn.edu/StructureResearchPaper), [IMRaD Cheat Sheet](https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/imrd-examples.pdf)
@@ -512,6 +515,7 @@ Werkzeuge:
 		- Unicode: Webartikel [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) von 2003
 		- Unicode in Java: Webartikel [Unicode - How to get the characters right?](https://balusc.omnifaces.org/2009/05/unicode-how-to-get-characters-right.html) von 2009
 		- base64: freeCodeCamp [What is **base64 Encoding** and Why is it Necessary?](https://www.freecodecamp.org/news/what-is-base64-encoding/)
+		- Windows Console/Terminal: StackOverflow [Displaying Unicode in PowerShell](https://stackoverflow.com/questions/49476326/displaying-unicode-in-powershell/49481797#49481797)
 	- YouTuber: [Ben Eater](https://www.youtube.com/@beneater)
 	- [Windows: system **power states**](https://learn.microsoft.com/en-us/windows/win32/power/system-power-states)
 	- Modellierung: [Timing-Diagramme](https://plantuml.com/timing-diagram)
@@ -1163,6 +1167,7 @@ Werkzeuge:
 
 ### B.Sc.: Bonusliste
 
+- Kostenloser Loot: [Swag opportunities for developers](https://devswag.io/)
 - Weiterbildung: **[roadmap.sh](https://roadmap.sh/)** (free educational roadmaps for software engineers)
 - Berufliche Wegfindung / Persönliche Karriere
 	- (€:) Buch [Durchstarten zum Traumjob](https://www.amazon.de/s?k=Durchstarten+zum+Traumjob) von Richard Nelson Bolles (engl. Original: **[What Color Is Your Parachute?](https://www.amazon.de/s?k=what+color+is+your+parachute)**)
@@ -1884,7 +1889,8 @@ Internet Ikonen:
 - Funding:
 	- **Promotionsstipendium** als Geldgeber
 		- [Webartikel von **academics.de**](https://www.academics.de/ratgeber/promotionsstipendium-doktorandenstipendium) ⭐
-		- Stipendium-Suche: **[mystipendium.de](https://www.mystipendium.de/)**
+		- Stipendium-Suche: **[mystipendium.de](https://www.mystipendium.de/)** (oder [Google](https://www.google.com/search?q="Promovieren+mit+Stipendium"+filetype%3Apdf)/[Chatbot](https://www.perplexity.ai/search/new?q=Welche+Stipendiengeber+für+eine+Promtion+gibt+es%2C+die+vergleichbar+sind+zur+Promotionsförderung+der+Studienstiftung+des+deutschen+Volkes))
+		- Empfehlung: [Promotionsförderung der Studienstiftung des deutschen Volkes](https://www.studienstiftung.de/infos-fuer-promovierende/promotionsfoerderung-der-studienstiftung) ([PDF](https://www.studienstiftung.de/pool/sdv/public/documents/STIPENDIUM/Promotionsfoerderung/Flyer-Promotion-quadratisch__Web.pdf))
 	- **Projektanträge** als Geldgeber
 		- _Bayern_
 			- **[Bayerische Forschungsstiftung](https://forschungsstiftung.de/)**
@@ -2453,7 +2459,7 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 - Coding-Practice
 	- Data Science: **[DataScratch](https://www.stratascratch.com/)** (SQL und Python), [SQLPad](https://sqlpad.io/playground/)
 	- Algorithmik: **[Codewars](https://www.codewars.com/)**, [CodinGame](https://www.codingame.com/start), [LeetCode](https://leetcode.com/), [SPOJ](https://www.spoj.com/), [HackerRank](https://www.hackerrank.com/), [Project Euler](https://projecteuler.net/ "Project Euler Homepage"), [GeeksforGeeks](https://www.geeksforgeeks.org/ "GeeksforGeeks Homepage"), [CoderByte](https://coderbyte.com/ "Coderbyte Homepage"), [AlgoMonster](https://algo.monster/), [Interview Cake](https://www.interviewcake.com/table-of-contents), uvm.
-	- Über Mitarbeit an Open Source Projekten (ein Issue pro Tag): **[CodeTriage](https://www.codetriage.com/)**
+	- Über Mitarbeit an Open Source Projekten (ein Issue pro Tag): **[CodeTriage](https://www.codetriage.com/)**, **[Awesome First Pull Request Opportunities](https://github.com/MunGell/awesome-for-beginners)**
 - Kostenlose Zertifikate: freeCodeCamp [1000+ **Free Developer Certifications**](https://www.freecodecamp.org/news/free-certificates/)
 - Arbeitgeber-Übersichtslisten?
 	- Glassdoor: [Best Places to Work 2023 (USA; Top Large)](https://www.glassdoor.com/Award/Best-Places-to-Work-LST_KQ0,19.htm) bzw. [Beste Arbeitgeber 2023 (Germany)](https://www.glassdoor.com/Award/Beste-Arbeitgeber-Deutschland-LST_KQ0,29.htm)
