@@ -1783,25 +1783,26 @@ Internet Ikonen:
 	- Nachhaltigkeit und Zukunftsfragen der Menschheit: **[Club of Rome](https://de.wikipedia.org/wiki/Club_of_Rome)** sowie deren [Studien](https://www.clubofrome.org/publications/)
 	- Video [New Work](https://www.youtube.com/watch?v=29IoGFD86QM) mit Prof. Frithjof Bergmann
 	- intrinsify-Leseliste
-		- [Eine kompakte Einführung in die Systemtheorie](https://intrinsify.de/systemtheorie-wieso-sie-fuer-moderne-unternehmensfuehrung-unverzichtbar-ist/)
+		- [Eine kompakte Einführung in die Systemtheorie](https://intrinsify.de/systemtheorie-wieso-sie-fuer-moderne-unternehmensfuehrung-unverzichtbar-ist/) ⭐
 		- [Wie C-Level Funktionen Dein Führungsteam zerstören können](https://intrinsify.de/braucht-dein-unternehmen-auch-einen-chief-trust-officer/)
-		- [Was ist eine gute Strategie?](https://intrinsify.de/was-ist-eine-gute-strategie/)
-		- [Glaubenssätze in traditionellen Unternehmen](https://intrinsify.de/wp-content/uploads/Glaubenssaetze.pdf)
-		- [Welches Spiel spielt Dich?](https://intrinsify.de/video/welches-spiel-spielt-dich/)
-		- [Wie lassen sich Organisationen wirksam irritieren?](https://intrinsify.de/organisationsentwicklung-wie-lassen-sich-organisationen-wirksam-irritieren/)
+		- [Was ist eine gute Strategie?](https://intrinsify.de/was-ist-eine-gute-strategie/) ⭐
+		- PDF: [Glaubenssätze in traditionellen Unternehmen](https://intrinsify.de/wp-content/uploads/Glaubenssaetze.pdf)
+		- [Welches Spiel spielt Dich?](https://intrinsify.de/video/welches-spiel-spielt-dich/) ⭐
+		- [Wie lassen sich Organisationen wirksam irritieren?](https://intrinsify.de/organisationsentwicklung-wie-lassen-sich-organisationen-wirksam-irritieren/) ⭐
 		- [Beliebte Denkfehler und -fallen](https://intrinsify.de/diese-weihnachtsgeschichte-koennte-auch-in-wirtschaftsunternehmen-spielen/)
 		- [Wie diese Unternehmen die individuellen Zielvereinbarungen abgeschafft haben](https://intrinsify.de/wie-diese-unternehmen-die-individuellen-zielvereinbarungen-abgeschafft-haben/)
 		- [Welche Rolle spielt HR in der neuen Arbeitswelt?](https://intrinsify.de/welche-rolle-spielt-hr-in-der-neuen-arbeitswelt/)
-		- [5 Anzeichen, dass Eure Mitarbeiter doch noch motiviert sind](https://intrinsify.de/5-anzeichen-dass-eure-mitarbeiter-doch-noch-motiviert-sind/)
+		- [5 Anzeichen, dass Eure Mitarbeiter doch noch motiviert sind](https://intrinsify.de/5-anzeichen-dass-eure-mitarbeiter-doch-noch-motiviert-sind/) ⭐
 		- [Die Ämterfalle: Wie Du Talente verheizt](https://intrinsify.de/die-aemterfalle-wie-du-talente-verheizt/)
-		- [Warum eine Führungskraft kein Coach sein kann](https://intrinsify.de/warum-eine-fuehrungskraft-kein-coach-sein-kann/)
-		- [Der Talent-Irrtum](https://intrinsify.de/der-talent-irrtum/)
+		- [Warum eine Führungskraft kein Coach sein kann](https://intrinsify.de/warum-eine-fuehrungskraft-kein-coach-sein-kann/) ⭐
+		- [Der Talent-Irrtum](https://intrinsify.de/der-talent-irrtum/) ⭐
 		- [Magische Emergenz](https://intrinsify.de/magische-emergenz/)
 		- [Work early, Hire late, Fire slow](https://intrinsify.de/work-early-hire-late-fire-slow/)
 		- [Wie ich mich in der Generation Y getäuscht habe](https://intrinsify.de/wie-ich-mich-in-der-generation-y-getaeuscht-habe/)
 		- [Mein perfekter Chef (den ich nie hatte)](https://intrinsify.de/mein-perfekter-chef-den-ich-nie-hatte/)
 		- [Immer gegen die Wand gelaufen](https://intrinsify.de/immer-gegen-die-wand-gelaufen-bis-ich/)
 		- [Meeting-Wahnsinn: Wieso die üblichen Tipps nichts bringen](https://intrinsify.de/meeting-wahnsinn-wieso-die-ueblichen-tipps-nichts-bringen/)
+		- [Die 6 Phasen zur Führungsmeisterschaft](https://intrinsify.de/der-weg-zu-einer-der-top-1-fuehrungskraefte/) ⭐
 	- intrinsify-Leseliste mit Lehrbezug:
 		- **[Möge die Macht mit euch sein](https://intrinsify.de/moege-die-macht-mit-euch-sein/)** ⭐
 	- [Chris Croft](https://www.linkedin.com/learning/instructors/chris-croft)) auf LinkedIn Learning
