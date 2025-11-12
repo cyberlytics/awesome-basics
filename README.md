@@ -104,7 +104,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Video [Harvard Professor Explains Algorithms in 5 Levels of Difficulty](https://www.youtube.com/watch?v=fkIvmfqX-t0) (Playlist: [5 Levels](https://youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N): [Machine Learning](https://www.youtube.com/watch?v=5q87K1WaoFI), [Hacking](https://www.youtube.com/watch?v=d9PqVcgT1kQ), [Blockchain](https://www.youtube.com/watch?v=hYip_Vuv8J0), [Virtual Reality](https://www.youtube.com/watch?v=akveRNY6Ulw))
 	- Arbeitsheft **[schulKI: Das Schulbuch](https://schulbuchki.s3-eu-central-1.ionoscloud.com/schulKI-2024-07-21-helle-edition.pdf)**
 	- SchuBu [Digitale Grundbildung 3](https://www.schubu.org/t11-7) (sowie deren andere [digitalen Schulbücher](https://www.schubu.org/))
-	- Videos [Frag Fred](https://www.youtube.com/playlist?list=PLMu9JaQVxJoEWVdcNvsDnd1_dKmAkWDVA)
+	- Kindgerechte Informatik/KI: [Frag Fred](https://www.youtube.com/playlist?list=PLMu9JaQVxJoEWVdcNvsDnd1_dKmAkWDVA), [ZDF goes Schule: Kategorie Mathe und Technik](https://schule.zdf.de/kategorie/mathematik), [Planet Schule: Schwerkpunkt KI](https://www.planet-schule.de/schwerpunkt/index.html), [Sendung mit der Maus (ausgewählte Folgen)](https://www.perplexity.ai/search/new?q=sendung+mit+der+maus+videos+mit+informatik+oder+ki+bezug), [Franneck](https://www.youtube.com/@Franneck), [The Morpheus Tutorials](https://www.youtube.com/@TheMorpheusTutorials)
 - Ursprung in Deutschland
 	- **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabensammlung](https://bwinf.de/biber/archiv/)) ⭐
 	- [Calliope Mini](https://calliope.cc/) ([Anleitungen](https://calliopemini.info/), Microsoft [MakeCode](https://makecode.calliope.cc/))
@@ -130,9 +130,16 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Grenzen von KI: [A **GPT-4 Capability** Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
 	- Prompt Injection als LLM-Sicherheitsangriff: **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8))
 - Wichtige Lernplattformen
-	- Software: **[Scratch](https://scratch.mit.edu/)** (MIT), [Code it!](https://code-it-studio.de/), [Code Combat](https://codecombat.com/)
-	- Einplatinencomputer: **[Raspberry Pi](https://tutorials-raspberrypi.de/13-tolle-raspberry-pi-projekte-fuer-kinder-jugendliche/)** und **[Arduino](https://kinderprogrammieren.de/ratgeber/arduino-fuer-kinder-ratgeber-fuer-einstieg/)** ([Open Roberta Lab](https://lab.open-roberta.org/)) sowie oben bereits erwähnt das dt. **[Calliope Mini](https://calliope.cc/)** ([Anleitungen](https://calliopemini.info/), Microsoft [MakeCode](https://makecode.calliope.cc/))
-	- Roboterspielzeug: von **[Kosmos](https://www.amazon.de/s?k=kosmos+roboter)** (wie oben: bspw. [Miika K.I.](https://www.kosmos.de/de/miika-k.i._1620899_4002051620899)), **[Adeept](https://www.amazon.de/s?k=Adeept)** (bspw. [Mars Rover](https://www.amazon.de/dp/B085C8DFT8)), **[Keyestudio](https://www.amazon.de/s?k=keyestudio)** (bspw. [Smart Car Robot](https://www.amazon.de/dp/B08276N3D9/)), **[Makeblock](https://www.amazon.de/s?k=makeblock)** (bspw. [mBot Ranger](https://www.amazon.de/dp/B07KG4JHBH)), **[Lego](https://www.amazon.de/s?k=lego+roboter+programmierbar)** (bspw. [Boost](https://www.amazon.de/dp/B072MK1PDV/); Hinweis: Lego hat Mindstorms leider seit 2022 [aufgegeben](https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/)), **[Clementoni](https://www.amazon.de/s?k=Clementoni+robot)** (~ Galileo), **[Freenove](https://www.amazon.de/s?k=freenove)** (bspw. [Big Hexapod](https://www.amazon.de/dp/B09CFRJSS5/)) sowie **[Hexabugs](https://kinderprogrammieren.de/spielsachen/hexbugs-im-vergleich/)**
+	- Programmierung: **[Scratch](https://scratch.mit.edu/)** (MIT), [Code it!](https://code-it-studio.de/), [Code Combat](https://codecombat.com/)
+	- KI: **[LearningML](https://web.learningml.org/)** ([download](https://web.learningml.org/learningml-desktop))
+	- Einplatinencomputer:
+		- **[Raspberry Pi](https://tutorials-raspberrypi.de/13-tolle-raspberry-pi-projekte-fuer-kinder-jugendliche/)**
+		- **[Arduino](https://kinderprogrammieren.de/ratgeber/arduino-fuer-kinder-ratgeber-fuer-einstieg/)** ([Open Roberta Lab](https://lab.open-roberta.org/))
+		- dt. **[Calliope Mini](https://calliope.cc/)** ([Anleitungen](https://calliopemini.info/), Microsoft [MakeCode](https://makecode.calliope.cc/))
+	- Roboterspielzeug:
+		- DIY / Open Source: [Open Duck Mini](https://github.com/apirrone/Open_Duck_Mini) sowie [Waveshare](https://www.waveshare.com/wiki/) (u.a. [UGV Beast](https://www.waveshare.com/ugv-beast.htm))
+		- Kommerziell: von **[Kosmos](https://www.amazon.de/s?k=kosmos+roboter)** (wie oben: bspw. [Miika K.I.](https://www.kosmos.de/de/miika-k.i._1620899_4002051620899)), **[Adeept](https://www.amazon.de/s?k=Adeept)** (bspw. [Mars Rover](https://www.amazon.de/dp/B085C8DFT8)), **[Keyestudio](https://www.amazon.de/s?k=keyestudio)** (bspw. [Smart Car Robot](https://www.amazon.de/dp/B08276N3D9/)), **[Makeblock](https://www.amazon.de/s?k=makeblock)** (bspw. [mBot Ranger](https://www.amazon.de/dp/B07KG4JHBH)), **[Lego](https://www.amazon.de/s?k=lego+roboter+programmierbar)** (bspw. [Boost](https://www.amazon.de/dp/B072MK1PDV/); Hinweis: Lego hat Mindstorms leider seit 2022 [aufgegeben](https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/)), **[Clementoni](https://www.amazon.de/s?k=Clementoni+robot)** (~ Galileo), **[Freenove](https://www.amazon.de/s?k=freenove)** (bspw. [Big Hexapod](https://www.amazon.de/dp/B09CFRJSS5/)) sowie **[Hexabugs](https://kinderprogrammieren.de/spielsachen/hexbugs-im-vergleich/)**
+		- Kommerziell (int'l Versand): [Petoi](https://www.petoi.com/) (bspw. Hund [Bittle](https://www.petoi.com/pages/bittle-smart-robot-dog-model-overview) oder Katze [Nybble](https://www.petoi.com/products/petoi-nybble-q-robot-cat))
 		- Nennenswerte nicht-programmierbare Roboter als Anschauungsobjekte: Energize Lab (v.a. [Eilik](https://www.amazon.de/s?k=eilik))
 	- Drohnen: **[DJI](https://www.amazon.de/s?k=dji+drohne)** und andere
 - Medienkompetenz
@@ -201,6 +208,11 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 			- Nennenswert: es gibt auch eine Variante [Zorin OS **Education**](https://zorin.com/os/education/) für Kinder/Schulen
 		- Für Gamer: [Pop!_OS](https://pop.system76.com/)
 		- Run Windows software on Linux? [Bottles](https://usebottles.com/)
+	- Hardware-Empfehlungen
+		- Mini-PC: z.B. Linux-freundliches Lenovo ThinkCentre (bspw. per [Pollin](https://www.pollin.de/search?search=Thinkcentre), [Amazon](www.amazon.de/s?k=lenovo+thinkcentre+refurbished)), auch gebraucht/refurbished
+		- Raspberry Pi: z.B. als Raspberry Pi 500 (bspw. per [Reichelt](https://www.reichelt.de/de/de/shop/suche/raspberry%20pi%20500), [Amazon](https://www.amazon.de/s?k=Raspberry+Pi+500)), ähnlich dem C64-Bauprinzip (RPi 500 hat [Micro-HDMI](https://www.amazon.de/s?k=micro-hdmi+monitor))
+		- Tastatur: es gibt [Kinder-Tastaturen](https://www.amazon.de/s?k=kinder+tastatur+PC)
+		- Maus: es gibt Mäuse für [kleine Hände](https://www.amazon.de/s?k=maus+kleine+hände)
 	- Office-Empfehlung:
 		- **[LibreOffice](https://www.libreoffice.org/)** \[**choco install libreoffice-fresh**\]
 	- Browser-Empfehlung:
@@ -217,6 +229,11 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 		- Liste [Vereine, Stiftungen und Projekte zur MINT-Förderung](https://www.bildungsserver.de/vereine-stiftungen-und-projekte-zur-mint-foerderung-12635-de.html)
 	- BY:
 		- [Förderung im MINT-Bereich](https://www.km.bayern.de/lernen/inhalte/mint) des bay. Kultusministeriums (Unterricht, Wettbewerbe, etc.)
+- MINT Videos
+	- Kindgerechte Wissenskommunikation: [ZDF goes Schule](https://schule.zdf.de), SWR/WDR [Planet Schule](https://www.planet-schule.de/), [Lehrer Schmidt](https://www.youtube.com/@lehrerschmidt) (u.a. Mathe), [schoolseasy](https://www.youtube.com/@schoolseasy), [Die Merkhilfe](https://www.youtube.com/@diemerkhilfe), [Sommers Weltliteratur](https://www.youtube.com/@SommersWeltliteraturToGo), [Simple Club Geschichte](https://www.youtube.com/@simpleclub_geschichte), [Kurzgesagt](https://www.youtube.com/user/KurzgesagtDE), [StudyFlix](https://www.youtube.com/@studyflix)
+	- Deutschprachige Wissensschaftskommunikation: [Quarks](https://www.youtube.com/@Quarks), [Leibnitz-Gesellschaft](https://www.youtube.com/@leibniz-gemeinschaft), [Max-Planck-Gesellschaft](www.youtube.com/user/MaxPlanckSociety/), [Helmholtz Gemeinschaft](https://www.youtube.com/user/HelmholtzTV), [Spektrum der Wissenschaft](www.youtube.com/@spektrumverlag/)
+	- Englischsprachige Wissenschaftskommunkation: [Branch Education](https://www.youtube.com/@BranchEducation) (mit Schwerpunkt Informatik), [CrashCourse](https://www.youtube.com/user/crashcourse), [TED Education](https://www.youtube.com/user/TEDEducation) / [TEDx Youth](https://www.youtube.com/user/TEDxYouth), [Minutephysics](https://www.youtube.com/user/minutephysics)
+
 
 ## Vor Eintritt in ein Bachelorstudium
 
@@ -229,7 +246,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- „Kleine Schritte führen weiter als große Vorsätze.“ → Täglich 30 Minuten sind besser als einmal im Monat 10 Stunden
 	- „Ich bin nicht allein – viele kämpfen mit denselben Herausforderungen.“ → Austausch und Gemeinschaft helfen mehr als Einzelkämpfertum (Lerngruppen!)
 	- „Google ist kein Ersatz für Verstehen – aber ein guter Anfang.“ → Recherchieren ist eine Kompetenz, kein Trick \[Obacht: Internet teils digitale Müllhalde\]
-	- „LLMs als KI-Lerntutoren sind kein Ersatz für Verstehen – aber ein guter Anfang.“ → Prompting ist eine Kompetenz, kein Trick \[Obacht: LLMs teils mit Halluzinationen und Bias\] (Recherche für Faktencheck weiterhin benötigt)
+	- „Ein Chatbot als KI-Lerntutor ist kein Ersatz für Verstehen – aber ein guter Anfang.“ → Prompting ist eine Kompetenz, kein Trick \[Obacht: LLMs teils mit Halluzinationen und Bias\] (Recherche für Faktencheck weiterhin benötigt)
 - Computer-Allgemeinwissen: [**Einführungsartikel** zu Windows, macOS und Linux](https://www.freecodecamp.org/news/an-introduction-to-operating-systems/)
 	- Windows-Allgemeinwissen: [**Windows** Basics](https://edu.gcfglobal.org/en/windowsbasics/) | [Windows **Explorer & Files**](https://edu.gcfglobal.org/en/windowsbasics/working-with-files/1/)
 	- Linux-Allgemeinwissen: [**Linux** Basics](https://www.makeuseof.com/tag/linux-beginners-guide/) | freeCodeCamp [Linux **Command-Line**](https://www.freecodecamp.org/news/command-line-for-beginners/) | Buch [The Linux Command Line](https://www.linuxcommand.org/tlcl.php) by William Shotts
@@ -264,7 +281,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 - Artikel **[Was ist Informatik?](https://sb726cd41480af32d.jimcontent.com/download/version/1379804211/module/8062351485/name/fach-was-ist-informatik.pdf)** (2010) von Peter Rechenberg ⭐
 - [Berufe.TV zur **Informatik**](https://web.arbeitsagentur.de/berufetv/studienberufe/mathematik-naturwissenschaften/informatik)
-- Technische Konzepte in Laiensprache erklärt (ELI5): **[Explain it Like I'm Five](https://dev.to/t/explainlikeimfive)**, [Awesome ELI5](https://github.com/swapagarwal/awesome-eli5)
+- Technische Konzepte in Laiensprache erklärt (ELI5):
+	- **[Explain it Like I'm Five](https://dev.to/t/explainlikeimfive)**, [Awesome ELI5](https://github.com/swapagarwal/awesome-eli5)
+	- Videos (EN): Hochwertige Einführungen von [Branch Education](https://www.youtube.com/@BranchEducation)
 - MOOC-Kurs von Stanford [CS101](https://www.edx.org/learn/computer-science/stanford-university-computer-science-101)
 - freeCodeCamp [**What is Programming?** A Handbook for Beginners](https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/)
 - ggf. Bewerbung an einer (kostenlosen) [**42** School](https://42.us.org/) (in DE: [Berlin](https://42berlin.de/), [Heilbronn](https://www.42heilbronn.de), [Wolfsburg](https://42wolfsburg.de/)) zur Orientierung durch deren Auswahlverfahren, u.a. durch deren Piscine (fr. „Schwimmbad“) bzw. dessen Online-Variante das 42 Basecamp (Die internationale und gemeinnützige Bewegung bzw. [Schule namens 42](<https://de.wikipedia.org/wiki/42_(Schule)>) bietet ein gutes Programm für Programmierkenntnisse und reine Softwareentwicklung; mindestens auf Fachinformatik-Ausbildungsniveau, aber ohne staatlich anerkannten Abschluss)
@@ -471,6 +490,7 @@ Werkzeuge:
 	- (€:) Buch **[Enzyklopädie Philosophie und Wissenschaftstheorie](https://www.amazon.de/dp/3476020126/)** (2004), genannt „Der Mittelstraß“ ⭐
 - Mathematik: **[OMB+](https://www.ombplus.de/)** (wie oben)
 	- (€:) Buch [**Mathematik für Informatiker** (Band 1) - Diskrete Mathematik und Lineare Algebra](https://www.amazon.de/dp/3642379710/) (2013) und [(Band 2) - Analysis und Statistik](https://www.amazon.de/dp/3642542735/) (2014) von Teschl & Teschl
+	- Videokurs: MIT **[Mathematics for Computer Science](https://www.youtube.com/playlist?list=PLUl4u3cNGP61VNvICqk2HXJTonnKgAc9d)**
 	- Statistik:
 		- freeCodeCamp [Learn **Statistics** for Data Science, Machine Learning, and AI](https://www.freecodecamp.org/news/statistics-for-data-scientce-machine-learning-and-ai-handbook/)
 		- William Chen's **[Probability Cheatsheet 2.0](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)**
@@ -576,7 +596,7 @@ Werkzeuge:
 	- Py: **[Google’s Python Class](https://developers.google.com/edu/python/)** | [**Clean Code** Python](https://github.com/zedr/clean-code-python) | freeCodeCamp **[Learn Python Programming](https://www.freecodecamp.org/news/learn-python-book/)** | **[Automate the Boring Stuff in Python](https://automatetheboringstuff.com/)** | DataCamp **[Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)**
 		- Kurs [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) des MIT
 		- (Es gibt auch Processing für Python: [processing.py](https://py.processing.org/tutorials/gettingstarted/))
-	- Mojo (Superset of Py): Motion AI [**Mojo** Docs](https://docs.modular.com/mojo/) | [Mojo Programming Manual](https://docs.modular.com/mojo/programming-manual.html) | [Modular Inference Engine](https://docs.modular.com/engine/)
+	- Mojo (Superset of Py): Motion AI [**Mojo** Docs](https://docs.modular.com/mojo/manual) | [**Modular** Inference Engine](https://docs.modular.com/)
 	- R: DataCamp **[Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)** | Interaktiver Kurs **[swirl](https://swirlstats.com/)** („Learn R, in R.“) | MOOC von Stanford [R Programming Fundamentals](https://www.edx.org/learn/r-programming/stanford-university-r-programming-fundamentals) | zzgl. im [Master-Abschnitt zu Data Science](#msc-big-data-and-cloud-computing-for-ai)
 	- C++: **[Learn C++](https://www.learncpp.com/)**, (€:) Buch **[A Tour of C++](https://www.stroustrup.com/tour3.html)** von Bjarne Stroustup
 	- Rust: [Learn **Rust**](https://www.rust-lang.org/learn)
@@ -922,93 +942,93 @@ Werkzeuge:
 
 #### DevOps / Production Systems
 
-	- Begriffsherkunft / Einstieg \[Umbrella Term; DevOps-im-weitesten-Sinn\]
-		- Erfinder des Begriffs DevOps: **[Patrick Debois](https://www.infoq.com/interviews/debois-devops/)**
-		- Vortrag ⭐ [**10+ Deploys per Day**: Dev and Ops Cooperation at Flickr](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr) (2009) von Allspaw & Hammond
-		- Definition von **[Gartner](https://www.gartner.com/it-glossary/devops/)**
-		- (€:) Buch **[The DevOps Handbook](https://www.amazon.de/dp/1950508404/)** von Gene Kim, Jes Humble, Patrick Debois, et al.
-	- **DevOps** \[Hochgeschwindigkeit-IT; DevOps-im-engsten-Sinn\] ⚠️
-		- **[The Twelve-Factor App](https://12factor.net/)** (Heroku)
-		- Kostenloses Buch **[Google Site Reliability Engineering](https://sre.google/)** (**SRE**) ⭐: erste brauchbare Implementierung von DevOps (im engeren Sinn, also für Hochgeschwindigkeit-IT)
-			- Google **DORA** ⭐: [DevOps **Capabilities**](https://cloud.google.com/architecture/devops)
-			- Video [**Modern DevOps**: Reliable and Blameless](https://www.youtube.com/watch?v=YXFjHmFD69w) von Google
-			- **[Google DevOps](https://cloud.google.com/devops)** Einstieg-Seite
-		- **GitOps**: Buch [**GitOps** – Cloud-native Continuous Deployment](https://www.gitops.tech/) | **[GitOps Conversation Kit](https://gitops-community.GitHub.io/kit/)** (Weaveworks)
-	- Basis von DevOps #1: System-Operator (**SysOps**) und System-Administrator (**SysAdmin**)
-		- Grundlagen: vgl. Abschnitt [vor einer wiss. Abschlussarbeit](#vor-einer-wiss-abschlussarbeit-informatikki) » „Handwerkszeug: Getting S#\*t Done“: Betriebssystemadministration ([Linux](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/) | [Windows](https://docs.microsoft.com/de-de/learn/paths/windows-server-deployment-configuration-administration/)), Linux [Daemons](https://www.makeuseof.com/tag/control-linux-start-services-daemons/) (service/sysctl) bzw. Microsoft [Services](https://www.thewindowsclub.com/open-windows-services) (services.msc), Shell-Scripting ([shell](https://www.freecodecamp.org/news/command-line-for-beginners/) | [pwsh](https://docs.microsoft.com/de-de/learn/modules/introduction-to-powershell/1-introduction)), [SSH](https://linuxize.com/post/how-to-setup-ssh-tunneling/), [Virtualisierung](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide), [Docker](https://serversforhackers.com/c/getting-started-with-docker), [git](https://rogerdudler.GitHub.io/git-guide/)
-		- Einstieg: Lehrpläne Ausbildungsberufe, insb. **Fachinformatiker/in - Systemintegration** sowie Fachinformatiker/in - **Digitale Vernetzung**
-			- **[Umsetzungshilfe für Lehrkräfte](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/handreichung-technische-it-ausbildung/)** \[[PDF](https://www.isb.bayern.de/fileadmin/user_upload/Berufliche_Schulen/Berufsschule/Material/Aufgaben_Technische_IT-Berufe/HR_technische_it_ausbildungsberufe_2020.pdf)\] des ISB (= Staatsinstitut für Schulqualität und Bildungsforschung München)
-			- Ebenfalls aufschlussreich: **[Illustrierende Aufgaben für technische IT-Ausbildungsberufe](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/aufgaben-technische-it-ausbildung/)** des ISB, zzgl. Materialien für **IT Digital-Dialog** ([10. Jgst](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/technische-und-kaufmaennische-it-ausbildungsberufe/it-digital-dialog/) und [11. Jgst](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/technische-und-kaufmaennische-it-ausbildungsberufe/it-digital-dialog-11-jgst/))
-			- Eher abstrakt aber gut zur Workload-Einordnung: [**Rahmenlehrplan** für die Ausbildungsberufe Fachinformatiker/in in der Fachrichtung Systemintegration](https://www.kmk.org/fileadmin/Dateien/pdf/Bildung/BeruflicheBildung/rlp/Fachinformatiker_19-12-13_EL.pdf)
-			- (Eher überambitionierte Darstellung: Bundesagentur für Arbeit (BA) zu [Fachinformatiker/in - Systemintegration](https://web.arbeitsagentur.de/berufenet/beruf/7847) bzw. zu [Fachinformatiker/in - Digitale Vernetzung](https://web.arbeitsagentur.de/berufenet/beruf/133560))
-		- Auffassungsmöglichkeit 1: SysOps (Traditional IT) als Antipode zu DevOps (Modern IT)
-			- Rollenmodell „Klicki-Bunti-Admin für [**Windows Server** und Active Directory](https://www.qskills.de/qs/workshops/microsoft/ms115windowsserverundactivedirectory/)“
-			- Böse Zungen unterstellen ggf. eine Hausmeistermentalität
-		- Auffassungsmöglichkeit 2 ⭐: DevOps als moderner Bestandteil der SysOps-Tätigkeit
-			- **Linux** wichtiger als Windows: Die Linux Foundation beansprucht in Ihrem [2017 Linux Kernel Report](https://www.linuxfoundation.org/blog/blog/2017-linux-kernel-report-highlights-developers-roles-accelerating-pace-change), dass **90 Prozent der öffentlichen Cloud-Computing-Dienste auf Linux laufen**, 82 Prozent der Smartphones, 62 Prozent der eingebetteten Systeme und 99 Prozent der Supercomputer.
-			- Webartikel: [What are the **Best SysOps Tools**?](https://www.devopsschool.com/blog/what-are-the-best-sysops-tools/) von DevOpsSchool
-			- Guru99 [**Ansible Tutorial** for Beginners: Playbook, Commands & Example](https://www.guru99.com/ansible-tutorial.html)
-			- Klassische DevOps Aufgabe (DevOps-im-weitesten-Sinn als Umbrella Term und noch nicht im engeren Sinn für Hochgeschwindigkeit-IT): „**Ziehen Sie mit Ansible eine Proxmox-VM automatisiert hoch für nginx, konfiguriert für IPv4 und IPv6**“ (These: Traditionelle SysAdmins kriegen das innerhalb eines Probearbeitstags von 8h ggf. nicht gelöst 😦)
-			- Tutorials: [**Ops School** Curriculum](https://www.opsschool.org/) | [**Digital Ocean** Tutorials](https://www.digitalocean.com/community/tutorials)
-		- Werkzeuge: vgl. Werkzeuge-Schwesterseite [Tools » DevOps » SysOps/SysAdmin](https://github.com/cyberlytics/awesome-software-engineering-tools#devops)
-	- Basis von DevOps #2: **Build-Automatisierung** / **Dependency Management**
-		- [Monorepos](https://en.wikipedia.org/wiki/Monorepo) vs. [Polyrepos/Multirepos](https://earthly.dev/blog/monorepo-vs-polyrepo/):
-			- Pro Monorepo: [Monorepo: please do!](https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70) (2019) von Adam Jacob \[shared responsibility and visibility\]
-			- Pro Poly-/Multirepo: [Monorepos: please don't!](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b) (2019) von Matt Klein \[Isolation, Low Coupling, Scalability\]
-		- Code-Review: Webartikel [How to protect **GitHub** projects from non-reviewed code and **force code review culture**](https://www.bornfight.com/blog/how-to-protect-GitHub-projects-from-non-reviewed-code-and-force-code-review-culture/) (2021)
-		- Software Bill-of-Materials ([SBOM](https://fossa.com/complete-guide-software-composition-analysis#Best-License-for-Commercialization)): Einführung per [How **SBOM**s Strengthen the Software Supply Chain](https://www.fosslife.org/how-sboms-strengthen-software-supply-chain)
-			- Werkzeuge: [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom)
-		- Java Builds: Als Bestandteil meines Dissertationsprojekt habe ich ca. 2008 nebenbei eine Java-Build-Referenz auf Basis von Maven geschaffen: [cpnatwork/alphaflow_dev](https://github.com/cpnatwork/alphaflow_dev/tree/master/sys-src) (mit einem \*-buildhub-Modul für die Build-Komposition und mit \*configbase-Modulen für Abhängigkeitskonsolidierung mittels Maven-POM-Vererbung)
-		- C# Builds (.NET/NuGet):
-			- Grundlegend #1 (konzeptionell): Webartikel [Developing **With Project Dependencies - When to Package, When Not To**](https://www.softwaremeadows.com/posts/developing_with_project_dependencies_-_when_to_package__when_not_to/) (2021) von Charles Flatt
-			- Grundlegend #2 (historisches): Zeitgrafik [Microsoft **.NET History**](https://time.graphics/line/593132) | Webartikel **[Managing Dependencies in .NET](https://fossa.com/blog/managing-dependencies-net-csproj-packagesconfig/)** (2021) von Cristian Taran u.a. zu .csproj, .packages.config und project.json
-			- Grundlegend #3 (technisch): Webartikel **[Managing output in the .NET SDK projects](https://cezarypiatek.GitHub.io/post/managing-output-in-sdk-projects/)** (2019) von Cezary Piątek
-				- (Einstiegsalternative: (€) Buch [.NET Core in Action](https://www.manning.com/books/dotnet-core-in-action) (2018) von Dustin Metzgar, Kapitel 3 „How to build with .NET Core“)
-				- Zwei Build-Arten: .NET Framework (**msbuild**; Windows-only; Visual Studio) vs. .NET / .NET Core (**dotnet build**; Cross-Platform; .NET CLI)
-				- Zwei Referenztypen: **[ProjectReference](https://github.com/dotnet/msbuild/blob/main/documentation/ProjectReference-Protocol.md)** (u.a. [PreserveNewest](https://stackoverflow.com/questions/62991404/how-does-project-item-metadata-preservenewest-actually-work) sowie „Copy Local“ = Private:false) vs. **[PackageReference](https://learn.microsoft.com/en-us/nuget/consume-packages/package-references-in-project-files)** (u.a. „NOT Copy Local“ = [ExcludeAssets:runtime](https://learn.microsoft.com/en-US/nuget/consume-packages/package-references-in-project-files#controlling-dependency-assets) sowie [PrivateAssets:all](https://learn.microsoft.com/en-us/answers/questions/702182/how-to-hide-dependent-nuget-dll39s-from-consuming.html) und im Legacy-Build-Kontext ggf. [CopyLocalLockFileAssemblies:true](https://stackoverflow.com/questions/43837638/how-do-i-get-net-core-projects-to-copy-nuget-references-to-the-build-output/52824190#52824190))
-			- NuGet: Microsoft [**Quickstart** to create a NuGet package](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-the-dotnet-cli) | Webartikel **[5 steps to better NuGet package](https://alex-klaus.com/better-nuget/)** von Alex Klaus | [Best Practices for **Versioning** NuGet **Packages** in the Enterprise](https://blog.inedo.com/nuget/package-versioning) (2021) by Eric Seng | **[NuGet in the Enterprise](https://blog.inedo.com/nuget/in-the-enterprise-2021)** (2021) by Eric Seng | [Prerelease Packages & **Repackaging**](https://docs.inedo.com/docs/proget-packages-repackaging) (2021) | [Managing the global packages, cache, and temp folders](https://learn.microsoft.com/en-us/nuget/consume-packages/managing-the-global-packages-and-cache-folders)
-			- Impuls zur Inspiration: [Adding both Project and Package references](https://github.com/dotnet/project-system/issues/2836)
-	- Basis von DevOps #3: **System Integration**
-		- Webartikel **[Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)** (2006) von Martin Fowler ⭐
-		- Cloud-native: Video **[CI/CD on Google Cloud](https://www.youtube.com/watch?v=orZEBSXbmFU)** von Google | Amazon [Set Up a CI/CD Pipeline on AWS](https://aws.amazon.com/getting-started/hands-on/set-up-ci-cd-pipeline/) | Microsoft [CI/CD-Baseline-Architektur mit Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/architectures/devops-pipelines-baseline-architecture)
-		- **[Awesome CI/CD](https://github.com/cicdops/awesome-ciandcd)**
-	- Basis von DevOps #4: **Software-Architektur** und **Software-Engineering**
-		- vgl. eigene SWE-Abschnitte in den Listen zu B.Sc. und M.Sc.
-	- Basis von DevOps #5: **IT-Sicherheit**
-		- vgl. eigene IT-Security-Abschnitte in den Listen zu B.Sc. und M.Sc.
-	- Basis von DevOps #6: **Configuration Management** sowie **Release & Deployment Management**, klassisch per **Release Train**
-		- (€:) Buch **[Release It!](https://www.amazon.de/dp/1680502395/)** (Original: 2007 | Aktualisiert: 2018) von Michael T. Nygard
-	- Basis von DevOps #7: Klassischer **Betrieb** / **IT Service Management** = ITSM / **Change Management** / **Incident Management**
-		- Überlappt sich mit Punkt #1 (SysOps/SysAdmin), aber als Professionalisierung hier nochmal als Extrapunkt, damit schließt sich ein Kreis
-		- Gartner [Magic Quadrant für ITSM](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/company-library/media/itsm-8-time-pr.png)
-		- ITIL: [guru99 **What is ITIL?**](https://www.guru99.com/itil-framework-process.html) | **[ITIL Tutorial](https://www.knowledgehut.com/tutorials/itil4-tutorial)**
-	- Site Reliability Engineering:
-		- [Google **SRE Books**](https://sre.google/books/) (vgl. oben: Google SRE = DevOps-im-engsten-Sinn = erste brauchbare Implementierung von DevOps für Hochgeschwindigkeit-IT)
-			- Google Cloud Skills Boost: **[DevOps Engineer, SRE Learning Path](https://www.cloudskillsboost.google/paths/20)**
-			- Video-Playlist **[SRE implements DevOps](https://www.youtube.com/playlist?list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj)** von Google
-			- Video-Playlist **[Engineering for Reliability](https://www.youtube.com/playlist?list=PLIivdWyY5sqLOiLXJDlN-wKd0g7hf_9vC)** von Google
-			- **[Google SRE](https://cloud.google.com/sre)** Einstieg-Seite
-		- **[Awesome SRE](https://github.com/dastergon/awesome-sre)**
-	- Nennenswertes:
-		- **[Semantic Versioning](https://semver.org/)** (SemVer) ⭐
-		- **[Conventional Commits](https://www.conventionalcommits.org)** ⭐
-		- Dynatrace **[A Beginner's Guide to DevOps](https://www.dynatrace.com/resources/ebooks/devops/)**
-		- [**TerraForm** Curriculum](https://learn.hashicorp.com/terraform) (von HashiCorp Learn)
-		- **[Awesome DevOps » Books](http://awesome-devops.xyz/#books)**
-		- **[Awesome Monorepo](https://github.com/korfuri/awesome-monorepo)**
-		- [**Release Pipelines** – Terminology und Basiskonzepte am Bsp. TFS/Azure](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/artifacts)
-		- Die Liste [DevOps auf hackr.io](https://hackr.io/devops) (noch jung, noch ohne hyperbolische Voting-Selektion)
-	- Meine **[SWE](https://github.com/cyberlytics/awesome-software-engineering-tools)**-Liste (u.a. die dortigen Abschnitte [DevOps](https://github.com/cyberlytics/awesome-software-engineering-tools#devops) sowie [Modellierung & Architektur](https://github.com/cyberlytics/awesome-software-engineering-tools#modellierung--architektur), [Testing](https://github.com/cyberlytics/awesome-software-engineering-tools#testing) und weitere) sowie meine **[BDCC4Ai](https://github.com/cyberlytics/awesome-bdccai-tools)**-Liste (u.a. [Security](https://github.com/cyberlytics/awesome-bdccai-tools#security) und weitere)
-	- Erweiterte Stichwortliste: ⭐
-		- [Configuration Management](https://en.wikipedia.org/wiki/Configuration_management), [Dependency Management](https://missing.csail.mit.edu/2019/package-management/), [Dependency Hell](https://en.wikipedia.org/wiki/Dependency_hell) ([DLL \[Heck\]](https://en.wikipedia.org/wiki/DLL_Hell), [NuGet hell](https://www.google.com/search?q=nuget+hell), …), [Dependency Manager](https://devopedia.org/dependency-manager), [Build-Artifact Management](https://www.leanix.net/en/wiki/vsm/software-artifacts), [Release Management](https://en.wikipedia.org/wiki/Release_management), [Release Automation](https://en.wikipedia.org/wiki/Application-release_automation), [Software-Artifact Repository](https://en.wikipedia.org/wiki/Software_repository), [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration), [Infrastructure Automation / GitOps](https://about.gitlab.com/topics/gitops/), [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code), [Configuration as a Code](https://www.perforce.com/blog/vcs/configuration-as-code), [Virtualization](https://en.wikipedia.org/wiki/Hardware_virtualization), [Container](https://en.wikipedia.org/wiki/OS-level_virtualization) & [Containerization](https://aws.amazon.com/de/what-is/containerization/), [Consistent Environments](http://engineering-principles.onejl.uk/practices/Consistent_Environments.html), [Image Repositories](https://www.aquasec.com/cloud-native-academy/container-security/image-repository/), [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery), [Deployability](https://en.wikipedia.org/wiki/Deployment), [Modifiability](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010/57-maintainability), [Testability](https://en.wikipedia.org/wiki/Software_testability), [Monitorability/SLO-Überwachung](https://cloud.google.com/monitoring), [Maintainability](https://en.wikipedia.org/wiki/Software_maintenance), [Twelve Factor App Methodology](https://12factor.net/), [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-	- Scholar-Disclaimer: ⚠️
-		- Auf Scholar finden Sie ggf. keine Paper, weil die wissenschaftlichen Publikationen zu vielen Aspekten so alt sind (z.B. 90er Jahre), dass sie nicht als PDF im Netz stehen. Aus wissenschaftlicher Sicht sind die Einzelthemen zu DevOps-im-weitesten-Sinn nicht so neu, wie sich die Community den Anschein gibt.
-	- Weiterführende Quellen: [Best **DevOps** Blogs and **Resources for Learning**](https://devopscube.com/list-of-devops-blogs-and-resources/) | [Awesome DevOps **Learning**](https://github.com/Lets-DevOps/awesome-learning) | roadmap.sh [DevOps Roadmap](https://roadmap.sh/devops) | [Awesome **Terraform**](https://github.com/cloud-architecture/awesome-terraform)
-	- **DevSecOps**:
-		- Ich ordne das Thema eher der IT-Sicherheit unter, daher vgl. die IT-Security-Abschnitte in den Listen zu B.Sc. und M.Sc.
-		- Weiterführende Quellen: [DevSecOps](https://www.aquasec.com/cloud-native-academy/devsecops/devsecops/)
-		- Anmerkung: Der alternative Begriff "SecDevOps" ist die Security-first Variation von DevSecOps, ist aber weniger populär
-			- (Außerdem gab es auch noch "DevOpsSec" als Buchtitel von O'Reily, ist aber begrifflich kaum populär)
+- Begriffsherkunft / Einstieg \[Umbrella Term; DevOps-im-weitesten-Sinn\]
+	- Erfinder des Begriffs DevOps: **[Patrick Debois](https://www.infoq.com/interviews/debois-devops/)**
+	- Vortrag ⭐ [**10+ Deploys per Day**: Dev and Ops Cooperation at Flickr](https://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr) (2009) von Allspaw & Hammond
+	- Definition von **[Gartner](https://www.gartner.com/it-glossary/devops/)**
+	- (€:) Buch **[The DevOps Handbook](https://www.amazon.de/dp/1950508404/)** von Gene Kim, Jes Humble, Patrick Debois, et al.
+- **DevOps** \[Hochgeschwindigkeit-IT; DevOps-im-engsten-Sinn\] ⚠️
+	- **[The Twelve-Factor App](https://12factor.net/)** (Heroku)
+	- Kostenloses Buch **[Google Site Reliability Engineering](https://sre.google/)** (**SRE**) ⭐: erste brauchbare Implementierung von DevOps (im engeren Sinn, also für Hochgeschwindigkeit-IT)
+		- Google **DORA** ⭐: [DevOps **Capabilities**](https://cloud.google.com/architecture/devops)
+		- Video [**Modern DevOps**: Reliable and Blameless](https://www.youtube.com/watch?v=YXFjHmFD69w) von Google
+		- **[Google DevOps](https://cloud.google.com/devops)** Einstieg-Seite
+	- **GitOps**: Buch [**GitOps** – Cloud-native Continuous Deployment](https://www.gitops.tech/) | **[GitOps Conversation Kit](https://gitops-community.GitHub.io/kit/)** (Weaveworks)
+- Basis von DevOps #1: System-Operator (**SysOps**) und System-Administrator (**SysAdmin**)
+	- Grundlagen: vgl. Abschnitt [vor einer wiss. Abschlussarbeit](#vor-einer-wiss-abschlussarbeit-informatikki) » „Handwerkszeug: Getting S#\*t Done“: Betriebssystemadministration ([Linux](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/) | [Windows](https://docs.microsoft.com/de-de/learn/paths/windows-server-deployment-configuration-administration/)), Linux [Daemons](https://www.makeuseof.com/tag/control-linux-start-services-daemons/) (service/sysctl) bzw. Microsoft [Services](https://www.thewindowsclub.com/open-windows-services) (services.msc), Shell-Scripting ([shell](https://www.freecodecamp.org/news/command-line-for-beginners/) | [pwsh](https://docs.microsoft.com/de-de/learn/modules/introduction-to-powershell/1-introduction)), [SSH](https://linuxize.com/post/how-to-setup-ssh-tunneling/), [Virtualisierung](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide), [Docker](https://serversforhackers.com/c/getting-started-with-docker), [git](https://rogerdudler.GitHub.io/git-guide/)
+	- Einstieg: Lehrpläne Ausbildungsberufe, insb. **Fachinformatiker/in - Systemintegration** sowie Fachinformatiker/in - **Digitale Vernetzung**
+		- **[Umsetzungshilfe für Lehrkräfte](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/handreichung-technische-it-ausbildung/)** \[[PDF](https://www.isb.bayern.de/fileadmin/user_upload/Berufliche_Schulen/Berufsschule/Material/Aufgaben_Technische_IT-Berufe/HR_technische_it_ausbildungsberufe_2020.pdf)\] des ISB (= Staatsinstitut für Schulqualität und Bildungsforschung München)
+		- Ebenfalls aufschlussreich: **[Illustrierende Aufgaben für technische IT-Ausbildungsberufe](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/aufgaben-technische-it-ausbildung/)** des ISB, zzgl. Materialien für **IT Digital-Dialog** ([10. Jgst](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/technische-und-kaufmaennische-it-ausbildungsberufe/it-digital-dialog/) und [11. Jgst](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/technische-und-kaufmaennische-it-ausbildungsberufe/it-digital-dialog-11-jgst/))
+		- Eher abstrakt aber gut zur Workload-Einordnung: [**Rahmenlehrplan** für die Ausbildungsberufe Fachinformatiker/in in der Fachrichtung Systemintegration](https://www.kmk.org/fileadmin/Dateien/pdf/Bildung/BeruflicheBildung/rlp/Fachinformatiker_19-12-13_EL.pdf)
+		- (Eher überambitionierte Darstellung: Bundesagentur für Arbeit (BA) zu [Fachinformatiker/in - Systemintegration](https://web.arbeitsagentur.de/berufenet/beruf/7847) bzw. zu [Fachinformatiker/in - Digitale Vernetzung](https://web.arbeitsagentur.de/berufenet/beruf/133560))
+	- Auffassungsmöglichkeit 1: SysOps (Traditional IT) als Antipode zu DevOps (Modern IT)
+		- Rollenmodell „Klicki-Bunti-Admin für [**Windows Server** und Active Directory](https://www.qskills.de/qs/workshops/microsoft/ms115windowsserverundactivedirectory/)“
+		- Böse Zungen unterstellen ggf. eine Hausmeistermentalität
+	- Auffassungsmöglichkeit 2 ⭐: DevOps als moderner Bestandteil der SysOps-Tätigkeit
+		- **Linux** wichtiger als Windows: Die Linux Foundation beansprucht in Ihrem [2017 Linux Kernel Report](https://www.linuxfoundation.org/blog/blog/2017-linux-kernel-report-highlights-developers-roles-accelerating-pace-change), dass **90 Prozent der öffentlichen Cloud-Computing-Dienste auf Linux laufen**, 82 Prozent der Smartphones, 62 Prozent der eingebetteten Systeme und 99 Prozent der Supercomputer.
+		- Webartikel: [What are the **Best SysOps Tools**?](https://www.devopsschool.com/blog/what-are-the-best-sysops-tools/) von DevOpsSchool
+		- Guru99 [**Ansible Tutorial** for Beginners: Playbook, Commands & Example](https://www.guru99.com/ansible-tutorial.html)
+		- Klassische DevOps Aufgabe (DevOps-im-weitesten-Sinn als Umbrella Term und noch nicht im engeren Sinn für Hochgeschwindigkeit-IT): „**Ziehen Sie mit Ansible eine Proxmox-VM automatisiert hoch für nginx, konfiguriert für IPv4 und IPv6**“ (These: Traditionelle SysAdmins kriegen das innerhalb eines Probearbeitstags von 8h ggf. nicht gelöst 😦)
+		- Tutorials: [**Ops School** Curriculum](https://www.opsschool.org/) | [**Digital Ocean** Tutorials](https://www.digitalocean.com/community/tutorials)
+	- Werkzeuge: vgl. Werkzeuge-Schwesterseite [Tools » DevOps » SysOps/SysAdmin](https://github.com/cyberlytics/awesome-software-engineering-tools#devops)
+- Basis von DevOps #2: **Build-Automatisierung** / **Dependency Management**
+	- [Monorepos](https://en.wikipedia.org/wiki/Monorepo) vs. [Polyrepos/Multirepos](https://earthly.dev/blog/monorepo-vs-polyrepo/):
+		- Pro Monorepo: [Monorepo: please do!](https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70) (2019) von Adam Jacob \[shared responsibility and visibility\]
+		- Pro Poly-/Multirepo: [Monorepos: please don't!](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b) (2019) von Matt Klein \[Isolation, Low Coupling, Scalability\]
+	- Code-Review: Webartikel [How to protect **GitHub** projects from non-reviewed code and **force code review culture**](https://www.bornfight.com/blog/how-to-protect-GitHub-projects-from-non-reviewed-code-and-force-code-review-culture/) (2021)
+	- Software Bill-of-Materials ([SBOM](https://fossa.com/complete-guide-software-composition-analysis#Best-License-for-Commercialization)): Einführung per [How **SBOM**s Strengthen the Software Supply Chain](https://www.fosslife.org/how-sboms-strengthen-software-supply-chain)
+		- Werkzeuge: [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom)
+	- Java Builds: Als Bestandteil meines Dissertationsprojekt habe ich ca. 2008 nebenbei eine Java-Build-Referenz auf Basis von Maven geschaffen: [cpnatwork/alphaflow_dev](https://github.com/cpnatwork/alphaflow_dev/tree/master/sys-src) (mit einem \*-buildhub-Modul für die Build-Komposition und mit \*configbase-Modulen für Abhängigkeitskonsolidierung mittels Maven-POM-Vererbung)
+	- C# Builds (.NET/NuGet):
+		- Grundlegend #1 (konzeptionell): Webartikel [Developing **With Project Dependencies - When to Package, When Not To**](https://www.softwaremeadows.com/posts/developing_with_project_dependencies_-_when_to_package__when_not_to/) (2021) von Charles Flatt
+		- Grundlegend #2 (historisches): Zeitgrafik [Microsoft **.NET History**](https://time.graphics/line/593132) | Webartikel **[Managing Dependencies in .NET](https://fossa.com/blog/managing-dependencies-net-csproj-packagesconfig/)** (2021) von Cristian Taran u.a. zu .csproj, .packages.config und project.json
+		- Grundlegend #3 (technisch): Webartikel **[Managing output in the .NET SDK projects](https://cezarypiatek.GitHub.io/post/managing-output-in-sdk-projects/)** (2019) von Cezary Piątek
+			- (Einstiegsalternative: (€) Buch [.NET Core in Action](https://www.manning.com/books/dotnet-core-in-action) (2018) von Dustin Metzgar, Kapitel 3 „How to build with .NET Core“)
+			- Zwei Build-Arten: .NET Framework (**msbuild**; Windows-only; Visual Studio) vs. .NET / .NET Core (**dotnet build**; Cross-Platform; .NET CLI)
+			- Zwei Referenztypen: **[ProjectReference](https://github.com/dotnet/msbuild/blob/main/documentation/ProjectReference-Protocol.md)** (u.a. [PreserveNewest](https://stackoverflow.com/questions/62991404/how-does-project-item-metadata-preservenewest-actually-work) sowie „Copy Local“ = Private:false) vs. **[PackageReference](https://learn.microsoft.com/en-us/nuget/consume-packages/package-references-in-project-files)** (u.a. „NOT Copy Local“ = [ExcludeAssets:runtime](https://learn.microsoft.com/en-US/nuget/consume-packages/package-references-in-project-files#controlling-dependency-assets) sowie [PrivateAssets:all](https://learn.microsoft.com/en-us/answers/questions/702182/how-to-hide-dependent-nuget-dll39s-from-consuming.html) und im Legacy-Build-Kontext ggf. [CopyLocalLockFileAssemblies:true](https://stackoverflow.com/questions/43837638/how-do-i-get-net-core-projects-to-copy-nuget-references-to-the-build-output/52824190#52824190))
+		- NuGet: Microsoft [**Quickstart** to create a NuGet package](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-the-dotnet-cli) | Webartikel **[5 steps to better NuGet package](https://alex-klaus.com/better-nuget/)** von Alex Klaus | [Best Practices for **Versioning** NuGet **Packages** in the Enterprise](https://blog.inedo.com/nuget/package-versioning) (2021) by Eric Seng | **[NuGet in the Enterprise](https://blog.inedo.com/nuget/in-the-enterprise-2021)** (2021) by Eric Seng | [Prerelease Packages & **Repackaging**](https://docs.inedo.com/docs/proget-packages-repackaging) (2021) | [Managing the global packages, cache, and temp folders](https://learn.microsoft.com/en-us/nuget/consume-packages/managing-the-global-packages-and-cache-folders)
+		- Impuls zur Inspiration: [Adding both Project and Package references](https://github.com/dotnet/project-system/issues/2836)
+- Basis von DevOps #3: **System Integration**
+	- Webartikel **[Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)** (2006) von Martin Fowler ⭐
+	- Cloud-native: Video **[CI/CD on Google Cloud](https://www.youtube.com/watch?v=orZEBSXbmFU)** von Google | Amazon [Set Up a CI/CD Pipeline on AWS](https://aws.amazon.com/getting-started/hands-on/set-up-ci-cd-pipeline/) | Microsoft [CI/CD-Baseline-Architektur mit Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/architectures/devops-pipelines-baseline-architecture)
+	- **[Awesome CI/CD](https://github.com/cicdops/awesome-ciandcd)**
+- Basis von DevOps #4: **Software-Architektur** und **Software-Engineering**
+	- vgl. eigene SWE-Abschnitte in den Listen zu B.Sc. und M.Sc.
+- Basis von DevOps #5: **IT-Sicherheit**
+	- vgl. eigene IT-Security-Abschnitte in den Listen zu B.Sc. und M.Sc.
+- Basis von DevOps #6: **Configuration Management** sowie **Release & Deployment Management**, klassisch per **Release Train**
+	- (€:) Buch **[Release It!](https://www.amazon.de/dp/1680502395/)** (Original: 2007 | Aktualisiert: 2018) von Michael T. Nygard
+- Basis von DevOps #7: Klassischer **Betrieb** / **IT Service Management** = ITSM / **Change Management** / **Incident Management**
+	- Überlappt sich mit Punkt #1 (SysOps/SysAdmin), aber als Professionalisierung hier nochmal als Extrapunkt, damit schließt sich ein Kreis
+	- Gartner [Magic Quadrant für ITSM](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/company-library/media/itsm-8-time-pr.png)
+	- ITIL: [guru99 **What is ITIL?**](https://www.guru99.com/itil-framework-process.html) | **[ITIL Tutorial](https://www.knowledgehut.com/tutorials/itil4-tutorial)**
+- Site Reliability Engineering:
+	- [Google **SRE Books**](https://sre.google/books/) (vgl. oben: Google SRE = DevOps-im-engsten-Sinn = erste brauchbare Implementierung von DevOps für Hochgeschwindigkeit-IT)
+		- Google Cloud Skills Boost: **[DevOps Engineer, SRE Learning Path](https://www.cloudskillsboost.google/paths/20)**
+		- Video-Playlist **[SRE implements DevOps](https://www.youtube.com/playlist?list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj)** von Google
+		- Video-Playlist **[Engineering for Reliability](https://www.youtube.com/playlist?list=PLIivdWyY5sqLOiLXJDlN-wKd0g7hf_9vC)** von Google
+		- **[Google SRE](https://cloud.google.com/sre)** Einstieg-Seite
+	- **[Awesome SRE](https://github.com/dastergon/awesome-sre)**
+- Nennenswertes:
+	- **[Semantic Versioning](https://semver.org/)** (SemVer) ⭐
+	- **[Conventional Commits](https://www.conventionalcommits.org)** ⭐
+	- Dynatrace **[A Beginner's Guide to DevOps](https://www.dynatrace.com/resources/ebooks/devops/)**
+	- [**TerraForm** Curriculum](https://learn.hashicorp.com/terraform) (von HashiCorp Learn)
+	- **[Awesome DevOps » Books](http://awesome-devops.xyz/#books)**
+	- **[Awesome Monorepo](https://github.com/korfuri/awesome-monorepo)**
+	- [**Release Pipelines** – Terminology und Basiskonzepte am Bsp. TFS/Azure](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/artifacts)
+	- Die Liste [DevOps auf hackr.io](https://hackr.io/devops) (noch jung, noch ohne hyperbolische Voting-Selektion)
+- Meine **[SWE](https://github.com/cyberlytics/awesome-software-engineering-tools)**-Liste (u.a. die dortigen Abschnitte [DevOps](https://github.com/cyberlytics/awesome-software-engineering-tools#devops) sowie [Modellierung & Architektur](https://github.com/cyberlytics/awesome-software-engineering-tools#modellierung--architektur), [Testing](https://github.com/cyberlytics/awesome-software-engineering-tools#testing) und weitere) sowie meine **[BDCC4Ai](https://github.com/cyberlytics/awesome-bdccai-tools)**-Liste (u.a. [Security](https://github.com/cyberlytics/awesome-bdccai-tools#security) und weitere)
+- Erweiterte Stichwortliste: ⭐
+	- [Configuration Management](https://en.wikipedia.org/wiki/Configuration_management), [Dependency Management](https://missing.csail.mit.edu/2019/package-management/), [Dependency Hell](https://en.wikipedia.org/wiki/Dependency_hell) ([DLL \[Heck\]](https://en.wikipedia.org/wiki/DLL_Hell), [NuGet hell](https://www.google.com/search?q=nuget+hell), …), [Dependency Manager](https://devopedia.org/dependency-manager), [Build-Artifact Management](https://www.leanix.net/en/wiki/vsm/software-artifacts), [Release Management](https://en.wikipedia.org/wiki/Release_management), [Release Automation](https://en.wikipedia.org/wiki/Application-release_automation), [Software-Artifact Repository](https://en.wikipedia.org/wiki/Software_repository), [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration), [Infrastructure Automation / GitOps](https://about.gitlab.com/topics/gitops/), [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code), [Configuration as a Code](https://www.perforce.com/blog/vcs/configuration-as-code), [Virtualization](https://en.wikipedia.org/wiki/Hardware_virtualization), [Container](https://en.wikipedia.org/wiki/OS-level_virtualization) & [Containerization](https://aws.amazon.com/de/what-is/containerization/), [Consistent Environments](http://engineering-principles.onejl.uk/practices/Consistent_Environments.html), [Image Repositories](https://www.aquasec.com/cloud-native-academy/container-security/image-repository/), [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery), [Deployability](https://en.wikipedia.org/wiki/Deployment), [Modifiability](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010/57-maintainability), [Testability](https://en.wikipedia.org/wiki/Software_testability), [Monitorability/SLO-Überwachung](https://cloud.google.com/monitoring), [Maintainability](https://en.wikipedia.org/wiki/Software_maintenance), [Twelve Factor App Methodology](https://12factor.net/), [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+- Scholar-Disclaimer: ⚠️
+	- Auf Scholar finden Sie ggf. keine Paper, weil die wissenschaftlichen Publikationen zu vielen Aspekten so alt sind (z.B. 90er Jahre), dass sie nicht als PDF im Netz stehen. Aus wissenschaftlicher Sicht sind die Einzelthemen zu DevOps-im-weitesten-Sinn nicht so neu, wie sich die Community den Anschein gibt.
+- Weiterführende Quellen: [Best **DevOps** Blogs and **Resources for Learning**](https://devopscube.com/list-of-devops-blogs-and-resources/) | [Awesome DevOps **Learning**](https://github.com/Lets-DevOps/awesome-learning) | roadmap.sh [DevOps Roadmap](https://roadmap.sh/devops) | [Awesome **Terraform**](https://github.com/cloud-architecture/awesome-terraform)
+- **DevSecOps**:
+	- Ich ordne das Thema eher der IT-Sicherheit unter, daher vgl. die IT-Security-Abschnitte in den Listen zu B.Sc. und M.Sc.
+	- Weiterführende Quellen: [DevSecOps](https://www.aquasec.com/cloud-native-academy/devsecops/devsecops/)
+	- Anmerkung: Der alternative Begriff "SecDevOps" ist die Security-first Variation von DevSecOps, ist aber weniger populär
+		- (Außerdem gab es auch noch "DevOpsSec" als Buchtitel von O'Reily, ist aber begrifflich kaum populär)
 - **[Availability and Uptime](https://www.logicmonitor.com/blog/uptime-vs-availability)** Goals:
 	- **99% (“2 nines“): 87,6 hours (~4 days) downtime per year – [Already requires careful considerations](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/s-99-scenario.html)**
 	- 99,5%: 43,8 hours (~2 days) downtime per year – (AWS offers an instance-level SLA of 99,5% for EC2 instances)
@@ -1023,6 +1043,8 @@ Werkzeuge:
 
 #### AI
 
+- KI und Gesellschaft
+	- Buch [Künstliche Intelligenz und Wir](https://link.springer.com/book/10.1007/978-3-662-71567-3)
 - **Symbolische** Künstliche Intelligenz {Klassische KI}
 	- vgl. Abschnitte oben "Logik" sowie "Logikprogrammierung und Maschinengestütztes Beweisen"
 	- vgl. Abschnitt oben "Semantic Web / Wissensrepräsentation" (u.a. Ontologien, Knowledge Graphs)
@@ -1077,15 +1099,29 @@ Werkzeuge:
 	- Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
 	- Weiterführende Quellen: [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art), [Awesome MVS](https://github.com/walsvid/Awesome-MVS)
 - Prompt Engineering: [Google Prompting Essentials](https://www.coursera.org/learn/google-prompting-essentials)
-	- ChatBot:
+	- ChatBot/Text-zu-Text:
 		- Einstieg: [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain) | [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101) | roadmap.sh [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
-		- Cheat Sheets: [20 ChatGPT Prompts](https://images.app.goo.gl/7LqXi96XaQABWpRY6), [All-in-one AI Cheat Sheet](https://images.app.goo.gl/uvfr5XsuUdHD2gRYA), [Prompt Engineering Mistakes](https://images.app.goo.gl/ANUTJHrRc6QzM1ak6)
 		- Use Cases: [The 14 Best ChatGPT Prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-GitHub/) (2023) von J. Luansing
 		- Data Science: KDnuggets [ChatGPT-**for-Data-Science**-Cheatsheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_for_Data_Science_Cheat_Sheet_KDnuggets.pdf), KDnuggets [ChatGPT-**Cheatsheet**](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
 		- IT-Security: [ChatGPT4 – Potential Scenarios For Accelerated Cybercrime](https://blog.checkpoint.com/2023/03/15/check-point-research-conducts-initial-security-analysis-of-chatgpt4-highlighting-potential-scenarios-for-accelerated-cybercrime/)
 	- Text-zu-Bild: [The Ultimate **Stable Diffusion Prompt Guide**](https://prompthero.com/stable-diffusion-prompt-guide) von PromptHero | [Prompting **Adobe Firefly**](https://torybarber.com/prompting-adobe-firefly/) (2023) von Tory Barber
 		- Webartikel [How to Use ChatGPT to Write Prompts & Prompt Templates for Adobe Firefly & Midjourney](https://www.downloadsource.net/how-to-use-chatgpt-to-write-prompts-prompt-templates-for-adobe-firefly-midjourney/n/22511/) (2023) von Jascha Luca | analog [Adobe Firefly prompt generator](https://flowgpt.com/prompt/UjVmU4bSLor1cpBxx5veq) Vorlage für GPT
-	- Weiterführende Quellen: [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) | reddit-Liste [Useful Prompt Engineering tools and resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) | lablab [AI Tutorials](https://lablab.ai/t) | [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
+	- Agentic:
+		- OpenAI [Chain of Command](https://model-spec.openai.com/)
+			- Levels of authority: Root » System Prompt » Developer Prompt » User Prompt » Guideline Prompt » Message Prompt
+			- AI Agent Levels of Authority: Instruction Prompt » Message Prompt (however: agent instructions are also known as agent system prompt!)
+	- Prompting Recipies / Prompt-Katalog / Prompts Directory:
+		- Cheat Sheets: [20 ChatGPT Prompts](https://images.app.goo.gl/7LqXi96XaQABWpRY6), [All-in-one AI Cheat Sheet](https://images.app.goo.gl/uvfr5XsuUdHD2gRYA), [Prompt Engineering Mistakes](https://images.app.goo.gl/ANUTJHrRc6QzM1ak6)
+			- Edu: Ulrich Ivens [Effektives Prompting in der Pädagogik](https://promptkatalog.eldshort.de/prompten.html)
+		- ChatBot/Text-to-Text Kataloge:
+			- Free/Open: [prompts.chat](https://prompts.chat/), [Agentic Workers](https://www.agenticworkers.com/library), GPTBot [Prompts Library](https://gptbot.io/chatgpt-prompts), Alexandria [Propmt Library](https://aiexandria.com/), Temaniaga [Prompt Hub for Business](https://www.temaniaga.com/apps/ai-prompt-hub/), [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+			- Commercial (€): [GodOfPrompt](https://www.godofprompt.ai/prompt-library), [Business Prompts](https://businessaiprompts.com/PromptLibrary)
+			- Vendors: OpenAI [Cookbook](https://cookbook.openai.com/), Microsoft [Copilot Promptkatalog](https://m365.cloud.microsoft/copilot-prompts)
+			- Edu: [KI-Campus Prompt-Katalog](https://coda.io/@kic/prompt-katalog), [Josh Cavalier](https://joshcavalier.notion.site/), [Microsoft Prompts for Edu](https://github.com/microsoft/prompts-for-edu)
+		- Text-to-Image Kataloge: [PromptHero](https://prompthero.com/ai-prompts), [chatgptprompt.in](https://chatgptprompt.in/)
+		- Text-to-Video Kataloge: [PromptHero](https://prompthero.com/video), [chatgptprompt.in](https://chatgptprompt.in/prompts?category=video)
+		- Vibe Coding Kataloge: [loveable](https://docs.lovable.dev/prompting/prompting-library), [cursor.directory](https://cursor.directory/rules), Examples by [VibeCodex](https://vibecodex.io/#prompts)
+	- Weiterführende Quellen: [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | reddit-Liste [Useful Prompt Engineering tools and resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) | lablab [AI Tutorials](https://lablab.ai/t) | [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
 - Robotik
 	- Umfassende Referenzen:
 		- Buch (€€) Springer **[Handbook of Robotics](https://www.amazon.de/dp/3319325507/)** (2016) von Sicilano & Khatib \[EN\] ⭐
@@ -1381,6 +1417,7 @@ Werkzeuge:
 	- Dt. Verband: [tekom](https://www.tekom.de/) Deutschland e.V.
 	- (€:) Buch [Technische Dokumentation: Übersetzungsgerechte Texterstellung und Content-Management](https://www.amazon.de/dp/3834333484/) (2014) von Drewer & Ziegler
 - Gaming/Game-Engines/3D: [**Unity** Education](https://unity.com/learn) | [**Unreal** Learning Library](https://dev.epicgames.com/community/learning?application=unreal_engine)
+	- Grundlagen: [How do Video Graphics work?](www.youtube.com/watch?v=C8YtdC8mxTU) sowie [How does Ray Tracing Work in Video Games and Movies?](www.youtube.com/watch?v=iOlehM5kNSk)
 	- Communities: [Ludum Dare 48h Competitions](https://en.wikipedia.org/wiki/Ludum_Dare), [Demoscene](https://en.wikipedia.org/wiki/Demoscene), [64K intro](https://www.lofibucket.com/articles/64k_intro.html), [96k game competition](https://en.wikipedia.org/wiki/.kkrieger), [13KB Web Games](https://js13kgames.com/)
 	- Game-Design: [Game Developer Conference **(GDC) talks**](https://www.youtube.com/c/Gdconf)
 	- (Web-Games » GPU-Beschleunigung in Browsers: Artikel [How to fix/turn on your browser’s hardware acceleration](https://forums.forge-vtt.com/t/how-to-fix-turn-on-your-browsers-hardware-acceleration/11296))
@@ -1506,6 +1543,7 @@ Internet Ikonen:
 		- Einstieg: Wikipedia-Artikel zu [Requirements Tracibility](https://en.wikipedia.org/wiki/Requirements_traceability) sowie [List of Requirements Engineering Tools](https://en.wikipedia.org/wiki/List_of_requirements_engineering_tools)
 		- Well-known: IBM DOORS / IBM DOORS Next
 - IT-Sicherheit / IT-Security für Fortgeschrittene
+	- Security Engineering: Buch **[Security Engineering: A Guide to Building Dependable Distributed Systems](https://www.cl.cam.ac.uk/archive/rja14/Papers/SEv3.pdf)** von Ross Anderson
 	- Pentesting: [Hacker101](https://www.hacker101.com/start-here), [PortSwigger](https://portswigger.net/web-security/all-materials/detailed)
 		- Pentest-Übungen: **[Hack the Box](https://www.hackthebox.com/)** (Hacking Playground) und **[VulnHub](https://www.vulnhub.com/)** (VMs als Übungsziel, insb. [Basic Pentesting](https://www.vulnhub.com/entry/basic-pentesting-1,216/), [Mr. Robot](https://www.vulnhub.com/entry/mr-robot-1,151/), [Quaoar](https://www.vulnhub.com/entry/hackfest2016-quaoar,180/), [The Necromancer](https://www.vulnhub.com/entry/the-necromancer-1,154/), [The Wall](https://www.vulnhub.com/entry/the-wall-1,130/))
 	- Hacking Resources: [**0xdf** hacks stuff](https://0xdf.gitlab.io/), **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**
