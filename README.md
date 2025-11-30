@@ -100,11 +100,16 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 ## Kinder und Jugendliche
 
-- Grundverständnis ⭐
+- Kindlich pädagogische Vorbemerkung
+	- Erwachsene: Scheinwerfer-Aufmerksamkeit (bspw. [Posner](http://www2.psychology.uiowa.edu/faculty/hollingworth/prosem/scan_posner_1980.pdf) sowie [Treisman & Gelande](https://www.sciencedirect.com/science/article/abs/pii/0010028580900055), 1980er) = eng, fokussiert wie ein Spotlight
+	- **Kinder**: **Laternen-Aufmerksamkeit** (bspw. [Prof. Gopnik](https://www.amazon.de/dp/0312429843), 2000er) = breit, diffus wie eine Laterne (!)
+	- Häufig betrachten Erwachsene die kindliche Art von Aufmerksamkeit als defizitär. Das ist falsch. In Teilen kann sie derjenigen von Erwachsenen überlegen sein.
+- Grundverständnis Informatik/KI ⭐
 	- Video [Harvard Professor Explains Algorithms in 5 Levels of Difficulty](https://www.youtube.com/watch?v=fkIvmfqX-t0) (Playlist: [5 Levels](https://youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N): [Machine Learning](https://www.youtube.com/watch?v=5q87K1WaoFI), [Hacking](https://www.youtube.com/watch?v=d9PqVcgT1kQ), [Blockchain](https://www.youtube.com/watch?v=hYip_Vuv8J0), [Virtual Reality](https://www.youtube.com/watch?v=akveRNY6Ulw))
 	- Arbeitsheft **[schulKI: Das Schulbuch](https://schulbuchki.s3-eu-central-1.ionoscloud.com/schulKI-2024-07-21-helle-edition.pdf)**
 	- SchuBu [Digitale Grundbildung 3](https://www.schubu.org/t11-7) (sowie deren andere [digitalen Schulbücher](https://www.schubu.org/))
 	- Kindgerechte Informatik/KI: [Frag Fred](https://www.youtube.com/playlist?list=PLMu9JaQVxJoEWVdcNvsDnd1_dKmAkWDVA), [ZDF goes Schule: Kategorie Mathe und Technik](https://schule.zdf.de/kategorie/mathematik), [Planet Schule: Schwerkpunkt KI](https://www.planet-schule.de/schwerpunkt/index.html), [Sendung mit der Maus (ausgewählte Folgen)](https://www.perplexity.ai/search/new?q=sendung+mit+der+maus+videos+mit+informatik+oder+ki+bezug), [Franneck](https://www.youtube.com/@Franneck), [The Morpheus Tutorials](https://www.youtube.com/@TheMorpheusTutorials)
+	- Grundlegende Herausforderungen von moderner KI: 1) [Bias](https://www.ibm.com/think/topics/ai-bias), 2) [Konfabulation](https://de.wikipedia.org/wiki/Konfabulation) (bei KIs umgangssprachlich auch als [Halluzination](https://de.wikipedia.org/wiki/Halluzination_(Künstliche_Intelligenz)) bezeichnet), 3) [Sycophancy](https://en.wikipedia.org/wiki/Sycophancy), 4) [AI slop](https://en.wikipedia.org/wiki/AI_slop)
 - Ursprung in Deutschland
 	- **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabensammlung](https://bwinf.de/biber/archiv/)) ⭐
 	- [Calliope Mini](https://calliope.cc/) ([Anleitungen](https://calliopemini.info/), Microsoft [MakeCode](https://makecode.calliope.cc/))
@@ -1089,6 +1094,12 @@ Werkzeuge:
 	- Chatbot (Text-to-Text):
 		- Einstieg: KDnuggets [ChatGPT: Everything You **Need to Know**](https://www.kdnuggets.com/2023/01/chatgpt-everything-need-know.html) | KDnuggets [ChatGPT as a **Python Programming Assistant**](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html)
 		- Webartikel: **[GPT-3's family tree](https://www.truthm.com/gpt-3s-family-tree/)** | Paper **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** (2017) von Vasvani et al. (auch als das [**Transformer**-Paper von Google](https://arxiv.org/abs/1706.03762) bekannt)
+		- Milestone Papers: [Liste per Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM#milestone-papers)
+		- Nennenswerte Webartikel: Leseliste per [Great thoughts about LLM](https://github.com/Hannibal046/Awesome-LLM#great-thoughts-about-llm)
+		- Unsensored Models:
+			- Methode "uncensoring": von [Eric Hartford](https://erichartford.com/uncensored-models) (on [ollama](https://ollama.com/search?q=Eric%20Hartford))
+			- Methode "abliteration": von [Arditi et al.](https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction), zzgl. [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration), auch für Text-to-Image ([am Bsp. Flux.1](https://medium.com/@aloshdenny/uncensoring-flux-1-dev-abliteration-bdeb41c68dff))
+			- Models in HuggingFace: ["eric hartford"](https://huggingface.co/search/full-text?q=eric+hartford&type=model), ["abliterate"](https://huggingface.co/search/full-text?q=abliterate&type=model), ["unsensored"](https://huggingface.co/search/full-text?q=_uncensored&type=model)
 		- Zulässigkeit von Generative AI als Werkzeug zur Erstellung wiss. Publikationen? vgl. **[ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship)**
 		- **LLM-Evaluation**: [LLM Evaluation Metrics: The Ultimate LLM Evaluation Guide](https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)
 		- Text-to-Code: [Top Open Source (Free) Text to Code Generator models on the market](https://www.edenai.co/post/top-free-code-generation-tools-apis-and-open-source-models)
@@ -1110,6 +1121,11 @@ Werkzeuge:
 		- OpenAI [Chain of Command](https://model-spec.openai.com/)
 			- Levels of authority: Root » System Prompt » Developer Prompt » User Prompt » Guideline Prompt » Message Prompt
 			- AI Agent Levels of Authority: Instruction Prompt » Message Prompt (however: agent instructions are also known as agent system prompt!)
+	- Vibe Coding:
+		- Wegbereiter:
+			- Begriff: [Andrej Karpathy](https://x.com/karpathy/status/1886192184808149383) (Feb. 2025)
+			- Technik: "[Cursor](https://www.cursor.com/) [Composer](https://cursor101.com/article/cursor-composer) (i.e., multi-file editing), backed with Claude [Sonnet](https://www.anthropic.com/claude/sonnet)" (insb. wegen Claude Sonnets großem Kontextfenster von 200K+)
+		- Video [The End of Software Engineering (as we know it)](https://www.youtube.com/watch?v=j0XukGlEUTc) von Jan Bosch (zzgl. [blog article](https://janbosch.com/blog/index.php/2017/10/06/the-end-of-system-architects/))
 	- Prompting Recipies / Prompt-Katalog / Prompts Directory:
 		- Cheat Sheets: [20 ChatGPT Prompts](https://images.app.goo.gl/7LqXi96XaQABWpRY6), [All-in-one AI Cheat Sheet](https://images.app.goo.gl/uvfr5XsuUdHD2gRYA), [Prompt Engineering Mistakes](https://images.app.goo.gl/ANUTJHrRc6QzM1ak6)
 			- Edu: Ulrich Ivens [Effektives Prompting in der Pädagogik](https://promptkatalog.eldshort.de/prompten.html)
