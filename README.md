@@ -398,6 +398,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Weiterführende Quellen: **[Awesome PhD](https://github.com/macoj/phd)**
 - Korrekturzeichen: **[DIN 16 511](http://www.cleverprinting.de/images/korrekturzeichen_1.png)**
 - Geschlechtersensible Formulierungen: OTH **[Fair formuliert](https://www.oth-aw.de/files/oth-aw/Services/Schreibwerkstatt/Leitfaden_Fair_Formuliert.pdf)** | **[geschickt gendern](https://geschicktgendern.de/)** ⭐
+	- Weitere nennenswerte Konzepte: [Phettberg-Methode](https://www.bpb.de/shop/zeitschriften/apuz/geschlechtergerechte-sprache-2022/346085/entgendern-nach-phettberg/)
 - Inklusive Formulierungen: ACM [Alternatives List for Charged Terminology in the Computing Profession](https://www.acm.org/diversity-inclusion/words-matter)
 - Kodex: [Leitlinien zur Sicherung **guter wissenschaftlicher Praxis**](https://www.dfg.de/download/pdf/foerderung/rechtliche_rahmenbedingungen/gute_wissenschaftliche_praxis/kodex_gwp.pdf) der DFG
 	- [IEEE Publishing Ethics](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/)
