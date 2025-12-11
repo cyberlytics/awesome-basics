@@ -1240,10 +1240,25 @@ Werkzeuge:
 	- Webartikel [17 Life Hacks](https://www.upworthy.com/17-secret-life-hacks-ex1), [42 Real-Life Cheats-Codes](https://www.boredpanda.com/some-real-life-cheat-codes-msn/)
 	- Webartikel [10 Qualities for Happier Marriages](https://www.yourtango.com/love/psychologist-reveals-men-who-choose-wives-with-these-qualities-happier-marriage)
 - Jobsuche
-	- **Kununu**: [Einstiegsseite **Rankings**](https://news.kununu.com/ranking/) bzw. in Kooperation mit der ZEIT auch [Beste Arbeitgeber Deutschlands 2022](https://news.kununu.com/beste-arbeitgeber-deutschland/)
-		- Alternativ auch **Glassdoor** bspw. via [Beste Arbeitgeber 2023 (Germany)](https://www.glassdoor.com/Award/Beste-Arbeitgeber-Deutschland-LST_KQ0,29.htm)
-		- … und auch Monster, Xing, etc. pp.
-	- Regional: 1) **Messekatalog** des [Careerday](https://www.oth-aw.de/studium/nach-dem-studium/career-service/careerday/) lesen, 2) die [**IHK** in Amberg](https://www.ihk-wissen.de/ihk-akademie/standorte/amberg/) anrufen/besuchen, 3) unseren **[Studien- und Career-Service](https://www.oth-aw.de/hochschule/ueber-uns/einrichtungen/studien-und-career-service/ueber-uns/)** aufsuchen sowie 4) unsere **[Hochschul-Jobbörse](https://www.hochschuljobboerse.de/studierende)**
+		- Regional: 1) **Messekatalog** des [Careerday](https://www.oth-aw.de/studium/nach-dem-studium/career-service/careerday/) lesen, 2) die [**IHK** in Amberg](https://www.ihk-wissen.de/ihk-akademie/standorte/amberg/) anrufen/besuchen, 3) unseren **[Studien- und Career-Service](https://www.oth-aw.de/hochschule/ueber-uns/einrichtungen/studien-und-career-service/ueber-uns/)** aufsuchen sowie 4) unsere **[Hochschul-Jobbörse](https://www.hochschuljobboerse.de/studierende)**
+		- Jobbörse:
+			- in DE: [stepstone](https://www.stepstone.de/), [indeed](https://de.indeed.com/), etc.
+			- Int'l: [indeed Worldwide](https://www.indeed.com/worldwide), [monster](https://www.monster.com/), etc.
+			- Int'l / Hochbezahlt ⭐: [Welcome to the Jungle](https://www.welcometothejungle.com/)
+		- Freelancing:
+			- in DE: [solcom.de](https://www.solcom.de/de/), aber auch internationale Ableger für Deutschland wie Malt, freelance.de, Upword, etc.
+			- Int'l: [freelancer.com](https://www.freelancer.com/), etc.
+		- AI-automated candidate matching:
+			- in DE: [instaffo.com](https://www.instaffo.com/)
+			- Int'l: [magnet.me](https://magnet.me/jobseekers)
+		- Unternehmensprofile:
+			- in DE: [Kununu](https://www.kununu.com/) … und auch Monster, Xing, etc.
+			- Int'l: [Glassdoor](https://www.glassdoor.com/)
+			- Top / in DE: **Kununu**: [Einstiegsseite **Rankings**](https://news.kununu.com/ranking/) bzw. in Kooperation mit der ZEIT auch [Beste Arbeitgeber Deutschlands 2022](https://news.kununu.com/beste-arbeitgeber-deutschland/) sowie auch **Glassdoor** bspw. via [Beste Arbeitgeber 2023 (Germany)](https://www.glassdoor.com/Award/Beste-Arbeitgeber-Deutschland-LST_KQ0,29.htm)
+			- Top / Int'l: **Glassdoor** [Einstiegsseite **Awards & Lists**](https://www.glassdoor.com/Award/), bspw. [Glassdoor’s Best Places to Work](https://www.glassdoor.com/Award/Best-Places-to-Work-LST_KQ0,19.htm)
+		- Praktika/Studentenjobs
+			- in DE: [academics (Die Zeit)](https://www.academics.de/stellenanzeigen/), [Stellenwerk][https://www.stellenwerk.de/]
+			- Int'l: [Hochschul-Jobbörse Auslandspraktika](https://www.hochschuljobboerse.de/studierende/auslandspraktika)
 	- Warnhinweise:
 		- Seitens Unternehmen: [Ghost Jobs](https://patriciaparnet.medium.com/ghost-jobs-das-mysterium-der-fake-stellenanzeigen-erobert-deutschland-36d2a52d000a)
 		- Seitens Bewerber: [White Fonting](https://purplecv.co.uk/blog/white-fonting-cv-our-verdict) sowie ([Hintergründe](https://de.euronews.com/2023/08/14/wie-ki-millionen-von-qualifizierten-bewerbern-herausfiltert)
@@ -1822,7 +1837,7 @@ Internet Ikonen:
 		- Buch (€) [**Presentation Zen**: Simple Ideas on Presentation Design and Delivery](https://www.amazon.de/dp/0135800919/) (2007) von Garr Reynolds
 		- Zitat: „Einfachheit ist die höchste Form der Raffinesse“ – Leonardo da Vinci
 	- Nennenswerte Einzelpersonen und Ansätze:
-		- Steve Jobs: Webartikel [Die 10 Besten Tricks von Steve Jobs](https://inflow-academy.de/praesentieren-wie-die-experten-die-10-besten-tricks-von-steve-jobs/)
+		- Webartikel [Die 10 Besten Tricks von Steve Jobs](https://inflow-academy.de/praesentieren-wie-die-experten-die-10-besten-tricks-von-steve-jobs/)
 		- Nancy Duarte: [slide:ology](https://www.amazon.de/dp/3897219395/)
 		- [Takahashi](https://en.wikipedia.org/wiki/Takahashi_method)-Methode / [Lessig](https://presentationzen.blogs.com/presentationzen/2005/10/the_lessig_meth.html)-Methode
 		- [Pecha Kucha](https://en.wikipedia.org/wiki/PechaKucha) / [Ignite Talks](<https://en.wikipedia.org/wiki/Ignite_(event)>)
@@ -2119,6 +2134,9 @@ Internet Ikonen:
 \[ Ohne Anspruch auf Vollständigkeit. \]
 
 - Berufliche Wegfindung / Akademische Karriere
+	- Wissenschaftliche Stellenangebote ⭐:
+		- Jobbörse: Die Zeit mit den beiden Varianten [Zeit Stellenmarkt](https://jobs.zeit.de/stellenanzeigen/position-professor/) und [academics.de](https://www.academics.de/stellenanzeigen) sowie [**universitoxy**.com](https://universitoxy.com/) und die [GI Stellenanzeigen](https://gi.de/service/stellenanzeigen)
+		- Newsletter ⭐: [AkademischeStellen](https://akademischestellen.com/) sowie [WissenschaftlicheStellenangebote](https://wissenschaftlichestellenangebote.com/)
 	- **[Der Postdoc-Ratgeber](https://www.academics.de/themen/postdoc)** von academics.de (auch als Buch ⭐ [Auf dem Weg zur Professur: Die **Postdoc-Fibel**](https://www.amazon.de/dp/3981701526/) von 2016)
 		- Google Search: [„Wege zur Professur“](https://www.google.com/search?q=wege+zur+professur)
 		- Amazon Search: [„Postdoc“](https://www.amazon.de/s?k=postdoc)
@@ -2166,12 +2184,6 @@ Internet Ikonen:
 			- Forschungseinrichtungen (bspw. wie [Fraunhofer-Institute](https://www.fraunhofer.de/en/jobs-and-career.html) oder [NIM](https://www.nim.org/jobs) in Nürnberg): Angestelltenverhältnis; vgl. Kununu
 - Berufungsverfahren
 	- [**Handbuch** Studentische Mitwirkung in **Berufungskommissionen**](https://file.komapedia.org/Bkhandbuch_v2.pdf), v2, des Fachschaftsrat Mathematik an der TU Chemnitz
-- Stellenanzeigen
-	- (für Hochschul-Jobs und Professuren)
-	- [**academics**.de](https://www.academics.de/stellenanzeigen) (\<=> Die Zeit)
-	- [**universitoxy**.com](https://universitoxy.com/)
-	- [**akademischestellen**.com](https://akademischestellen.com/)
-	- ([**GI** Stellenanzeigen](https://www.academics.de/stellenanzeigen))
 - Verbände
 	- (für Professoren und Post-Docs)
 	- [**hochschulverband**.de](https://www.hochschulverband.de/) = Deutschen Hochschulverband (DHV), v.a. Universitätsprofessoren aber auch Habilitierte
