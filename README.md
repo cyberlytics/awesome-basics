@@ -1929,6 +1929,7 @@ Internet Ikonen:
 		- ⚠️ 2. **Mangelverwaltung**
 		- ⚠️ 3. **Kopfmonopole**
 		- ⚠️ 4. **Rollenüberlastung**
+	- Bonusproblem: **Präventiver Überkonformismus**, insbesondere hinsichtlich regulatorischen Anforderungen, in Unternehmen und Behörden/Hochschulen
 	- Die **Neumannschen Gesetze**:
 		- Erstes Neumannsches Gesetz: „Alles ist immer dasselbe.“ ⭐
 			- Anmerkung: Es handelt sich um eine Abwandlung von Arthur Schopenhauers „Always to see the general in the particular is the very foundation of genius“. Allerdings eher als Verkehrung ins Gegenteil, wegen meiner Beobachtung: Wir bringen Nicht-Informatikern nach dem Abitur in einem langen Informatik-Studium die Abstraktion und Generalisierung bei. Danach setzt m.E. eine kollektive Hybris ein. Das 1. Neumann’sche Gesetz karikiert die Fähigkeit zur Generalisierung durch dessen Trivialisierung. Warum? Ich bin überzeugt, dass Informatiker im Berufsleben viel häufiger scheitern, weil wir Unterschiede nicht erkennen; und unser Stolz auf Generalisierung und Abstraktion macht uns blind. Abstraktion ist nicht das Weglassen unwichtiger Details, wie es viele Schüler in der Jugend häufig auf fehlgeleitete Weise erklärt bekommen. **Abstraktion ist die zweckgerichtete Schaffung einer verwendungsgleichen Repräsentation**. ⚠️ Weglassen ist vermeintlich leicht. Erschaffen ist sehr, sehr schwer.
