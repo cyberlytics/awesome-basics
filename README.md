@@ -1942,7 +1942,7 @@ Internet Ikonen:
 			- Anmerkung: Diese Weisheit hab ich offensichtlich nicht erfunden, aber ich habe über die Jahre ein enormes Anwendungspotential insbesondere in der Software-Entwicklung beobachtet, also empfehle ich stets diese Gesetzmäßigkeit in der Informatik niemals leichtfertig zu mißachten.
 	- Wichtige Performance-Weisheiten:
 		- „O-Notation eats Multi-Threading to breakfast“ ⚠️ aka „Gute Algorithmik schlägt viel Blech bei weitem“
-			- d.h. Professionals wenden "Kill it with Iron" nur an [falls angemessen]{.smallcaps} und niemals [falls fehlgeleitet]{.smallcaps}
+			- Professionals apply "Kill It With Iron" (KIWI) only if appropriate and never if misguided
 		- Implikation aus der Theory of Constraints: „If you optimize anything other than the bottleneck, you are rather optimizing at all“
 	- Weiterführende Quellen: **[Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)** ([Einstieg](https://spaceninja.com/2015/12/08/falsehoods-programmers-believe/)), **[Awesome CTO](https://github.com/kuchin/awesome-cto)**
 - Mis-Quotations:
