@@ -111,7 +111,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Kindgerechte Informatik/KI: [Frag Fred](https://www.youtube.com/playlist?list=PLMu9JaQVxJoEWVdcNvsDnd1_dKmAkWDVA), [ZDF goes Schule: Kategorie Mathe und Technik](https://schule.zdf.de/kategorie/mathematik), [Planet Schule: Schwerkpunkt KI](https://www.planet-schule.de/schwerpunkt/index.html), [Sendung mit der Maus (ausgewählte Folgen)](https://www.perplexity.ai/search/new?q=sendung+mit+der+maus+videos+mit+informatik+oder+ki+bezug), [Franneck](https://www.youtube.com/@Franneck), [The Morpheus Tutorials](https://www.youtube.com/@TheMorpheusTutorials)
 	- Grundlegende Herausforderungen von moderner KI: 1) [Bias](https://www.ibm.com/think/topics/ai-bias), 2) [Konfabulation](https://de.wikipedia.org/wiki/Konfabulation) (bei KIs umgangssprachlich auch als [Halluzination](https://de.wikipedia.org/wiki/Halluzination_(Künstliche_Intelligenz)) bezeichnet), 3) [Sycophancy](https://en.wikipedia.org/wiki/Sycophancy), 4) [AI slop](https://en.wikipedia.org/wiki/AI_slop)
 - Ursprung in Deutschland
-	- **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabensammlung](https://bwinf.de/biber/archiv/)) ⭐
+	- **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabenpool](https://bwinf.de/biber/archiv/)) ⭐
 	- [Calliope Mini](https://calliope.cc/) ([Anleitungen](https://calliopemini.info/), Microsoft [MakeCode](https://makecode.calliope.cc/))
 	- Kosmos [Miika K.I.](https://www.kosmos.de/de/miika-k.i._1620899_4002051620899)
 - Begegnungen / Creative Retreat
@@ -174,7 +174,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 		- dt. [Bildungsmonitor](https://www.insm.de/insm/themen/bildung/) sowie [PISA](https://www.oecd.org/berlin/themen/pisa-studie/) (zzgl. dt. [DESI](https://www.dipf.de/de/forschung/projektarchiv/deutsch-englisch-schuelerleistungen-international)), [PIAAC](https://www.gesis.org/piaac/piaac-home), [TIMSS](https://timss.bc.edu/timss-landing.html), [PIRLS/IGLU](https://www.kmk.org/themen/qualitaetssicherung-in-schulen/bildungsmonitoring/internationale-schulleistungsvergleiche/pirlsiglu.html)) (zzgl. weitere: [Hattie](http://d-nb.info/1058566075), …)
 		- Digitalkompetenz: [ICILS](https://www.iea.nl/studies/iea/icils) (= International Computer and Information Literacy Study)
 - Informatik-Software und -Quellen für Schüler
-	- Oben erwähnter **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabensammlung](https://bwinf.de/biber/archiv/))
+	- Oben erwähnter **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabenpool](https://bwinf.de/biber/archiv/))
 	- **[openHPI in der Schule](https://open.hpi.de/pages/in-der-schule)** ⭐
 	- Objekt-orientierte Programmierung
 		- Buch [Karel the Robot](https://www.amazon.de/dp/0471597252/) ([Karel Homepage](https://www.cs.mtsu.edu/~untch/karel/index.html)) mit [Robot Karol](https://karol.arrrg.de/) als Online-Programmierumgebung
@@ -323,7 +323,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- GI-Empfehlungen: [Bildungsstandards **Informatik** für die **Sekundarstufe II**](https://informatikstandards.de/fileadmin/GI/Projekte/Informatikstandards/Dokumente/Bildungsstandards_SII.pdf) (Information, Daten, Algorithmen, Sprachen, Automaten, Informatiksysteme, Informatik und Gesellschaft) von 2016
 - Weitere Handreichungen für alle Jgst (6. bis 12.):
 	- [Handreichung Kompetenzorientierte Aufgaben für das Fach Informatik](https://www.isb.bayern.de/schularten/gymnasium/faecher/informatik/kompetenzorientierte-aufgaben/) \[[PDF](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/Kompetenzaufgaben/hr_kompetenzorientierte_aufgaben_informatik.pdf)\] der ISB von 2012
-	- **[Informatik-Biber](https://bwinf.de/biber/)** (ab 7. Jgst): bspw. [Aufgabensammlung](https://bwinf.de/biber/archiv/aufgabensammlung/) ⭐
+	- **[Informatik-Biber](https://bwinf.de/biber/)** (ab 7. Jgst): bspw. [Aufgabenpool](https://bwinf.de/biber/archiv/aufgabensammlung/) ⭐
 	- Arbeitsheft **[schulKI: Das Schulbuch](https://schulbuchki.s3-eu-central-1.ionoscloud.com/schulKI-2024-07-21-helle-edition.pdf)** ⭐
 	- SchuBu [Digitale Grundbildung 3](https://www.schubu.org/t11-7) (sowie deren andere [digitalen Schulbücher](https://www.schubu.org/))
 	- International/Englisch: code.org [**AI 101** for Teachers](https://code.org/ai/pl/101)
@@ -571,7 +571,7 @@ Werkzeuge:
 		- [Py (#1)](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python), [Py(#2)](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
 		- [C#](https://github.com/aalhour/C-Sharp-Algorithms)
 		- [JavaScript](https://github.com/yangshun/lago), [TypeScript](https://github.com/Lugriz/typescript-algorithms)
-	- Aufgaben:
+	- Aufgabenpool Algorithmik:
 		- [GfG 160](https://www.geeksforgeeks.org/courses/gfg-160-series)
 		- [AlgoMaster](https://algomaster.io/practice/dsa-patterns)
 		- [Neetcode 150](https://neetcode.io/practice?tab=neetcode150)
@@ -611,7 +611,7 @@ Werkzeuge:
 		- Lernmaterialliste **[Become a Programmer, Zbgureshpxre](http://programming-motherfucker.com/become.html)** von Zed A. Shaw
 		- Helle Welt 2.0 = **[FizzBuzz](https://rosettacode.org/wiki/FizzBuzz)** in allen Sprachen
 		- [Basic **Computer Games**](https://github.com/coding-horror/basic-computer-games) in allen TIOBE Top-10 Sprachen
-	- Coding Dojos, Katas, Aufgabensammlungen:
+	- Coding Dojos, Katas, Aufgabenpool:
 		- Kata/Dojo-Kataloge: **[Kata-Log](https://kata-log.rocks)**, [Emily Baches Git Repo (Autorin von "The **Coding Dojo** Handbook")](https://github.com/emilybache/), [**Clean Code Developer** School - Coding Dojo](https://ccd-school.de/coding-dojo/), **[CodingDojo.org](https://codingdojo.org/kata/)**
 		- Erkenntnisgewinn aus Katas: [Uncle Bob: The **Transformation Priority Premise**](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 		- Klassische Aufgabensammlungen: [Lösungen zum Buch **Programmieren trainieren**](https://protrain.GitHub.io/loesungen/loesungsvorschlaege-fuer-programmieraufgaben-auf-GitHub.html) (Java, Py)
@@ -710,7 +710,7 @@ Werkzeuge:
 	- E2E: [**Cypress** End to End Testing Tutorial: A Detailed Guide](https://www.lambdatest.com/blog/cypress-end-to-end-testing/)
 - Datenbanksysteme: [Online-Materialien von Prof. Dr. **Jens Dittrich** an der Universität Saarland](https://bigdata.uni-saarland.de/datenbankenlernen/) \[**[Videos](https://www.youtube.com/user/jensdit)**\] | guru99 **[DBMS Tutorial](https://www.guru99.com/dbms-tutorial.html)**
 	- MOOC-Kurse von Jennifer Widom: **[RDBMS/SQL](https://www.edx.org/course/databases-5-sql)**, [Advanced Topics in SQL](https://www.edx.org/learn/sql/stanford-university-databases-advanced-topics-in-sql), [OLAP and Recursion](https://www.edx.org/learn/databases/stanford-university-databases-olap-and-recursion), [Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory), [Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data)
-	- SQL Aufgaben: **[SQL Murder Mystery](https://mystery.knightlab.com/)** | **[SQL Island](https://sql-island.informatik.uni-kl.de/)** | **[SQLBolt](https://sqlbolt.com/)** | **[Select Star SQL](https://selectstarsql.com/)** | **[SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises)**
+	- SQL Aufgabenpool: **[SQL Murder Mystery](https://mystery.knightlab.com/)** | **[SQL Island](https://sql-island.informatik.uni-kl.de/)** | **[SQLBolt](https://sqlbolt.com/)** | **[Select Star SQL](https://selectstarsql.com/)** | **[SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises)**
 	- SQL Tutorials: **[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)** | **[w³schools SQL Tutorial](https://www.w3schools.com/sql/)**
 	- roadmap.sh [**SQL** Roadmap](https://roadmap.sh/sql)
 	- Transaktionen:
@@ -746,7 +746,9 @@ Werkzeuge:
 	- CSS vertieft: **[CSS Grid](https://kulturbanause.de/blog/css-grid-layout-module/)** | **[Grid by Example](https://gridbyexample.com/learn/)**
 	- Cookies: [A practical, Complete Tutorial on **HTTP cookies**](https://www.valentinog.com/blog/cookies/) | [The Ultimate Guide to **Cookies**](https://html.com/resources/cookies-ultimate-guide/)
 	- base64: freeCodeCamp [What is **base64 Encoding** and Why is it Necessary?](https://www.freecodecamp.org/news/what-is-base64-encoding/)
-	- Aufgabenpool Frontend: [**10 Projects** to skyrocket your coding skills](https://dev.to/bigsondev/10-projects-to-skyrocket-your-coding-skills-19hl) | Bosscoder [Master Frontend With These **Projects**](https://www.scribd.com/document/729190779/Master-Frontend-With-These-Projects)
+	- Aufgabenpool Frontend:
+		- [**10 Projects** to skyrocket your coding skills](https://dev.to/bigsondev/10-projects-to-skyrocket-your-coding-skills-19hl): Business Card, The Veggie King, Calculator, Just Weather, GifTok, Notely, Color Memory, AI Post Generator, Level Editor, Any Chat
+		- Bosscoder [Master Frontend With These **Projects**](https://www.scribd.com/document/729190779/Master-Frontend-With-These-Projects): Personal Portfolio Website, Responsive Blog Website, Recipe Website, Interactive Quiz App, Weather App, To-Do List Application, Movie Review Site, Fitness Tracker, E-commerce Site, Real-Time Chat Application, Project Management Dashboard, Social Media Platform
 	- JavaScript (Client-side/Browser): Buch **[Eloquent JavaScript](https://eloquentjavascript.net/)** (2018) | **[The Modern JavaScript Tutorial](https://javascript.info/)** | **[JavaScript Summary](https://www.codeproject.com/Articles/1006192/JavaScript-Summary)** | dt. Buch [JavaScript und AJAX](https://openbook.rheinwerk-verlag.de/javascript_ajax/)
 		- TypeScript: **[Getting Started with TypeScript](https://blog.teamtreehouse.com/getting-started-typescript)** | **[TypeScript Release-Notes](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html)**
 		- Übersicht: freeCodeCamp [Front End JavaScript Development Handbook – **React, Angular, and Vue Compared**](https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/) | playfulprogramming.com [The Framework Field Guide - Fundamentals](https://playfulprogramming.com/collections/framework-field-guide-fundamentals)
@@ -964,7 +966,7 @@ Werkzeuge:
 	- Grundlagen: vgl. Abschnitt [vor einer wiss. Abschlussarbeit](#vor-einer-wiss-abschlussarbeit-informatikki) » „Handwerkszeug: Getting S#\*t Done“: Betriebssystemadministration ([Linux](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/) | [Windows](https://docs.microsoft.com/de-de/learn/paths/windows-server-deployment-configuration-administration/)), Linux [Daemons](https://www.makeuseof.com/tag/control-linux-start-services-daemons/) (service/sysctl) bzw. Microsoft [Services](https://www.thewindowsclub.com/open-windows-services) (services.msc), Shell-Scripting ([shell](https://www.freecodecamp.org/news/command-line-for-beginners/) | [pwsh](https://docs.microsoft.com/de-de/learn/modules/introduction-to-powershell/1-introduction)), [SSH](https://linuxize.com/post/how-to-setup-ssh-tunneling/), [Virtualisierung](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide), [Docker](https://serversforhackers.com/c/getting-started-with-docker), [git](https://rogerdudler.GitHub.io/git-guide/)
 	- Einstieg: Lehrpläne Ausbildungsberufe, insb. **Fachinformatiker/in - Systemintegration** sowie Fachinformatiker/in - **Digitale Vernetzung**
 		- **[Umsetzungshilfe für Lehrkräfte](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/handreichung-technische-it-ausbildung/)** \[[PDF](https://www.isb.bayern.de/fileadmin/user_upload/Berufliche_Schulen/Berufsschule/Material/Aufgaben_Technische_IT-Berufe/HR_technische_it_ausbildungsberufe_2020.pdf)\] des ISB (= Staatsinstitut für Schulqualität und Bildungsforschung München)
-		- Ebenfalls aufschlussreich: **[Illustrierende Aufgaben für technische IT-Ausbildungsberufe](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/aufgaben-technische-it-ausbildung/)** des ISB, zzgl. Materialien für **IT Digital-Dialog** ([10. Jgst](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/technische-und-kaufmaennische-it-ausbildungsberufe/it-digital-dialog/) und [11. Jgst](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/technische-und-kaufmaennische-it-ausbildungsberufe/it-digital-dialog-11-jgst/))
+		- Ebenfalls aufschlussreich: **[Illustrierender Aufgabenpool für technische IT-Ausbildungsberufe](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/aufgaben-technische-it-ausbildung/)** des ISB, zzgl. Materialien für **IT Digital-Dialog** ([10. Jgst](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/technische-und-kaufmaennische-it-ausbildungsberufe/it-digital-dialog/) und [11. Jgst](https://www.isb.bayern.de/schularten/berufliche-schulen/berufsschule/materialien/technische-und-kaufmaennische-it-ausbildungsberufe/it-digital-dialog-11-jgst/))
 		- Eher abstrakt aber gut zur Workload-Einordnung: [**Rahmenlehrplan** für die Ausbildungsberufe Fachinformatiker/in in der Fachrichtung Systemintegration](https://www.kmk.org/fileadmin/Dateien/pdf/Bildung/BeruflicheBildung/rlp/Fachinformatiker_19-12-13_EL.pdf)
 		- (Eher überambitionierte Darstellung: Bundesagentur für Arbeit (BA) zu [Fachinformatiker/in - Systemintegration](https://web.arbeitsagentur.de/berufenet/beruf/7847) bzw. zu [Fachinformatiker/in - Digitale Vernetzung](https://web.arbeitsagentur.de/berufenet/beruf/133560))
 	- Auffassungsmöglichkeit 1: SysOps (Traditional IT) als Antipode zu DevOps (Modern IT)
@@ -1543,6 +1545,9 @@ Internet Ikonen:
 		- DE: **[Eberhard Wolff](https://tube.tchncs.de/a/eberhard_wolff/)** (INNOQ) **≙** **[software-architektur.tv](https://software-architektur.tv/chronologisch.html)** | [Carola Lilienthal](https://www.youtube.com/results?search_query=Carola+Lilienthal) (WPS) | [Gernot Starke](https://www.youtube.com/results?search_query=gernot+starke) (INNOQ) | [Stefan Zörner](https://www.youtube.com/results?search_query=stefan+z%C3%B6rner) (embarc)
 	- „How they …“-Repos:, [How They **Test**](https://github.com/abhivaikar/howtheytest), [How They **Load-Test**](https://github.com/aliesbelik/how-they-load), [How They **DevOps**](https://github.com/bregman-arie/howtheydevops), [How They **SRE**](https://github.com/upgundecha/howtheysre), [How They **AWS**](https://github.com/upgundecha/howtheyaws), [How They Automate on **Mobile**](https://github.com/testableapple/how-they-automate-on-mobile)
 	- Weiterführende Quellen: [Awesome Software Architecture](https://awesome-architecture.com/) | roadmap.sh [Software Architect Roadmap](https://roadmap.sh/software-architect) + [System Design Roadmap](https://roadmap.sh/system-design) + [Software Design and Architecture](https://roadmap.sh/software-design-architecture)
+	- Aufgabenpool Software-Architektur:
+		- [The System Design Primer](https://github.com/donnemartin/system-design-primer/tree/master#system-design-interview-questions-with-solutions): Pastebin.com or URL-Shortener, Twitter or Facebook timeline and search, Web Crawler, Mint.com, data structures for a social network, key-value store for a search engine, Amazon sales ranking
+		- [ByteByteGo System Design Interview](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users): Rate Limiter, Consistent Hashing, Key-value Store, URL-Shortener, Web Crawler, News Feed System, Chat System, YouTube, Hotel Reservation System, Real-time Gaming Leaderboard
 - Testing für Fortgeschrittene
 	- TDD: (€) Buch [**Test-Driven Development**: By Example](https://www.amazon.de/dp/0321146530/) von Kent Beck
 	- Agiles Testen: [Syllabus der ISTQB **Agile Tester**](http://www.german-testing-board.info/wp-content/uploads/2016/07/Certified-Tester-Foundation-Level-Extension-Syllabus-Agile-Tester-%E2%80%93-Deutsch.pdf) Schulung/Zertifizierung
