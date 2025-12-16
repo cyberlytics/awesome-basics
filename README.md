@@ -1935,13 +1935,14 @@ Internet Ikonen:
 		- ⚠️ 3. **Kopfmonopole**
 		- ⚠️ 4. **Rollenüberlastung**
 	- Bonusproblem: **Präventiver Überkonformismus**, insbesondere hinsichtlich regulatorischen Anforderungen, in Unternehmen und Behörden/Hochschulen
-	- Die **Neumannschen Gesetze**:
-		- Erstes Neumannsches Gesetz: „Alles ist immer dasselbe.“ ⭐
-			- Anmerkung: Es handelt sich um eine Abwandlung von Arthur Schopenhauers „Always to see the general in the particular is the very foundation of genius“. Allerdings eher als Verkehrung ins Gegenteil, wegen meiner Beobachtung: Wir bringen Nicht-Informatikern nach dem Abitur in einem langen Informatik-Studium die Abstraktion und Generalisierung bei. Danach setzt m.E. eine kollektive Hybris ein. Das 1. Neumann’sche Gesetz karikiert die Fähigkeit zur Generalisierung durch dessen Trivialisierung. Warum? Ich bin überzeugt, dass Informatiker im Berufsleben viel häufiger scheitern, weil wir Unterschiede nicht erkennen; und unser Stolz auf Generalisierung und Abstraktion macht uns blind. Abstraktion ist nicht das Weglassen unwichtiger Details, wie es viele Schüler in der Jugend häufig auf fehlgeleitete Weise erklärt bekommen. **Abstraktion ist die zweckgerichtete Schaffung einer verwendungsgleichen Repräsentation**. ⚠️ Weglassen ist vermeintlich leicht. Erschaffen ist sehr, sehr schwer.
-		- Zweites Neumannsches Gesetz: „Nichts ist schlimmer als enttäuschte Erwartungen.“ ⭐
+	- Die **Neumannschen Gesetze** ⚠️:
+		- Erstes Neumannsches Gesetz: „**Alles ist immer dasselbe**.“ ⭐
+			- Anmerkung: Es handelt sich um eine Abwandlung von Arthur Schopenhauers „Always to see the general in the particular is the very foundation of genius“. Allerdings eher als Verkehrung ins Gegenteil, wegen meiner Beobachtung: Wir bringen Nicht-Informatikern nach dem Abitur in einem langen Informatik-Studium die Abstraktion und Generalisierung bei. Danach setzt m.E. eine kollektive Hybris ein. **Das 1. Neumannsche Gesetz karikiert die Fähigkeit zur Generalisierung durch dessen Trivialisierung**. Warum? Ich bin überzeugt, dass Informatiker im Berufsleben viel häufiger scheitern, weil wir Unterschiede nicht erkennen; und unser Stolz auf Generalisierung und Abstraktion macht uns blind. Abstraktion ist nicht das Weglassen unwichtiger Details, wie es viele Schüler in der Jugend häufig auf fehlgeleitete Weise erklärt bekommen. **Abstraktion ist die zweckgerichtete Schaffung einer verwendungsgleichen Repräsentation**. ⚠️ Weglassen ist vermeintlich leicht. Erschaffen ist sehr, sehr schwer.
+		- Zweites Neumannsches Gesetz: „**Nichts ist schlimmer als enttäuschte Erwartungen**.“ ⭐
 			- Anmerkung: Diese Weisheit hab ich offensichtlich nicht erfunden, aber ich habe über die Jahre ein enormes Anwendungspotential insbesondere in der Software-Entwicklung beobachtet, also empfehle ich stets diese Gesetzmäßigkeit in der Informatik niemals leichtfertig zu mißachten.
 	- Wichtige Performance-Weisheiten:
-		- „O-Notation eats Multi-Threading to breakfast“ aka „Gute Algorithmik schlägt viel Blech bei weitem“
+		- „O-Notation eats Multi-Threading to breakfast“ ⚠️ aka „Gute Algorithmik schlägt viel Blech bei weitem“
+			- d.h. Professionals wenden "Kill it with Iron" nur an [falls angemessen]{.smallcaps} und niemals [falls fehlgeleitet]{.smallcaps}
 		- Implikation aus der Theory of Constraints: „If you optimize anything other than the bottleneck, you are rather optimizing at all“
 	- Weiterführende Quellen: **[Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)** ([Einstieg](https://spaceninja.com/2015/12/08/falsehoods-programmers-believe/)), **[Awesome CTO](https://github.com/kuchin/awesome-cto)**
 - Mis-Quotations:
