@@ -465,8 +465,11 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Best Practices: Webartikel [**Best practices** for using Git](https://deepsource.com/blog/git-best-practices/)
 	- Nennenswert: [Get up to speed with **partial clone** and shallow clone](https://GitHub.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/) (git clone --filter=blob:none «url»)
 	- Namensgenerator: **[namelix](https://namelix.com/)** (für Bachel-/Master-/PhD-Projekte, OSS-Projekte, etc.)
-- Markdown: [Basic Syntax](https://www.markdownguide.org/basic-syntax/) | [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
-	- GitHub GFM: freeCodeCamp [Learn GitHub-Flavored Markdown Syntax and Formatting](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/), u.a. [emoji](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-using-emoji), [Alerts](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-alerts) und [Collapsed Section](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-creating-a-collapsed-section)
+- Markdown: [Basic Syntax](https://www.markdownguide.org/basic-syntax/) | CommonMark [Learn Markdown in 60 Seconds](https://commonmark.org/help/)
+	- History: [Wikipedia](https://en.wikipedia.org/wiki/Markdown#History)
+	- Standardisierung: [CommonMark](https://commonmark.org/) ([Spec](https://spec.commonmark.org/current/)) | in CommonMark leider fehlend? u.a. Tabellen und Fußnoten
+	- GitHub-Flavored Markdown (GFM): freeCodeCamp [Learn GFM Syntax and Formatting](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/), u.a. [emoji](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-using-emoji), [Alerts](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-alerts) und [Collapsed Section](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-creating-a-collapsed-section)
+	- Weiterführend: [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
 - **Testing**: siehe unten ⚠️
 - **Debugging**: Vortragsvideo [**Debugging** and Profiling](https://missing.csail.mit.edu/2020/debugging-profiling/) am MIT aus der bereits erwähnten Reihe [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - Backups: Vortragsvideo **[Backups](https://missing.csail.mit.edu/2019/backups/)** am MIT aus der bereits erwähnten Reihe [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
