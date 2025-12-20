@@ -141,6 +141,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 		- **[Raspberry Pi](https://tutorials-raspberrypi.de/13-tolle-raspberry-pi-projekte-fuer-kinder-jugendliche/)**
 		- **[Arduino](https://kinderprogrammieren.de/ratgeber/arduino-fuer-kinder-ratgeber-fuer-einstieg/)** ([Open Roberta Lab](https://lab.open-roberta.org/))
 		- dt. **[Calliope Mini](https://calliope.cc/)** ([Anleitungen](https://calliopemini.info/), Microsoft [MakeCode](https://makecode.calliope.cc/))
+	- Löt-Bausätze: [Regenbogen-Schmetterling](https://shop.blinkyparts.com/de/Regenbogen-Schmetterling-Wunderbarer-Halsschmuck-und-einfacher-Bausatz/blink232742), [Blinkenrocket](https://shop.blinkyparts.com/de/Blinkenrocket-Mini-Loet-und-Programmierbausatz-fuer-Jugendliche-und-Neugierige/blink23156.4), uvm.
 	- Roboterspielzeug:
 		- DIY / Open Source: [Open Duck Mini](https://github.com/apirrone/Open_Duck_Mini) sowie [Waveshare](https://www.waveshare.com/wiki/) (u.a. [UGV Beast](https://www.waveshare.com/ugv-beast.htm))
 		- Kommerziell: von **[Kosmos](https://www.amazon.de/s?k=kosmos+roboter)** (wie oben: bspw. [Miika K.I.](https://www.kosmos.de/de/miika-k.i._1620899_4002051620899)), **[Adeept](https://www.amazon.de/s?k=Adeept)** (bspw. [Mars Rover](https://www.amazon.de/dp/B085C8DFT8)), **[Keyestudio](https://www.amazon.de/s?k=keyestudio)** (bspw. [Smart Car Robot](https://www.amazon.de/dp/B08276N3D9/)), **[Makeblock](https://www.amazon.de/s?k=makeblock)** (bspw. [mBot Ranger](https://www.amazon.de/dp/B07KG4JHBH)), **[Lego](https://www.amazon.de/s?k=lego+roboter+programmierbar)** (bspw. [Boost](https://www.amazon.de/dp/B072MK1PDV/); Hinweis: Lego hat Mindstorms leider seit 2022 [aufgegeben](https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/)), **[Clementoni](https://www.amazon.de/s?k=Clementoni+robot)** (~ Galileo), **[Freenove](https://www.amazon.de/s?k=freenove)** (bspw. [Big Hexapod](https://www.amazon.de/dp/B09CFRJSS5/)) sowie **[Hexabugs](https://kinderprogrammieren.de/spielsachen/hexbugs-im-vergleich/)**
@@ -2007,7 +2008,10 @@ Internet Ikonen:
 		- **Künstliche Intelligenz** und **Data Science** fällt (in Deutschland) klar unter die Kerninformatik, genauer in das Teilgebiet Angewandte Informatik; vgl. u.a. [Geschichte der Gesellschaft der Informatik](https://gi.de/fileadmin/GI/Hauptseite/Themen/geschichte-der-gi.pdf)
 - Eigene wiss. Publikationen planen: ⭐
 	- Hintergrund: [**Peer Review** – A Historical Perspective](https://mitcommlab.mit.edu/broad/commkit/peer-review-a-historical-perspective/) von Rosy Hoskin
-	- Call-for-Paper Termine: **[WikiCFP](http://www.wikicfp.com/cfp/)** | [Computer Science **Conference Search**](https://confsearch.ethz.ch/) (inkl. graph. Kalender-Funktion)
+	- Call-for-Paper Termine:
+		- **[WikiCFP](http://www.wikicfp.com/cfp/)** | [Computer Science **Conference Search**](https://confsearch.ethz.ch/) (inkl. graph. Kalender-Funktion)
+			- Alternativen: [ConferenceAlerts.com](https://conferencealerts.com/) | [AllConferenceAlert.com](https://www.allconferencealert.com/)
+		- CfP-Mailing-Lists: [DBWorld](https://dbworld.sigmod.org/) ([howto contribute and guidelines](https://dbworld.sigmod.org/post.html) | [list archive](https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=MOD-DBWORLD)) und [SEWorld](https://www.sigsoft.org/resources/seworld.html) ([howto contribute](https://www.sigsoft.org/resources/seworld.html#contribute) and [guidelines](https://www.sigsoft.org/resources/seworldguidelines.html) | [list archive](https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=SEWORLD))
 	- Rankings
 		- CS Conference Rank: [**CORE** Portal](http://portal.core.edu.au/conf-ranks/) | **[GGS](https://scie.lcc.uma.es/)**
 			- Damit Konferenzen auf CORE gelistet werden [benötigen diese ein **DBLP**- und **Scopus**-Listing](https://docs.google.com/document/d/11lyr_N7rnyhpvTnGJRVvrFIp73REt3lwTCmy0k8geJo/)
