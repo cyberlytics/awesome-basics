@@ -1052,6 +1052,14 @@ Werkzeuge:
 	- 99,999999% (“8 nines“): 315 milliseconds downtime per year
 	- 99,9999999% (“9 nines“): 31,5 milliseconds downtime per year – Just for [some ATM switches running on Erlang](https://stackoverflow.com/questions/8426897/erlangs-99-9999999-nine-nines-reliability)…
 	- 100% uptime is impossible
+- **MLOps**:
+	- Das Thema ordne ich sowohl DevOps / Production Systems als auch AI zu.
+	- Weiterführende Quellen: [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+- Werkzeuge-Schwesterseiten-Verlinkungen:
+	- [Tools: Traditionelle DevOps](https://github.com/cyberlytics/awesome-software-engineering-tools#devops)
+	- [Tools: Cloud-native DevOps](https://github.com/cyberlytics/awesome-bdccai-tools#devops)
+	- [Tools: MLOps und LLMOps](https://github.com/cyberlytics/awesome-bdccai-tools#mlops)
+
 
 #### AI
 
@@ -1222,6 +1230,7 @@ Werkzeuge:
 	- Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
 	- **MLOps**:
 		- Weiterführende Quellen: [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+		- Werkzeuge-Schwesterseiten-Verlinkungen: [Tools: MLOps und LLMOps](https://github.com/cyberlytics/awesome-bdccai-tools#mlops)
 	- (Es geht mit dem Thema ebenfalls weiter im [Master-Abschnitt](#msc-big-data-and-cloud-computing-for-ai))
 
 ### B.Sc.: Bonusliste
@@ -2011,7 +2020,9 @@ Internet Ikonen:
 	- Call-for-Paper Termine:
 		- **[WikiCFP](http://www.wikicfp.com/cfp/)** | [Computer Science **Conference Search**](https://confsearch.ethz.ch/) (inkl. graph. Kalender-Funktion)
 			- Alternativen: [ConferenceAlerts.com](https://conferencealerts.com/) | [AllConferenceAlert.com](https://www.allconferencealert.com/)
-		- CfP-Mailing-Lists: [DBWorld](https://dbworld.sigmod.org/) ([howto contribute and guidelines](https://dbworld.sigmod.org/post.html) | [list archive](https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=MOD-DBWORLD)) und [SEWorld](https://www.sigsoft.org/resources/seworld.html) ([howto contribute](https://www.sigsoft.org/resources/seworld.html#contribute) and [guidelines](https://www.sigsoft.org/resources/seworldguidelines.html) | [list archive](https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=SEWORLD))
+		- CfP-Mailing-Lists:
+			- [DBWorld](https://dbworld.sigmod.org/) ([howto contribute and guidelines](https://dbworld.sigmod.org/post.html) | [list archive](https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=MOD-DBWORLD)) (Note that registering to post is different from subscribing to the DBWorld mailing list.)
+			- [SEWorld](https://www.sigsoft.org/resources/seworld.html) ([howto contribute](https://www.sigsoft.org/resources/seworld.html#contribute) and [guidelines](https://www.sigsoft.org/resources/seworldguidelines.html) | [list archive](https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=SEWORLD))
 	- Rankings
 		- CS Conference Rank: [**CORE** Portal](http://portal.core.edu.au/conf-ranks/) | **[GGS](https://scie.lcc.uma.es/)**
 			- Damit Konferenzen auf CORE gelistet werden [benötigen diese ein **DBLP**- und **Scopus**-Listing](https://docs.google.com/document/d/11lyr_N7rnyhpvTnGJRVvrFIp73REt3lwTCmy0k8geJo/)
