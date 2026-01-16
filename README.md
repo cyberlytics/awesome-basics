@@ -1483,7 +1483,7 @@ Werkzeuge:
 - **[The Pragmatic Programmer](https://www.amazon.de/dp/0135957052/)** von Hunt & Thomas („broken windows theory“, „code katas“, „DRY“ (Don't Repeat Yourself), „rubberducking“)
 - Rekursion und Selbstreferenz: **[Gödel, Escher, Bach](https://www.amazon.de/dp/3608949062/)** von Douglas Hofstadter
 - DevOps: **[The Phoenix Project](https://www.amazon.de/dp/1942788290/)** von Gene Kim, et al. (sowie sein Nachfolge-Buch **[The Unicorn Project](https://www.amazon.de/dp/1942788762/)**)
-- KI: **[Neuromancer](https://www.amazon.de/dp/1473217377/)** von William Gibson („Matrix“, „Wintermute“) / **[QualityLand](https://www.amazon.de/dp/3548291872/)** von Marc-Uwe Kling
+- KI: **[Neuromancer](https://www.amazon.de/dp/1473217377/)** von William Gibson („Matrix“, „Wintermute“) / **[QualityLand](https://www.amazon.de/dp/3548291872/)** von Marc-Uwe Kling / **[The Diamond Age](https://www.amazon.de/dp/0241953197/)** von Neal Stephenson (AI Learning Tutor: „Young Lady's Illustrated Primer: a Propædeutic Enchiridion“)
 - Metaverse: **[Snow Crash](https://www.amazon.de/dp/3596705592/)** von Neal Stephenson („Metaverse“) / **[Ready Player One](https://www.amazon.de/dp/0525574344/)** von Ernest Cline („OASIS“)
 - Datenüberwachung: **[NSA – Nationales Sicherheits-Amt](https://www.amazon.de/dp/3785726252)** von Andreas Eschbach
 - Projektmanagement im Kontext der Software-Entwicklung:
@@ -1524,6 +1524,10 @@ Internet Ikonen:
 	- Rust: [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
 	- Werkzeugkasten: [Profiler](https://github.com/msaroufim/awesome-profiling)!
 - Software-Engineering (SWE) für Fortgeschrittene
+	- Architecture Decision Records (ADR):
+		- Blog post [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) by Michael Nygard
+		- Einstieg: [ADR GitHub Org](https://adr.github.io/) (inkl. [ADR-Tooling](https://adr.github.io/adr-tooling/))
+		- Templates: [ADR-Template Sammlung](https://github.com/joelparkerhenderson/architecture-decision-record) von Joel Parker Henderson | [ADR-Templates](https://adr.github.io/adr-templates/) von ADR.github.org
 	- iSAQB Certified Professional for Software Architecture (CPSA): [Liste von Lehrplänen für das Advanced Level](https://www.isaqb.org/de/downloads/)
 	- System Design: **[Grokking the System Design Interview](https://designgurus.org/course/grokking-the-system-design-interview)** | [System Design Primer](https://github.com/donnemartin/system-design-primer) | [18 System Design Concepts Every Engineer Must Know Before the Interview](https://www.designgurus.io/blog/system-design-interview-fundamentals)
 	- SW-Architektur kompakt: embarc **[Architektur-Spicker](https://www.architektur-spicker.de)**
@@ -2440,6 +2444,7 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 	- TRON (Master Control Program)
 	- 2001: A Space Odyssey (HAL)
 	- Battlestar Galactica (Cylons)
+	- WarGames (WOPR)
 	- Alien (Android Ash by Weyland-Yutani Corporation)
 	- The Terminator (SkyNet by Cyberdyne Systems)
 	- The Matrix (Agent Smith)
