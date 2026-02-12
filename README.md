@@ -164,7 +164,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 		- [Hanlon’s Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): "Never attribute to malice that which is adequately explained by stupidity."
 		- [Gibson's law](https://en.wikipedia.org/wiki/Gibson%27s_law): "For every PhD there is an equal and opposite PhD." (Original context: expert witnesses called by opposing parties in a trial)
 		- [Rules of the Internet](https://tvtropes.org/pmwiki/pmwiki.php/Main/RulesOfTheInternet)
-			- [Rule 34](https://en.wikipedia.org/wiki/Rule_34): "There is porn of it." (longer variant: "If it exists, or can be imagined, there is Internet porn of it.")
+			- [Rule 34](https://en.wikipedia.org/wiki/Rule_34): "If it exists, or can be imagined, there is Internet porn of it."
 	- Weiterführende Medienkompetenz-Referenzen: [bildungsserver.de](https://www.bildungsserver.de/medienkompetenz-2924-de.html)
 		- Lehrmaterialien: [Werkstattbuch Medienerziehung](https://www.bzga.de/fileadmin/user_upload/PDF/themenschwerpunkte/medienkompetenz/werkbuch_medienerziehung_kopiervorlagen--66f1fed9e09b25eb436a6eb49a29d158.pdf), [klicksafe](https://www.klicksafe.de/materialien)
 - Schulen
@@ -236,7 +236,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- BY:
 		- [Förderung im MINT-Bereich](https://www.km.bayern.de/lernen/inhalte/mint) des bay. Kultusministeriums (Unterricht, Wettbewerbe, etc.)
 - MINT Videos
-	- Kindgerechte Wissenskommunikation: [ZDF goes Schule](https://schule.zdf.de), SWR/WDR [Planet Schule](https://www.planet-schule.de/), [Lehrer Schmidt](https://www.youtube.com/@lehrerschmidt) (u.a. Mathe), [schoolseasy](https://www.youtube.com/@schoolseasy), [Die Merkhilfe](https://www.youtube.com/@diemerkhilfe), [Sommers Weltliteratur](https://www.youtube.com/@SommersWeltliteraturToGo), [Simple Club Geschichte](https://www.youtube.com/@simpleclub_geschichte), [Kurzgesagt](https://www.youtube.com/user/KurzgesagtDE), [StudyFlix](https://www.youtube.com/@studyflix)
+	- Kindgerechte Wissenskommunikation: [Checker Welt](https://www.ardmediathek.de/checkerwelt), [ZDF goes Schule](https://schule.zdf.de), SWR/WDR [Planet Schule](https://www.planet-schule.de/), [Lehrer Schmidt](https://www.youtube.com/@lehrerschmidt) (u.a. Mathe), [schoolseasy](https://www.youtube.com/@schoolseasy), [Die Merkhilfe](https://www.youtube.com/@diemerkhilfe), [Sommers Weltliteratur](https://www.youtube.com/@SommersWeltliteraturToGo), [Simple Club Geschichte](https://www.youtube.com/@simpleclub_geschichte), [Kurzgesagt](https://www.youtube.com/user/KurzgesagtDE), [StudyFlix](https://www.youtube.com/@studyflix)
 	- Deutschprachige Wissensschaftskommunikation: [Quarks](https://www.youtube.com/@Quarks), [Leibnitz-Gesellschaft](https://www.youtube.com/@leibniz-gemeinschaft), [Max-Planck-Gesellschaft](www.youtube.com/user/MaxPlanckSociety/), [Helmholtz Gemeinschaft](https://www.youtube.com/user/HelmholtzTV), [Spektrum der Wissenschaft](www.youtube.com/@spektrumverlag/)
 	- Englischsprachige Wissenschaftskommunkation: [Branch Education](https://www.youtube.com/@BranchEducation) (mit Schwerpunkt Informatik), [CrashCourse](https://www.youtube.com/user/crashcourse), [TED Education](https://www.youtube.com/user/TEDEducation) / [TEDx Youth](https://www.youtube.com/user/TEDxYouth), [Minutephysics](https://www.youtube.com/user/minutephysics)
 
@@ -702,6 +702,8 @@ Werkzeuge:
 		- Agile-Origin: a tool for the team to self-organize! Agile-Today: a tool for management to impose micromanagement?!
 		- „Waterfall done good is better than agile done poorly.“
 		- Video [It’s time to move on from Agile Software Development (It's not working)](https://www.youtube.com/watch?v=gSVBWvoNJ-s)
+	- Kundenzufriedenheit Basisterminologie:
+		- **Kano-Modell**: Basismerkmale (Muss-Merkmale), Leistungsmerkmale (Soll-Merkmale), Begeisterungsmerkmale (Kann-Merkmale) → [Wikipedia](https://de.wikipedia.org/wiki/Kano-Modell) ([Kano-Diagramm](https://upload.wikimedia.org/wikipedia/commons/2/23/Kano_Modell_allgemein.svg))
 - Testing: [guru99](https://www.guru99.com/software-testing.html) **[Software Testing Tutorial](https://www.guru99.com/software-testing.html)** | **[Software Quality Wiki](https://github.com/ligurio/software-quality-wiki/wiki)**
 	- ISTQB [Certified Tester **Foundation Level**](https://www.german-testing-board.info/wp-content/uploads/2018/09/Lehrplan-Certified-Tester_Foundation-Level_Version2018.pdf)(2018)
 	- roadmap.sh [**QA Engineer** Roadmap](https://roadmap.sh/qa)
@@ -1071,6 +1073,9 @@ Werkzeuge:
 	- Umfassende Referenz: **[AI-Vorlesungsskript](https://kwarc.info/teaching/AI/notes.pdf)** von Prof. Michael Kohlhase (FAU)
 - Machine Learning / **Sub**symbolische Künstliche Intelligenz
 	- Grundlegendes: Starke vs. schwache KI vs. (Technological) Singularity: [**Artificial General Intelligence** (AGI)](https://en.wikipedia.org/wiki/Artificial_general_intelligence) auf Wikipedia
+	- Beliebte Algorithmen:
+		- k-Means: [Least squares quantization in PCM](https://ieeexplore.ieee.org/document/1056489) sowie [Some methods for classification and analysis of multivariate observations](http://projecteuclid.org/euclid.bsmsp/1200512992) (Obacht: [Herkunfts-Hotch-Potch](https://de.wikipedia.org/wiki/K-Means-Algorithmus#Historische_Entwicklung))
+		- t-SNE: [Visualizing Data using t-SNE](https://computo-journal.org/published-paper-tsne/) von Laurens van der Maaten & Geoffrey Hinton
 	- Machine Learning
 		- Kurs **[Stanford ML](https://www.coursera.org/learn/machine-learning)**
 		- [**Google** Tech Dev Guide: **Machine Learning**](https://techdevguide.withgoogle.com/paths/machine-learning/)
@@ -1078,6 +1083,10 @@ Werkzeuge:
 		- [Top 15 Machine Learning Algorithms Every Data Scientist Should Know](https://www.geeksforgeeks.org/top-10-algorithms-every-machine-learning-engineer-should-know/)
 		- [A Beginner’s Guide to the Top 10 Machine Learning Algorithms](https://www.kdnuggets.com/a-beginner-guide-to-the-top-10-machine-learning-algorithms)
 		- Videokurs freeCodeCamp [Learn the Foundations of Machine Learning and Artificial Intelligence](https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/)
+		- Nennenswerte Software / SW-Bibliotheken:
+			- Java: [ELKI](https://github.com/elki-project/elki) oder [WEKA](https://www.cs.waikato.ac.nz/ml/weka/) sowie [RapidMiner](https://github.com/rapidminer/rapidminer-studio)
+			- Py: [scikit-learn](https://scikit-learn.org/), [pandas](https://pandas.pydata.org/) oder [NumPy](https://numpy.org/) sowie [Orange](https://orangedatamining.com/)
+			- C#: [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) oder [Accord.NET](http://accord-framework.net/)
 	- Deep Learning
 		- Buch [Dive into Deep Learning (**D2L**)](https://d2l.ai/)
 		- Buch **[Deep Learning](https://www.deeplearningbook.org/)**
@@ -1897,7 +1906,7 @@ Internet Ikonen:
 		- [Die 6 Phasen zur Führungsmeisterschaft](https://intrinsify.de/der-weg-zu-einer-der-top-1-fuehrungskraefte/) ⭐
 	- intrinsify-Leseliste mit Lehrbezug:
 		- **[Möge die Macht mit euch sein](https://intrinsify.de/moege-die-macht-mit-euch-sein/)** ⭐
-	- [Chris Croft](https://www.linkedin.com/learning/instructors/chris-croft)) auf LinkedIn Learning
+	- [Chris Croft](https://www.linkedin.com/learning/instructors/chris-croft) auf LinkedIn Learning
 - Strategische Planung / Unternehmenssteuerung / Unternehmensstrategie
 	- OKR (Intel, Google, …): (€) Buch [**Objectives & Key Results (OKR)**: Das agile Betriebssystem für moderne Organisationen](https://www.amazon.de/dp/B0874PCH3H) ⭐
 		- Artikel [Die größten Fake News Rund um OKR](https://www.die-agilen.de/blog/die-groessten-fake-news-rund-um-okr)
@@ -2330,25 +2339,25 @@ Internet Ikonen:
 
 \[bspw. im Rahmen einer chinesischen Gastprofessur\]
 
-	- iPhone ist besser als ein Android (Stand 2025, u.a. wegen Sperrungen)
-	- Chinesische Apps
-		- (Anmerkung: Suche nach App mit lateinischen Buchstaben möglich, Apps selbst i.d.R. mit chinesischen Symbolen im Logo und ggf. auch in der Betitelung)
-		- **WeChat**: wie WhatsApp, aber gesellschaftlich viel integrierter, bspw. auch zum Bezahlen auf der Straße, bspw. verknüpft mit AliPay
-		- **AliPay**: wie PayPal, aber gesellschaftlich viel integrierter
-		- **Didi**: Taxi App
-		- **Gaode**: wie Google Maps, aber in chinesischen Städten viel präziser
-		- **Baidu**: wie Google Search
-		- **JD**: wie Mediamarkt
-		- **Taobao**: wie Amazon
-		- **12306**: wie die Bahn (wirklich gute App!)
-		- **Dianping**: wie TripAdvisor, um Restaurants zu finden und zu reservieren
-		- **China Mobile**: falls man von China Mobile die SIM-Karte hat
-	- Internationale Apps:
-		- **WISE**: ggf. für internationalen Geldtransfer
-		- **Trip.com**: ggf. für Flugbuchungen (oder über Airlines direkt)
-	- Stromadapter: [**Typ I** (dreipolig)](https://www.amazon.de/s?k=stromadapter+china)
-		- bspw. von Tessan oder Brennenstuhl, bzw. auch die sehr teuren schweizer SKROSS
-		- auch als australisch/chinesisches Stecksystem bezeichnet
+- iPhone ist besser als ein Android (Stand 2025, u.a. wegen Sperrungen)
+- Chinesische Apps
+	- (Anmerkung: Suche nach App mit lateinischen Buchstaben möglich, Apps selbst i.d.R. mit chinesischen Symbolen im Logo und ggf. auch in der Betitelung)
+	- **WeChat**: wie WhatsApp, aber gesellschaftlich viel integrierter, bspw. auch zum Bezahlen auf der Straße, bspw. verknüpft mit AliPay
+	- **AliPay**: wie PayPal, aber gesellschaftlich viel integrierter
+	- **Didi**: Taxi App
+	- **Gaode**: wie Google Maps, aber in chinesischen Städten viel präziser
+	- **Baidu**: wie Google Search
+	- **JD**: wie Mediamarkt
+	- **Taobao**: wie Amazon
+	- **12306**: wie die Bahn (wirklich gute App!)
+	- **Dianping**: wie TripAdvisor, um Restaurants zu finden und zu reservieren
+	- **China Mobile**: falls man von China Mobile die SIM-Karte hat
+- Internationale Apps:
+	- **WISE**: ggf. für internationalen Geldtransfer
+	- **Trip.com**: ggf. für Flugbuchungen (oder über Airlines direkt)
+- Stromadapter: [**Typ I** (dreipolig)](https://www.amazon.de/s?k=stromadapter+china)
+	- bspw. von Tessan oder Brennenstuhl, bzw. auch die sehr teuren schweizer SKROSS
+	- auch als australisch/chinesisches Stecksystem bezeichnet
 
 ## Informatik-Nachrichten
 
