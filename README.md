@@ -875,51 +875,73 @@ Werkzeuge:
 #### Big Data
 
 - Data Engineering: DataCamp Einstiegskurs **[Understanding Data Engineering](https://www.datacamp.com/courses/understanding-data-engineering)**
-	- Online-Buch [The **Data Engineering Cookbook**](https://github.com/andkret/Cookbook)
-	- Data Preparation / Data Cleansing / Data Harmonization:
-		- Foliensatz **[Formen der Heterogenität](https://docplayer.org/26800898-Formen-der-heterogenitaet.html)** (2004) von Jessica Oksana Schnabel, insb. [**Folie 6**ff](https://docplayer.org/docview/50/26800898/#page=6)
-		- The **[„T“ for Transformation](https://www.guru99.com/etl-extract-load-process.html#5)** in ETL or ELT 1. Datenmigration: 1) Datentypen, Kodierungen, Zeichenketten, Datumsangaben, Maßeinheiten sowie 2) Schlüsselbehandlung: Synonym, Homonym, Äquipollenzen 2. Datenbereinigung: 1) Verletzung der referentiellen Integrität, 2) Fehlerhafte oder unzulässige Werte, 3) Redundante Werte, fehlende Werte und Nullwerte, 4) Unverständliche und uneinheitliche Werte
-		- [Data Cleaning with **Python** Cheat Sheet](https://www.kdnuggets.com/2023/02/data-cleaning-python-cheat-sheet.html)
-	- Atlan [**Data Ingestion** vs. Data Integration: How Are They Different?](https://atlan.com/data-ingestion-vs-data-integration/)
-	- (€:) Buch [**Data Pipelines** – Pocket Reference](https://www.amazon.de/dp/1492087831/) (2021) von Densmore
-	- (€:) Buch [Principles of **Data Integration**](https://www.amazon.de/dp/0124160441/) (2012) von Doan et al.
-	- (€:) Buch [97 Things Every **Data Engineer** Should Know](https://www.amazon.de/dp/1492062413/) (2021) von Macey (Hrsg.)
+  - Online-Buch [The **Data Engineering Cookbook**](https://github.com/andkret/Cookbook)
+  - Data Preparation / Data Cleansing / Data Harmonization:
+  	- Foliensatz **[Formen der Heterogenität](https://docplayer.org/26800898-Formen-der-heterogenitaet.html)** (2004) von Jessica Oksana Schnabel, insb. [**Folie 6**ff](https://docplayer.org/docview/50/26800898/#page=6)
+  	- The **[„T“ for Transformation](https://www.guru99.com/etl-extract-load-process.html#5)** in ETL or ELT 1. Datenmigration: 1) Datentypen, Kodierungen, Zeichenketten, Datumsangaben, Maßeinheiten sowie 2) Schlüsselbehandlung: Synonym, Homonym, Äquipollenzen 2. Datenbereinigung: 1) Verletzung der referentiellen Integrität, 2) Fehlerhafte oder unzulässige Werte, 3) Redundante Werte, fehlende Werte und Nullwerte, 4) Unverständliche und uneinheitliche Werte
+  	- [Data Cleaning with **Python** Cheat Sheet](https://www.kdnuggets.com/2023/02/data-cleaning-python-cheat-sheet.html)
+  - Atlan [**Data Ingestion** vs. Data Integration: How Are They Different?](https://atlan.com/data-ingestion-vs-data-integration/)
+  - (€:) Buch [**Data Pipelines** – Pocket Reference](https://www.amazon.de/dp/1492087831/) (2021) von Densmore
+  - (€:) Buch [Principles of **Data Integration**](https://www.amazon.de/dp/0124160441/) (2012) von Doan et al.
+  - (€:) Buch [97 Things Every **Data Engineer** Should Know](https://www.amazon.de/dp/1492062413/) (2021) von Macey (Hrsg.)
 - Data Warehouse (DWH): [guru99 **Data Warehouse Tutorial**](https://www.guru99.com/data-warehousing-tutorial.html) ⚠️
-	- Bill Inmon (Top-Down / Enterprise Data Warehouse): (€) Buch **[Building the Data Warehouse](https://www.amazon.de/dp/0764599445)** (2005 | Orig: 1990)
-	- Ralph Kimball (Bottom-Up / Data Marts + [Dimensional Modelling](https://www.kimballgroup.com/1997/08/a-dimensional-modeling-manifesto/)): (€:) Buch [The **Data Warehouse Toolkit**](https://www.amazon.de/dp/1118875184) (2014 | Orig: 1996)
-	- Dan Linstedt (Loading-centric / Hub-Link-Satellite): Open Standard [**Data Vault** 2.0](https://datavaultalliance.com/data-vault-2-the-details/) (2015 | Orig: 2000)
-		- u.a. (€:) Buch [Building a **Scalable Data Warehouse** with Data Vault 2.0](https://www.amazon.de/dp/0128025107) (2015) von Linstedt & Olschimke
-	- Datenintegration/-pipelines: [**ETL** vs. **ELT**](https://www.guru99.com/etl-vs-elt.html)
-	- Nennenswertes IT-Vokabular: [Bimodal IT](https://www.gartner.com/en/information-technology/glossary/bimodal) und [Self-Service BI](https://www.gartner.com/en/information-technology/glossary/self-service-analytics) sowie **[Agile Data](https://agiledata.org/)** von Scott W. Ambler
+  - Bill Inmon (Top-Down / Enterprise Data Warehouse): (€) Buch **[Building the Data Warehouse](https://www.amazon.de/dp/0764599445)** (2005 | Orig: 1990)
+  - Ralph Kimball (Bottom-Up / Data Marts + [Dimensional Modelling](https://www.kimballgroup.com/1997/08/a-dimensional-modeling-manifesto/)): (€:) Buch [The **Data Warehouse Toolkit**](https://www.amazon.de/dp/1118875184) (2014 | Orig: 1996)
+  - Dan Linstedt (Loading-centric / Hub-Link-Satellite): Open Standard [**Data Vault** 2.0](https://datavaultalliance.com/data-vault-2-the-details/) (2015 | Orig: 2000)
+  	- u.a. (€:) Buch [Building a **Scalable Data Warehouse** with Data Vault 2.0](https://www.amazon.de/dp/0128025107) (2015) von Linstedt & Olschimke
+  - Datenintegration/-pipelines: [**ETL** vs. **ELT**](https://www.guru99.com/etl-vs-elt.html)
+  - Nennenswertes IT-Vokabular: [Bimodal IT](https://www.gartner.com/en/information-technology/glossary/bimodal) und [Self-Service BI](https://www.gartner.com/en/information-technology/glossary/self-service-analytics) sowie **[Agile Data](https://agiledata.org/)** von Scott W. Ambler
 - Data Analytics / Datenanalyse
-	- Grundlagen: [**OLTP** vs. **OLAP**](https://www.guru99.com/oltp-vs-olap.html) (sowie OLAP mittels [**ROLAP** vs. MOLAP](https://www.guru99.com/online-analytical-processing.html); sowie ROLAP mittels [**Star** vs. **Snowflake**](https://www.guru99.com/star-snowflake-data-warehousing.html))
-	- MOOCs: Google Kurse **[Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics)**
-	- Webartikel: [Top 10 **SQL Projects** for Data Analysis](https://www.analyticsvidhya.com/blog/2023/07/top-sql-projects/) | kaggle [Data Analysis using SQL](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql)
-	- Cheatsheet: [SQL for Data Analysis Cheat Sheet](https://learnsql.com/blog/sql-for-data-analysis-cheat-sheet/)
-	- zzgl. unmittelbarer Nachfolge-Abschnitt: Big Data
-	- zzgl. [Bachelor-Abschnitt: **Data Science**](#bsc-big-data-and-cloud-computing-for-ai) (unten)
-	- zzgl. [Master-Abschnitt: **Data Science**](#msc-big-data-and-cloud-computing-for-ai) (unten)
+  - Grundlagen: [**OLTP** vs. **OLAP**](https://www.guru99.com/oltp-vs-olap.html) (sowie OLAP mittels [**ROLAP** vs. MOLAP](https://www.guru99.com/online-analytical-processing.html); sowie ROLAP mittels [**Star** vs. **Snowflake**](https://www.guru99.com/star-snowflake-data-warehousing.html))
+  - MOOCs: Google Kurse **[Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics)**
+  - Webartikel: [Top 10 **SQL Projects** for Data Analysis](https://www.analyticsvidhya.com/blog/2023/07/top-sql-projects/) | kaggle [Data Analysis using SQL](https://www.kaggle.com/code/dimarudov/data-analysis-using-sql)
+  - Cheatsheet: [SQL for Data Analysis Cheat Sheet](https://learnsql.com/blog/sql-for-data-analysis-cheat-sheet/)
+  - [Four Types of Analytics](https://www.analytics8.com/blog/what-are-the-four-types-of-analytics-and-how-do-you-use-them/): Descriptive Analytics, Diagnostic Analytics, Predictive Analytics, Prescriptive Analytics
+  - Warnhinweis: Korrelation ist keine Kausalität
+    - Beispiele: [Spurious Correlations](https://tylervigen.com/spurious-correlations) von Tyler Vigen
+  - Datenvisualisierung / Dashboard Design:
+
+    - Webartikel [BI Dashboard Design Regeln für die Gestaltung aussagekräftiger Dashboards](https://www.rib-software.com/de/blogs/bi-kpi-dashboard-design)
+    - [The Data Visualisation Catalogue](https://datavizcatalogue.com/index.html)
+    - guru99 [Tableau Charts & Graphs Tutorial](https://www.guru99.com/tableau-charts-graphs-tutorial.html)
+  - Weiterführende Referenzen:
+    - Tableau [12 lesenswerte Bücher über Datenvisualisierung](https://www.tableau.com/de-de/learn/articles/books-about-data-visualization)
+    - Goodread [Bücherliste zu Datenvisualisierung](https://www.goodreads.com/shelf/show/data-visualization)
+    - [Awesome DataViz](https://github.com/hal9ai/awesome-dataviz#resources)
+    - zzgl. unmittelbarer Nachfolge-Abschnitt: Big Data
+    - zzgl. [Bachelor-Abschnitt: **Data Science**](#bsc-big-data-and-cloud-computing-for-ai) (unten)
+    - zzgl. [Master-Abschnitt: **Data Science**](#msc-big-data-and-cloud-computing-for-ai) (unten)
 - Big Data
-	- Landscape: [Big Data Landscape](https://mattturck.com/bigdata2017/) (bis 2017) von Matt Turck sowie seine [MAD Landscapes](https://mattturck.com/category/big-data/) (= Machine Learning, AI & Data) 
-	- Hinführung: Manuelle Skalierungsmaßnahmen auf traditionellen RDBMS am Bsp. von [Postgres Scale](https://newsletter.systemdesign.one/p/postgres-scale)
-	- Nennenswertes Vokabular: **[Data Lake](https://jamesdixon.wordpress.com/2010/10/14/pentaho-hadoop-and-data-lakes/)** („If you think of a datamart as a store of bottled water – cleansed and packaged and structured for easy consumption – the data lake is a large body of water in a more natural state. The contents of the data lake stream in from a source to fill the lake, and various users of the lake can come to examine, dive in, or take samples.“ – James Dixon, 2010, CTO at Pentaho)
-		- Vorläufer (vgl. Content Modeling, JCR, Jackrabbit): „[**Data First, Structure Later.** Maybe.](https://aem.design/archives/davids-model)“ als Rule #1 in David Nueschelers Modell
-	- Vorlesungen: Univ. of Columbia [**Big Data** Analytics & Advanced Big Data Analytics](https://www.ee.columbia.edu/~cylin/course/bigdata/index.html)
-	- Marktführer: [**AWS Big Data** Technology Fundamentals](https://aws.amazon.com/de/training/course-descriptions/bigdata-fundamentals/) | [**Google** Cloud **Big Data** and Machine Learning Fundamentals](https://www.cloudskillsboost.google/course_templates/3) | [**Microsoft** Learn](https://docs.microsoft.com/de-de/learn/browse/)
-	- Hadoop: **[Hadoop Illuminated](https://hadoopilluminated.com/index.html)** | [guru99 **Hadoop Tutorial**](https://www.guru99.com/bigdata-tutorials.html)
-		- Vorsicht: Hadoop ist ein „active Archive“ und damit nicht notwendigerweise das beste Werkzeug
-	- NoSQL: [guru99 **NoSQL Tutorial**](https://www.guru99.com/nosql-tutorial.html) | [MongoDB **Introduction to Modern Databases**](https://www.mongodb.com/collateral/academia/imdb) | [javatpoint **Cassandra Tutorial**](https://www.javatpoint.com/cassandra-tutorial) | **[neo4j Developer Guides](https://neo4j.com/developer/get-started/)** | **[Redis University](https://university.redis.com/)**
-	- Weiterführende Themen: [tutorialspoint **Big Data Tutorials**](https://www.tutorialspoint.com/big_data_tutorials.htm)
+  - Landscape: [Big Data Landscape](https://mattturck.com/bigdata2017/) (bis 2017) von Matt Turck sowie seine [MAD Landscapes](https://mattturck.com/category/big-data/) (= Machine Learning, AI & Data) 
+  - Hinführung: Manuelle Skalierungsmaßnahmen auf traditionellen RDBMS am Bsp. von [Postgres Scale](https://newsletter.systemdesign.one/p/postgres-scale)
+  - Nennenswertes Vokabular: **[Data Lake](https://jamesdixon.wordpress.com/2010/10/14/pentaho-hadoop-and-data-lakes/)** („If you think of a datamart as a store of bottled water – cleansed and packaged and structured for easy consumption – the data lake is a large body of water in a more natural state. The contents of the data lake stream in from a source to fill the lake, and various users of the lake can come to examine, dive in, or take samples.“ – James Dixon, 2010, CTO at Pentaho)
+  	- Vorläufer (vgl. Content Modeling, JCR, Jackrabbit): „[**Data First, Structure Later.** Maybe.](https://aem.design/archives/davids-model)“ als Rule #1 in David Nueschelers Modell
+  - Understanding the internals of leading table formats (e.g., Delta Lake, Iceberg, Hudi) von Jack Vanlightly:
+    - Databricks [**Delta Lake**](https://jack-vanlightly.com/analyses/2024/4/29/understanding-delta-lakes-consistency-model) ⭐ (open-source storage layer that brings ACID transactions, data reliability, and performance to data lakes)
+    - Apache **Iceberg** ⭐: [part 1](https://jack-vanlightly.com/analyses/2024/7/30/understanding-apache-icebergs-consistency-model-part1), [part 2](https://jack-vanlightly.com/analyses/2024/8/5/apache-icebergs-consistency-model-part-2), [part 3](https://jack-vanlightly.com/analyses/2024/8/6/apache-icebergs-consistency-model-part-3) (open-source; invented at Netflix)
+    - Apache Hudi: [part 1](https://jack-vanlightly.com/analyses/2024/4/24/understanding-apache-hudi-consistency-model-part-1), [part 2](https://jack-vanlightly.com/analyses/2024/4/24/understanding-apache-hudi-consistency-model-part-2), [part 3](https://jack-vanlightly.com/analyses/2024/4/25/understanding-apache-hudi-consistency-model-part-3) (open-source; invented at Uber)
+    - Bonus: Understanding table formats in Apache **Flink** ⭐
+      - Apache Paimon: [part 1](https://jack-vanlightly.com/analyses/2024/7/3/understanding-apache-paimon-consistency-model-part-1), [part 2](https://jack-vanlightly.com/analyses/2024/7/3/understanding-apache-paimon-consistency-model-part-2), [part 3](https://jack-vanlightly.com/analyses/2024/7/3/understanding-apache-paimon-consistency-model-part-3) (born in the Apache Flink project where it was known as Flink Table Store)
+      - Apache [Fluss](https://jack-vanlightly.com/blog/2025/9/2/understanding-apache-fluss) (table storage engine for Flink being developed by Alibaba in collaboration with Ververica)
+    - Bonus: Understanding **Streaming** Replication Protocols
+      - [Understanding Kafka Replication Protocol](https://github.com/Vanlightly/kafka-tlaplus/blob/main/kafka_data_replication/kraft/kip-966/description/0_kafka_replication_protocol.md)
+      - Understanding Apache BookKeeper Replication Protocol: [part1](https://medium.com/splunk-maas/apache-bookkeeper-insights-part-1-external-consensus-and-dynamic-membership-c259f388da21), [part2](https://medium.com/splunk-maas/apache-bookkeeper-insights-part-2-closing-ledgers-safely-386a399d0524?source=user_profile_page---------1-------------f7a88d0c88e5----------------------) ([more](https://medium.com/@jvanlightly))
+  - Vorlesungen: Univ. of Columbia [**Big Data** Analytics & Advanced Big Data Analytics](https://www.ee.columbia.edu/~cylin/course/bigdata/index.html)
+  - Marktführer: [**AWS Big Data** Technology Fundamentals](https://aws.amazon.com/de/training/course-descriptions/bigdata-fundamentals/) | [**Google** Cloud **Big Data** and Machine Learning Fundamentals](https://www.cloudskillsboost.google/course_templates/3) | [**Microsoft** Learn](https://docs.microsoft.com/de-de/learn/browse/)
+  - Hadoop: **[Hadoop Illuminated](https://hadoopilluminated.com/index.html)** | [guru99 **Hadoop Tutorial**](https://www.guru99.com/bigdata-tutorials.html)
+    - Vorsicht: Hadoop ist ein „active Archive“ und damit nicht notwendigerweise das beste Werkzeug
+  - NoSQL: [guru99 **NoSQL Tutorial**](https://www.guru99.com/nosql-tutorial.html) | [MongoDB **Introduction to Modern Databases**](https://www.mongodb.com/collateral/academia/imdb) | [javatpoint **Cassandra Tutorial**](https://www.javatpoint.com/cassandra-tutorial) | **[neo4j Developer Guides](https://neo4j.com/developer/get-started/)** | **[Redis University](https://university.redis.com/)**
+  - Weiterführende Themen: [tutorialspoint **Big Data Tutorials**](https://www.tutorialspoint.com/big_data_tutorials.htm)
 - Datenschutz
-	- Die GDPR- und DSGVO-Prinzipien: [Art. 5 GDPR](https://gdpr-info.eu/art-5-gdpr/) \[EN\] / [Art. 5 DSGVO](https://dsgvo-gesetz.de/art-5-dsgvo/) \[DE\]
-		- u.a. „für die betroffene Person nachvollziehbaren Weise“ (**Transparenz**), „sowie auf das \[…\] notwendige Maß beschränkt“ (**Datenminimierung**) und „nur so lange \[…\] wie es \[…\] erforderlich ist“ (**Speicherbegrenzung**)
-	- (Obacht für die nachfolgenden Quellen: insb. juristische Webartikel können schnell veralten!)
-	- Themenkomplex Kontaktformular/SSL-Pflicht: u.a. Webartikel [Datenschutz: Wie kann ich ein **Kontaktformular** datenschutzkonform erstellen?](https://www.it-recht-kanzlei.de/kontaktformular-datenschutz-ssl.html)
-	- Themenkomplex Cookies: u.a. Webarktikel [EuGH: **Cookie**-basierte Anwendungen weitgehend einwilligungspflichtig](https://www.it-recht-kanzlei.de/eugh-cookie-informierte-einwilligung-pflicht.html)
-		- TrustPid: u.a. Webartikel [**TrustPid**: Baking ad tracking into the internet infrastructure](https://edri.org/our-work/trustpid-baking-ad-tracking-into-the-internet-infrastructure/)
-	- Teile Des BSI-Grundschutz, daher: [**BSI IT-Grundschutz** Schulungen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/it-grundschutzschulung_node.html)
-	- (€:) Buch [**Cloud Computing** nach der Datenschutz-Grundverordnung](https://www.amazon.de/dp/3960091133/) (2022) von Thorsten Hennrich
-	- Weiterführende Quellen: vgl. Master-Abschnitt
+  - Die GDPR- und DSGVO-Prinzipien: [Art. 5 GDPR](https://gdpr-info.eu/art-5-gdpr/) \[EN\] / [Art. 5 DSGVO](https://dsgvo-gesetz.de/art-5-dsgvo/) \[DE\]
+  	- u.a. „für die betroffene Person nachvollziehbaren Weise“ (**Transparenz**), „sowie auf das \[…\] notwendige Maß beschränkt“ (**Datenminimierung**) und „nur so lange \[…\] wie es \[…\] erforderlich ist“ (**Speicherbegrenzung**)
+  - (Obacht für die nachfolgenden Quellen: insb. juristische Webartikel können schnell veralten!)
+  - Themenkomplex Kontaktformular/SSL-Pflicht: u.a. Webartikel [Datenschutz: Wie kann ich ein **Kontaktformular** datenschutzkonform erstellen?](https://www.it-recht-kanzlei.de/kontaktformular-datenschutz-ssl.html)
+  - Themenkomplex Cookies: u.a. Webarktikel [EuGH: **Cookie**-basierte Anwendungen weitgehend einwilligungspflichtig](https://www.it-recht-kanzlei.de/eugh-cookie-informierte-einwilligung-pflicht.html)
+  	- TrustPid: u.a. Webartikel [**TrustPid**: Baking ad tracking into the internet infrastructure](https://edri.org/our-work/trustpid-baking-ad-tracking-into-the-internet-infrastructure/)
+  - Teile Des BSI-Grundschutz, daher: [**BSI IT-Grundschutz** Schulungen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/it-grundschutzschulung_node.html)
+  - (€:) Buch [**Cloud Computing** nach der Datenschutz-Grundverordnung](https://www.amazon.de/dp/3960091133/) (2022) von Thorsten Hennrich
+  - Weiterführende Quellen: vgl. Master-Abschnitt
 
 #### Cloud Computing
 
@@ -1918,6 +1940,7 @@ Internet Ikonen:
 		- "A computer can never be held accountable. Therefore, a computer must never make management decisions." ([1979 internal presentation at IBM](https://werd.io/2024/a-computer-can-never-be-held-accountable))
 - Taktische Steuerung / KPIs
 	- Webartikel [The **engineering KPIs** that actually matter](https://getdx.com/blog/engineering-kpis/)
+	- Listen [KPI Examples by Department and Industry](https://www.spiderstrategies.com/kpi/) von Spider Strategies
 - Logische Fehlschlüsse im Management
 	- [Sunk-Cost fallacy](https://thedecisionlab.com/biases/the-sunk-cost-fallacy) (aka concorde fallacy, finish the job fallacy): people continue investing in a failing project or decision due to past investments
 	- [Base-Rate Fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy): ignoring statistical information
@@ -2353,6 +2376,9 @@ Internet Ikonen:
 	- **Dianping**: wie TripAdvisor, um Restaurants zu finden und zu reservieren
 	- **China Mobile**: falls man von China Mobile die SIM-Karte hat
 - Internationale Apps:
+	- eSIM:
+		- Datentarife: [Holafly](https://esim.holafly.com/) (ohne Volumenbegrenzung; ca. €50 für 14d)
+		- Telefontarife: lieber eine chinesische SIM vor Ort kaufen
 	- **WISE**: ggf. für internationalen Geldtransfer
 	- **Trip.com**: ggf. für Flugbuchungen (oder über Airlines direkt)
 - Stromadapter: [**Typ I** (dreipolig)](https://www.amazon.de/s?k=stromadapter+china)
