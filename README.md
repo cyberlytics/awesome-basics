@@ -109,7 +109,15 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Arbeitsheft **[schulKI: Das Schulbuch](https://schulbuchki.s3-eu-central-1.ionoscloud.com/schulKI-2024-07-21-helle-edition.pdf)**
 	- SchuBu [Digitale Grundbildung 3](https://www.schubu.org/t11-7) (sowie deren andere [digitalen Schulbücher](https://www.schubu.org/))
 	- Kindgerechte Informatik/KI: [Frag Fred](https://www.youtube.com/playlist?list=PLMu9JaQVxJoEWVdcNvsDnd1_dKmAkWDVA), [ZDF goes Schule: Kategorie Mathe und Technik](https://schule.zdf.de/kategorie/mathematik), [Planet Schule: Schwerkpunkt KI](https://www.planet-schule.de/schwerpunkt/index.html), [Sendung mit der Maus (ausgewählte Folgen)](https://www.perplexity.ai/search/new?q=sendung+mit+der+maus+videos+mit+informatik+oder+ki+bezug), [Franneck](https://www.youtube.com/@Franneck), [The Morpheus Tutorials](https://www.youtube.com/@TheMorpheusTutorials)
-	- Grundlegende Herausforderungen von moderner KI: 1) [Bias](https://www.ibm.com/think/topics/ai-bias), 2) [Konfabulation](https://de.wikipedia.org/wiki/Konfabulation) (bei KIs umgangssprachlich auch als [Halluzination](https://de.wikipedia.org/wiki/Halluzination_(Künstliche_Intelligenz)) bezeichnet), 3) [Sycophancy](https://en.wikipedia.org/wiki/Sycophancy), 4) [AI slop](https://en.wikipedia.org/wiki/AI_slop)
+	- Grundlegende Herausforderungen von moderner KI:
+		1) **[Bias](https://www.ibm.com/think/topics/ai-bias)**
+		2) **[Konfabulation](https://de.wikipedia.org/wiki/Konfabulation)** (bei KIs umgangssprachlich auch als **[Halluzination](https://de.wikipedia.org/wiki/Halluzination_(Künstliche_Intelligenz))** bezeichnet)
+		3) **[Sycophancy](https://en.wikipedia.org/wiki/Sycophancy)** (KIs umgangssprachlich auch als **[people pleaser](https://de.wikipedia.org/wiki/People_Pleaser)** bezeichnet), außer der Benutzer wirkt per explizitem Prompt Engineering aktiv dagegen
+	- Weitere Herausforderungen beim Einsatz moderner KI:
+		4) **[AI slop](https://en.wikipedia.org/wiki/AI_slop)**: generierte Medieninhalte niedriger inhaltlicher Qualität
+		5) **Kognitive Atrophie**: KI liefert i.d.R. statistisch geglättete Gesellschaftsintelligenz, diese ist i.d.R. konsensfähig und ggf. gefährlich, wenn dadurch im Einzelfall eine **Erosion der eigenen Urteilskraft** entsteht oder **kritisches Denken verloren** geht
+		6) **[Enshitification](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)** bzw. **[Crapification](https://de.wikipedia.org/wiki/Enshittification)** von Onlinediensten: wachsende Interessensgegensätze zwischen Betreibern und Nutzern
+			- Das people pleasing von oben (Validation/Trust/Engagement over Truth) ist **nicht nur** eine **inhärente** Eigenschaft großer Sprachmodelle, **sondern** auch **explizit verursachtes Phänomen**, weil KI-Betreiber dudurch höhere Verweildauern erreichen und somit i.d.R. mehr Geld umsetzen
 - Ursprung in Deutschland
 	- **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabenpool](https://bwinf.de/biber/archiv/)) ⭐
 	- [Calliope Mini](https://calliope.cc/) ([Anleitungen](https://calliopemini.info/), Microsoft [MakeCode](https://makecode.calliope.cc/))
@@ -134,7 +142,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- [DeepBeat](https://deepbeat.org/) (Rap-Texter)
 	- Grenzen von KI: [A **GPT-4 Capability** Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
 	- Prompt Injection als LLM-Sicherheitsangriff: **[Gandalf](https://gandalf.lakera.ai/)** Challenge von Lakera (inkl. [Solution](https://www.lakera.ai/blog/who-is-gandalf) sowie [weitere Übungen](https://gandalf.lakera.ai/adventure-8))
-- Wichtige Lernplattformen
+- Wichtige Lernplattformen Informatik/KI:
 	- Programmierung: **[Scratch](https://scratch.mit.edu/)** (MIT), [Code it!](https://code-it-studio.de/), [Code Combat](https://codecombat.com/)
 	- KI: **[LearningML](https://web.learningml.org/)** ([download](https://web.learningml.org/learningml-desktop))
 	- Einplatinencomputer:
@@ -151,8 +159,13 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - Medienkompetenz
 	- Buch (€) [Allein mit dem Handy](https://www.amazon.de/dp/3453607015) von Daniel Wolff
 	- Einstieg: Schweizer [Medienkompetenz-Broschüre](https://www.jugendundmedien.ch/angebote-beratung/bestellung-publikationen) und Aspen Institute [Medienkompetenz-Handbuch](https://www.aspeninstitute.de/wp-content/uploads/Aspen-Institute-Germany-Handbuch-Medienkompetenz-meistern-Tipps-von-SchuelerInnen-fuer-SchuelerInnen.pdf)
-	- Initiative [Gutes Aufwachsen mit Medien](https://www.gutes-aufwachsen-mit-medien.de/magazin)
-	- Webartikel [Desinformation & Nachrichtenkompetenz](https://www.jugendundmedien.ch/themen/desinformation-nachrichtenkompetenz) (Clickbait, Deepfakes/Deepnudes, Fake News, Filterblasen/Echokammern, Hoaxes, Trolle, ...) der Schweizer Plattform [Jugend und Medien](https://www.jugendundmedien.ch/)
+	- Öffentlich-rechtlich:
+		- Schweiz: Plattform **[Jugend und Medien](https://www.jugendundmedien.ch/)** ⭐ u.a. Webartikel [Desinformation & Nachrichtenkompetenz](https://www.jugendundmedien.ch/themen/desinformation) (Clickbait, Deepfakes/Deepnudes, Fake News, Filterblasen/Echokammern, Hoaxes, Trolle, …) oder [Hass & Radikalisierung](https://jugendundmedien.ch/themen/hass-und-radikalisierung) (Hate Speech, Sexismus, Rassismus, Diskriminierung, …)
+		- DE/Bund: Initiative [Gutes Aufwachsen mit Medien](https://www.gutes-aufwachsen-mit-medien.de/magazin)
+		- DE/BY: [Medienführerschein Bayern](https://www.medienfuehrerschein.bayern/) u.a. **[Medienführerschein Werkstätten](https://www.medienfuehrerschein.bayern/angebot/schule-plus/medienfuehrerschein-werkstaetten)** ⭐
+		- DE/BY: [mebis](https://de.wikipedia.org/wiki/Mebis)/ByCS: [mebis Kernanwendungen](https://www.bycs.de/bestandteile/lernen-mit-mebis/index.html), u.a. [mebis Magazin](https://mebis.bycs.de/) sowie [digitalkompass.schule](https://mebis.bycs.de/digitalkompass/startseite)
+		- Kindgerechter Faktenchecker: BR [Faktenfuchs](https://www.br.de/nachrichten/faktenfuchs-faktencheck), [Mimikama](https://www.mimikama.org/)
+			- Spielerisch: SWR [Fakefinder Kids](https://kids.swrfakefinder.de/)
 	- Zu Deepnudes: Kostenlose Werkzeuge der digitalen Selbstverteidigung
 		- Freizügige Fotos/Videos löschen, für Minderjährige: [Take It Down](https://takeitdown.ncmec.org/de/) ([Teilnehmende Partner](https://takeitdown.ncmec.org/de/teilnehmende/))
 		- Freizügige Fotos/Videos löschen, für Volljährige: [StopNCII](https://stopncii.org/) ([Teilnehmende Partner](https://stopncii.org/partner/industriepartner/))
@@ -166,7 +179,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 		- [Rules of the Internet](https://tvtropes.org/pmwiki/pmwiki.php/Main/RulesOfTheInternet)
 			- [Rule 34](https://en.wikipedia.org/wiki/Rule_34): "If it exists, or can be imagined, there is Internet porn of it."
 	- Weiterführende Medienkompetenz-Referenzen: [bildungsserver.de](https://www.bildungsserver.de/medienkompetenz-2924-de.html)
-		- Lehrmaterialien: [Werkstattbuch Medienerziehung](https://www.bzga.de/fileadmin/user_upload/PDF/themenschwerpunkte/medienkompetenz/werkbuch_medienerziehung_kopiervorlagen--66f1fed9e09b25eb436a6eb49a29d158.pdf), [klicksafe](https://www.klicksafe.de/materialien)
+		- Lehrmaterialien: [Medienführerschein Werkstätten](https://www.medienfuehrerschein.bayern/angebot/schule-plus/medienfuehrerschein-werkstaetten), [Werkstattbuch Medienerziehung](https://www.bzga.de/fileadmin/user_upload/PDF/themenschwerpunkte/medienkompetenz/werkbuch_medienerziehung_kopiervorlagen--66f1fed9e09b25eb436a6eb49a29d158.pdf), [klicksafe](https://www.klicksafe.de/materialien)
 - Schulen
 	- Profilschule für Informatik und Zukunftstechnologien (PIZ): Liste aller [PIZ-Schulen](https://www.km.bayern.de/gestalten/digitalisierung/profilschulen-fuer-informatik-und-zukunftstechnologien/schulen)
 		- Disclaimer: Ich bin ein [PiZ-Fachbeirat](https://www.km.bayern.de/gestalten/digitalisierung/profilschulen-fuer-informatik-und-zukunftstechnologien/fachbeirat)
@@ -236,9 +249,36 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- BY:
 		- [Förderung im MINT-Bereich](https://www.km.bayern.de/lernen/inhalte/mint) des bay. Kultusministeriums (Unterricht, Wettbewerbe, etc.)
 - MINT Videos
-	- Kindgerechte Wissenskommunikation: [Checker Welt](https://www.ardmediathek.de/checkerwelt), [ZDF goes Schule](https://schule.zdf.de), SWR/WDR [Planet Schule](https://www.planet-schule.de/), [Lehrer Schmidt](https://www.youtube.com/@lehrerschmidt) (u.a. Mathe), [schoolseasy](https://www.youtube.com/@schoolseasy), [Die Merkhilfe](https://www.youtube.com/@diemerkhilfe), [Sommers Weltliteratur](https://www.youtube.com/@SommersWeltliteraturToGo), [Simple Club Geschichte](https://www.youtube.com/@simpleclub_geschichte), [Kurzgesagt](https://www.youtube.com/user/KurzgesagtDE), [StudyFlix](https://www.youtube.com/@studyflix)
-	- Deutschprachige Wissensschaftskommunikation: [Quarks](https://www.youtube.com/@Quarks), [Leibnitz-Gesellschaft](https://www.youtube.com/@leibniz-gemeinschaft), [Max-Planck-Gesellschaft](www.youtube.com/user/MaxPlanckSociety/), [Helmholtz Gemeinschaft](https://www.youtube.com/user/HelmholtzTV), [Spektrum der Wissenschaft](www.youtube.com/@spektrumverlag/)
-	- Englischsprachige Wissenschaftskommunkation: [Branch Education](https://www.youtube.com/@BranchEducation) (mit Schwerpunkt Informatik), [CrashCourse](https://www.youtube.com/user/crashcourse), [TED Education](https://www.youtube.com/user/TEDEducation) / [TEDx Youth](https://www.youtube.com/user/TEDxYouth), [Minutephysics](https://www.youtube.com/user/minutephysics)
+	- Kindgerechte Wissenskommunikation
+		- öffentlich-rechtlich: KiKa (ARD/ZDF) [Checker Welt](https://www.ardmediathek.de/checkerwelt), [ZDF goes Schule](https://schule.zdf.de), SWR/WDR [Planet Schule](https://www.planet-schule.de/), BR/ARD [kolleg24](https://www.planet-schule.de/kurse/) (u.a. Mathe), ARD [alpha Lernen](https://www.ardalpha.de/lernen/alpha-lernen/index.html)
+		- privatrechtlich: [Lehrer Schmidt](https://www.youtube.com/@lehrerschmidt) (u.a. Mathe), [schoolseasy](https://www.youtube.com/@schoolseasy), [Die Merkhilfe](https://www.youtube.com/@diemerkhilfe), [Sommers Weltliteratur](https://www.youtube.com/@SommersWeltliteraturToGo), [Simple Club Geschichte](https://www.youtube.com/@simpleclub_geschichte), [Kurzgesagt](https://www.youtube.com/user/KurzgesagtDE), [StudyFlix](https://www.youtube.com/@studyflix)
+	- Wissenskommunikation an Erwachsene
+		- Deutschprachig: [Quarks](https://www.youtube.com/@Quarks), [Leibnitz-Gesellschaft](https://www.youtube.com/@leibniz-gemeinschaft), [Max-Planck-Gesellschaft](www.youtube.com/user/MaxPlanckSociety/), [Helmholtz Gemeinschaft](https://www.youtube.com/user/HelmholtzTV), [Spektrum der Wissenschaft](www.youtube.com/@spektrumverlag/)
+		- Englischsprachig: [Branch Education](https://www.youtube.com/@BranchEducation) (mit Schwerpunkt Informatik), [CrashCourse](https://www.youtube.com/user/crashcourse), [TED Education](https://www.youtube.com/user/TEDEducation) / [TEDx Youth](https://www.youtube.com/user/TEDxYouth), [Minutephysics](https://www.youtube.com/user/minutephysics)
+- Kostenlose Schulmaterialien (i.S.v. [Telekolleg](https://de.wikipedia.org/wiki/Telekolleg)):
+	- Hauptschaulabschluss: [GRIPS](https://www.ardalpha.de/lernen/grips/) von BR/ARD
+	- Mittlere Reife und Fachhochschulreife: [kolleg24](https://www.planet-schule.de/kurse/) ([Begleitbücher-Sortiment](https://www.ardalpha.de/lernen/telekolleg/service/begleitmaterial/index.html)) von BR/ARD (vormals: [Telekolleg](https://www.ardalpha.de/lernen/telekolleg/index.html))
+		- Anmeldeverfahren für staatlich anerkannten Abschluss: via [Bayernportal](https://www.bayernportal.de/dokumente/leistung/81108210625)
+- Netzwerke für Frauen/Mädchen
+	- Netzpolitik: [superrr](https://superrr.net/de)
+	- Social-Media (Frauen-zentrische Alternativen für Facebook/Instagramm/Twitter/TikTok/…)? Gibt es quasi nicht! => Bitte Gründen!
+	- For-Women Business Contacts:
+		- DE: (€:) [Frauen verbinden](https://www.frauen-verbinden.de/)
+		- Int'l: [LeanIn](https://leanin.org/)
+	- Women in Tech:
+		- DE: [Women in Tech](https://www.womenintechev.de/)
+		- Regional: [Women in Tech](https://www.nik-nbg.de/projekte/women-in-tech/) Nürnberg, [Women in Data Science](https://www.wids-regensburg.de/) (WiDS) Regensburg
+	- For-Women Communities:
+		- DE: [LizzyNet](https://www.lizzynet.de)
+		- Int'l: [UN Women](https://www.unwomen.org/), [the Women's Chapter](https://womenschapter.com/)
+	- For-Women Messanger? Am nähesten dran (aber Überlappung mit Lesbischen Communities): [PINK](https://www.madmad.app/pink) (= [Apple App](https://apps.apple.com/us/app/pink-women-dating-chat-app/id1485018886))
+	- Online-Dating & BFF: [Bumble](https://bumble.com/) (Frauen machen den ersten Schritt, Beziehungen auf Respekt basierend)
+		- Dating Safety: [Tea](https://www.teaforwomen.com/), [AWDTSG](https://arewedatingthesameguy.com/)
+	- For-Women AirbnB: [Golightly](https://www.wegolightly.com/)
+	- Frauenreisen: [SKR Frauenreisen](https://www.skr.de/frauenreisen/), [FRIdA Frauenreisen](https://www.frida-frauenreisen.de/), [Frauenreisen Weltweit](https://frauenreisen-weltweit.com/), …
+	- Code of Conduct (Vorlagen; u.a. No-Harassment, No-Sexualization, No-Racism, etc.)
+		- DE: [Contributor Covenant (DE)](https://www.contributor-covenant.org/de/version/3/0/code_of_conduct/), [Berlin CoC](https://berlincodeofconduct.org/de), [Freie Universität Berlin](https://www.bcp.fu-berlin.de/fachbereich/frauen/Service/code-of-conduct_bcp/index.html)
+		- EN: [Contributor Covenant](https://www.contributor-covenant.org/version/3/0/), [Berlin CoC (EN)](https://berlincodeofconduct.org/en), [Hasso Plattner Institut](https://hpi.de/en/hpi-digital-health-innovation-forum/code-of-conduct/), [superrr](https://superrr.net/de/code-of-conduct), [Women in GovTech](https://govstack.global/code-of-conduct-for-women-in-govtech-challenge-2025/)
 
 
 ## Vor Eintritt in ein Bachelorstudium
@@ -371,6 +411,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Umfassender Leitfaden: [Ratgeber für Anschriften und Anreden](https://www.protokoll-inland.de/SharedDocs/downloads/Webs/PI/DE/Allgemeines/Anschriften.html) von dem Bundesministerium des Innern
 	- Hinweis: Diplom, Bachelor und Master sind keine akademischen Titel, nur akademische Grade.
 		- Empfehlung: Diplom, Bachelor und Master gehören eher nicht auf Visitenkarten oder in E-Mail-Signaturen (bzw. Anschrift oder schriftliche Anrede), selbst wenn Sie es de jure schreiben könnten; es gilt in Akademikerkreisen als lächerlich.
+- Bücher als Einstieg in wissenschaftliche Abschlussarbeiten:
+	- Kostenlos: Buch [**Wissenschaftliches Arbeiten** - Methodenwissen für Wirtschafts-, Ingenieur- und Sozialwissenschaftler](https://link.springer.com/book/10.1007/978-3-662-62548-4) (2021) von Bernd Heesen
+	- €: Buch [**Studienarbeiten**: Ein Leitfaden … **am Beispiel Informatik**](https://www.amazon.de/dp/3728138118/) (2017) von Marcus Deiniger et al. ⭐
 - Wissenschaftliches Handwerkszeug:
 	- **[How to read a paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf)** ⭐
 	- [Berkeley **Understanding Science**](http://www.understandingscience.org/)
@@ -387,7 +430,6 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 		- Wiss. Publikation: [WASP (Write a Scientific Paper): Structuring a scientific paper](https://www.sciencedirect.com/science/article/pii/S0378378218305929)
 	- Wiss. Methoden: [Awesome **PhD**](https://github.com/macoj/phd) | [A three cycle view of **design science research**](https://community.mis.temple.edu/seminars/files/2009/10/Hevner-SJIS.pdf) (2007) von Alan R. Hevner (Zur DSR auch: [Wikipedia](https://en.wikipedia.org/wiki/Design_science_(methodology)))
 	- Citation Metrics: **[Impact Factor](https://en.wikipedia.org/wiki/Impact_factor)** | [Autorenmetriken (**h-Index, g-Index**, …)](http://www.harzing.com/pophelp/metrics.htm) | Paper [ISI Web of Science versus Google Scholar](http://www.int-res.com/articles/esep2008/8/e008p061.pdf)
-	- (€:) Buch [**Studienarbeiten**: Ein Leitfaden … **am Beispiel Informatik**](https://www.amazon.de/dp/3728138118/) (2017) von Marcus Deiniger et al. ⭐
 	- Englisch (verwende en_US für Informatik)
 		- (€:) Buch **[English for Writing Research Papers](https://www.amazon.de/dp/B008I37B80/)** (2011) von Adrian Wallwork
 		- Kindergartenfehler: [Saxon Genitive](https://www.wallstreetenglish.com/exercises/english-possessives-the-saxon-genitive)
@@ -411,7 +453,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Nach Abgabe Ihrer Abschlussarbeit dürfen Sie generative KI einsetzen, um sich die Abschlussarbeit zusammenzufassen zu lassen und so einen Erstentwurf für einen OTH-Forschungsbericht (ca. 2500 Wörter) oder einen Technischen Report (ca. 3000 bis 4500 Wörter) zu generieren, falls diese Beiträge nicht vorher schon erstellt wurden.
 - Lerntheorie: Sechsstufige **[Bloomsche Taxonomie der Lernziele](https://www.bloomstaxonomy.net/)** im kognitiven Bereich
 - DISCLAIMER: **[typst](https://typst.app/) vs. LaTeX**? Mit typst gibt es eine moderne, überlegene Typesetting-Variante zu latex, die aber technisch völlig eigenständig ist. (siehe [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#latex--pdf))
-	- "This being said ..." jetzt zurück zum wohlbekannten LaTeX:
+	- "This being said …" jetzt zurück zum wohlbekannten LaTeX:
 	- LaTeX-Skills: **[A simple guide to LaTeX – Step by Step](https://latex-tutorial.com/tutorials/)** | **[Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX)** | Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)** | **[LearnLaTeX](https://www.learnlatex.org/)**
 	- LaTeX-Software: siehe [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#latex--pdf) ⭐ (LaTeX-Editor, PDF-Viewer, Literaturverwaltung, …)
 	- Korrekte Anführungszeichen ⚠️: lese **[Quotation Marks](https://latex.silmaril.ie/formattinginformation/quotes.html)** von Peter Flynn oder **[Formatting](https://www.andy-roberts.net/latex/formatting/)** von Andrew Roberts bzw. verwende **[csquotes](https://tex.stackexchange.com/tags/csquotes/info)** mit **\\enquote{..}** ⭐
@@ -424,7 +466,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 - BibTeX: **[bibtex vs. biber and biblatex vs. natbib](https://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib)** ⭐ | **[bibtex.org](http://www.bibtex.org/)**
 	- **[Tame the BeaST](http://tug.ctan.org/info/bibtex/tamethebeast/ttb_en.pdf)**
 	- Common Anti-Patterns: **[How to not mess up your bibliographies with Bibtex](https://clauswilke.com/blog/2015/10/02/bibtex/)** (2015) von Claus Wilke ⭐
-- Word für Fortgeschrittene: [LearnFree.org **Word Tips**](https://edu.gcfglobal.org/en/word-tips/) | [Microsoft **Word for Windows training**](https://support.microsoft.com/en-us/office/word-for-windows-training-7bcd85e6-2c3d-4c3c-a2a5-5ed8847eae73)
+- Word:
+	- Word für Abschlussarbeiten: [**Kapitel 6** aus dem Buch **Wissenschaftliches Arbeiten**](https://link.springer.com/chapter/10.1007/978-3-662-62548-4_6) von Bernd Heesen
+	- Word für Fortgeschrittene: [LearnFree.org **Word Tips**](https://edu.gcfglobal.org/en/word-tips/) | [Microsoft **Word for Windows training**](https://support.microsoft.com/en-us/office/word-for-windows-training-7bcd85e6-2c3d-4c3c-a2a5-5ed8847eae73)
 - Open Science
 	- Zitierbare Software? **[Zenodo](https://about.zenodo.org/)** oder [citation.**cff**-Dateien](https://citation-file-format.GitHub.io/)
 - Paper Submission? [International Conference on **Cloud Computing**, GRIDs, and Virtualization](https://www.iaria.org/conferences/CLOUDCOMPUTING.html)
@@ -590,7 +634,7 @@ Werkzeuge:
 - Betriebssysteme
 	- Buch (€) [Moderne Betriebssysteme](https://www.amazon.de/dp/386894270X/) (2016) von Tanenbaum
 		- Oberflächlicher aber für OTH-Studierende kostenlos: „Grundkurs Betriebssysteme“ (2020) von P. Mandl im Springer Vieweg Verlag
-		- ...
+		- …
 - Programmierung: [**w3schools** Tutorials](https://www.w3schools.com) | [**Google** Tech Dev Guide: **Foundations of Programming**](https://techdevguide.withgoogle.com/paths/foundational/)
 	- Nachbau von diversen Anwendungen: Awesome **[Build your own X](https://github.com/codecrafters-io/build-your-own-x)**
 	- Beware of the Blub paradox: „[\[programmers are\] satisfied with whatever language they happen to use, because it dictates the way they think about programs](https://www.paulgraham.com/avg.html)“
@@ -734,7 +778,7 @@ Werkzeuge:
 	- SQL Security (SQL-Injection): [OWASP **Juice Shop**](https://owasp.org/www-project-juice-shop/) | **[SQL-Insekten](https://www.sql-insekten.de)**
 - Information Retrieval (IR)
 	- Disclaimer: IR ist kein Datenbanksysteme-Teilgebiet, sonder eine eigenständige Schwesterdisziplin (eher NLP- und KI-nah, anstatt RDBMS-nah)
-	- IR-Funktionalitätenskizze: **Volltextsuche** (u.a. per **[invertierte Listen](https://en.wikipedia.org/wiki/Inverted_index)**), Web Search, Semantic Search, ..., **Unscharfe Suche** ([Stemming & Lemmatization](https://www.ibm.com/de-de/think/topics/stemming-lemmatization) und [phonetische Algorithmen](https://de.wikipedia.org/wiki/Phonetische_Suche) bspw. [Soundex](https://de.wikipedia.org/wiki/Soundex) oder [Kölner Phonetik](https://de.wikipedia.org/wiki/Kölner_Phonetik))
+	- IR-Funktionalitätenskizze: **Volltextsuche** (u.a. per **[invertierte Listen](https://en.wikipedia.org/wiki/Inverted_index)**), Web Search, Semantic Search, …, **Unscharfe Suche** ([Stemming & Lemmatization](https://www.ibm.com/de-de/think/topics/stemming-lemmatization) und [phonetische Algorithmen](https://de.wikipedia.org/wiki/Phonetische_Suche) bspw. [Soundex](https://de.wikipedia.org/wiki/Soundex) oder [Kölner Phonetik](https://de.wikipedia.org/wiki/Kölner_Phonetik))
 	- Bücher:
 		- Kostenloses Buch **[Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)**
 		- (€:) Buch **[Information Retrieval: Implementing and Evaluating Search Engines](https://plg.uwaterloo.ca/~ir/ir/book/)** mit einigen kostenlosen Kapiteln
@@ -2207,13 +2251,13 @@ Internet Ikonen:
 			- Normale Beamte wie akademische Räte: 45 Jahre nach [Bayerisches Beamtengesetz](https://www.gesetze-bayern.de/Content/Document/BayBG-23) (?)
 		- [Formelle Einstellungsvoraussetzungen](https://www.gesetze-bayern.de/Content/Document/BayHIG-57):
 			- Immer (Uni und FH): Hochschulstudim, pädagogische Eignung, (hochwertige) **Promotion**
-			- Uni: ... darüber hinaus "zusätzliche **wissenschaftliche Leistungen**" (Grobe Einordnung des Umfangs für Laien: **Habil** i.S.v. Publikationsumfang nach gängigen Habilitationsvereinbarungen bzw. Post-Doc-Phase; Ausnahmen bilden W1-Juniorprofessuren, etc. pp.)
-			- FH: ... darüber hinaus "mindestens **fünfjährige beruflichen Praxis**, die nach Abschluss des Hochschulstudiums erworben sein muss und von der mindestens **drei Jahre außerhalb des Hochschulbereichs** ausgeübt worden sein müssen"
+			- Uni: … darüber hinaus "zusätzliche **wissenschaftliche Leistungen**" (Grobe Einordnung des Umfangs für Laien: **Habil** i.S.v. Publikationsumfang nach gängigen Habilitationsvereinbarungen bzw. Post-Doc-Phase; Ausnahmen bilden W1-Juniorprofessuren, etc. pp.)
+			- FH: … darüber hinaus "mindestens **fünfjährige beruflichen Praxis**, die nach Abschluss des Hochschulstudiums erworben sein muss und von der mindestens **drei Jahre außerhalb des Hochschulbereichs** ausgeübt worden sein müssen"
 		- Lehrverpflichtung
 			- Terminologie: Die Lehrverpflichtungseinheit LVS und SWS sind synonym und meinen an Hochschulen eine class hour von 45 Minuten (unten nochmal eine formellere Referenz dazu)
 			- Karrierepfade
 				- Lehrverpflichtung eines [**Uni**-Professors](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-3): **9 LVS** pro Semester
-					- Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "Geht man von Universitätsprofessoren davon aus, eine Lehrverpflichtung von 8 LVS beanspruche etwa die Hälfte der regelmäßigen Arbeitszeit \[...\]"
+					- Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "Geht man von Universitätsprofessoren davon aus, eine Lehrverpflichtung von 8 LVS beanspruche etwa die Hälfte der regelmäßigen Arbeitszeit \[…\]"
 				- Lehrverpflichtung eines [**FH**-Professors](https://www.gesetze-bayern.de/Content/Document/BayAVHIG-4): **18 LVS** pro Semester (doppelt so hoch wie ein Uni-Prof)
 					- Aus dem Buch [Hochschulrecht im Freistaat Bayern](https://www.amazon.de/dp/3811440683/) (2017) von Max-Emanuel Geis (Hrsg.): "so gilt bei einem Fachhochschulprofessor mit 18 SWS Lehrverpflichtung, dass er 20 bis 25 % für Forschungs- und sonstige Aufgaben erübrigen muss"
 					- Anders als Informatik/KI-Profs an der Uni halten Professoren an der FH auch selbst häufig die Übungsveranstaltungen (Übungen an Unis: häufig durch WissMAs und ggf. auch Lehr-HiWis übernommen)
@@ -2506,18 +2550,23 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 
 - Informatiker-Humor
 	- [Aprilscherz **RFCs**](https://www.cs.hmc.edu/~awooster/joke_rfcs.html)
-	- Mozilla-Antrag: [Add Honest Achmed's root certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
+		- ähnlich: Mozilla-Antrag [Add Honest Achmed's root certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
+	- Informatiker-Witze: [it-witze.de](https://www.it-witze.de/), [witze.net](https://witze.net/informatiker-witze), [gecko.de](https://www.gecko.de/wissenshub/die-25-schlechtesten-it-witze-aller-zeiten/)
+	- Comics:
+		- **[xkcd](https://xkcd.com)**
+		- **[Dilbert](https://dilbert.com)**
+		- **[MonkeyUser](https://www.monkeyuser.com/)**
+		- **[PhD Comics](https://phdcomics.com/comics/)**
+	- Historisches:
+		- [Bastard Operator From Hell](https://web.archive.org/web/20151205062358/http://bofh.ntk.net/BOFH/index.php) (BOFH)
+	- MINT-Humor (Cousin- und Cousinen-Humor):
+		- Mathematiker-Humor: [Wie fängt man einen Löwen in der Wüste?](http://www.m-niggemann.com/amuesantes_2.htm)
 - Office-Kultur
 	- TV-Serie **[Better Off Ted](https://www.imdb.com/title/tt1235547/)** (2009) ⭐
 	- Videos von **[Mirko Seifert](https://www.youtube.com/@DevBoost)** bei [DevBoost](https://devboost.com/blog) ⭐
 	- Videos **[Let's Skip the Bla](https://www.tiktok.com/@as_dialoggroup)** mit der Figur des Dr. Bauer aka [IT-Wikinger](https://shop.as-dialoggroup.de/#!/) ⭐
 	- TV-Serie **[Office Space](https://www.imdb.com/title/tt0151804/)** (1999)
 	- TV-Serie **[The IT Crowd](https://www.imdb.com/title/tt0151804/)** (2006)
-- Comics:
-	- **[xkcd](https://xkcd.com)**
-	- **[Dilbert](https://dilbert.com)**
-	- **[MonkeyUser](https://www.monkeyuser.com/)**
-	- **[PhD Comics](https://phdcomics.com/comics/)**
 - Hörspiele
 	- **[Professor van Dusen](https://www.hoerspielundfeature.de/van-dusen-krimis-100.html)** von Michael Koser ⭐
 	- **[Jonas - Der letzte Detektiv](http://pirg.bplaced.net/pvd/dld/)** von Michael Koser ⭐ / [Jonas. Nur Jonas. Und Sam.](https://www.jonas-nur-jonas-und-sam.de/) von Kanzlei Dr. Bahr
