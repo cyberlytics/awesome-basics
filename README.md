@@ -110,13 +110,13 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- SchuBu [Digitale Grundbildung 3](https://www.schubu.org/t11-7) (sowie deren andere [digitalen Schulbücher](https://www.schubu.org/))
 	- Kindgerechte Informatik/KI: [Frag Fred](https://www.youtube.com/playlist?list=PLMu9JaQVxJoEWVdcNvsDnd1_dKmAkWDVA), [ZDF goes Schule: Kategorie Mathe und Technik](https://schule.zdf.de/kategorie/mathematik), [Planet Schule: Schwerkpunkt KI](https://www.planet-schule.de/schwerpunkt/index.html), [Sendung mit der Maus (ausgewählte Folgen)](https://www.perplexity.ai/search/new?q=sendung+mit+der+maus+videos+mit+informatik+oder+ki+bezug), [Franneck](https://www.youtube.com/@Franneck), [The Morpheus Tutorials](https://www.youtube.com/@TheMorpheusTutorials)
 	- Grundlegende Herausforderungen von moderner KI:
-		1) **[Bias](https://www.ibm.com/think/topics/ai-bias)**
-		2) **[Konfabulation](https://de.wikipedia.org/wiki/Konfabulation)** (bei KIs umgangssprachlich auch als **[Halluzination](https://de.wikipedia.org/wiki/Halluzination_(Künstliche_Intelligenz))** bezeichnet)
-		3) **[Sycophancy](https://en.wikipedia.org/wiki/Sycophancy)** (KIs umgangssprachlich auch als **[people pleaser](https://de.wikipedia.org/wiki/People_Pleaser)** bezeichnet), außer der Benutzer wirkt per explizitem Prompt Engineering aktiv dagegen
+		1. **[Bias](https://www.ibm.com/think/topics/ai-bias)**
+		2. **[Konfabulation](https://de.wikipedia.org/wiki/Konfabulation)** (bei KIs umgangssprachlich auch als **[Halluzination](https://de.wikipedia.org/wiki/Halluzination_(Künstliche_Intelligenz))** bezeichnet)
+		3. **[Sycophancy](https://en.wikipedia.org/wiki/Sycophancy)** (KIs umgangssprachlich auch als **[people pleaser](https://de.wikipedia.org/wiki/People_Pleaser)** bezeichnet), außer der Benutzer wirkt per explizitem Prompt Engineering aktiv dagegen
 	- Weitere Herausforderungen beim Einsatz moderner KI:
-		4) **[AI slop](https://en.wikipedia.org/wiki/AI_slop)**: generierte Medieninhalte niedriger inhaltlicher Qualität
-		5) **Kognitive Atrophie**: KI liefert i.d.R. statistisch geglättete Gesellschaftsintelligenz, diese ist i.d.R. konsensfähig und ggf. gefährlich, wenn dadurch im Einzelfall eine **Erosion der eigenen Urteilskraft** entsteht oder **kritisches Denken verloren** geht
-		6) **[Enshitification](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)** bzw. **[Crapification](https://de.wikipedia.org/wiki/Enshittification)** von Onlinediensten: wachsende Interessensgegensätze zwischen Betreibern und Nutzern
+		1. **[AI slop](https://en.wikipedia.org/wiki/AI_slop)**: generierte Medieninhalte niedriger inhaltlicher Qualität
+		2. **Kognitive Atrophie**: KI liefert i.d.R. statistisch geglättete Gesellschaftsintelligenz, diese ist i.d.R. konsensfähig und ggf. gefährlich, wenn dadurch im Einzelfall eine **Erosion der eigenen Urteilskraft** entsteht oder **kritisches Denken verloren** geht
+		3. **[Enshitification](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)** bzw. **[Crapification](https://de.wikipedia.org/wiki/Enshittification)** von Onlinediensten: wachsende Interessensgegensätze zwischen Betreibern und Nutzern
 			- Das people pleasing von oben (Validation/Trust/Engagement over Truth) ist **nicht nur** eine **inhärente** Eigenschaft großer Sprachmodelle, **sondern** auch **explizit verursachtes Phänomen**, weil KI-Betreiber dudurch höhere Verweildauern erreichen und somit i.d.R. mehr Geld umsetzen
 - Ursprung in Deutschland
 	- **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabenpool](https://bwinf.de/biber/archiv/)) ⭐
