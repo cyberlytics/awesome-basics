@@ -112,12 +112,12 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Grundlegende Herausforderungen von moderner KI:
 		1. **[Bias](https://www.ibm.com/think/topics/ai-bias)**
 		2. **[Konfabulation](https://de.wikipedia.org/wiki/Konfabulation)** (bei KIs umgangssprachlich auch als **[Halluzination](https://de.wikipedia.org/wiki/Halluzination_(Künstliche_Intelligenz))** bezeichnet)
-		3. **[Sycophancy](https://en.wikipedia.org/wiki/Sycophancy)** (KIs umgangssprachlich auch als **[people pleaser](https://de.wikipedia.org/wiki/People_Pleaser)** bezeichnet), außer der Benutzer wirkt per explizitem Prompt Engineering aktiv dagegen
+		3. **[Sycophancy](https://en.wikipedia.org/wiki/Sycophancy)** (KIs umgangssprachlich auch als **[people pleaser](https://de.wikipedia.org/wiki/People_Pleaser)** bezeichnet): v.a. unbegründete Bestätigung falscher Behauptungen, u.a. wird auch das Vertrauen der Nutzer in falsche bzw. konfabulierte Antworten gestärkt
 	- Weitere Herausforderungen beim Einsatz moderner KI:
 		1. **[AI slop](https://en.wikipedia.org/wiki/AI_slop)**: generierte Medieninhalte niedriger inhaltlicher Qualität
 		2. **Kognitive Atrophie**: KI liefert i.d.R. statistisch geglättete Gesellschaftsintelligenz, diese ist i.d.R. konsensfähig und ggf. gefährlich, wenn dadurch im Einzelfall eine **Erosion der eigenen Urteilskraft** entsteht oder **kritisches Denken verloren** geht
 		3. **[Enshitification](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)** bzw. **[Crapification](https://de.wikipedia.org/wiki/Enshittification)** von Onlinediensten: wachsende Interessensgegensätze zwischen Betreibern und Nutzern
-			- Das people pleasing von oben (Validation/Trust/Engagement over Truth) ist **nicht nur** eine **inhärente** Eigenschaft großer Sprachmodelle, **sondern** auch **explizit verursachtes Phänomen**, weil KI-Betreiber dudurch höhere Verweildauern erreichen und somit i.d.R. mehr Geld umsetzen
+			- Das people pleasing von oben (Validation/Trust/Engagement over Truth) ist **nicht nur** eine **inhärente** Eigenschaft großer Sprachmodelle, **sondern** auch **explizit verursachtes Phänomen**, weil KI-Betreiber dudurch höhere Verweildauern erreichen und somit i.d.R. mehr Geld umsetzen! (Eben weil es auch explizit verursacht ist, kann der Benutzer per explizitem Prompt Engineering aktiv Teilen der [Sycophancy](https://en.wikipedia.org/wiki/Sycophancy) entgegenwirken.)
 - Ursprung in Deutschland
 	- **[Informatik-Biber](https://bwinf.de/biber/)** (bspw. [Aufgabenpool](https://bwinf.de/biber/archiv/)) ⭐
 	- [Calliope Mini](https://calliope.cc/) ([Anleitungen](https://calliopemini.info/), Microsoft [MakeCode](https://makecode.calliope.cc/))
