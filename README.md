@@ -205,7 +205,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Netzwerke
 		- Video [Frag Fred: Wie funktioniert das Internet?](https://www.youtube.com/watch?v=e9FJPnFQWi8)
 		- Kollaborative Lernumgebung WebNetSim: 1) [Leitfaden](https://webnetsim.de/LeitfadenWebNetSim.pdf) lesen, 2) [WebNetSim](https://webnetsim.de) aufrufen
-		- PowerPoint [Energieverbrauch des Internets](https://www.lehrplanplus.bayern.de/sixcms/media.php/71/VV_GY_Inf_11_Energieverbrauch_des_Internets.pptx)
+		- Foliensatz [Energieverbrauch des Internets](https://www.lehrplanplus.bayern.de/sixcms/media.php/71/VV_GY_Inf_11_Energieverbrauch_des_Internets.pptx)
 	- Algo / Graphen
 		- [Algo](https://info-am-gym.de/algo/): Lösung von Problemen mit Hilfe von Algorithmen
 		- [Listen/Bäume/Graphen](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Faecher/Informatik/Handreichungen/Informatik_11/informatik-11-hr.pdf)
@@ -305,7 +305,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Druckauflösung: [PPI vs DPI: Demystifying the World of Online and Print Resolution](https://www.shutterstock.com/blog/ppi-vs-dpi-resolution-guide)
 	- RGB vs. CMYK: [Introduction to Color Management for Printing: How to Switch from RGB to CMYK](https://www.clipstudio.net/how-to-draw/archives/156866)
 - Gute Präsentationen halten? Buch (€) [Präsentieren können: Das neue Handbuch für authentische Präsentationen](http://www.amazon.de/dp/3836292912/)
-- PowerPoint-Kenntnisse: **[PowerPoint](https://edu.gcfglobal.org/en/powerpoint/)** (insb. ändern der Kopf- und Fußzeile sowie Ansicht Folienmaster) ⭐
+- PowerPoint-Kenntnisse: **[PowerPoint Foundations](https://edu.gcfglobal.org/en/powerpoint/)** (insb. ändern der Kopf- und Fußzeile sowie Ansicht Folienmaster) ⭐
 	- **[Tastaturkürzel](https://www.presentationload.de/blog/powerpoint-shortcuts/)** (mind. **F5** und **Shift-F5**⭐ sowie das **numerische Springen zu einer Foliennummer**)
 	- Grundkenntnisse zur eingebauten **AutoKorrektur** (z.B. Eingabe von "==>" wird zu "➜" transformiert)
 	- zzgl. [Editier-**Tastaturkürzel und Maus**-Kombinationen](https://www.ionos.de/digitalguide/online-marketing/verkaufen-im-internet/powerpoint-shortcuts/)
@@ -2407,7 +2407,7 @@ Internet Ikonen:
 \[bspw. im Rahmen einer chinesischen Gastprofessur\]
 
 - iPhone ist besser als ein Android (Stand 2025, u.a. wegen Sperrungen)
-- Chinesische Apps
+- Chinesische Mobile Apps
 	- (Anmerkung: Suche nach App mit lateinischen Buchstaben möglich, Apps selbst i.d.R. mit chinesischen Symbolen im Logo und ggf. auch in der Betitelung)
 	- **WeChat**: wie WhatsApp, aber gesellschaftlich viel integrierter, bspw. auch zum Bezahlen auf der Straße, bspw. verknüpft mit AliPay
 	- **AliPay**: wie PayPal, aber gesellschaftlich viel integrierter
@@ -2419,6 +2419,12 @@ Internet Ikonen:
 	- **12306**: wie die Bahn (wirklich gute App!)
 	- **Dianping**: wie TripAdvisor, um Restaurants zu finden und zu reservieren
 	- **China Mobile**: falls man von China Mobile die SIM-Karte hat
+- Chinesische Web Apps
+	- **[Dola AI](https://www.dola.com/chat/)**: internationale LLM-Variante von [Doubao](https://www.doubao.com/chat/)
+	- **[Belin Doc](https://belindoc.com/)**: kostenlose Dokumentübersetzung, Layout-getreu (PDF, DOCX, PPTX, ...)
+- Chinesische Desktop Apps
+	- **[WPS Office](https://www.wps.com/)**: wie Microsoft Office
+	- **[SwifDoo PDF](https://www.swifdoo.com/)**: internationale PDF-Editor-Variante von [Xun du PDF](https://pdfxd.com/)
 - Internationale Apps:
 	- eSIM:
 		- Datentarife: [Holafly](https://esim.holafly.com/) (ohne Volumenbegrenzung; ca. €50 für 14d)
@@ -2447,7 +2453,7 @@ Internet Ikonen:
 - (€:) Wissenschaftliche Magazine: [Communications of the ACM (**CACM**)](https://dl.acm.org/magazine/cacm), **[Informatik Spektrum](https://dl.gi.de/handle/20.500.12116/26)**, …
 - Big Data und Cloud-Computing für KI: [Datafloq](https://datafloq.com) | [Data Science Central](https://www.datasciencecentral.com) | [Machine Learning Mastery](https://machinelearningmastery.com/blog/) | [Distill](https://distill.pub) | [High Scalability](http://highscalability.com/) | … | **[Unstatistik des Monats](https://www.rwi-essen.de/presse/wissenschaftskommunikation/unstatistik)** ⚠️
 - DevOps: **[Admin Magazine](https://www.admin-magazine.com/News)**, **[IT-Administrator](https://www.admin-magazin.de/News)**, **[DevOps Cube](https://devopscube.com/)**, [**DevOps**.com](https://devops.com/), **[DZone DevOps](https://dzone.com/devops-tutorials-tools-news)**, …
-- KI: [**Metaculus** Forecasts/Predictions](https://www.metaculus.com/home/), [**MIT News**: AI](https://news.mit.edu/topic/artificial-intelligence2), [**WIRED**: AI](https://www.wired.com/tag/artificial-intelligence/), …, [**Denny**’s Blog](https://dennybritz.com/), **[arg min](https://www.argmin.net/)**, …
+- KI: [**ApX Machinel Learning**](https://apxml.com/posts), [**Metaculus** Forecasts/Predictions](https://www.metaculus.com/home/), [**MIT News**: AI](https://news.mit.edu/topic/artificial-intelligence2), [**WIRED**: AI](https://www.wired.com/tag/artificial-intelligence/), …, [**Denny**’s Blog](https://dennybritz.com/), **[arg min](https://www.argmin.net/)**, …
 - IT-Security/Cloud Security: [**The Daily Swig** – Data Breach News](https://portswigger.net/daily-swig/data-breach), [infosec writeups](https://infosecwriteups.com/), [Pentester Academy Blog](https://blog.pentesteracademy.com/)
 - User Experience: [Jakob Nielsen](https://www.nngroup.com/topic/psychology-and-ux/), [IDEO](https://www.ideo.com/thinking)
 - Agile: **[Mike Cohn](https://www.mountaingoatsoftware.com/blog)**
