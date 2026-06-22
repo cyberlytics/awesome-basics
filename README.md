@@ -471,9 +471,12 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 	- Word für Fortgeschrittene: [LearnFree.org **Word Tips**](https://edu.gcfglobal.org/en/word-tips/) | [Microsoft **Word for Windows training**](https://support.microsoft.com/en-us/office/word-for-windows-training-7bcd85e6-2c3d-4c3c-a2a5-5ed8847eae73)
 - Open Science
 	- Zitierbare Software? **[Zenodo](https://about.zenodo.org/)** oder [citation.**cff**-Dateien](https://citation-file-format.GitHub.io/)
-- Paper Submission? [International Conference on **Cloud Computing**, GRIDs, and Virtualization](https://www.iaria.org/conferences/CLOUDCOMPUTING.html)
-	- Eine Research Community auch für studentische Publikationen; explizit beginnerfreundlich
-	- Es gibt ein LaTeX-Vorlage von mir: **[iaria.cls](https://ctan.org/pkg/iaria)** (vollständige IARIA [formating](https://www.overleaf.com/latex/templates/iaria/hxyjztwvpjkf) rules, allerdings nur pdflatex+biber, dafür inkl. IARIA citation style) und **[iaria-lite.cls](https://ctan.org/pkg/iaria-lite)** (mit den meisten der IARIA formatting rules, dafür beliebiges tex-Tooling, aber beim citation formatting nur mit IEEE-style und ohne IARIA-style) sowie ein Overleaf-Template als [Minimal Working Example (MWE)](https://www.overleaf.com/project/6603e95f2a0ded628482ed78)
+- Paper Submission?
+	- Conference (Int'l Peer-rev'd): [International Conference on **Cloud Computing**, GRIDs, and Virtualization](https://www.iaria.org/conferences/CLOUDCOMPUTING.html)
+		- Eine Research Community auch für studentische Publikationen; explizit Beginner-friendly & Industry-friendly
+		- Es gibt ein LaTeX-Vorlage von mir: **[iaria.cls](https://ctan.org/pkg/iaria)** (vollständige IARIA [formating](https://www.overleaf.com/latex/templates/iaria/hxyjztwvpjkf) rules, allerdings nur pdflatex+biber, dafür inkl. IARIA citation style) und **[iaria-lite.cls](https://ctan.org/pkg/iaria-lite)** (mit den meisten der IARIA formatting rules, dafür beliebiges tex-Tooling, aber beim citation formatting nur mit IEEE-style und ohne IARIA-style) sowie ein Overleaf-Template als [Minimal Working Example (MWE)](https://www.overleaf.com/project/6603e95f2a0ded628482ed78)
+	- Journal (Int'l Peer-rev'd): [IEEE Access](https://ieeeaccess.ieee.org/) ([Beispiel](https://ieeexplore.ieee.org/document/10648683/)), [IntechOpen](https://www.intechopen.com/journals) ([Beispiel](https://www.intechopen.com/chapters/1195342))
+	- MINT-Hochschuldidaktik (DE Peer-rev'd): [MINT-Symposium](https://mint-symposium.de/) ([Beispiel](https://doi.org/10.57825/repo_in-6449))
 
 ### Handwerkszeug: Getting Sh\*t Done
 
@@ -1172,15 +1175,19 @@ Werkzeuge:
 	- Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
 	- Weiterführende Quellen: siehe [Master-Abschnitt](#msc-big-data-and-cloud-computing-for-ai)
 - Generative AI / LLMs:
-	- Einstieg GAN: [**Generative Adversarial Networks**: Build Your First Models](https://realpython.com/generative-adversarial-networks/) | [Tensorflow GAN](https://www.tensorflow.org/tutorials/generative/dcgan) | Google Course [GAN](https://developers.google.com/machine-learning/gan)
-	- Einstieg LLM: [What are Large Language Models](https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/)
-	- Für Non-Technical Persons:
-		- Webartikel [A jargon-free explanation of how AI large language models work](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
+	- Für Non-Technical Persons (⭐):
+		- Webartikel [A jargon-free explanation of **how AI large language models work**](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/) ⭐
 		- Podcast [State of Process Automation](https://www.stateofprocessautomation.com/) mit Folge [145 „**Generative KI im Mittelstand**“](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZWMwMDhjMC9wb2RjYXN0L3Jzcw/episode/M2M4ZDhmZDMtMThlNS00ODYwLWJhZmEtMDhjZmM0MWFiNjUy)
 		- Zur Leistungsfähigkeit von LLMs: [A **GPT-4 Capability** Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris) ⭐
 	- Einstieg für Technical Persons:
-		- Webartikel [What are **Large Language Models** (LLMs)?](https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/)
+		- Einstieg LLM = Large Language Models ⭐:
+			- [How to Build ChatGPT From Scratch: **Understanding LLMs Step by Step**](https://nextweekai.com/blog/build-chatgpt-from-scratch-guide/) ⭐
+			- **[What are Large Language Models](https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/)** ⭐
 		- Videokurs freeCodeCamp [Learn Generative AI for Developers](https://www.freecodecamp.org/news/learn-generative-ai-for-developers/)
+		- Einstieg GAN = Generative Adversarial Networks:
+			- Einordnung: GANs vor den Transformern; Bilder erzeugen; Methodisch: Generator vs. Discriminator; GANs sind **nicht** Teil der GPTs
+			- [**Generative Adversarial Networks**: Build Your First Models](https://realpython.com/generative-adversarial-networks/) | [Tensorflow GAN](https://www.tensorflow.org/tutorials/generative/dcgan)
+			- Google Course [GAN](https://developers.google.com/machine-learning/gan)
 	- Chatbot (Text-to-Text):
 		- Einstieg: KDnuggets [ChatGPT: Everything You **Need to Know**](https://www.kdnuggets.com/2023/01/chatgpt-everything-need-know.html) | KDnuggets [ChatGPT as a **Python Programming Assistant**](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html)
 		- Webartikel: **[GPT-3's family tree](https://www.truthm.com/gpt-3s-family-tree/)** | Paper **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** (2017) von Vasvani et al. (auch als das [**Transformer**-Paper von Google](https://arxiv.org/abs/1706.03762) bekannt)
@@ -1216,6 +1223,7 @@ Werkzeuge:
 			- Begriff: [Andrej Karpathy](https://x.com/karpathy/status/1886192184808149383) (Feb. 2025)
 			- Technik: "[Cursor](https://www.cursor.com/) [Composer](https://cursor101.com/article/cursor-composer) (i.e., multi-file editing), backed with Claude [Sonnet](https://www.anthropic.com/claude/sonnet)" (insb. wegen Claude Sonnets großem Kontextfenster von 200K+)
 		- Video [The End of Software Engineering (as we know it)](https://www.youtube.com/watch?v=j0XukGlEUTc) von Jan Bosch (zzgl. [blog article](https://janbosch.com/blog/index.php/2017/10/06/the-end-of-system-architects/))
+		- State-of-the-Art: [AI Unified Process](https://unifiedprocess.ai/) (Einstieg: [software-architektur.tv](https://software-architektur.tv/2026/01/16/folge298.html), [Video](https://tube.tchncs.de/w/mUmkL5mEFzYXD8dY4ixrTY)) mit Querbezug zu [Self-contained Systems](https://scs-architecture.org/) (SCS) von Innoq
 	- Prompting Recipies / Prompt-Katalog / Prompts Directory:
 		- Cheat Sheets: [20 ChatGPT Prompts](https://images.app.goo.gl/7LqXi96XaQABWpRY6), [All-in-one AI Cheat Sheet](https://images.app.goo.gl/uvfr5XsuUdHD2gRYA), [Prompt Engineering Mistakes](https://images.app.goo.gl/ANUTJHrRc6QzM1ak6)
 			- Edu: Ulrich Ivens [Effektives Prompting in der Pädagogik](https://promptkatalog.eldshort.de/prompten.html)
@@ -1364,6 +1372,7 @@ Werkzeuge:
 		- „[If you pay **peanuts**, you get **monkeys**](https://en.m.wiktionary.org/wiki/if_you_pay_peanuts,_you_get_monkeys)“
 		- „[**As hire As** and **Bs hire Cs**](https://www.youtube.com/watch?v=XhuEjXZIK6M)“
 		- „[**people who struggle to code** don’t just struggle on big problems](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/), or even smallish problems (i.e. write a implementation of a linked list). They struggle with tiny problems. \[like FizzBuzz\]“ (vgl. auch [Why Can't Programmers.. Program?](https://blog.codinghorror.com/why-cant-programmers-program/) von Coding Horror)
+		- Obacht vor „high-maintenance employees“ (= a person who requires a disproportionate amount of manager and coworker time, energy, and resources to function)
 - Bewerbungsunterlagen
 	- Lebenslauf: (€) [Bücher](https://www.amazon.de/s?k=bewerbungsmappe&i=stripbooks), bspw. von [Püttjer & Schnierda](https://www.amazon.de/s?k=P%C3%BCttjer+Schnierda) oder [Hesse & Schrader](https://www.amazon.de/s?k=hesse+schrader+bewerbung)
 		- Lebenslauf-Werkzeuge für Informatiker: vgl. [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#job-bewerbungen)
