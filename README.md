@@ -371,7 +371,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 ### Handwerkszeug
 
-- Werkzeug-Basiswissen: [**MIT**'s The **Missing Semester** of Your CS Education](https://missing.csail.mit.edu/) ⭐
+- Werkzeug-Basiswissen: [**MIT**'s The **Missing Semester** of Your CS Education](https://missing.csail.mit.edu/) ([Videos](https://www.youtube.com/@MissingSemester)) ⭐
 - Lernen Sie **10-Finger-schreiben** ⭐
 	- (am besten jetzt nicht mehr mit QWERTZ-/QUERTY-basiertem 10-Finger-System anfangen, sondern gleich [Dvorak](https://de.wikipedia.org/wiki/Dvorak-Tastaturbelegung) \[EN\] oder [Neo](<https://de.wikipedia.org/wiki/Neo_(Tastaturbelegung)>) \[DE\] lernen)
 	- Schauen Sie auf meine **[Tools](https://github.com/cyberlytics/awesome-thesis-tools#schreiben)**-Seite zwecks Typing Tutor Software
