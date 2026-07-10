@@ -1235,6 +1235,7 @@ Werkzeuge:
 		- Text-to-Image Kataloge: [PromptHero](https://prompthero.com/ai-prompts), [chatgptprompt.in](https://chatgptprompt.in/)
 		- Text-to-Video Kataloge: [PromptHero](https://prompthero.com/video), [chatgptprompt.in](https://chatgptprompt.in/prompts?category=video)
 		- Vibe Coding Kataloge: [loveable](https://docs.lovable.dev/prompting/prompting-library), [cursor.directory](https://cursor.directory/rules), Examples by [VibeCodex](https://vibecodex.io/#prompts)
+	- System Prompts: [System Prompts Leaks](https://github.com/asgeirtj/system_prompts_leaks)
 	- Weiterführende Quellen: [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | reddit-Liste [Useful Prompt Engineering tools and resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) | lablab [AI Tutorials](https://lablab.ai/t) | [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
 - Robotik
 	- Umfassende Referenzen:
@@ -2307,6 +2308,8 @@ Internet Ikonen:
 - Recht
 	- (€:) Buch [**Hochschulrecht im Freistaat Bayern**: Ein Handbuch für Wissenschaft und Praxis](https://www.amazon.de/dp/3811440683/) (2017) ⭐ von Max-Emanuel Geis (Hrsg.)
 - Lehre
+	- State-of-the-Art beim Spicken/Unterschleif: [SpySchool](https://www.spyschool.de/)
+		- Gegenmaßnahme Faraday-Box: [signalblockierende Handytaschen](https://www.betzold.de/prod/E_775252/) (10x für 100,-), [signalblockierende Handybox mit Tragegriff ](https://toyacademy.de/signalblockierende-handybox-mit-tragegriff-1270-82115) (16x für 130,-), [Tresor-artiger Klassenzimmer-Faraday-Schrank](https://www.betzold.de/prod/776656/) (30x für 430,-) / noch billiger aber nicht per se zur HF-Abschirmung: [Alu-Transportbox](https://www.amazon.de/dp/B082WBWJWG)
 	- Lehrmethoden: (€:)
 		- Kartenset **[Methoden to go](https://constructif.de/lehrideen/methoden-to-go/)** von constructif ⭐
 			- Sowie deren **[Methodenpool](https://constructif.de/lehrideen/methodenpool/)** und [**Kognitive Landkarte** als visualisierte Wissensnetze](https://constructif.de/wp-content/uploads/2021/03/constructif-konfigurator-Struktur-768x442.jpg.webp)
@@ -2419,6 +2422,7 @@ Internet Ikonen:
 - Chinesische Mobile Apps
 	- (Anmerkung: Suche nach App mit lateinischen Buchstaben möglich, Apps selbst i.d.R. mit chinesischen Symbolen im Logo und ggf. auch in der Betitelung)
 	- **WeChat**: wie WhatsApp, aber gesellschaftlich viel integrierter, bspw. auch zum Bezahlen auf der Straße, bspw. verknüpft mit AliPay
+		- Nützlich für Dateitransfers: [WeChat für Windows](https://pc.weixin.qq.com/?lang=en_US) / [WeChat für macOS](https://apps.apple.com/de/app/wechat/id836500024) / [WeChat für Linux](https://linux.weixin.qq.com/en)
 	- **AliPay**: wie PayPal, aber gesellschaftlich viel integrierter
 	- **Didi**: Taxi App
 	- **Gaode**: wie Google Maps, aber in chinesischen Städten viel präziser
@@ -2438,7 +2442,8 @@ Internet Ikonen:
 	- eSIM:
 		- Datentarife: [Holafly](https://esim.holafly.com/) (ohne Volumenbegrenzung; ca. €50 für 14d)
 		- Telefontarife: lieber eine chinesische SIM vor Ort kaufen
-	- **WISE**: ggf. für internationalen Geldtransfer
+	- **WISE**: ggf. für internationalen Geldtransfer ⭐
+		- Benötigte Anleitungen ⭐: [Funding your transfer from China](https://wise.com/public-resources/assets/asia/cny/pay-in/payin_guide.pdf) für Inländischen Transfer von chinesischen Bankkonten zu einem WISE-Konto, mit Screenshot-Guides
 	- **Trip.com**: ggf. für Flugbuchungen (oder über Airlines direkt)
 - Stromadapter: [**Typ I** (dreipolig)](https://www.amazon.de/s?k=stromadapter+china)
 	- bspw. von Tessan oder Brennenstuhl, bzw. auch die sehr teuren schweizer SKROSS
