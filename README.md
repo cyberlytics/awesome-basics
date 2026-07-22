@@ -17,7 +17,7 @@ Dies ist mein digitaler Ressourcen-Pool für Informatik/KI. Entstanden an der [O
 
 Die folgenden Listen enthalten **kostenlose** Online-**Materialien** sowie ausgewählte **Bücher**, letztere als kostenpflichtig/„(€)“ markiert aber auch per Bibliothek beziehbar. Diese Lernmaterialien dienen dem **Selbststudium** und zum Ausgleich von **heterogenen Vorkenntnissen**. Die kostenlosen Lernmaterialien sind nicht immer Best-in-Class im Vergleich zu kostenpflichtigen Alternativen, dennoch bleiben kostenpflichtige Angebote hier meist Out-of-Scope. Im Zweifelsfall ist die Auswahl subjektiv gefärbt durch mein Lehrgebiet „Big Data und Cloud-Computing für KI“.
 
-Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeuge » Abschlussarbeiten](https://github.com/cyberlytics/awesome-thesis-tools), [Werkzeuge » Software-Engineering](https://github.com/cyberlytics/awesome-software-engineering-tools) und [Werkzeuge » BDCC/AI](https://github.com/cyberlytics/awesome-bdccai-tools).
+Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeuge » Abschlussarbeiten](https://github.com/cyberlytics/awesome-thesis-tools), [Werkzeuge » Software-Engineering](https://github.com/cyberlytics/awesome-software-engineering-tools), [Werkzeuge » BDCC/AI](https://github.com/cyberlytics/awesome-bdccai-tools) und [Agentic Engineering](https://github.com/cyberlytics/awesome-6GL).
 
 **Table of Contents**
 
@@ -285,14 +285,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeug
 
 \[ Für jeden und vor jedem Studiengang \]
 
-- Nützliche Glaubenssätze:
-	- „Vertraue nicht auf Talent, vertraue auf Fleiß.“ → Erfolg im Studium basiert meist auf Ausdauer, nicht Genialität
-	- „Ich lerne für mich, nicht für die Prüfungen.“ → Fokus auf nachhaltiges Wissen statt kurzfristiges Bulimie-Lernen
-	- „Fragen zu stellen ist ein Zeichen von Stärke, nicht Schwäche.“ → Neugier ist der Treibstoff echter Bildung
-	- „Kleine Schritte führen weiter als große Vorsätze.“ → Täglich 30 Minuten sind besser als einmal im Monat 10 Stunden
-	- „Ich bin nicht allein – viele kämpfen mit denselben Herausforderungen.“ → Austausch und Gemeinschaft helfen mehr als Einzelkämpfertum (Lerngruppen!)
-	- „Google ist kein Ersatz für Verstehen – aber ein guter Anfang.“ → Recherchieren ist eine Kompetenz, kein Trick \[Obacht: Internet teils digitale Müllhalde\]
-	- „Ein Chatbot als KI-Lerntutor ist kein Ersatz für Verstehen – aber ein guter Anfang.“ → Prompting ist eine Kompetenz, kein Trick \[Obacht: LLMs teils mit Halluzinationen und Bias\] (Recherche für Faktencheck weiterhin benötigt)
+- Nützliche Glaubenssätze: siehe Schwesterseite [awesome-6GL » Agentic Education Manifest](https://github.com/cyberlytics/awesome-6GL#agentic-education-manifest)
 - Computer-Allgemeinwissen: [**Einführungsartikel** zu Windows, macOS und Linux](https://www.freecodecamp.org/news/an-introduction-to-operating-systems/)
 	- Windows-Allgemeinwissen: [**Windows** Basics](https://edu.gcfglobal.org/en/windowsbasics/) | [Windows **Explorer & Files**](https://edu.gcfglobal.org/en/windowsbasics/working-with-files/1/)
 	- Linux-Allgemeinwissen: [**Linux** Basics](https://www.makeuseof.com/tag/linux-beginners-guide/) | freeCodeCamp [Linux **Command-Line**](https://www.freecodecamp.org/news/command-line-for-beginners/) | Buch [The Linux Command Line](https://www.linuxcommand.org/tlcl.php) by William Shotts
@@ -1175,68 +1168,9 @@ Werkzeuge:
 	- Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
 	- Weiterführende Quellen: siehe [Master-Abschnitt](#msc-big-data-and-cloud-computing-for-ai)
 - Generative AI / LLMs:
-	- Für Non-Technical Persons (⭐):
-		- Webartikel [A jargon-free explanation of **how AI large language models work**](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/) ⭐
-		- Podcast [State of Process Automation](https://www.stateofprocessautomation.com/) mit Folge [145 „**Generative KI im Mittelstand**“](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZWMwMDhjMC9wb2RjYXN0L3Jzcw/episode/M2M4ZDhmZDMtMThlNS00ODYwLWJhZmEtMDhjZmM0MWFiNjUy)
-		- Zur Leistungsfähigkeit von LLMs: [A **GPT-4 Capability** Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris) ⭐
-	- Einstieg für Technical Persons:
-		- Einstieg LLM = Large Language Models ⭐:
-			- [How to Build ChatGPT From Scratch: **Understanding LLMs Step by Step**](https://nextweekai.com/blog/build-chatgpt-from-scratch-guide/) ⭐
-			- **[What are Large Language Models](https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/)** ⭐
-		- Videokurs freeCodeCamp [Learn Generative AI for Developers](https://www.freecodecamp.org/news/learn-generative-ai-for-developers/)
-		- Einstieg GAN = Generative Adversarial Networks:
-			- Einordnung: GANs vor den Transformern; Bilder erzeugen; Methodisch: Generator vs. Discriminator; GANs sind **nicht** Teil der GPTs
-			- [**Generative Adversarial Networks**: Build Your First Models](https://realpython.com/generative-adversarial-networks/) | [Tensorflow GAN](https://www.tensorflow.org/tutorials/generative/dcgan)
-			- Google Course [GAN](https://developers.google.com/machine-learning/gan)
-	- Chatbot (Text-to-Text):
-		- Einstieg: KDnuggets [ChatGPT: Everything You **Need to Know**](https://www.kdnuggets.com/2023/01/chatgpt-everything-need-know.html) | KDnuggets [ChatGPT as a **Python Programming Assistant**](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html)
-		- Webartikel: **[GPT-3's family tree](https://www.truthm.com/gpt-3s-family-tree/)** | Paper **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** (2017) von Vasvani et al. (auch als das [**Transformer**-Paper von Google](https://arxiv.org/abs/1706.03762) bekannt)
-		- Milestone Papers: [Liste per Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM#milestone-papers)
-		- Nennenswerte Webartikel: Leseliste per [Great thoughts about LLM](https://github.com/Hannibal046/Awesome-LLM#great-thoughts-about-llm)
-		- Unsensored Models:
-			- Methode "uncensoring": von [Eric Hartford](https://erichartford.com/uncensored-models) (on [ollama](https://ollama.com/search?q=Eric%20Hartford))
-			- Methode "abliteration": von [Arditi et al.](https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction), zzgl. [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration), auch für Text-to-Image ([am Bsp. Flux.1](https://medium.com/@aloshdenny/uncensoring-flux-1-dev-abliteration-bdeb41c68dff))
-			- Models in HuggingFace: ["eric hartford"](https://huggingface.co/search/full-text?q=eric+hartford&type=model), ["abliterate"](https://huggingface.co/search/full-text?q=abliterate&type=model), ["unsensored"](https://huggingface.co/search/full-text?q=_uncensored&type=model)
-		- Zulässigkeit von Generative AI als Werkzeug zur Erstellung wiss. Publikationen? vgl. **[ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship)**
-		- **LLM-Evaluation**: [LLM Evaluation Metrics: The Ultimate LLM Evaluation Guide](https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)
-		- Text-to-Code: [Top Open Source (Free) Text to Code Generator models on the market](https://www.edenai.co/post/top-free-code-generation-tools-apis-and-open-source-models)
-		- Weiterführende Referenz: [Awesome OpenAI](https://github.com/Jaykef/awesome-openAI)
-	- Image Generator: [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
-	- Tools für Text-to-X: auf meiner [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#generative-ki) (Text-zu-Bild, Text-zu-Video, Text-zu-Präsentation, Text-zu-Quiz, Text-zu-Sprache, Text-zu-Sound)
-	- Europäische Ebene: **[LEAM](https://leam.ai/)**
-	- Datensets: vgl. [Tools-Seite BDCC, Abschnitt Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)
-	- Weiterführende Quellen: [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) | [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art), [Awesome MVS](https://github.com/walsvid/Awesome-MVS)
-- Prompt Engineering: [Google Prompting Essentials](https://www.coursera.org/learn/google-prompting-essentials)
-	- ChatBot/Text-zu-Text:
-		- Einstieg: [Prompt Engineering 101 - Introduction and resources](https://www.linkedin.com/pulse/prompt-engineering-101-introduction-resources-amatriain) | [Prompt Engineering 101](https://humanloop.com/blog/prompt-engineering-101) | roadmap.sh [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
-		- Use Cases: [The 14 Best ChatGPT Prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-GitHub/) (2023) von J. Luansing
-		- Data Science: KDnuggets [ChatGPT-**for-Data-Science**-Cheatsheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_for_Data_Science_Cheat_Sheet_KDnuggets.pdf), KDnuggets [ChatGPT-**Cheatsheet**](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
-		- IT-Security: [ChatGPT4 – Potential Scenarios For Accelerated Cybercrime](https://blog.checkpoint.com/2023/03/15/check-point-research-conducts-initial-security-analysis-of-chatgpt4-highlighting-potential-scenarios-for-accelerated-cybercrime/)
-	- Text-zu-Bild: [The Ultimate **Stable Diffusion Prompt Guide**](https://prompthero.com/stable-diffusion-prompt-guide) von PromptHero | [Prompting **Adobe Firefly**](https://torybarber.com/prompting-adobe-firefly/) (2023) von Tory Barber
-		- Webartikel [How to Use ChatGPT to Write Prompts & Prompt Templates for Adobe Firefly & Midjourney](https://www.downloadsource.net/how-to-use-chatgpt-to-write-prompts-prompt-templates-for-adobe-firefly-midjourney/n/22511/) (2023) von Jascha Luca | analog [Adobe Firefly prompt generator](https://flowgpt.com/prompt/UjVmU4bSLor1cpBxx5veq) Vorlage für GPT
-	- Agentic:
-		- OpenAI [Chain of Command](https://model-spec.openai.com/)
-			- Levels of authority: Root » System Prompt » Developer Prompt » User Prompt » Guideline Prompt » Message Prompt
-			- AI Agent Levels of Authority: Instruction Prompt » Message Prompt (however: agent instructions are also known as agent system prompt!)
-	- Vibe Coding:
-		- Wegbereiter:
-			- Begriff: [Andrej Karpathy](https://x.com/karpathy/status/1886192184808149383) (Feb. 2025)
-			- Technik: "[Cursor](https://www.cursor.com/) [Composer](https://cursor101.com/article/cursor-composer) (i.e., multi-file editing), backed with Claude [Sonnet](https://www.anthropic.com/claude/sonnet)" (insb. wegen Claude Sonnets großem Kontextfenster von 200K+)
-		- Video [The End of Software Engineering (as we know it)](https://www.youtube.com/watch?v=j0XukGlEUTc) von Jan Bosch (zzgl. [blog article](https://janbosch.com/blog/index.php/2017/10/06/the-end-of-system-architects/))
-		- State-of-the-Art: [AI Unified Process](https://unifiedprocess.ai/) (Einstieg: [software-architektur.tv](https://software-architektur.tv/2026/01/16/folge298.html), [Video](https://tube.tchncs.de/w/mUmkL5mEFzYXD8dY4ixrTY)) mit Querbezug zu [Self-contained Systems](https://scs-architecture.org/) (SCS) von Innoq
-	- Prompting Recipies / Prompt-Katalog / Prompts Directory:
-		- Cheat Sheets: [20 ChatGPT Prompts](https://images.app.goo.gl/7LqXi96XaQABWpRY6), [All-in-one AI Cheat Sheet](https://images.app.goo.gl/uvfr5XsuUdHD2gRYA), [Prompt Engineering Mistakes](https://images.app.goo.gl/ANUTJHrRc6QzM1ak6)
-			- Edu: Ulrich Ivens [Effektives Prompting in der Pädagogik](https://promptkatalog.eldshort.de/prompten.html)
-		- ChatBot/Text-to-Text Kataloge:
-			- Free/Open: [prompts.chat](https://prompts.chat/), [Agentic Workers](https://www.agenticworkers.com/library), GPTBot [Prompts Library](https://gptbot.io/chatgpt-prompts), Alexandria [Propmt Library](https://aiexandria.com/), Temaniaga [Prompt Hub for Business](https://www.temaniaga.com/apps/ai-prompt-hub/), [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
-			- Commercial (€): [GodOfPrompt](https://www.godofprompt.ai/prompt-library), [Business Prompts](https://businessaiprompts.com/PromptLibrary)
-			- Vendors: OpenAI [Cookbook](https://cookbook.openai.com/), Microsoft [Copilot Promptkatalog](https://m365.cloud.microsoft/copilot-prompts)
-			- Edu: [KI-Campus Prompt-Katalog](https://coda.io/@kic/prompt-katalog), [Josh Cavalier](https://joshcavalier.notion.site/), [Microsoft Prompts for Edu](https://github.com/microsoft/prompts-for-edu)
-		- Text-to-Image Kataloge: [PromptHero](https://prompthero.com/ai-prompts), [chatgptprompt.in](https://chatgptprompt.in/)
-		- Text-to-Video Kataloge: [PromptHero](https://prompthero.com/video), [chatgptprompt.in](https://chatgptprompt.in/prompts?category=video)
-		- Vibe Coding Kataloge: [loveable](https://docs.lovable.dev/prompting/prompting-library), [cursor.directory](https://cursor.directory/rules), Examples by [VibeCodex](https://vibecodex.io/#prompts)
-	- System Prompts: [System Prompts Leaks](https://github.com/asgeirtj/system_prompts_leaks)
-	- Weiterführende Quellen: [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | reddit-Liste [Useful Prompt Engineering tools and resources](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/) | lablab [AI Tutorials](https://lablab.ai/t) | [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
+	- siehe Schwesterseite [awesome-6GL » Lernmaterialien](https://github.com/cyberlytics/awesome-6GL#lernmaterialien)
+- Prompt Engineering:
+	- siehe Schwesterseite [awesome-6GL » Lernmaterialien](https://github.com/cyberlytics/awesome-6GL#lernmaterialien)
 - Robotik
 	- Umfassende Referenzen:
 		- Buch (€€) Springer **[Handbook of Robotics](https://www.amazon.de/dp/3319325507/)** (2016) von Sicilano & Khatib \[EN\] ⭐
