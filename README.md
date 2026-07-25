@@ -17,7 +17,7 @@ Dies ist mein digitaler Ressourcen-Pool für Informatik/KI. Entstanden an der [O
 
 Die folgenden Listen enthalten **kostenlose** Online-**Materialien** sowie ausgewählte **Bücher**, letztere als kostenpflichtig/„(€)“ markiert aber auch per Bibliothek beziehbar. Diese Lernmaterialien dienen dem **Selbststudium** und zum Ausgleich von **heterogenen Vorkenntnissen**. Die kostenlosen Lernmaterialien sind nicht immer Best-in-Class im Vergleich zu kostenpflichtigen Alternativen, dennoch bleiben kostenpflichtige Angebote hier meist Out-of-Scope. Im Zweifelsfall ist die Auswahl subjektiv gefärbt durch mein Lehrgebiet „Big Data und Cloud-Computing für KI“.
 
-Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeuge » Abschlussarbeiten](https://github.com/cyberlytics/awesome-thesis-tools), [Werkzeuge » Software-Engineering](https://github.com/cyberlytics/awesome-software-engineering-tools), [Werkzeuge » BDCC/AI](https://github.com/cyberlytics/awesome-bdccai-tools) und [Agentic Engineering](https://github.com/cyberlytics/awesome-6GL).
+Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Werkzeuge » Abschlussarbeiten](https://github.com/cyberlytics/awesome-thesis-tools), [Werkzeuge » Software-Engineering](https://github.com/cyberlytics/awesome-software-engineering-tools), [Werkzeuge » Big Data und Cloud Computing für AI](https://github.com/cyberlytics/awesome-bdccai-tools) und [Agentic Engineering](https://github.com/cyberlytics/awesome-6GL).
 
 **Table of Contents**
 
