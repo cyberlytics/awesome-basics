@@ -72,6 +72,8 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Schulisc
 
 \[ Vor einem Masterstudium (Informatik/KI) / Zum Ausgleich **heterogener Vorkenntnisse aus dem Bachelorstudium**. \]
 
+**Vorwort Abschlussarbeiten**: Mittlerweile sind auch die zugehörigen Lernmaterialien für Abschlussarbeiten auf der Schwesterseite [Abschlussarbeiten Informatik/KI](https://github.com/cyberlytics/awesome-thesis-tools)
+
 ### Fundament
 
 - (€:) Das **[Informatik-Handbuch](https://www.amazon.de/dp/3446401857)** (2006) von Peter Rechenberg & Gustav Pomberger (Hrsg.) ⭐
@@ -572,6 +574,19 @@ Werkzeuge:
 			- Fog: Bonomi et al. beschrieb Fog Computing in ACM SIGCOMM 2012 Publikation: [Fog computing and its role in the internet of things](https://doi.org/10.1145%2F2342509.2342513)
 			- Edge: Karim Arabi beschrieb Edge Computing in einer [IEEE DAC 2014 Keynote](https://web.archive.org/web/20200730234708/http://www2.dac.com/events/videoarchive.aspx?confid=170&filter=keynote&id=170-103--0&#video) (relativ allgemein und nur in Gegenüberstellung zur Cloud)
 			- Webartikel [What is **Edge Computing**: The Network Edge Explained](https://www.cloudwards.net/what-is-edge-computing/) (2018) von Eric Hamilton („The network edge depends on use case. It could be a cell tower, a smartphone, an IoT device or a self-driving car.“ Oder **[CDNs](https://people.cs.umass.edu/~ramesh/Site/PUBLICATIONS_files/DMPPSW02.pdf)** wie Akamai oder Cloudflare, etc. pp.)
+- CyberSpace / Metaverse
+	- AR/VR:
+		- Eindordnungsskizze:
+			- Audio: Atmos, DTS:X, Ambisonics, Spatial Audio, 5.4/7.4/...-Surround-Formate, Mehrkanal-FLAC, ...
+			- Video: BD3D/MVC, VR180/VR360, stereoskopische Kameras, 360-Grad-Action-Kameras (ggf. in Verbindung mit Drohen)
+			- App-Dev: OpenXR/OpenVR, API vs. Runtime, SteamVR, Tracking, Controller-Input, VR-App-Entwicklung und Deployment
+		- Einstiegswissen Audiotechnik:
+			- [Stereophone Musikaufnahme](https://www.oth-aw.de/apps/stereo-mikrofonierung/index.html)
+		- Einstiegswissen Videotechnik:
+			- «tbd»
+		- Einstiegswissen AR/VR-App-Dev:
+			- Siehe Abschnitt "Gaming/Game-Engines/3D"
+
 
 #### DevOps / Production Systems
 
@@ -1264,12 +1279,13 @@ Internet Ikonen:
 		- (€:) Buch [Linked Data A Geographic Perspective](https://www.amazon.de/dp/0367866544) (2019) von Hart & Dolbear
 		- (€:) Buch [Geospatial Semantics and the Semantic Web: Foundations, Algorithms, and Applications](https://www.amazon.de/dp/1441994459) (2011) von Ashish & Sheth
 		- (€:) Buch [Geospatial Semantic Web](https://www.amazon.de/dp/3319378392/) (2016) von Zhang, Zhao & Li
-	- Nennenswerte öffentliche Knowledge Graphs:
+	- Nennenswerte öffentliche Knowledge Graphs / Gigantic Global Graph (GGG):
 		- Open Data: **[wikidata.org](https://www.wikidata.org/)**, **[DBpedia](https://wiki.dbpedia.org/)**, **[WordNet](https://wordnet.princeton.edu/)**, **[Geonames](https://www.geonames.org/)**, …, **[FactGrid](https://database.factgrid.de)**, **[EoE](https://editors.eol.org/eoearth/wiki/The_Encyclopedia_of_Earth)**, …
-		- Linked Open Data: **[YAGO](https://yago-knowledge.org/)**, **[FactForge.net](http://factforge.net/)**, …, **[LOV](https://lov.linkeddata.es/dataset/lov/)**, [**Getty** Vocabularies](https://vocab.getty.edu/), …
+		- Linked Open Data (LOD): **[YAGO](https://yago-knowledge.org/)**, **[FactForge.net](http://factforge.net/)**, …, **[LOV](https://lov.linkeddata.es/dataset/lov/)**, [**Getty** Vocabularies](https://vocab.getty.edu/), …
 		- [**Google** knowledge graph](https://blog.google/products/search/introducing-knowledge-graph-things-not/), [**Amazon**’s product graph](https://www.amazon.science/blog/building-product-graphs-automatically), etc.
 		- **[golden.com](https://golden.com/query/)**: Wirtschaftsunternehmen, Organisationen, Finanzen, uvm.
 		- **[Notable People](https://tjukanovt.GitHub.io/notable-people)** World Map
+	- Querbezug: Das Semantic Web (GGG/LOD) ist Grundbaustein des Metaversums
 - Graphdatenbanksysteme
 	- Buch [**Graph Databases For Dummies**, Neo4j Special Edition](https://neo4j.com/graph-databases-for-dummies/) (2020) von Webber & van Bruggen
 	- Artikel [RDF Triple Stores vs. **Labeled Property Graphs**: What’s the Difference?](https://neo4j.com/blog/rdf-triple-store-vs-labeled-property-graph-difference/) (2017) von Neo4j
