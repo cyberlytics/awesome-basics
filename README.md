@@ -575,18 +575,26 @@ Werkzeuge:
 			- Edge: Karim Arabi beschrieb Edge Computing in einer [IEEE DAC 2014 Keynote](https://web.archive.org/web/20200730234708/http://www2.dac.com/events/videoarchive.aspx?confid=170&filter=keynote&id=170-103--0&#video) (relativ allgemein und nur in Gegenüberstellung zur Cloud)
 			- Webartikel [What is **Edge Computing**: The Network Edge Explained](https://www.cloudwards.net/what-is-edge-computing/) (2018) von Eric Hamilton („The network edge depends on use case. It could be a cell tower, a smartphone, an IoT device or a self-driving car.“ Oder **[CDNs](https://people.cs.umass.edu/~ramesh/Site/PUBLICATIONS_files/DMPPSW02.pdf)** wie Akamai oder Cloudflare, etc. pp.)
 - CyberSpace / Metaverse
-	- AR/VR:
+	- AR/VR/XR:
 		- Eindordnungsskizze:
 			- Audio: Atmos, DTS:X, Ambisonics, Spatial Audio, 5.4/7.4/...-Surround-Formate, Mehrkanal-FLAC, ...
 			- Video: BD3D/MVC, VR180/VR360, stereoskopische Kameras, 360-Grad-Action-Kameras (ggf. in Verbindung mit Drohen)
-			- App-Dev: OpenXR/OpenVR, API vs. Runtime, SteamVR, Tracking, Controller-Input, VR-App-Entwicklung und Deployment
+			- App-Dev: OpenXR/OpenVR, API vs. Runtime, SteamVR, WebXR, Tracking, Controller-Input, VR-App-Entwicklung und Deployment]
 		- Einstiegswissen Audiotechnik:
-			- [Stereophone Musikaufnahme](https://www.oth-aw.de/apps/stereo-mikrofonierung/index.html)
+			- [Stereophone Musikaufnahmen](https://www.oth-aw.de/apps/stereo-mikrofonierung/index.html) aka Stereo-Mikrofonierung
 		- Einstiegswissen Videotechnik:
 			- «tbd»
 		- Einstiegswissen AR/VR-App-Dev:
 			- Siehe Abschnitt "Gaming/Game-Engines/3D"
-
+			- Bestes AR/VR-Headset für Eigenentwicklungen/Einstieg? Das chinesiche [PICO](https://www.picoxr.com/de) Headset ⭐, wegen der niedrigen Nebenkosten bei der App-Entwicklung. Insbesondere für das Enterprise-Umfeld!
+			- Vibe Coding Hinweise: siehe [Schwesterseite](https://github.com/cyberlytics/awesome-6GL#vibe-coding-werkzeuge)
+			- 3D-Punktwolken visualisieren bzw. Image compressor: [Gaussian Splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) (echtzeitfähig und genau; Holografie für die Massen), dabei eher nur statische Objekte, aber per [4D Gaussian Splatting](https://guanjunwu.github.io/4dgs/index.html) (4DGS) auch Ansätze für dynamische Szenen
+		- Einstiegswissen WebXR:
+			- Entwicklungsumgebungen/Bibliotheken:
+				- Mächtig: [Three.js](https://threejsresources.com/vr) ⭐ ([Playground](https://compilebytes.com/tools/threejs), [Editor](https://threejs.org/editor/)) und [Babylon.js](https://doc.babylonjs.com/features/featuresDeepDive/webXR/webXRARFeatures) ([Playground](https://playground.babylonjs.com/))
+				- Einstiegsfreundlich: [A-Frame](https://aframe.io/) (aber per Vibe Coding auch bspw. Three.js: [naiver Beispielprompt](https://www.perplexity.ai/search/new?q=ein+minimalistisches+Three.js-WebXR-Projekt+mit+Vite+erstellen%2C+das+direkt+auf+einer+Meta+Quest+läuft+–+inklusive+npm+install%2C+VR-Button+und+einer+interaktiven+Box))
+		- Educational Technology vs. AR/VR:
+			- No-Code-Plattform zur AR/VR-Training-Content-Creation: deutsche [3spin Learning](https://www.3spin-learning.com/de/) sowie niederländische [Warp VR](https://www.warpvr.com/) (mit [kostenloser Edu-Lizenzoption](https://www.warpvr.com/pricing))
 
 #### DevOps / Production Systems
 
