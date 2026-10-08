@@ -1520,6 +1520,7 @@ Internet Ikonen:
 	- [Asymmetrically Dominated Choice](https://thedecisionlab.com/reference-guide/psychology/asymmetrically-dominated-choice)
 	- [Loss Aversion](https://thedecisionlab.com/biases/loss-aversion)
 	- [Decoy Effect](https://thedecisionlab.com/biases/decoy-effect)
+	- [Survivorship Bias](https://thedecisionlab.com/biases/survivorship-bias): successful subgroup is mistaken as the entire group, due to the invisibility of the failure subgroup
 - Change-Management
 	- Webartikel [10 Tipps zur wirksamen Transformation im Mittelstand](https://intrinsify.de/thema/transformation-im-mittelstand/) von Mark Poppenborg
 	- intrinsify-Leseliste
@@ -2192,6 +2193,10 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 - Vorlesungen: **[Edukatico » Vorlesungsvideo](https://www.edukatico.org/de/online-kurse/informatik-edv?form=2)** | [tele-TASK](https://www.tele-task.de/) des HPI | **[Awesome Courses](https://github.com/prakhar1989/awesome-courses)**
 	- Zugriffsgesichert: [FAU.tv](https://www.fau.tv/)
 - MOOCs: **[MOOC-List](https://www.mooc-list.com/)** | **[mooc.house](https://mooc.house/courses)**
+
+## Schwesterseiten
+
+Es gibt von mir weitere Schwesterseiten im Kontext Informatik/KI: [Schulische Vorbildung Informatik/KI](https://github.com/cyberlytics/awesome-cs-kids), [Abschlussarbeiten Informatik/KI](https://github.com/cyberlytics/awesome-thesis-tools), [Werkzeuge » Software-Engineering](https://github.com/cyberlytics/awesome-software-engineering-tools), [Werkzeuge » Big Data und Cloud Computing für AI](https://github.com/cyberlytics/awesome-bdccai-tools) und [Agentic Engineering](https://github.com/cyberlytics/awesome-6GL).
 
 ## Footer
 
