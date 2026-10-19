@@ -1815,8 +1815,13 @@ Internet Ikonen:
 			- Akademischer Rat: [A13](https://oeffentlicher-dienst.info/beamte/by/) (nicht weisungsfrei; normaler Beamter); Option auf akadem. Oberrat mit A14
 			- Privathochschulprofessur: Keine Verbeamtung, Angestelltenverhältnis; Gehalt ist orientiert an W2-Besoldung, vgl. Kununu
 			- Forschungseinrichtungen (bspw. wie [Fraunhofer-Institute](https://www.fraunhofer.de/en/jobs-and-career.html) oder [NIM](https://www.nim.org/jobs) in Nürnberg): Angestelltenverhältnis; vgl. Kununu
-- Berufungsverfahren
-	- [**Handbuch** Studentische Mitwirkung in **Berufungskommissionen**](https://file.komapedia.org/Bkhandbuch_v2.pdf), v2, des Fachschaftsrat Mathematik an der TU Chemnitz
+- Berufungsverfahren (insb. deutsche Fachhochschule, Bereich Informatik oder KI)
+	- Vorsingen / Probevorlesung
+		- Einstieg: [Aufbau, Didaktik, Praxisbezug](https://www.perplexity.ai/search/new?q=Worauf+sollte+ich+bei+der+Ausarbeitung+einer+Probevorlesung+für+eine+Professur+im+Bereich+Informatik+oder+KI+an+einer+deutschen+Fachhochschule+achten%3F) ⭐ sowie [Häufige Fehler](https://www.perplexity.ai/search/new?q=Was+sind+häufige+Fehler+bei+einer+Probevorlesung+für+eine+Professur+im+Bereich+Informatik+oder+KI+an+einer+deutschen+Fachhochschule%3F) ⭐
+		- Typische Fragen nach der Präsentation: ⭐
+			- "Wie würde eine Übungseinheit zur Vorlesung aussehen?"
+			- [Weitere Beispielfragen](https://www.perplexity.ai/search/new?q=Was+sind+typische+Fragen+nach+einer+Probevorlesung+für+eine+Professur+im+Bereich+Informatik+oder+KI+an+einer+deutschen+Fachhochschule+zum+inhalt+der+Präsentation%3F+Beispiel%3A+Wie+würde+eine+Übungseinheit+zur+Vorlesung+aussehen%3F)
+	- Hintergrundwissen: ⭐ [**Handbuch** Studentische Mitwirkung in **Berufungskommissionen**](https://file.komapedia.org/Bkhandbuch_v2.pdf), v2, des Fachschaftsrat Mathematik an der TU Chemnitz
 - Verbände
 	- (für Professoren und Post-Docs)
 	- [**hochschulverband**.de](https://www.hochschulverband.de/) = Deutschen Hochschulverband (DHV), v.a. Universitätsprofessoren aber auch Habilitierte
