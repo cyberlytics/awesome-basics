@@ -1550,6 +1550,7 @@ Internet Ikonen:
 	- Top-Themen, die **von Anfängern maßlos unterschätzt** werden:
 		- ⚠️ 1. **Zeit** ([ISO 8602](https://en.wikipedia.org/wiki/ISO_8601); [Joda-Time Dokumentation](https://www.joda.org/joda-time/index.html); Video [Leap Seconds](https://www.youtube.com/watch?v=1E5GKh1OUoY); Timescales/[TAI-UT1](https://stjarnhimlen.se/comp/time.html))
 		- ⚠️ 2. **Internationalisierung** (u.a. Character Encodings: [Unicode Lernmaterialien](https://github.com/jagracey/Awesome-Unicode) insbesondere [Unicode-Einstiegsartikel](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/); [UTF-8 Debugging](https://www.i18nqa.com/debug/utf8-debug.html), bspw. [Double Mis-Conversion](https://www.i18nqa.com/debug/bug-double-conversion.html))
+		- Plus meine Variation von [Phil Karlton](https://www.karlton.org/2017/12/naming-things-hard/): ⚠️ "There are only two hard things in computer science: 0. cache invalidation, 1. naming things, 1. [off-by-1 errors](https://x.com/secretGeek/status/7269997868), and 2. printing"
 	- Die **modernen Reiter der Apokalypse in der Aufbauorganisation**
 		- ⚠️ 1. **Verantwortungsvakuum**
 		- ⚠️ 2. **Mangelverwaltung**
