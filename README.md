@@ -68,6 +68,29 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Schulisc
 
 <!-- tocstop -->
 
+## Ethik
+
+KI und Gesellschaft:
+
+- Standardwerk (€:) [AI Ethics](https://mitpress.mit.edu/9780262538190/ai-ethics/) (2020) von Mark Coeckelbergh
+- Deutsches Open Access Buch [Künstliche Intelligenz und Wir](https://link.springer.com/book/10.1007/978-3-662-71567-3) (2025)
+
+Informatik und Gesellschaft:
+
+- Historisches Standardwerk [Computer Power and Human Reason: From Judgment to Calculation](https://archive.org/details/computerpowerhum0000weiz_v0i3) (1976) von Joseph Weizenbaum
+- Standardwerk (€:) [The Ethics of Information](https://academic.oup.com/book/35378) (2013) von Luciano Floridi
+- Zeitungsbeitrag [Informatik und Verantwortung](https://www.sueddeutsche.de/politik/informatik-und-verantwortung-es-gibt-wichtigeres-als-apps-fuer-hundehaufen-1.4207887) (2018)
+
+Richtlinien:
+
+- DE: [GI Ethische Leitlinien](https://gi.de/ueber-uns/organisation/unsere-ethischen-leitlinien) (2018)
+- Hochschullehre:
+	- DE: Schwartmann, Kurth und Köhler: [Der Einsatz von KI an Hochschulen – eine rechtliche Betrachtung, Ordnung der Wissenschaft (3) 2024](https://ordnungderwissenschaft.de/wp-content/uploads/2024/06/Gesamtausgabe.pdf). S. 161-168.
+	- BY: [KI-Leitlinie Hochschullehre](https://www.hochschule-bayern.de/fileadmin/daten/Positionspapiere/KI-Leitlinie_Hochschule-Bayern-19052025.pdf) (2025)
+	- OTH-AW: [KI-Richtlinie OTH Amberg-Weiden](https://www.oth-aw.de/files/oth-aw/Hochschule/KI-Richtlinie_Studium-Lehre-Forschung.pdf)
+- Verwaltung:
+	- BY: [KI-Leitfaden für Behörden](https://www.stmfh.bayern.de/digitalisierung/ki/KI-Leitfaden_Behoerden_2025.pdf) (2025)
+
 ## Bachelor-Level
 
 \[ Vor einem Masterstudium (Informatik/KI) / Zum Ausgleich **heterogener Vorkenntnisse aus dem Bachelorstudium**. \]
@@ -707,8 +730,8 @@ Werkzeuge:
 
 #### AI
 
-- KI und Gesellschaft
-	- Buch [Künstliche Intelligenz und Wir](https://link.springer.com/book/10.1007/978-3-662-71567-3)
+- Einführung:
+	- Video [Is AI Like Us And Will It Like Us?](https://www.youtube.com/watch?v=TNffIt8eRb0) (2026) von Geoffrey Hinton
 - **Symbolische** Künstliche Intelligenz {Klassische KI}
 	- vgl. Abschnitte oben "Logik" sowie "Logikprogrammierung und Maschinengestütztes Beweisen"
 	- vgl. Abschnitt oben "Semantic Web / Wissensrepräsentation" (u.a. Ontologien, Knowledge Graphs)
@@ -2114,6 +2137,41 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 - Hörspiele
 	- **[Professor van Dusen](https://www.hoerspielundfeature.de/van-dusen-krimis-100.html)** von Michael Koser ⭐
 	- **[Jonas - Der letzte Detektiv](http://pirg.bplaced.net/pvd/dld/)** von Michael Koser ⭐ / [Jonas. Nur Jonas. Und Sam.](https://www.jonas-nur-jonas-und-sam.de/) von Kanzlei Dr. Bahr
+
+Comic-Auswahl:
+
+- Softwareentwicklung
+	-[XKCD#303 – Compiling](https://xkcd.com/303/) ([explanation](https://www.explainxkcd.com/wiki/index.php/303:_Compiling))
+	-[XKCD#1172 – Workflow](https://xkcd.com/1172/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1172:_Workflow))
+	-[XKCD#1205 – Is It Worth the Time?](https://xkcd.com/1205/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1205:_Is_It_Worth_the_Time%3F))
+	-[XKCD#1425 – Tasks](https://xkcd.com/1425/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1425:_Tasks))
+	-[XKCD#1513 – Code Quality](https://xkcd.com/1513/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1513:_Code_Quality))
+	-[XKCD#1739 – Fixing Problems](https://xkcd.com/1739/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1739:_Fixing_Problems))
+	-[XKCD#1926 – Bad Code](https://xkcd.com/1926/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1926:_Bad_Code))
+	-[XKCD#2021 – Software Development](https://xkcd.com/2021/) ([explanation](https://www.explainxkcd.com/wiki/index.php/2021:_Software_Development))
+- Sicherheit und Kryptografie
+	- [XKCD#327 – Exploits of a Mom](https://xkcd.com/327/) ([explanation](https://www.explainxkcd.com/wiki/index.php/327:_Exploits_of_a_Mom))
+	- [XKCD#538 – Security](https://xkcd.com/538/) ([explanation](https://www.explainxkcd.com/wiki/index.php/538:_Security))
+	- [XKCD#936 – Password Strength](https://xkcd.com/936/) ([explanation](https://www.explainxkcd.com/wiki/index.php/936:_Password_Strength))
+	- [XKCD#1553 – Public Key](https://xkcd.com/1553/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1553:_Public_Key))
+- Informatik-Grundlagen und Algorithmen
+	- [XKCD#287 – NP-Complete](https://xkcd.com/287/) ([explanation](https://www.explainxkcd.com/wiki/index.php/287:_NP-Complete))
+	- [XKCD#1185 – Ineffective Sorts](https://xkcd.com/1185/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1185:_Ineffective_Sorts))
+	- [XKCD#1266 – Halting Problem](https://xkcd.com/1266/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1266:_Halting_Problem))
+	- [XKCD#1667 – Algorithms](https://xkcd.com/1667/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1667:_Algorithms))
+- Architektur, Standards und verteilte Systeme
+	- [XKCD#927 – Standards](https://xkcd.com/927/) ([explanation](https://www.explainxkcd.com/wiki/index.php/927:_Standards))
+	- [XKCD#1323 – Protocol](https://xkcd.com/1323/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1323:_Protocol))
+	- [XKCD#2315 – Eventual Consistency](https://xkcd.com/2315/) ([explanation](https://www.explainxkcd.com/wiki/index.php/2315:_Eventual_Consistency))
+	- [XKCD#2347 – Dependency](https://xkcd.com/2347/) ([explanation](https://www.explainxkcd.com/wiki/index.php/2347:_Dependency))
+- IT-Kultur und Werkzeuge
+	- [XKCD#149 – Sandwich](https://xkcd.com/149/) ([explanation](https://www.explainxkcd.com/wiki/index.php/149:_Sandwich))
+	- [XKCD#353 – Python](https://xkcd.com/353/) ([explanation](https://www.explainxkcd.com/wiki/index.php/353:_Python))
+	- [XKCD#378 – Real Programmers](https://xkcd.com/378/) ([explanation](https://www.explainxkcd.com/wiki/index.php/378:_Real_Programmers))
+	- [XKCD#386 – Duty Calls](https://xkcd.com/386/) ([explanation](https://www.explainxkcd.com/wiki/index.php/386:_Duty_Calls))
+	- [XKCD#1597 – Git](https://xkcd.com/1597/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1597:_Git))
+	- [XKCD#1987 – Python Environment](https://xkcd.com/1987/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1987:_Python_Environment))
+	- [XKCD#2697 – Y2K and 2038](https://xkcd.com/2697/) ([explanation](https://www.explainxkcd.com/wiki/index.php/2697:_Y2K_and_2038))
 
 ## Kultur
 
