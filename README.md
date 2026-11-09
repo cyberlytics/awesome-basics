@@ -2141,14 +2141,14 @@ Spezialthema: KI-Ängste? Großer popkultureller Fundus!
 Comic-Auswahl:
 
 - Softwareentwicklung
-	-[XKCD#303 – Compiling](https://xkcd.com/303/) ([explanation](https://www.explainxkcd.com/wiki/index.php/303:_Compiling))
-	-[XKCD#1172 – Workflow](https://xkcd.com/1172/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1172:_Workflow))
-	-[XKCD#1205 – Is It Worth the Time?](https://xkcd.com/1205/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1205:_Is_It_Worth_the_Time%3F))
-	-[XKCD#1425 – Tasks](https://xkcd.com/1425/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1425:_Tasks))
-	-[XKCD#1513 – Code Quality](https://xkcd.com/1513/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1513:_Code_Quality))
-	-[XKCD#1739 – Fixing Problems](https://xkcd.com/1739/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1739:_Fixing_Problems))
-	-[XKCD#1926 – Bad Code](https://xkcd.com/1926/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1926:_Bad_Code))
-	-[XKCD#2021 – Software Development](https://xkcd.com/2021/) ([explanation](https://www.explainxkcd.com/wiki/index.php/2021:_Software_Development))
+	- [XKCD#303 – Compiling](https://xkcd.com/303/) ([explanation](https://www.explainxkcd.com/wiki/index.php/303:_Compiling))
+	- [XKCD#1172 – Workflow](https://xkcd.com/1172/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1172:_Workflow))
+	- [XKCD#1205 – Is It Worth the Time?](https://xkcd.com/1205/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1205:_Is_It_Worth_the_Time%3F))
+	- [XKCD#1425 – Tasks](https://xkcd.com/1425/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1425:_Tasks))
+	- [XKCD#1513 – Code Quality](https://xkcd.com/1513/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1513:_Code_Quality))
+	- [XKCD#1739 – Fixing Problems](https://xkcd.com/1739/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1739:_Fixing_Problems))
+	- [XKCD#1926 – Bad Code](https://xkcd.com/1926/) ([explanation](https://www.explainxkcd.com/wiki/index.php/1926:_Bad_Code))
+	- [XKCD#2021 – Software Development](https://xkcd.com/2021/) ([explanation](https://www.explainxkcd.com/wiki/index.php/2021:_Software_Development))
 - Sicherheit und Kryptografie
 	- [XKCD#327 – Exploits of a Mom](https://xkcd.com/327/) ([explanation](https://www.explainxkcd.com/wiki/index.php/327:_Exploits_of_a_Mom))
 	- [XKCD#538 – Security](https://xkcd.com/538/) ([explanation](https://www.explainxkcd.com/wiki/index.php/538:_Security))
