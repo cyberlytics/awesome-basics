@@ -25,6 +25,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Schulisc
 
 <!-- toc -->
 
+- [Ethik](#ethik)
 - [Bachelor-Level](#bachelor-level)
   - [Fundament](#fundament)
   - [Bachelor Informatik/KI](#bachelor-informatikki)
@@ -60,6 +61,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Schulisc
 - [Öffentlichkeitsarbeit](#offentlichkeitsarbeit)
 - [Job-Interview Training](#job-interview-training)
 - [Appendix: Course Recommendations & Repos](#appendix-course-recommendations--repos)
+- [Schwesterseiten](#schwesterseiten)
 - [Footer](#footer)
   - [Future Work](#future-work)
   - [Contribute](#contribute)
