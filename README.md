@@ -306,10 +306,10 @@ Werkzeuge:
 	- Refactoring: (€) Buch [**Refactoring**: Improving the Design of Existing Code](https://www.amazon.de/dp/0134757599/) (2018) von Martin Fowler
 	- Code Reviews: Webartikel [Unpacking the Truth of Peer Reviews in the Software Industry](https://leadshorizons.com/p/unpacking-the-truth-of-peer-reviews) | [How to Give Code Reviews Without Getting Burned](https://akoskm.substack.com/p/how-to-give-code-reviews-without)
 	- Edutainment: Vortrag [Antipatterns und Missverständnisse in der Softwareentwicklung](https://www.youtube.com/watch?v=E0_Y53ci9cw) (2017) von Felix von Leitner, genannt fefe
-	- Model-Driven: [Shlaer-Mellor](https://en.wikipedia.org/wiki/Shlaer%E2%80%93Mellor_method) (vs. the Three Amigos) | [Executable UML](https://en.wikipedia.org/wiki/Executable_UML) ([Tools](https://modeling-languages.com/list-of-executable-uml-tools/)) |… | [Awesome MDE](https://github.com/S2-group/awesome-mde)
+	- Model-Driven Engineering: [Shlaer-Mellor](https://en.wikipedia.org/wiki/Shlaer%E2%80%93Mellor_method) (vs. the Three Amigos) | [Executable UML](https://en.wikipedia.org/wiki/Executable_UML) ([Tools](https://modeling-languages.com/list-of-executable-uml-tools/)) |… | [Awesome MDE](https://github.com/S2-group/awesome-mde)
 		- Term Variations: Model-Driven Software-Development (MDSD) / MD Architecture (MDA) / MD Design (MDD) / MD Engineering (MDE) / Round-Trip Engineering (RTE)
-		- Remark: Model-Driven can be really complex (Round-Trip Support) or relatively simple (Code Generation)
-- Anforderungsmanagement Einstieg
+		- Remark: Model-Driven Engineering can be really complex (Round-Trip Support) or relatively simple (Code Generation)
+- Anforderungsmanagement Einstieg / Requirements Engineering:
 	- Praktische Einführung: [Principles of Requirements Engineering or Requirements Management 101](https://www.inflectra.com/Ideas/Whitepaper/Principles-of-Requirements-Engineering.aspx) (2024) von Adam M. Sandman
 	- Traditionell: [**CPRE** Foundation Level – Handbuch nach dem **IREB**-Standard](https://www.ireb.org/content/downloads/3-cpre-foundation-level-handbook/cpre_foundationlevel_handbook_de_v1.0.pdf)
 		- Broschüre [Requirements Engineering » Ein Überblick](https://docplayer.org/6915991-Requirements-engineering-ein-ueberblick.html) (3. Auflage, 2012) von Christine Rupp \[Es gab auch eine 4. Auflage, zusammen mit Klaus Pohl\]
@@ -1194,7 +1194,8 @@ Internet Ikonen:
 		- [The System Design Primer](https://github.com/donnemartin/system-design-primer/tree/master#system-design-interview-questions-with-solutions): Pastebin.com or URL-Shortener, Twitter or Facebook timeline and search, Web Crawler, Mint.com, data structures for a social network, key-value store for a search engine, Amazon sales ranking
 		- [ByteByteGo System Design Interview](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users): Rate Limiter, Consistent Hashing, Key-value Store, URL-Shortener, Web Crawler, News Feed System, Chat System, YouTube, Hotel Reservation System, Real-time Gaming Leaderboard
 - Testing für Fortgeschrittene
-	- TDD: (€) Buch [**Test-Driven Development**: By Example](https://www.amazon.de/dp/0321146530/) von Kent Beck
+	- Test-Driven Development (TDD): (€) Buch [**Test-Driven Development**: By Example](https://www.amazon.de/dp/0321146530/) von Kent Beck
+	- Behavior-Driven Development (BDD): Paper [Behaviour driven development: A systematic mapping study](https://www.sciencedirect.com/science/article/pii/S0164121223001449)
 	- Agiles Testen: [Syllabus der ISTQB **Agile Tester**](http://www.german-testing-board.info/wp-content/uploads/2016/07/Certified-Tester-Foundation-Level-Extension-Syllabus-Agile-Tester-%E2%80%93-Deutsch.pdf) Schulung/Zertifizierung
 	- Modell-basiertes Testen: [Syllabus der ISTQB Model-based Tester](https://astqb.org/assets/documents/MBT-Syllabus-2015-GA.pdf) Schulung/Zertifizierung
 	- ArchUnit: [Automatisierte Architekturprüfungen mit **ArchUnit** – Praxiswissen](https://blog.viadee.de/archunit-praxiswissen)
@@ -1211,7 +1212,7 @@ Internet Ikonen:
 		- (€:) Buch **[PMP Exam Prep](https://www.amazon.de/dp/1943704279/)** von Rita Mulcahy ⭐
 		- Projektvorgehen nach **[V-Modell XT](http://ftp.tu-clausthal.de/pub/institute/informatik/v-modell-xt/Releases/2.2/V-Modell-XT-Gesamt.pdf)**
 	- Interkulturell: [IAPM **International** Project Management Guide 2.0](https://www.iapm-cert.net/documents/international-pm-guide-en.pdf)
-- Anforderungsmanagement für Fortgeschrittene
+- Anforderungsmanagement für Fortgeschrittene / Requirements Engineering
 	- Traditionell:
 		- (€:) Buch **[Basiswissen Requirements Engineering](https://www.amazon.de/dp/3864908140/)** (konform zu IREB) ⭐ von Klaus Pohl und Christine Rupp
 		- (€:) Buch [**BABOK**© Guide](https://www.amazon.de/dp/1927584027/)
